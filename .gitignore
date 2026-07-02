@@ -14,8 +14,9 @@ env/
 # Outputs and caches
 outputs/
 *.png
-!title-figure.png
-!teaser-hq.png
+!assets/
+!assets/title-figure.png
+!assets/teaser-hq.png
 *.jpg
 *.jpeg
 *.webp

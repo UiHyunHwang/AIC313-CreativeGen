@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="title-figure.png" alt="PhotoQuilt" width="720"/>
+  <img src="assets/title-figure.png" alt="PhotoQuilt" width="720"/>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 **PhotoQuilt** is a training-free framework for generating photomosaics at arbitrary resolution. A low-resolution bootstrap pass fixes the global layout; the latent canvas is upscaled and re-noised; denoising then proceeds in fixed tiles so each region becomes its own convincing image while the overall scene stays coherent.
 
 <p align="center">
-  <img src="teaser-hq.png" alt="PhotoQuilt teaser" width="900"/>
+  <img src="assets/teaser-hq.png" alt="PhotoQuilt teaser" width="900"/>
 </p>
 
 ## Installation
