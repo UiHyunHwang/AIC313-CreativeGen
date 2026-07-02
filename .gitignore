@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.so
+.Python
+.venv/
+venv/
+env/
+
+# Outputs and caches
+outputs/
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*.swo
+
+# Hugging Face / model caches (local only)
+.cache/
+huggingface/
+
+# Slurm / cluster logs
+*.out
+*.err
+slurm-*.out
+
+*.sh
