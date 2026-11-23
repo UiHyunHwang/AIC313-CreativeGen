@@ -1,0 +1,10 @@
+{
+  "index": 250,
+  "file": "thor/r16_c11.safetensors",
+  "seed": 9495250,
+  "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground among storm-blue steel columns, cinematic still, directional light and deep shadows",
+  "scene": true,
+  "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+  "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+  "sha256": "69ff951c9ba7a90f5e4ca5db4708b166096c6c5875b95da356f80a6d41bfc4bf"
+}

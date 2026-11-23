@@ -1,0 +1,32 @@
+{
+  "spider_man": {
+    "First 16 x 16": {
+      "outer_cells": 156,
+      "pale_neutral_outer_cells": 0
+    },
+    "Scene lighting": {
+      "outer_cells": 156,
+      "pale_neutral_outer_cells": 0
+    }
+  },
+  "iron_man": {
+    "First 16 x 16": {
+      "outer_cells": 156,
+      "pale_neutral_outer_cells": 59
+    },
+    "Scene lighting": {
+      "outer_cells": 156,
+      "pale_neutral_outer_cells": 0
+    }
+  },
+  "captain_america": {
+    "First 16 x 16": {
+      "outer_cells": 156,
+      "pale_neutral_outer_cells": 2
+    },
+    "Scene lighting": {
+      "outer_cells": 156,
+      "pale_neutral_outer_cells": 2
+    }
+  }
+}

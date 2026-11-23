@@ -1,0 +1,10 @@
+{
+  "index": 125,
+  "file": "spider_man/r08_c14.safetensors",
+  "seed": 9364125,
+  "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+  "scene": false,
+  "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+  "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+  "sha256": "bcc179029393288ab36f5ed5c58b2c67dd29483f5fa4c2f87dc24d3b833484e2"
+}

@@ -1,0 +1,2568 @@
+{
+  "subject": "thor",
+  "leaf": "captain_america",
+  "target": "outward_thor16/portraits/thor_9253101.png",
+  "directory": "outward_thor16",
+  "tiles": [
+    {
+      "index": 0,
+      "file": "thor/r01_c01.png",
+      "seed": 9255000,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "380f0c0c9d2ade9af6f8ef9006c92956789c07ce09d98ec227d70bed89b5346d"
+    },
+    {
+      "index": 1,
+      "file": "thor/r01_c02.png",
+      "seed": 9255001,
+      "prompt": "Captain America running with his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "d7663c2e07183136d137fabdd3e69ad570beab45d6089d7e5e32c043a5773821"
+    },
+    {
+      "index": 2,
+      "file": "thor/r01_c03.png",
+      "seed": 9255002,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "027e2f3d65f97f4dfec0770ad0425f061860b61354e10988d290094e0a2fc2c2"
+    },
+    {
+      "index": 3,
+      "file": "thor/r01_c04.png",
+      "seed": 9255003,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "d9d1f6adcd37617e923fbf89b07c8036f383d33155e5815836ec1212d846a6d1"
+    },
+    {
+      "index": 4,
+      "file": "thor/r01_c05.png",
+      "seed": 9255004,
+      "prompt": "Captain America running with his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "5bd360bddf6dc125894808606815e0ccc4938ce97be8606ac9cec695c3660680"
+    },
+    {
+      "index": 5,
+      "file": "thor/r01_c06.png",
+      "seed": 9255005,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "3ab6742738e21eab9b66fa53cc23c31932339b866ef59d5bcc937f652c44edbd"
+    },
+    {
+      "index": 6,
+      "file": "thor/r01_c07.png",
+      "seed": 9255006,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "cdd9f23176cbf747760b8c9fedfe307a97a4d1af5b6bb445c3e20cd5897d9768"
+    },
+    {
+      "index": 7,
+      "file": "thor/r01_c08.png",
+      "seed": 9255007,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "afaf24e027accd10d4c904b25f3fb8980d7a3db16da67c575508a1f3c1067b97"
+    },
+    {
+      "index": 8,
+      "file": "thor/r01_c09.png",
+      "seed": 9255008,
+      "prompt": "Captain America in a blue helmet, waist-up, soft silver light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "8ea1d22c47f7c0ace52291cb453398e229e227a45467bc93f9c7c4be2a9b8ae3"
+    },
+    {
+      "index": 9,
+      "file": "thor/r01_c10.png",
+      "seed": 9255009,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "41f55d8835087a8b8d3366c26be58fd05bde6670313b6e39c1abcdabfdc1212c"
+    },
+    {
+      "index": 10,
+      "file": "thor/r01_c11.png",
+      "seed": 9255010,
+      "prompt": "Captain America running with his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "41e499490d0268ae4830837f720bfb1cf158665078f4d4bf1f2f2676b6f16552"
+    },
+    {
+      "index": 11,
+      "file": "thor/r01_c12.png",
+      "seed": 9255011,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "1d75e11b89b8bc1b967b44dce8d30d7a003c7271355f10123ca4c3315e8496cf"
+    },
+    {
+      "index": 12,
+      "file": "thor/r01_c13.png",
+      "seed": 9255012,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "7b5f4366a6bcb3b7dd4bdacbce5a87a56e439d19f3aaabcbf5513738de910406"
+    },
+    {
+      "index": 13,
+      "file": "thor/r01_c14.png",
+      "seed": 9255013,
+      "prompt": "Captain America running with his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "e7a5636c4d3fb1b280d32eaf891040518a35237949805807a638fefc92c4e9e1"
+    },
+    {
+      "index": 14,
+      "file": "thor/r01_c15.png",
+      "seed": 9255014,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "52466ecf7959ec2cef2494ae20397e0d5b9b5760b44422561c7a5e786d215dfd"
+    },
+    {
+      "index": 15,
+      "file": "thor/r01_c16.png",
+      "seed": 9255015,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "da40bb765c7cd66866c163d1deb32ab292f2482368b482f6e1729de1b8ec3775"
+    },
+    {
+      "index": 16,
+      "file": "thor/r02_c01.png",
+      "seed": 9255016,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "a62cadd9264657d6f884d55a907cc4bea44299a2db99cea31317cab1944ff904"
+    },
+    {
+      "index": 17,
+      "file": "thor/r02_c02.png",
+      "seed": 9255017,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "9bc41033375fa585cf06fdc7ff93cb870580534e08d121cc44da54c247b9de1d"
+    },
+    {
+      "index": 18,
+      "file": "thor/r02_c03.png",
+      "seed": 9255018,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "938f26748bb12d6f9f76806c1526abb684a5a077abe9cda39e2b1cc473ed907b"
+    },
+    {
+      "index": 19,
+      "file": "thor/r02_c04.png",
+      "seed": 9255019,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "c7f54349dd319feb844efcab4be78c1ec56363d0d25c5760e600ea03dea64fdc"
+    },
+    {
+      "index": 20,
+      "file": "thor/r02_c05.png",
+      "seed": 9255020,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "f0569ec2066e44268b4439f5d1ee84883043a073a3032e19f0406913ed52a715"
+    },
+    {
+      "index": 21,
+      "file": "thor/r02_c06.png",
+      "seed": 9255021,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "c7296df7227fc4337e1d1e40a1306de119e360a2ee131985ed7355d035003a42"
+    },
+    {
+      "index": 22,
+      "file": "thor/r02_c07.png",
+      "seed": 9255022,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "dbe03915d9e6f97e3fa36492cd451107acad5c563c0f71efcebe9579bd33483c"
+    },
+    {
+      "index": 23,
+      "file": "thor/r02_c08.png",
+      "seed": 9255023,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "c60810c61420b4e784ec55ced65ec287fa3d607f24894ad5e6711c61e4fd1650"
+    },
+    {
+      "index": 24,
+      "file": "thor/r02_c09.png",
+      "seed": 9255024,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "6a06fa30623930b693cc17aa2a17227380c8ff5db596f73041beb8e4b52983e8"
+    },
+    {
+      "index": 25,
+      "file": "thor/r02_c10.png",
+      "seed": 9255025,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "7aba4f2cf03a802e1b34ce4382d8c83cb4b70874b1b6d4d23d07b3921bd79606"
+    },
+    {
+      "index": 26,
+      "file": "thor/r02_c11.png",
+      "seed": 9255026,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "8de0fe46f21ed629c2a5898842f67d96c063686e7d859127a3b586a045f1dddc"
+    },
+    {
+      "index": 27,
+      "file": "thor/r02_c12.png",
+      "seed": 9255027,
+      "prompt": "Captain America running with his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "4fd6cef5eb26f2a41d2d99f49d6f714a4aae158117e2db86fe0526736106c8f7"
+    },
+    {
+      "index": 28,
+      "file": "thor/r02_c13.png",
+      "seed": 9255028,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "d0f7eda341a89e158732925fb581162e75ff1bef26fa1cbbde612b76fb41e9b0"
+    },
+    {
+      "index": 29,
+      "file": "thor/r02_c14.png",
+      "seed": 9255029,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "328087b3bb9e6ec8d55115a2e81278a01d4fdd27647648bc4f166984e518dd10"
+    },
+    {
+      "index": 30,
+      "file": "thor/r02_c15.png",
+      "seed": 9255030,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "1503ac30a974f380aaa85f7561c6a9bda6a1be8ca41d1b1ddb9124cb61cb3e33"
+    },
+    {
+      "index": 31,
+      "file": "thor/r02_c16.png",
+      "seed": 9255031,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "74216fb4e1179fbbed524bed933cce02445045c61f222778b942838c43966207"
+    },
+    {
+      "index": 32,
+      "file": "thor/r03_c01.png",
+      "seed": 9255032,
+      "prompt": "Captain America running with his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "439e9b45967bc6be1c6b46ade6ab08a822e35b29da1ebafe47203dc4c6e9b1d1"
+    },
+    {
+      "index": 33,
+      "file": "thor/r03_c02.png",
+      "seed": 9255033,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "069d796425617ee5946605633f61a951bcf45934b142ef27c417bed935460f09"
+    },
+    {
+      "index": 34,
+      "file": "thor/r03_c03.png",
+      "seed": 9255034,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "b755025c9fc8255fd3635dc15ad46fb043b41c561c5a489f96f3d8275c539e22"
+    },
+    {
+      "index": 35,
+      "file": "thor/r03_c04.png",
+      "seed": 9255035,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "59441ac38bc8f3a224d9d658cc8f9d3f458471d123764ca750b85a43067684a5"
+    },
+    {
+      "index": 36,
+      "file": "thor/r03_c05.png",
+      "seed": 9255036,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "2ae4e52ef0bc566e77e379c3f3335668cc6937e4fd0abf3bf8f038efb84eab58"
+    },
+    {
+      "index": 37,
+      "file": "thor/r03_c06.png",
+      "seed": 9255037,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "e5bcd2a9ff0395e9fadc31ef0087ac08f14c8e4088ec5dade9cbd1d7224579b0"
+    },
+    {
+      "index": 38,
+      "file": "thor/r03_c07.png",
+      "seed": 9255038,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "7a64678288bf7d46f902790d858b209d4ca2c8b50ec2571b6f9a5de4c29a4e30"
+    },
+    {
+      "index": 39,
+      "file": "thor/r03_c08.png",
+      "seed": 9255039,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "6100ac3c17c3ee6d00222000eeb89273916dc2432260e8826d2c28e2594c2420"
+    },
+    {
+      "index": 40,
+      "file": "thor/r03_c09.png",
+      "seed": 9255040,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "fbd009aaf5536373d91267b41215918286f9bd2f38f7d001db2f4c578bee3d19"
+    },
+    {
+      "index": 41,
+      "file": "thor/r03_c10.png",
+      "seed": 9255041,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "f17f5f590a76e5bb45f74802cecba268328bd812c54b8d7a30e08aa1f3cfa8dd"
+    },
+    {
+      "index": 42,
+      "file": "thor/r03_c11.png",
+      "seed": 9255042,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "13d7a37169417526b25a32185053f76ab6d212222251bfe9e64ab4d8312c0140"
+    },
+    {
+      "index": 43,
+      "file": "thor/r03_c12.png",
+      "seed": 9255043,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "1afe3856f1a3040bb57a426ed9e2faefc698230e97d2d5ed062b9e3cf37f02b1"
+    },
+    {
+      "index": 44,
+      "file": "thor/r03_c13.png",
+      "seed": 9255044,
+      "prompt": "Captain America running with his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "993085c892d2b6d039afbcbfa6404bc62881cb04c3a87a3c5df4a8d9c1244dd1"
+    },
+    {
+      "index": 45,
+      "file": "thor/r03_c14.png",
+      "seed": 9255045,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "5fcd04bb31346e3c5ea4dd9b7ddec98d042c735a874f628df97d6cc27e6e50a9"
+    },
+    {
+      "index": 46,
+      "file": "thor/r03_c15.png",
+      "seed": 9255046,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "42d5dcf87cbeb5eba9f12fa579ca8f205e8a7c811499411c7c6b522f3c984979"
+    },
+    {
+      "index": 47,
+      "file": "thor/r03_c16.png",
+      "seed": 9255047,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "036fd19dc480c0a2607ca48fd5a8e6992878ed893844dccbd3152ab51a9eea4d"
+    },
+    {
+      "index": 48,
+      "file": "thor/r04_c01.png",
+      "seed": 9255048,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "0a4bdb5f3445c773901eca28bd3cd3315256a7d1af0e1fc42aa4b3d3f8bf36a1"
+    },
+    {
+      "index": 49,
+      "file": "thor/r04_c02.png",
+      "seed": 9255049,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "74cb8778135be66c54776caf320e859bbfb623068683ccb0f434018cbbeb2b47"
+    },
+    {
+      "index": 50,
+      "file": "thor/r04_c03.png",
+      "seed": 9255050,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "9f0f95af0a5362403d89f59ea24cc0ab84d233c810743050edcbfc1c8a42caf9"
+    },
+    {
+      "index": 51,
+      "file": "thor/r04_c04.png",
+      "seed": 9255051,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "a5cf870ff585b315ad6b23e81e83f64afd409b3eb0d77e18d089f2bb1734c598"
+    },
+    {
+      "index": 52,
+      "file": "thor/r04_c05.png",
+      "seed": 9255052,
+      "prompt": "Captain America running with his shield inside an amber-lit engine hall, copper pipes and shadowed beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "069ef2c04215a10642321c13d9221c9a188664dfe5515735a1f4ca5a648c5cb5"
+    },
+    {
+      "index": 53,
+      "file": "thor/r04_c06.png",
+      "seed": 9255053,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "ac2645b891a340f8ea223fcf2a93954c5d2c008fb5cbc93b3aad83d0caf7a6e9"
+    },
+    {
+      "index": 54,
+      "file": "thor/r04_c07.png",
+      "seed": 9255054,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "b9dfdd273e2a3cb68eceffd8de292cef7a8474129a644d64376f5cabf4524bd9"
+    },
+    {
+      "index": 55,
+      "file": "thor/r04_c08.png",
+      "seed": 9255055,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "ba6ea8083214c54b32acdd505560b7a43a86f0bc04aa99c0fcc0022eae31bf26"
+    },
+    {
+      "index": 56,
+      "file": "thor/r04_c09.png",
+      "seed": 9255056,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "0f1887d063b4225bc1e19231aabd716f84cb8ff2583bbb6dcb5b5c008dd2b193"
+    },
+    {
+      "index": 57,
+      "file": "thor/r04_c10.png",
+      "seed": 9255057,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "26739744bfd86730377771bbb672164ce0521d7c9bf38419c2b64123a21ca846"
+    },
+    {
+      "index": 58,
+      "file": "thor/r04_c11.png",
+      "seed": 9255058,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "8cf7c19a66361fc7c5b5ec53f41abfa2b543cd3bc8535c2aaceb4ce697ed268b"
+    },
+    {
+      "index": 59,
+      "file": "thor/r04_c12.png",
+      "seed": 9255059,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "380df81d776238db08a25442f14a30c27c942e0e19214b9f1a74c08c8c3be083"
+    },
+    {
+      "index": 60,
+      "file": "thor/r04_c13.png",
+      "seed": 9255060,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "f456877832dbb724bd618cb543c1c09c95c591eb747ebb529963a4e3eddb5f77"
+    },
+    {
+      "index": 61,
+      "file": "thor/r04_c14.png",
+      "seed": 9255061,
+      "prompt": "Captain America running with his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "fc54593a9d360730793af35df20cf6d6367a384427f8ccd2b4550738c5432fe7"
+    },
+    {
+      "index": 62,
+      "file": "thor/r04_c15.png",
+      "seed": 9255062,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "8494ffe7aeaaf5b882f25faaeb44ee0315d101614c0dfb89dbee520c3a4aad35"
+    },
+    {
+      "index": 63,
+      "file": "thor/r04_c16.png",
+      "seed": 9255063,
+      "prompt": "Captain America holding his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "5a6995a42c73d60cd186f68ea9641c1bd7de5c91c5569e933778770b6beb8eb8"
+    },
+    {
+      "index": 64,
+      "file": "thor/r05_c01.png",
+      "seed": 9255064,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "60bbd03a5477aa497d7bf3e776ef79e298f4a18c2860d7dbd26bb5437eab2993"
+    },
+    {
+      "index": 65,
+      "file": "thor/r05_c02.png",
+      "seed": 9255065,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "5f93029bf92f1e9101eabe3469134c9b639b1e8b0e5b4857385b97218bb4bdbc"
+    },
+    {
+      "index": 66,
+      "file": "thor/r05_c03.png",
+      "seed": 9255066,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "a8e4a0473f0f2fdf0426916fc278d5001f824b99a5cbbdb5cbcfd02c5386e3e0"
+    },
+    {
+      "index": 67,
+      "file": "thor/r05_c04.png",
+      "seed": 9255067,
+      "prompt": "Captain America in his blue helmet, waist-up in a silver railway depot, windows casting strong diagonal shadows, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "5d5fb96da373efece05e12572aa6025cec8bacda846ef071d48c13629edf0c61"
+    },
+    {
+      "index": 68,
+      "file": "thor/r05_c05.png",
+      "seed": 9255068,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "87f272eda4f7f8a52c791d1a4311c8f76096016fb5cdd20d83c589ffdac7aac9"
+    },
+    {
+      "index": 69,
+      "file": "thor/r05_c06.png",
+      "seed": 9255069,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "aecaef57b9fa2296f386dd4effe1a6cd05a38b88d187202a1c5c990332e2c0e5"
+    },
+    {
+      "index": 70,
+      "file": "thor/r05_c07.png",
+      "seed": 9255070,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "402439a368a490347d1304afc3a803163b76923d91642251901242efc55b0ee8"
+    },
+    {
+      "index": 71,
+      "file": "thor/r05_c08.png",
+      "seed": 9255071,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "628628c0325976d89e34263f426d410abe8ea1636d69e5d24f2982d3fbfa9665"
+    },
+    {
+      "index": 72,
+      "file": "thor/r05_c09.png",
+      "seed": 9255072,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "ebc7856753117991e778de91fdece4e59af68c1de8895122265e2d00715c575b"
+    },
+    {
+      "index": 73,
+      "file": "thor/r05_c10.png",
+      "seed": 9255073,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "804b45aba844a24530b9d1bbc9015ce8dcbd9722e0789d122ab0cd42df23c814"
+    },
+    {
+      "index": 74,
+      "file": "thor/r05_c11.png",
+      "seed": 9255074,
+      "prompt": "Captain America holding his shield, soft silver light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "b92edfd1f951a5570973c9a0a70be9d0cb1d181bf648104d761db8a2137732ac"
+    },
+    {
+      "index": 75,
+      "file": "thor/r05_c12.png",
+      "seed": 9255075,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "ba7ce3806adb5cce5bf8674b8fab2494f166c84c436029ec347b699ff5c10c38"
+    },
+    {
+      "index": 76,
+      "file": "thor/r05_c13.png",
+      "seed": 9255076,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "d566849b8996875b98959f02a6817a2f93bd16235607e20eefc7658f67181f5d"
+    },
+    {
+      "index": 77,
+      "file": "thor/r05_c14.png",
+      "seed": 9255077,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "4f75a191e06cd577038a9f2a1971e2c210fc0e3366274a934d935cca7e93cebe"
+    },
+    {
+      "index": 78,
+      "file": "thor/r05_c15.png",
+      "seed": 9255078,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "1c598cd44f1cabb48028dd635bfecff66b2ae309018cd9feaa7af945e6e47104"
+    },
+    {
+      "index": 79,
+      "file": "thor/r05_c16.png",
+      "seed": 9255079,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "beb52a5b32b51e7868d4608e0d64634f9628c3da14211d5b54e0c7be1a3b1f82"
+    },
+    {
+      "index": 80,
+      "file": "thor/r06_c01.png",
+      "seed": 9255080,
+      "prompt": "Captain America running with his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "a70b3a398d523e6d0783a664ea6759065727007ef92051efae52cf9bfaea794d"
+    },
+    {
+      "index": 81,
+      "file": "thor/r06_c02.png",
+      "seed": 9255081,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "17888710a89911d3bf4c285b95591ec4b3651b822620b78187b5295b9455c36f"
+    },
+    {
+      "index": 82,
+      "file": "thor/r06_c03.png",
+      "seed": 9255082,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "878f59032a6402441b7053ee599e503ce9c3fc324d686ba15c5a2a730bbff310"
+    },
+    {
+      "index": 83,
+      "file": "thor/r06_c04.png",
+      "seed": 9255083,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "5f97ed1779ec199aae3165906fa597cfec9cee081087afe1d78298df9e77af40"
+    },
+    {
+      "index": 84,
+      "file": "thor/r06_c05.png",
+      "seed": 9255084,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "bf4e6df6cf8024d571123b5178899dd2ef68ab8b57734a338922c11511852d2c"
+    },
+    {
+      "index": 85,
+      "file": "thor/r06_c06.png",
+      "seed": 9255085,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "e9db7b041a2e02f5301c6fadfb967d3dd2f98d277c8e5fe0e3b2ea5fc1ea7ec5"
+    },
+    {
+      "index": 86,
+      "file": "thor/r06_c07.png",
+      "seed": 9255086,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "4e2902561edf5c9b0c0733e6bbbe678a49775e1b97d28ded2760b9110635b8b7"
+    },
+    {
+      "index": 87,
+      "file": "thor/r06_c08.png",
+      "seed": 9255087,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "f1f39e91df262f998c35b1dfe4320de9a7e46562a8f5615c0576cecb45768a17"
+    },
+    {
+      "index": 88,
+      "file": "thor/r06_c09.png",
+      "seed": 9255088,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "e3ddce02989b2f3cb55078301cebbda5ffc506ef53e655bbffc94643dbdf50d7"
+    },
+    {
+      "index": 89,
+      "file": "thor/r06_c10.png",
+      "seed": 9255089,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "8ffbcdd6c73143f8459bc07948eec79f5567cb3582380cc3f5f41474f52c0c91"
+    },
+    {
+      "index": 90,
+      "file": "thor/r06_c11.png",
+      "seed": 9255090,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "fb52e4c2edb09ca106a730946b13a8c02a55ba26022c0a3f6dcf6559faaaf1d5"
+    },
+    {
+      "index": 91,
+      "file": "thor/r06_c12.png",
+      "seed": 9255091,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "c8162dc7d7f9ed34a9958675a63a1637d29d3c1a5f53efd10fdc437421f636aa"
+    },
+    {
+      "index": 92,
+      "file": "thor/r06_c13.png",
+      "seed": 9255092,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "46c7e9d5ea69bf2541e7d9ebca2c72787c0a5da37e8d6e334d8074bd444db1c0"
+    },
+    {
+      "index": 93,
+      "file": "thor/r06_c14.png",
+      "seed": 9255093,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "07d5bfd89ddbef8f10d56a305462364d2012332b948966296de6d908139fbfdd"
+    },
+    {
+      "index": 94,
+      "file": "thor/r06_c15.png",
+      "seed": 9255094,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "85ab8a51aaa40bff7f00787a400c0e7521954b65796cab8735dfbbfd1d040347"
+    },
+    {
+      "index": 95,
+      "file": "thor/r06_c16.png",
+      "seed": 9255095,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "9abb518d168da6079e5f655d3feeb18757eaacde310616281b6877ba29e018d4"
+    },
+    {
+      "index": 96,
+      "file": "thor/r07_c01.png",
+      "seed": 9255096,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "ec2570c065b72f8fb315373c3f6dd56137a9bd96bf0e3fb14e9781d19762a0d3"
+    },
+    {
+      "index": 97,
+      "file": "thor/r07_c02.png",
+      "seed": 9255097,
+      "prompt": "Captain America running with his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "d1a6c8745d6fa8337420fc9e709a130eb3081e1c43a8e946ba9fc898cc9f3aea"
+    },
+    {
+      "index": 98,
+      "file": "thor/r07_c03.png",
+      "seed": 9255098,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "6851d0cc4786525884d94369004ad58a7a7e2270486fffe2a51d4430acda2f9f"
+    },
+    {
+      "index": 99,
+      "file": "thor/r07_c04.png",
+      "seed": 9255099,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "ee73b232374e0c1fb6fa18296cc43c593f8ef2a8d605484d9df1f3705bb98e75"
+    },
+    {
+      "index": 100,
+      "file": "thor/r07_c05.png",
+      "seed": 9255100,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "c008b313a403a6caea5bd800b407e71acfdb984c9cda57713a1b5a3bcc6cc288"
+    },
+    {
+      "index": 101,
+      "file": "thor/r07_c06.png",
+      "seed": 9255101,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "6a64b0293bd075d2a437f3b7f36261319a36471195cf654643796f6ff7a91e61"
+    },
+    {
+      "index": 102,
+      "file": "thor/r07_c07.png",
+      "seed": 9255102,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "15139128cc47e45aa01ba14743c3d8e9faa5d936846c6046209f33d423b6c99a"
+    },
+    {
+      "index": 103,
+      "file": "thor/r07_c08.png",
+      "seed": 9255103,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "718b7a1d181e9125868aec05712942ccc41313872485f6c1560193211fa7d19b"
+    },
+    {
+      "index": 104,
+      "file": "thor/r07_c09.png",
+      "seed": 9255104,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "a6db89dc0805c99ed7088bbd2c2de85b5c233e6274393b8b0d508d05d988cb89"
+    },
+    {
+      "index": 105,
+      "file": "thor/r07_c10.png",
+      "seed": 9255105,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "0aa81d5d9d1fc5c389cae740a51463274abf0c8c64420649387492e9ddcb6b41"
+    },
+    {
+      "index": 106,
+      "file": "thor/r07_c11.png",
+      "seed": 9255106,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "229eabc424c20ec4a6534d414b5900a9af39ef339a52351bdb8db151c544b01e"
+    },
+    {
+      "index": 107,
+      "file": "thor/r07_c12.png",
+      "seed": 9255107,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "8124c9fabd33c32011795b71f17e70b6556fee8c6fc93dd62de6c1ce7c6d0f9f"
+    },
+    {
+      "index": 108,
+      "file": "thor/r07_c13.png",
+      "seed": 9255108,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "cb40930365d63767ccf46e701d04dbbbac31d85862bc802bb33b0f227c719ede"
+    },
+    {
+      "index": 109,
+      "file": "thor/r07_c14.png",
+      "seed": 9255109,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "6cb138fdbff78b2b1cbbbbc00ad5461e23fc1383aa144cbec1497f4503f87e85"
+    },
+    {
+      "index": 110,
+      "file": "thor/r07_c15.png",
+      "seed": 9255110,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "79350365ed58d424f3dd9cefc541f310b1a1648ab0a446c6094d496a5bf1a26f"
+    },
+    {
+      "index": 111,
+      "file": "thor/r07_c16.png",
+      "seed": 9255111,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "bd06988ce3a919814fe7ae227240da8e277e0ebc51584879c20ae8fd17384921"
+    },
+    {
+      "index": 112,
+      "file": "thor/r08_c01.png",
+      "seed": 9255112,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "855907685cfbedb7cf65a6ca9999f3a77c51b9ee65547599c4aa314c31c4cce2"
+    },
+    {
+      "index": 113,
+      "file": "thor/r08_c02.png",
+      "seed": 9255113,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "6ae37aa58c90ac7f0dfdaf51c364fbd29f951510b63070510fd748710b242de2"
+    },
+    {
+      "index": 114,
+      "file": "thor/r08_c03.png",
+      "seed": 9255114,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "b69637b47c6502e603dee7f7ec39a2bfff3443d8e2618a32a51402f3367bd6f4"
+    },
+    {
+      "index": 115,
+      "file": "thor/r08_c04.png",
+      "seed": 9255115,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "74b896d281da2ebb85c7f6e87de0d0959140134d977b4fd447ab5168af5ba526"
+    },
+    {
+      "index": 116,
+      "file": "thor/r08_c05.png",
+      "seed": 9255116,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "58423b999947bb2c9a269564b48a5f163d3550cc07d1a813ce9dbb27dbc70e00"
+    },
+    {
+      "index": 117,
+      "file": "thor/r08_c06.png",
+      "seed": 9255117,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "59eea7704b143a35e7af62cfe1c33062029562b5b43ae80232a98e2179b6ce29"
+    },
+    {
+      "index": 118,
+      "file": "thor/r08_c07.png",
+      "seed": 9255118,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "c73c1637ee4704b601ea47dee7ba9bec49462243e4e67f37487026d280029743"
+    },
+    {
+      "index": 119,
+      "file": "thor/r08_c08.png",
+      "seed": 9255119,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "d218524e47b0734bce77fc4f812ef7c604a65fe36633fe9bb3a70abf1f944dd4"
+    },
+    {
+      "index": 120,
+      "file": "thor/r08_c09.png",
+      "seed": 9255120,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "d4de2c7191ad40ba7e6b4c58b6caf1e91e37a20b88a9fc8531e17f0828ca2dc8"
+    },
+    {
+      "index": 121,
+      "file": "thor/r08_c10.png",
+      "seed": 9255121,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "f44c9ba9c9749eba39e071e0d3f5eff71c94fb4d6b6a5025e2341e54073e3c18"
+    },
+    {
+      "index": 122,
+      "file": "thor/r08_c11.png",
+      "seed": 9255122,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "d5c9d5ab0b82603837c522296983021e749ded12c87b19fc6fc9e3e184c964ce"
+    },
+    {
+      "index": 123,
+      "file": "thor/r08_c12.png",
+      "seed": 9255123,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "c638a586fe620da2455b3fa08d1258443be22b10d9eb22f3ab6d3b385587930d"
+    },
+    {
+      "index": 124,
+      "file": "thor/r08_c13.png",
+      "seed": 9255124,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "c8c048b677f8d5c1325aeb82462f9a2d36949a5712b2e5a3eb6ea6276dadf466"
+    },
+    {
+      "index": 125,
+      "file": "thor/r08_c14.png",
+      "seed": 9255125,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "6e1dc3bfa1ef1dce2cd83a13d07f72bf975730d8553b4cb9a95fce5d7073a770"
+    },
+    {
+      "index": 126,
+      "file": "thor/r08_c15.png",
+      "seed": 9255126,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "4389bcb22c4c8d641cebdc75e50ef74de177b2f85e5d2be9e82fafb307faa210"
+    },
+    {
+      "index": 127,
+      "file": "thor/r08_c16.png",
+      "seed": 9255127,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "723e900d4d601e838403f65bb2480b163cfe8d8d50d7d189d333dc2c83bf67e1"
+    },
+    {
+      "index": 128,
+      "file": "thor/r09_c01.png",
+      "seed": 9255128,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "18228001e2b37cb7837093abf94097fcb66d53002befbbdc4bc4ff412973a8fc"
+    },
+    {
+      "index": 129,
+      "file": "thor/r09_c02.png",
+      "seed": 9255129,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "94f873edbb80749d54877b25d14b9df064fc80fbe964888424d797e183fccf2b"
+    },
+    {
+      "index": 130,
+      "file": "thor/r09_c03.png",
+      "seed": 9255130,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "92e49f9f50ff8e6840d22a6fa30040a224686510cbabbfcfe2eeca6e5b47a3e6"
+    },
+    {
+      "index": 131,
+      "file": "thor/r09_c04.png",
+      "seed": 9255131,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "8056820a01325b21f48223504a550eacb1b1e061ae51bf4c072ebe094529a7d9"
+    },
+    {
+      "index": 132,
+      "file": "thor/r09_c05.png",
+      "seed": 9255132,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "19e3f2bc7a04dbf87630da5f547969fbb96ed8170d21a16b2562e1d8689f9024"
+    },
+    {
+      "index": 133,
+      "file": "thor/r09_c06.png",
+      "seed": 9255133,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "b1d2a6952515e43530de0037ff14313157a9d6d57606f39603f3f89d0fadca8b"
+    },
+    {
+      "index": 134,
+      "file": "thor/r09_c07.png",
+      "seed": 9255134,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "500664cf194a275603e5800ba3e50b70056f92ac844ce3ed2df5e1b39713638e"
+    },
+    {
+      "index": 135,
+      "file": "thor/r09_c08.png",
+      "seed": 9255135,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "cebfa49b1f9753e52373354f6cad8a20fa023a337b9901f3c77556aa31169581"
+    },
+    {
+      "index": 136,
+      "file": "thor/r09_c09.png",
+      "seed": 9255136,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "df6c9ce501958575cee5e2d9ed3461fd2cee1dbd80208f3ed9cf7fe2651ea4bd"
+    },
+    {
+      "index": 137,
+      "file": "thor/r09_c10.png",
+      "seed": 9255137,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "60af680203c622ead558cf21d099a32034e4219002cd34354415ec3d99b10453"
+    },
+    {
+      "index": 138,
+      "file": "thor/r09_c11.png",
+      "seed": 9255138,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "40b793bf8b7483a924033852fc3781e3e0804774fe3ca5d9015bcf17845e9545"
+    },
+    {
+      "index": 139,
+      "file": "thor/r09_c12.png",
+      "seed": 9255139,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "ec3537a590e865c2373ce3c793d5f63251ea65969a7e68b5da03df8b1515e694"
+    },
+    {
+      "index": 140,
+      "file": "thor/r09_c13.png",
+      "seed": 9255140,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "cf5ffdeeff5e346c0b30791eb445c8f169c1f44fe40da6c2a12f00d25c30bd1c"
+    },
+    {
+      "index": 141,
+      "file": "thor/r09_c14.png",
+      "seed": 9255141,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "5dfd528641826337b848c26c47c1e211d44ce43fe1ef179b5c6f5dc97a797223"
+    },
+    {
+      "index": 142,
+      "file": "thor/r09_c15.png",
+      "seed": 9255142,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "8c5cff7d2b977464d50df3d8b85c17c039d0b7fd6be5fec0dc5a38e5f817c24c"
+    },
+    {
+      "index": 143,
+      "file": "thor/r09_c16.png",
+      "seed": 9255143,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "3b798cfd1c2fc607e8aeeb6ddffaf9d6c4207bacd60b03474ce11a88d906d2ef"
+    },
+    {
+      "index": 144,
+      "file": "thor/r10_c01.png",
+      "seed": 9255144,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "77e12ef9eef0021b150fe7a101c6b28ce8d62bfb1baddb3126a55bb1e2d9882e"
+    },
+    {
+      "index": 145,
+      "file": "thor/r10_c02.png",
+      "seed": 9255145,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "b0c58b0a00d9e96dbd0468b407b51c34899d3a3065567d09b080f780f1277ef4"
+    },
+    {
+      "index": 146,
+      "file": "thor/r10_c03.png",
+      "seed": 9255146,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "8318eebee5a4bd75a18b66002a15b4c2f5841fbc1cd3428fff9ee5e139576ca7"
+    },
+    {
+      "index": 147,
+      "file": "thor/r10_c04.png",
+      "seed": 9255147,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "a5c509b96ebf6d6a4f7a861727d0d13d244b3ec4180c9f6b36e343ae1740c5e6"
+    },
+    {
+      "index": 148,
+      "file": "thor/r10_c05.png",
+      "seed": 9255148,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "380632fbf1f0b289ab6ddc487e61be48bc0bc17c43c85b6536c34e856bc9d5d3"
+    },
+    {
+      "index": 149,
+      "file": "thor/r10_c06.png",
+      "seed": 9255149,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "08efd8efc33af674d371ecbd7d556495b0670db84ce5f884b0b1c4eabbe1093c"
+    },
+    {
+      "index": 150,
+      "file": "thor/r10_c07.png",
+      "seed": 9255150,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "e52821a4dcd29088ed6aa0fb0b687d54dccbb41c61f7dff0cf22fc8a2dab3ab6"
+    },
+    {
+      "index": 151,
+      "file": "thor/r10_c08.png",
+      "seed": 9255151,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "1995ee8e77e4fc54cc97fdff7359ec94d1f22552670b60e94aa85cfb077c9a40"
+    },
+    {
+      "index": 152,
+      "file": "thor/r10_c09.png",
+      "seed": 9255152,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "cbd28cad05f6ca3a524aadb2b87244a2f2e26f6c4fadd8ece70b5284b1e16d19"
+    },
+    {
+      "index": 153,
+      "file": "thor/r10_c10.png",
+      "seed": 9255153,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "f7fc5d36d9098c1a87d139b784964beb8413afa654278f609260b84591015c87"
+    },
+    {
+      "index": 154,
+      "file": "thor/r10_c11.png",
+      "seed": 9255154,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "987b07968587f8ff2557c295d8520b39cd6c303102e22a7e4cc507c5471d336f"
+    },
+    {
+      "index": 155,
+      "file": "thor/r10_c12.png",
+      "seed": 9255155,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "bd838b06c1378775dcf4e75387afdd854b6a2b3cf5e48f3c39d95009f6c4244d"
+    },
+    {
+      "index": 156,
+      "file": "thor/r10_c13.png",
+      "seed": 9255156,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "4486d34c45f41c6bdf9a9b1bcb4d45bcc44fb3323e1ad047d419547cf728f8eb"
+    },
+    {
+      "index": 157,
+      "file": "thor/r10_c14.png",
+      "seed": 9255157,
+      "prompt": "Captain America running with his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "a661a632d4844f9dfce06e79f1fc4e8d265659a8f4234702091efda969e56bed"
+    },
+    {
+      "index": 158,
+      "file": "thor/r10_c15.png",
+      "seed": 9255158,
+      "prompt": "Captain America in a blue helmet, waist-up, soft silver light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "a0f65dd81161afa1fd24eb2fb89421705242ae510d72ec5a2816e84813e1e964"
+    },
+    {
+      "index": 159,
+      "file": "thor/r10_c16.png",
+      "seed": 9255159,
+      "prompt": "Captain America holding his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "2206cd8882c6050220476176c3abff9afe6309634a60b1ee84b8b473de58d711"
+    },
+    {
+      "index": 160,
+      "file": "thor/r11_c01.png",
+      "seed": 9255160,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "f3846c17859777d2a5765e47e6f6ec059d86411b809a275605b890a9037dd989"
+    },
+    {
+      "index": 161,
+      "file": "thor/r11_c02.png",
+      "seed": 9255161,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "e7e217414f0377a38093937b9e7de2917581b199a35081907f75a14e9c0ae1c3"
+    },
+    {
+      "index": 162,
+      "file": "thor/r11_c03.png",
+      "seed": 9255162,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "5d29ca15a1d8f218bde57a8df22c2c1383d355d313cf49a0488eafaea345e659"
+    },
+    {
+      "index": 163,
+      "file": "thor/r11_c04.png",
+      "seed": 9255163,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "57b2d0048ce5f674e68e95fd828d8c8ca70b6d69055504d6613be9a17197d47d"
+    },
+    {
+      "index": 164,
+      "file": "thor/r11_c05.png",
+      "seed": 9255164,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "b62d7221bdf61a4c065f31670127263f771102ba811a179aa546ee7602afb20b"
+    },
+    {
+      "index": 165,
+      "file": "thor/r11_c06.png",
+      "seed": 9255165,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "f898ae70e721a6ed42268da3382f63ce2476cf5072331984251617f44b046856"
+    },
+    {
+      "index": 166,
+      "file": "thor/r11_c07.png",
+      "seed": 9255166,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "a2b73152a0e9c7c97c5eeab1b7a990ab0c890e3163d192ca4360c3f0e9d6eaff"
+    },
+    {
+      "index": 167,
+      "file": "thor/r11_c08.png",
+      "seed": 9255167,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "f566e6c047cf970b688e606d9d145bbf5b16832005a907364c8ed12b6a147d7f"
+    },
+    {
+      "index": 168,
+      "file": "thor/r11_c09.png",
+      "seed": 9255168,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "32a0369d7f05adb28be1269eb7c73d969df03af2e9250f420698caf55c7dd3d5"
+    },
+    {
+      "index": 169,
+      "file": "thor/r11_c10.png",
+      "seed": 9255169,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "7eaa303a5e652d67e54f2de83bc8287bc5bd1f802e70148929218a44348ca1ad"
+    },
+    {
+      "index": 170,
+      "file": "thor/r11_c11.png",
+      "seed": 9255170,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "ac5a0466dabddfa1c9f9b212787995b288f747df1a1d38120a80a9e6e465da2a"
+    },
+    {
+      "index": 171,
+      "file": "thor/r11_c12.png",
+      "seed": 9255171,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "8c915c7fa1d9143b34bbebd2366a54d018ce2a48c653af79815648bf2c3c9398"
+    },
+    {
+      "index": 172,
+      "file": "thor/r11_c13.png",
+      "seed": 9255172,
+      "prompt": "Captain America in a blue helmet, waist-up, cool steel-blue light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "60726e20c69a7666a6b9aadcf4738572fc4fc67dc2795d78c46ce4102a748f34"
+    },
+    {
+      "index": 173,
+      "file": "thor/r11_c14.png",
+      "seed": 9255173,
+      "prompt": "Captain America holding his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "73cb54a94643b566f873e393c4ac0536a7d3ba5f513e15c5aa0deb30ab1f8e01"
+    },
+    {
+      "index": 174,
+      "file": "thor/r11_c15.png",
+      "seed": 9255174,
+      "prompt": "Captain America running with his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "960a6ddb3c000ded4d30368ba2fc89053fa4bb603b992dd65ae24efd079e91e5"
+    },
+    {
+      "index": 175,
+      "file": "thor/r11_c16.png",
+      "seed": 9255175,
+      "prompt": "Captain America in a blue helmet, waist-up, cool steel-blue light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "a786390dec16507a876adaf068243e771e71dbe9c8b6c446a9311eaf14f8bd93"
+    },
+    {
+      "index": 176,
+      "file": "thor/r12_c01.png",
+      "seed": 9255176,
+      "prompt": "Captain America running with his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "e2ca4cee59e9e6d2987445e631351d076837ab86d4716291f636b2ac54e0665b"
+    },
+    {
+      "index": 177,
+      "file": "thor/r12_c02.png",
+      "seed": 9255177,
+      "prompt": "Captain America in a blue helmet, waist-up, cool steel-blue light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "1fd55457c35b6ef8eae1360f386bc4f74fb8cb61f0662f2eac0731b2154634f8"
+    },
+    {
+      "index": 178,
+      "file": "thor/r12_c03.png",
+      "seed": 9255178,
+      "prompt": "Captain America holding his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "cba450f8adb93127824696038f76cec461cf27c76e674389e6825865f00a24e7"
+    },
+    {
+      "index": 179,
+      "file": "thor/r12_c04.png",
+      "seed": 9255179,
+      "prompt": "Captain America running with his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "d7b2a7147492eb0602aa29db5092d1727f41e5f2cedc0f11733a533a5e40081b"
+    },
+    {
+      "index": 180,
+      "file": "thor/r12_c05.png",
+      "seed": 9255180,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "0684e55f2655d463e320fdad06bb73d680d7d30432b1a85fc0ad301ce0393cfe"
+    },
+    {
+      "index": 181,
+      "file": "thor/r12_c06.png",
+      "seed": 9255181,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "b42397763ce24adbde36839128215869d7c784166a218913bfc9ca343e415fda"
+    },
+    {
+      "index": 182,
+      "file": "thor/r12_c07.png",
+      "seed": 9255182,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "de082201381511e6fd5eeb21b888add02a4981eacda4b4ee89977ecce6c56cff"
+    },
+    {
+      "index": 183,
+      "file": "thor/r12_c08.png",
+      "seed": 9255183,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "fbc54768703587252fabea0f232266b0aa36898c6b47acc980ce92edeacdbf52"
+    },
+    {
+      "index": 184,
+      "file": "thor/r12_c09.png",
+      "seed": 9255184,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "2e1c81c4927a66d4ff877c598fd214c94eed5f5535eb62b98951238e4eeb0e6d"
+    },
+    {
+      "index": 185,
+      "file": "thor/r12_c10.png",
+      "seed": 9255185,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "730a1fce58e9cb94cda411a230e454ba3b709600f7e9f47abe13030bb8910219"
+    },
+    {
+      "index": 186,
+      "file": "thor/r12_c11.png",
+      "seed": 9255186,
+      "prompt": "Captain America in a blue helmet, waist-up, cool steel-blue light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "aed0f5bd34a8e47be8a34a2bd87877aec92646ccc97fa6a6144eb8797de1c3b0"
+    },
+    {
+      "index": 187,
+      "file": "thor/r12_c12.png",
+      "seed": 9255187,
+      "prompt": "Captain America holding his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "355905b0c837e4ce90f9346a382bab415cb5923e7e1753dda394a5097a4d019f"
+    },
+    {
+      "index": 188,
+      "file": "thor/r12_c13.png",
+      "seed": 9255188,
+      "prompt": "Captain America running with his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "4b487871c1ca1ed0c1ce02650f207d4b4b96ab002c3ff6a432fb0c1235228e43"
+    },
+    {
+      "index": 189,
+      "file": "thor/r12_c14.png",
+      "seed": 9255189,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "982c613c938153ea6de55fe5632f0e80626f56eb75f93aa523d671c177c32c9a"
+    },
+    {
+      "index": 190,
+      "file": "thor/r12_c15.png",
+      "seed": 9255190,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "071e64fb1521d407a6abcf6895f2d67a8142139af8dabf450e8797b94f5df17c"
+    },
+    {
+      "index": 191,
+      "file": "thor/r12_c16.png",
+      "seed": 9255191,
+      "prompt": "Captain America running with his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "e23d816948c36f80a4abf76063cb9a9e7398cf5236f3421826a7be6eaedf2337"
+    },
+    {
+      "index": 192,
+      "file": "thor/r13_c01.png",
+      "seed": 9255192,
+      "prompt": "Captain America holding his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "cdd123079397f83d49bb1e1cdf0a8c81ff933625fa83b00109d15d02d378b46a"
+    },
+    {
+      "index": 193,
+      "file": "thor/r13_c02.png",
+      "seed": 9255193,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "e0523a26573ddf59e557895fbd7a2b2d0ecebfff1eec82b7f025f3435eac927a"
+    },
+    {
+      "index": 194,
+      "file": "thor/r13_c03.png",
+      "seed": 9255194,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "fb920181ebf2281d5d8487b9cd19c95c89548644e883d505052a50ae8f17f900"
+    },
+    {
+      "index": 195,
+      "file": "thor/r13_c04.png",
+      "seed": 9255195,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "b95e5548f70a85cea3b36a1ae2471cfc905efadff3ce5c4a858baf5dce2671ed"
+    },
+    {
+      "index": 196,
+      "file": "thor/r13_c05.png",
+      "seed": 9255196,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "5ae1aafa3277152c3b79710857cefce9be80b6ec8a670f62d84defa1172570d4"
+    },
+    {
+      "index": 197,
+      "file": "thor/r13_c06.png",
+      "seed": 9255197,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "9bcb39e2e62bb5932a9398286f3aba27c9a67cf3ee7b222334c772fed083e920"
+    },
+    {
+      "index": 198,
+      "file": "thor/r13_c07.png",
+      "seed": 9255198,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "71b02cae4a9d52f672e0af2be5d1213d6fc1ab202f1cafb8e06cdd1e0fb80c1e"
+    },
+    {
+      "index": 199,
+      "file": "thor/r13_c08.png",
+      "seed": 9255199,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "0050fa78f6a1f08b25cfc72f67ed3d8c4f73f64320e20c681414ce15bc73f8df"
+    },
+    {
+      "index": 200,
+      "file": "thor/r13_c09.png",
+      "seed": 9255200,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "83cff4308e3811b5824d3f78f7e942c054e33f1ad04463210ea42285afe3b8ef"
+    },
+    {
+      "index": 201,
+      "file": "thor/r13_c10.png",
+      "seed": 9255201,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "bdef45cd943360dd6d4ba74f6ef29201b93f7ac62e62f94ef59d355810eaa586"
+    },
+    {
+      "index": 202,
+      "file": "thor/r13_c11.png",
+      "seed": 9255202,
+      "prompt": "Captain America running with his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "2bbb297f3e022f1a3a1d77a10ada00a94501292029565cda68253498d1f474a6"
+    },
+    {
+      "index": 203,
+      "file": "thor/r13_c12.png",
+      "seed": 9255203,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "40d117e3a8e027e5ba7ad008bcf48fd15ddc3409364bc59beaa26688fa071c74"
+    },
+    {
+      "index": 204,
+      "file": "thor/r13_c13.png",
+      "seed": 9255204,
+      "prompt": "Captain America holding his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "0223a659b7625a1041cf3a03c0672ec367c86eede212f991c69fe59a45378b6f"
+    },
+    {
+      "index": 205,
+      "file": "thor/r13_c14.png",
+      "seed": 9255205,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "7f7b05a8cab30186d23932a49ce4d89029b85bf7a100285ce59e1657b7ec35ac"
+    },
+    {
+      "index": 206,
+      "file": "thor/r13_c15.png",
+      "seed": 9255206,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "8fb914344f26bd0e263919d2f3bd0f780057b86ae5c8a549a3e4510a3c361fe7"
+    },
+    {
+      "index": 207,
+      "file": "thor/r13_c16.png",
+      "seed": 9255207,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "cc269cffbef00b51ff9b1516ee0953c8533afb02d2e5d6b188692ad8559a0f59"
+    },
+    {
+      "index": 208,
+      "file": "thor/r14_c01.png",
+      "seed": 9255208,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "2cf4f5abc2767872ac6b78e061cebc51534a5d3a4452e8ba785b6a4d5ba6f3a8"
+    },
+    {
+      "index": 209,
+      "file": "thor/r14_c02.png",
+      "seed": 9255209,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "760e144f08ae51f8470235d61d2ceb56365cf9f075e9f3b5cd993e2fc634c1e6"
+    },
+    {
+      "index": 210,
+      "file": "thor/r14_c03.png",
+      "seed": 9255210,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "dd4620f81294fb4efc0ba9a2d8e47a5a794f85b0202e0c497aaf1e1f00191113"
+    },
+    {
+      "index": 211,
+      "file": "thor/r14_c04.png",
+      "seed": 9255211,
+      "prompt": "Captain America in a blue helmet, waist-up, cool steel-blue light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "13b50e6af3ebc50913c5ac336aba18a49d061e9178d1f4b3fb88c8e1b075bff7"
+    },
+    {
+      "index": 212,
+      "file": "thor/r14_c05.png",
+      "seed": 9255212,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "5c1218d46414839978e8ea76d29a8482a23236b8cdad5311225f11d0c2b3414a"
+    },
+    {
+      "index": 213,
+      "file": "thor/r14_c06.png",
+      "seed": 9255213,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "8db14e088135df5797fc8487d2edb14fff9bbfb593715789d682baa723c2309f"
+    },
+    {
+      "index": 214,
+      "file": "thor/r14_c07.png",
+      "seed": 9255214,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "3f8e0a85cd264945c8292c40d0510b901182d39837ecd9855ccd79a84dcb8ec5"
+    },
+    {
+      "index": 215,
+      "file": "thor/r14_c08.png",
+      "seed": 9255215,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "b33866032251cdc171e75628463c1a50bfdcb5314663cc2fa66d080d5e7b8b45"
+    },
+    {
+      "index": 216,
+      "file": "thor/r14_c09.png",
+      "seed": 9255216,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "99c763c840838cff853e8d623ed42c80f46241ce6e3ad6ab3b749721611c8404"
+    },
+    {
+      "index": 217,
+      "file": "thor/r14_c10.png",
+      "seed": 9255217,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "134bdf168d53f3381000c9ce773b1767c5c764054c382f1a556584f33e832625"
+    },
+    {
+      "index": 218,
+      "file": "thor/r14_c11.png",
+      "seed": 9255218,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "4d676634f17540e07bb89ed759a54b0ba3adc4c2ab398553d7c467a4072fb9bd"
+    },
+    {
+      "index": 219,
+      "file": "thor/r14_c12.png",
+      "seed": 9255219,
+      "prompt": "Captain America running with his shield in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "14b9f490888136e7dd26e5fa754798ef4c46e3891b1d19e1b88a55447a5a4487"
+    },
+    {
+      "index": 220,
+      "file": "thor/r14_c13.png",
+      "seed": 9255220,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "27ff8087f030e31ce2c73c5537428c34256c8ed56d9ccc51e97e65fcc666dda5"
+    },
+    {
+      "index": 221,
+      "file": "thor/r14_c14.png",
+      "seed": 9255221,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "03726509a775dcb58abaccef6425459a916df6f2794aa7b6959643ca27cd8954"
+    },
+    {
+      "index": 222,
+      "file": "thor/r14_c15.png",
+      "seed": 9255222,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "89af66040449f275bf667ecb34541d027606a7c02c7d228d5f57e53a6cd5f01e"
+    },
+    {
+      "index": 223,
+      "file": "thor/r14_c16.png",
+      "seed": 9255223,
+      "prompt": "Captain America in a blue helmet, waist-up, cool steel-blue light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "b32d1bda9b59111d96013b5f06ed334f60971432e7d896f4b3abe8df9753b0cb"
+    },
+    {
+      "index": 224,
+      "file": "thor/r15_c01.png",
+      "seed": 9255224,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "5176cf34f8e2b743326fd7fec2d5a4640f3f26b9968d6e32e815a7508a41e4b3"
+    },
+    {
+      "index": 225,
+      "file": "thor/r15_c02.png",
+      "seed": 9255225,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "67e555e6c008343590e35646944fdc6fffbf6820e33f8a86978a230372eeccdb"
+    },
+    {
+      "index": 226,
+      "file": "thor/r15_c03.png",
+      "seed": 9255226,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "2dcc8aaa2fccb570e873c88e13459fc3e85640e2f4f0597100ee25b9bd9402e4"
+    },
+    {
+      "index": 227,
+      "file": "thor/r15_c04.png",
+      "seed": 9255227,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "1a3d4fffd4d4f7d34a54d596ff68ad891983b4c12991367ad3774e51d5d85a0b"
+    },
+    {
+      "index": 228,
+      "file": "thor/r15_c05.png",
+      "seed": 9255228,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "30258386c99ddd8bbc88a7305f563a74e0b2162300d53c6a23dcb746022e58ce"
+    },
+    {
+      "index": 229,
+      "file": "thor/r15_c06.png",
+      "seed": 9255229,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "85ff36175f35c303606eaebf291d741d401ee82318c6c2c6a35a32913cbdbc13"
+    },
+    {
+      "index": 230,
+      "file": "thor/r15_c07.png",
+      "seed": 9255230,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "1b1ff959864def0203bc9c706cee765f7094c874f413c4d6e55b793ce62e2c0b"
+    },
+    {
+      "index": 231,
+      "file": "thor/r15_c08.png",
+      "seed": 9255231,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "191949a0cfffd4bc9e4f815cd1e2213baa487037b1eb96be75b7aeacf8297245"
+    },
+    {
+      "index": 232,
+      "file": "thor/r15_c09.png",
+      "seed": 9255232,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "838278ac10024053779ebb86fd7e4be99a635a079bb55647e65589382b34c2eb"
+    },
+    {
+      "index": 233,
+      "file": "thor/r15_c10.png",
+      "seed": 9255233,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "0b032f188ad74ad24dcda53f5e4d3a22ac2776005e6acf34042d07a98086157a"
+    },
+    {
+      "index": 234,
+      "file": "thor/r15_c11.png",
+      "seed": 9255234,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "2acc66b1847a3da1a1f5a1490880c3ea6b0730d495297b7aadb361fd555c563d"
+    },
+    {
+      "index": 235,
+      "file": "thor/r15_c12.png",
+      "seed": 9255235,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "26349d5af9cde227fe90c96050613bb08f3e95ac3f283e0c4cc457d543987462"
+    },
+    {
+      "index": 236,
+      "file": "thor/r15_c13.png",
+      "seed": 9255236,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "f20cdd153ffcae65bb67f0594c65fe5af0fc31a93219b73fdebd3f488d25d9a1"
+    },
+    {
+      "index": 237,
+      "file": "thor/r15_c14.png",
+      "seed": 9255237,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "f540c2e277124f9c72086454967e1a7c453e244093d1284c3fce515ca7bbdebb"
+    },
+    {
+      "index": 238,
+      "file": "thor/r15_c15.png",
+      "seed": 9255238,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "683571d37e7dba4fb19ddb43600ab5456b7cdcc7ec78ee4e4d92ea3f6dd56bc3"
+    },
+    {
+      "index": 239,
+      "file": "thor/r15_c16.png",
+      "seed": 9255239,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "63de8d29c8922b8282599e6680fa25a12cf7c294e37fed12a9b290284daf95da"
+    },
+    {
+      "index": 240,
+      "file": "thor/r16_c01.png",
+      "seed": 9255240,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "cdab224e7b6946a2ed70d7d6a112e2db189ab35b1d656a64de5b1b9c78d6257f"
+    },
+    {
+      "index": 241,
+      "file": "thor/r16_c02.png",
+      "seed": 9255241,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "3145f740c72f9ecb9c8645273012a4303318dfbda0f0b3f5a0bca21d0826a0b4"
+    },
+    {
+      "index": 242,
+      "file": "thor/r16_c03.png",
+      "seed": 9255242,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "0f7861f528263121b6c307c80d46e19e2811a1c4a426f4051e1b630f63a61d9e"
+    },
+    {
+      "index": 243,
+      "file": "thor/r16_c04.png",
+      "seed": 9255243,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "e69d73240a6154d05d29fb5f112ee25871011d7252b3432687f69e95dd5e2f11"
+    },
+    {
+      "index": 244,
+      "file": "thor/r16_c05.png",
+      "seed": 9255244,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "eb84ec9c97f4c4955db83060950e3bbaeecfd0572717776e00d2a5e46c26493f"
+    },
+    {
+      "index": 245,
+      "file": "thor/r16_c06.png",
+      "seed": 9255245,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "cb067d42f7f955a878699d21e8cd21f71a68f0b9071ecc45217a8d979c9f40cd"
+    },
+    {
+      "index": 246,
+      "file": "thor/r16_c07.png",
+      "seed": 9255246,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "4704992297cf29969532126c17555a332c99d6a3fec13d3ad2895abe7609a1dd"
+    },
+    {
+      "index": 247,
+      "file": "thor/r16_c08.png",
+      "seed": 9255247,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "6e0e2e56a776de130ebebaefbfe7f61dd872667482f1eb47901a0bc946c0af78"
+    },
+    {
+      "index": 248,
+      "file": "thor/r16_c09.png",
+      "seed": 9255248,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "6b463fe806176fa19c6efbc9668fc8e60bcf98a08c971582506253b34dac5175"
+    },
+    {
+      "index": 249,
+      "file": "thor/r16_c10.png",
+      "seed": 9255249,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "15859d8bac2962964739151f980a2ef093b1c7a05b9d1810c0f81c3a05dc22bb"
+    },
+    {
+      "index": 250,
+      "file": "thor/r16_c11.png",
+      "seed": 9255250,
+      "prompt": "Captain America running with his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "d112b8c22234d3ebe26628b93e342de85aec9e28095e5a80b2e8b5f98eb1c1ae"
+    },
+    {
+      "index": 251,
+      "file": "thor/r16_c12.png",
+      "seed": 9255251,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "d41944e41fdacd14a51ffce20bf6d80243a29c8c9a72ed088de9d6f8037524f4"
+    },
+    {
+      "index": 252,
+      "file": "thor/r16_c13.png",
+      "seed": 9255252,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "6f333b78c442731ea1162305223ed77db083a0437848c490ef5c384380004f68"
+    },
+    {
+      "index": 253,
+      "file": "thor/r16_c14.png",
+      "seed": 9255253,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "323e861a651c4c7d9167e7734953725eb559136ec764fec244fa0e67117822c6"
+    },
+    {
+      "index": 254,
+      "file": "thor/r16_c15.png",
+      "seed": 9255254,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "792f167ef39c1f3aedd37917327b16a1d0a11cad56b276b2bda2ac1a0ce61184"
+    },
+    {
+      "index": 255,
+      "file": "thor/r16_c16.png",
+      "seed": 9255255,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+      "sha256": "1c722ea744e2297654bb9f74f213e971f2804f68c3e26ace3ee56d491d5180f7"
+    }
+  ]
+}

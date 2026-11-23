@@ -1,0 +1,2312 @@
+{
+  "subject": "iron_man",
+  "leaf": "spider_man",
+  "target": "outward_thor_iron16/portraits/iron_9413003.png",
+  "directory": "outward_thor_iron16",
+  "tiles": [
+    {
+      "index": 0,
+      "file": "iron_man/r01_c01.safetensors",
+      "seed": 9131000,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "41c2dcb647b27d078bd3bd02ac068a8180a8f014cbc77fa466dd6ab44cb1a1bb"
+    },
+    {
+      "index": 1,
+      "file": "iron_man/r01_c02.safetensors",
+      "seed": 9131001,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "2012767cf2be05d1cdbdf55a57a0539bc2185615520be86ea1da625519829c22"
+    },
+    {
+      "index": 2,
+      "file": "iron_man/r01_c03.safetensors",
+      "seed": 9131002,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "252ed9099b7fcd38dd0f2ae196896af1adc23328a2a4b7ca37804c152594ec75"
+    },
+    {
+      "index": 3,
+      "file": "iron_man/r01_c04.safetensors",
+      "seed": 9131003,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "cb3283931ce84bb62fbfe8209d8506fc0c57e5583f5d519b11b9b09165c43753"
+    },
+    {
+      "index": 4,
+      "file": "iron_man/r01_c05.safetensors",
+      "seed": 9131004,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "7152f6e3aa3b76e844ec6cd1d1a3d71608da7a4c06f1b370268a06c0df8cdbe3"
+    },
+    {
+      "index": 5,
+      "file": "iron_man/r01_c06.safetensors",
+      "seed": 9131005,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "9a997ac0683770caa8459e25cf2fce6ba345c3a89fb77626452984a7589f597e"
+    },
+    {
+      "index": 6,
+      "file": "iron_man/r01_c07.safetensors",
+      "seed": 9131006,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "93e4d967a7cef1f9ec56f5c2e862ab0ac1c2f145372d1c2c4fd537b1a0dd5603"
+    },
+    {
+      "index": 7,
+      "file": "iron_man/r01_c08.safetensors",
+      "seed": 9131007,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "79fae5f12a8a463060fdb96fc2e40a4856154740021716f97c458f13e6adad45"
+    },
+    {
+      "index": 8,
+      "file": "iron_man/r01_c09.safetensors",
+      "seed": 9131008,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "8efb6a5e98d3c4485366572144dea144c40e5b96d2502a05ef0770f91de8834e"
+    },
+    {
+      "index": 9,
+      "file": "iron_man/r01_c10.safetensors",
+      "seed": 9131009,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "079ee2eb2a2e5fe2649faa9c9c2f494209074c38e58f51149f03fbfc950363ff"
+    },
+    {
+      "index": 10,
+      "file": "iron_man/r01_c11.safetensors",
+      "seed": 9131010,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "178c247543b4e37f1a98cba6a642095c979f3e813dd10b68f922e99e452402d6"
+    },
+    {
+      "index": 11,
+      "file": "iron_man/r01_c12.safetensors",
+      "seed": 9131011,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "c3be277e71f2f5380fa7f9beb96d376e7ad62d4f141a9e9012769df89b424e64"
+    },
+    {
+      "index": 12,
+      "file": "iron_man/r01_c13.safetensors",
+      "seed": 9131012,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "cea84800f26578bb9239579bb82f6bf74c2306d539be864c77b46b1253663f13"
+    },
+    {
+      "index": 13,
+      "file": "iron_man/r01_c14.safetensors",
+      "seed": 9131013,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "1d594915da32170539aa443236babc769c96c644b454c794f59d4c7610999104"
+    },
+    {
+      "index": 14,
+      "file": "iron_man/r01_c15.safetensors",
+      "seed": 9131014,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "d19188d90ca4d18abdef6e8fa4a82481980a613d6defcdd187f95588f2afccc6"
+    },
+    {
+      "index": 15,
+      "file": "iron_man/r01_c16.safetensors",
+      "seed": 9131015,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "0840913941132bef8f66a8995b8189f49eb22eaa2103f7dd14ca5ac84c0f265b"
+    },
+    {
+      "index": 16,
+      "file": "iron_man/r02_c01.safetensors",
+      "seed": 9131016,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "2fee631b3597c4f8e1992d8301411c324dee739368dc296e03f044c08546b242"
+    },
+    {
+      "index": 17,
+      "file": "iron_man/r02_c02.safetensors",
+      "seed": 9131017,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "53e48c8c4ae9d458091be663089754327901b30ea8bff28c861d75111ce2f390"
+    },
+    {
+      "index": 18,
+      "file": "iron_man/r02_c03.safetensors",
+      "seed": 9131018,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "2ee9809b9d455170e8126131397879b975d86c5bae518fb877455f2de57869b9"
+    },
+    {
+      "index": 19,
+      "file": "iron_man/r02_c04.safetensors",
+      "seed": 9131019,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "7a0efc52ff310b9432e762af43a70d1cda907b1eca3d2d76a85edaeca1b10186"
+    },
+    {
+      "index": 20,
+      "file": "iron_man/r02_c05.safetensors",
+      "seed": 9131020,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "f9916bc430925af4e4191e9148b1b056dbb5540801ff1427ec2055f99fb8d26e"
+    },
+    {
+      "index": 21,
+      "file": "iron_man/r02_c06.safetensors",
+      "seed": 9131021,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "c0f442473cef0b7ad3c9a0fa88f3b059c1d3e63abdafa8e5ae55d5b378c7f8eb"
+    },
+    {
+      "index": 22,
+      "file": "iron_man/r02_c07.safetensors",
+      "seed": 9131022,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a silver railway depot, windows casting strong diagonal shadows, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "33a588e448a50e51209cf9774ea46662fdfd6db09bf96143529abbc860d3e13b"
+    },
+    {
+      "index": 23,
+      "file": "iron_man/r02_c08.safetensors",
+      "seed": 9131023,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "a442bf4a3cbdd7d1e49302a2770436ec6059c3fedae51734111ae96c43f76873"
+    },
+    {
+      "index": 24,
+      "file": "iron_man/r02_c09.safetensors",
+      "seed": 9131024,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "865dff6565963a194df472c9f87a5f26670262a4fdf6baff51dc7049ea661008"
+    },
+    {
+      "index": 25,
+      "file": "iron_man/r02_c10.safetensors",
+      "seed": 9131025,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "701b905f09588f4cd645537ea97e93b8e10d9a1d8ac80c3221d34f44299ce617"
+    },
+    {
+      "index": 26,
+      "file": "iron_man/r02_c11.safetensors",
+      "seed": 9131026,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "6105abd748f7ac7c25ff62d60bac0970a52198401a83a8af0b13741739fc0d3a"
+    },
+    {
+      "index": 27,
+      "file": "iron_man/r02_c12.safetensors",
+      "seed": 9131027,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "a7cff3905e9b6897b96b4364e9a6d5484343e692832f90066edcb600e23ba2a1"
+    },
+    {
+      "index": 28,
+      "file": "iron_man/r02_c13.safetensors",
+      "seed": 9131028,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "2a232b5c59c698df8786c713faafb27e62af51b5589d49c146992338a5c3eba0"
+    },
+    {
+      "index": 29,
+      "file": "iron_man/r02_c14.safetensors",
+      "seed": 9131029,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "ea2eb3bb095bbab20751d5382e4d3fb8bdd57fb6f8ebb06025fd63e47c0ad8df"
+    },
+    {
+      "index": 30,
+      "file": "iron_man/r02_c15.safetensors",
+      "seed": 9131030,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "fd6486f9e80509640fc1f33c4023ab5999f1cdbf9acacff1805152b2a551a82e"
+    },
+    {
+      "index": 31,
+      "file": "iron_man/r02_c16.safetensors",
+      "seed": 9131031,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "df23a334fd83d23265218841b828aa2215d35d60c20958aa39a60f018e9bb7e4"
+    },
+    {
+      "index": 32,
+      "file": "iron_man/r03_c01.safetensors",
+      "seed": 9131032,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "5c27c3d0648d73a23d3bcaeae799d80aba584db8cd02c828804d2e7968251ade"
+    },
+    {
+      "index": 33,
+      "file": "iron_man/r03_c02.safetensors",
+      "seed": 9131033,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "67f4c68dd02b573f5edac540fbdf47ca6a52d1ca5155b272f8ac227d955844b9"
+    },
+    {
+      "index": 34,
+      "file": "iron_man/r03_c03.safetensors",
+      "seed": 9131034,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "bde93a83e7d333c31318b2a7bdfbf3aa8ef2bd4832611730610979638132bd86"
+    },
+    {
+      "index": 35,
+      "file": "iron_man/r03_c04.safetensors",
+      "seed": 9131035,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "e7100d44811b2fff0d4c669e106a2283b3909d5af26bfb181b471e7a399385ed"
+    },
+    {
+      "index": 36,
+      "file": "iron_man/r03_c05.safetensors",
+      "seed": 9131036,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "3d43519b6ad914117b8ced4cd68318729a83a46d8521f4ccebcedb182836a7a3"
+    },
+    {
+      "index": 37,
+      "file": "iron_man/r03_c06.safetensors",
+      "seed": 9131037,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "a6bc70939e5f18e0cd25e8f66278855ef145c35229a72b51a574e238a892afbb"
+    },
+    {
+      "index": 38,
+      "file": "iron_man/r03_c07.safetensors",
+      "seed": 9131038,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "3c4c1030e3ddc5879a6059d075db9dec1e75f13fe54ea9b37500e93decf0c06a"
+    },
+    {
+      "index": 39,
+      "file": "iron_man/r03_c08.safetensors",
+      "seed": 9131039,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "bc44f1e6b4cbf0b41cb85cf75b0928f21f317d7fa82be4379f1f702e1a08c87d"
+    },
+    {
+      "index": 40,
+      "file": "iron_man/r03_c09.safetensors",
+      "seed": 9131040,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "b9fc78e89b6da9a17bb03c88d1d0910a40bdb7aaa9aa36fe1581a4247e3fcdeb"
+    },
+    {
+      "index": 41,
+      "file": "iron_man/r03_c10.safetensors",
+      "seed": 9131041,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "739861d8ea5a5d586d8882d7981a127917b06f3dbd91cba56c9764a97ec75921"
+    },
+    {
+      "index": 42,
+      "file": "iron_man/r03_c11.safetensors",
+      "seed": 9131042,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "28703542d786b7bb3cbc2e1bef7bd84afff6fe26f4b8124eed804b95f3b55a69"
+    },
+    {
+      "index": 43,
+      "file": "iron_man/r03_c12.safetensors",
+      "seed": 9131043,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "476106b990bee3014b43524ec8f0ab3853ef901deb9baebd2dffcd257fa2219e"
+    },
+    {
+      "index": 44,
+      "file": "iron_man/r03_c13.safetensors",
+      "seed": 9131044,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "3566251bb56877f58f85c22b3d9bf6adb708d21ec023c1b8f65d70d4e7f42a44"
+    },
+    {
+      "index": 45,
+      "file": "iron_man/r03_c14.safetensors",
+      "seed": 9131045,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "46f89d44dfd15b31ff528ebb558df2c6e4543ba66ac5f242293b1d3040a38d30"
+    },
+    {
+      "index": 46,
+      "file": "iron_man/r03_c15.safetensors",
+      "seed": 9131046,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "a36bced26e842c5f095e7a11e347be5f4ede62cb642de472123dd5881d7da1df"
+    },
+    {
+      "index": 47,
+      "file": "iron_man/r03_c16.safetensors",
+      "seed": 9131047,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "e7e6db7871c0774eb9035b6db47a2fdc463d77cbc941c1931804508cbec152c9"
+    },
+    {
+      "index": 48,
+      "file": "iron_man/r04_c01.safetensors",
+      "seed": 9131048,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "ee9ed7e36f81a2f0c1c0ac426df9576c5a38e4c778e1cddc0358bc20609cb9a3"
+    },
+    {
+      "index": 49,
+      "file": "iron_man/r04_c02.safetensors",
+      "seed": 9131049,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "797b712231bdeb901d9a8ccf3d5ee93f24d53d3254abdd4c41b4ae0f671e19e1"
+    },
+    {
+      "index": 50,
+      "file": "iron_man/r04_c03.safetensors",
+      "seed": 9131050,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "df1ce903ba2c21e6b7bc5b8eddd3328e2e88562a205bcf06dab3fed70bc3b5b9"
+    },
+    {
+      "index": 51,
+      "file": "iron_man/r04_c04.safetensors",
+      "seed": 9131051,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "ff9c126ad8706b61121afc1f127c30587aeb7c9de487d277a326ab8decc0f148"
+    },
+    {
+      "index": 52,
+      "file": "iron_man/r04_c05.safetensors",
+      "seed": 9131052,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "8b035f5dd5b52aee9d1137b6ebf600b0309fca1b08495c8a8aa5f9eaa1933c78"
+    },
+    {
+      "index": 53,
+      "file": "iron_man/r04_c06.safetensors",
+      "seed": 9131053,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "b980933dd0ad9a25ffd0a44efb5400fdef32c95bb0070bc7b91e9e1eb69a8c9f"
+    },
+    {
+      "index": 54,
+      "file": "iron_man/r04_c07.safetensors",
+      "seed": 9131054,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "a75d93d1f37f8c75ba4fbcc7670d69f3d2d6b4817007a834e4494e5ba6636802"
+    },
+    {
+      "index": 55,
+      "file": "iron_man/r04_c08.safetensors",
+      "seed": 9131055,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "2419cefa2e26de696d29715afb209b0ed64b6caeacb0219e088a72b3bbf06648"
+    },
+    {
+      "index": 56,
+      "file": "iron_man/r04_c09.safetensors",
+      "seed": 9131056,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "e2ec0d7d647da47bbfff246efd499a0343ef28af096e3d1996b15cbd9800526f"
+    },
+    {
+      "index": 57,
+      "file": "iron_man/r04_c10.safetensors",
+      "seed": 9131057,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "e7a6ce939ec5205a1e5921a7e06397570f027f6cb6d5fa52aab24f595377916b"
+    },
+    {
+      "index": 58,
+      "file": "iron_man/r04_c11.safetensors",
+      "seed": 9131058,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "4c8d1e9e72fa4f82ac56aeb53ecce5eda50e4089da97c23048c049820702dbef"
+    },
+    {
+      "index": 59,
+      "file": "iron_man/r04_c12.safetensors",
+      "seed": 9131059,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a silver railway depot, windows casting strong diagonal shadows, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "0f7f15588d554bdc65678b190f81cfdcce46548a710a8d0eafe6f6c372549126"
+    },
+    {
+      "index": 60,
+      "file": "iron_man/r04_c13.safetensors",
+      "seed": 9131060,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "a37bd256ef2bc930fc73ae98ab93edee0a7a60d7b1350e531ec3f778341f40ad"
+    },
+    {
+      "index": 61,
+      "file": "iron_man/r04_c14.safetensors",
+      "seed": 9131061,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "dd87cc412cdbdd6e485b0b77388df05a7e994793a4ab7241d2de0862b78fc8ea"
+    },
+    {
+      "index": 62,
+      "file": "iron_man/r04_c15.safetensors",
+      "seed": 9131062,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "87a3075b571839929861cda193cd8c33bb0261c0c364005709f659a9908fdd56"
+    },
+    {
+      "index": 63,
+      "file": "iron_man/r04_c16.safetensors",
+      "seed": 9131063,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "f88e7c507a0cb96f31b2989c8aeb30a6cc26465c61a24bae624ce64fccf7a91f"
+    },
+    {
+      "index": 64,
+      "file": "iron_man/r05_c01.safetensors",
+      "seed": 9131064,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "6a0086fb914a2dd3617248ba1ae5b79ac3464ecff091b0767c72edd8f98180cc"
+    },
+    {
+      "index": 65,
+      "file": "iron_man/r05_c02.safetensors",
+      "seed": 9131065,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "917c974e8f750ccf1d73602fac3685cb7260192af7c7517f04c206a070da8afb"
+    },
+    {
+      "index": 66,
+      "file": "iron_man/r05_c03.safetensors",
+      "seed": 9131066,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "a9d405fb1b6841dcb22f3bd39a63fbfe0027ce2f7862aa3c35a3e740dc66369f"
+    },
+    {
+      "index": 67,
+      "file": "iron_man/r05_c04.safetensors",
+      "seed": 9131067,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "237d2a5c78a40249a05642e6ac0f478bb4a1e3b157875f65e0faf969d242182f"
+    },
+    {
+      "index": 68,
+      "file": "iron_man/r05_c05.safetensors",
+      "seed": 9131068,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "4b1c5026869f4080d1017dbd21fc4be4e8e39edb62012a82e4eedcca672efaa7"
+    },
+    {
+      "index": 69,
+      "file": "iron_man/r05_c06.safetensors",
+      "seed": 9131069,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "9643e261e3103294b344106aec2ad5d1658d2db78e078053f9dd4ef07e3e082f"
+    },
+    {
+      "index": 70,
+      "file": "iron_man/r05_c07.safetensors",
+      "seed": 9131070,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "8c0489563aa0078d3bc829670765c7a078aef6182be50d8310ac3dacbb5a618e"
+    },
+    {
+      "index": 71,
+      "file": "iron_man/r05_c08.safetensors",
+      "seed": 9131071,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "2c8d1da3dff0777a0aaee4f409e24d4d7be9e24b10e5e59bbc5a1a6535c25c73"
+    },
+    {
+      "index": 72,
+      "file": "iron_man/r05_c09.safetensors",
+      "seed": 9131072,
+      "prompt": "Spider-Man crouching on a ledge on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "103829ec5d69127b693c90ad2617300e1b0ace10ee668d9d4e26f7ac60521e15"
+    },
+    {
+      "index": 73,
+      "file": "iron_man/r05_c10.safetensors",
+      "seed": 9131073,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "dbb37ae006a60dcdcfc2ee17d7b895d435fec20facab39fa6091902e493e7c41"
+    },
+    {
+      "index": 74,
+      "file": "iron_man/r05_c11.safetensors",
+      "seed": 9131074,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a silver railway depot, windows casting strong diagonal shadows, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "754ab48251f84a27fdc4a91659edbd4800779dc81e163230d4667da9e24a9206"
+    },
+    {
+      "index": 75,
+      "file": "iron_man/r05_c12.safetensors",
+      "seed": 9131075,
+      "prompt": "Spider-Man crouching on a ledge in a silver railway depot, windows casting strong diagonal shadows, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "59f8a3a040b7fb510130300fa127fe3763de05bf94f375b31a960711d7731d96"
+    },
+    {
+      "index": 76,
+      "file": "iron_man/r05_c13.safetensors",
+      "seed": 9131076,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "5cb495229f0db232d933eb71b7551b009259b68535e3970d9cc54e86764a260c"
+    },
+    {
+      "index": 77,
+      "file": "iron_man/r05_c14.safetensors",
+      "seed": 9131077,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "a89841b39c264e2e32015f24cb676fb0069592e116c421f7874fbd78449dcf65"
+    },
+    {
+      "index": 78,
+      "file": "iron_man/r05_c15.safetensors",
+      "seed": 9131078,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "fb4e7d6da9ed01b91dccae9c0e33233d01aefc478d2d24e402ccb2151e7f36e6"
+    },
+    {
+      "index": 79,
+      "file": "iron_man/r05_c16.safetensors",
+      "seed": 9131079,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "eb5c50c94ceca12be8bf87c9b717b3e60f56feed96d2971824501afbbfbd76f2"
+    },
+    {
+      "index": 80,
+      "file": "iron_man/r06_c01.safetensors",
+      "seed": 9131080,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "4cc1341d3d96480d5e2c212d0108537290755bf6aa0ca802876cef474ae40fa5"
+    },
+    {
+      "index": 81,
+      "file": "iron_man/r06_c02.safetensors",
+      "seed": 9131081,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "6104b31b087fde3d1fa6b725303b487c3625ae7da92a69a9554d5a78a7dfe58e"
+    },
+    {
+      "index": 82,
+      "file": "iron_man/r06_c03.safetensors",
+      "seed": 9131082,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "4682e5f8e93b8d4da085095a8b01c848a8493b6290b49051db2a6aed19b15512"
+    },
+    {
+      "index": 83,
+      "file": "iron_man/r06_c04.safetensors",
+      "seed": 9131083,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "4ed9ffaa10c91dd5e3aa68f4fb8f1766db2f6625ba3e8844b21c74ef65b3d7a0"
+    },
+    {
+      "index": 84,
+      "file": "iron_man/r06_c05.safetensors",
+      "seed": 9131084,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "499076c88ab10a7108cbee675170b58f5d68d0d1ff4a983880bc24fad958e0db"
+    },
+    {
+      "index": 85,
+      "file": "iron_man/r06_c06.safetensors",
+      "seed": 9131085,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "3d5f4941560d71d0e93d3ba934c59ddad2c425e45e71c1d31a90a7e0c38ab31d"
+    },
+    {
+      "index": 86,
+      "file": "iron_man/r06_c07.safetensors",
+      "seed": 9131086,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "6c074c32ecc95cee508816fa16dc9f3307cdc96dc0de354bacca511dd6f50053"
+    },
+    {
+      "index": 87,
+      "file": "iron_man/r06_c08.safetensors",
+      "seed": 9131087,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "ebf2ef5968f9324354bffb67782c6b9db81b8458075ea9e997758dab1890d809"
+    },
+    {
+      "index": 88,
+      "file": "iron_man/r06_c09.safetensors",
+      "seed": 9131088,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "fe57f2309cbb2f125c62db0be5f6abde9e8cda83b4ec9cfa532ccd41468b1878"
+    },
+    {
+      "index": 89,
+      "file": "iron_man/r06_c10.safetensors",
+      "seed": 9131089,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "3b82603cd8771930aa43abab68a1df1dafcf648c70dc115ca77a189ba19a9ab5"
+    },
+    {
+      "index": 90,
+      "file": "iron_man/r06_c11.safetensors",
+      "seed": 9131090,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "0d04c8f12f27d2a4d21e015e03a35564a5ee9a4d19c3b039806facd0a2ab0a50"
+    },
+    {
+      "index": 91,
+      "file": "iron_man/r06_c12.safetensors",
+      "seed": 9131091,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "11ba3238a0d9e5a893704ed79b7e994822ff5673b16b5f1349929006e95a1ab5"
+    },
+    {
+      "index": 92,
+      "file": "iron_man/r06_c13.safetensors",
+      "seed": 9131092,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "4453c9094b7b6feabc26fc82e0a00d40c4a7f4902a86e685dff589863573a7ad"
+    },
+    {
+      "index": 93,
+      "file": "iron_man/r06_c14.safetensors",
+      "seed": 9131093,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "d228742dd0bc73eeb2fd43bd30d180bd62366e91470044b9ade067c511fdabfb"
+    },
+    {
+      "index": 94,
+      "file": "iron_man/r06_c15.safetensors",
+      "seed": 9131094,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "428d7be9f7fda06f132df0d7268339306ec14eb6c72b39ed239129a52ed01d3b"
+    },
+    {
+      "index": 95,
+      "file": "iron_man/r06_c16.safetensors",
+      "seed": 9131095,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "5a948e9cde8748bd46570cc55dfd2213d0b197f3d3acec0c5c2fe0c358f47d95"
+    },
+    {
+      "index": 96,
+      "file": "iron_man/r07_c01.safetensors",
+      "seed": 9131096,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "b919344a45d8b7a64747990b4729920dfc02c9a15d833d77e2b05634a2f9f4ea"
+    },
+    {
+      "index": 97,
+      "file": "iron_man/r07_c02.safetensors",
+      "seed": 9131097,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "91bc0c6777e99d277c6e3e61b95d5a2a8b7df4e841bbaa047b7bf9737cb26c27"
+    },
+    {
+      "index": 98,
+      "file": "iron_man/r07_c03.safetensors",
+      "seed": 9131098,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a silver railway depot, windows casting strong diagonal shadows, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "9e4c60bd086d31bd08d3510788b40ea65a9e29ced470f3e012aa9147ce2510cd"
+    },
+    {
+      "index": 99,
+      "file": "iron_man/r07_c04.safetensors",
+      "seed": 9131099,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "71f9ec7234b8b44b1b3c95ee473078a32613f9da4d5093c4334b8670d08f39ae"
+    },
+    {
+      "index": 100,
+      "file": "iron_man/r07_c05.safetensors",
+      "seed": 9131100,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "68aec934405d9abaa8f3b4c4720997543e8503016edb866d7dbb1f24cb13eff3"
+    },
+    {
+      "index": 101,
+      "file": "iron_man/r07_c06.safetensors",
+      "seed": 9131101,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "6f5a038cda7cf1af7b410aa67ac6584ff3227464badb226a928d71b99526fd98"
+    },
+    {
+      "index": 102,
+      "file": "iron_man/r07_c07.safetensors",
+      "seed": 9131102,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "2b6e1eeac81592c04d8842526360dae4f192c5d460ecd41b650e9b719f3bc647"
+    },
+    {
+      "index": 103,
+      "file": "iron_man/r07_c08.safetensors",
+      "seed": 9131103,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "c7da71ed56da92e7f32e2a3e13c9067441a577e2f1f2b0b9f0c42ca43b6c34f7"
+    },
+    {
+      "index": 104,
+      "file": "iron_man/r07_c09.safetensors",
+      "seed": 9131104,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "a1731f76d1d0adc279553399a7ad4d5b050887fb591691bc90ce2d455dc047e0"
+    },
+    {
+      "index": 105,
+      "file": "iron_man/r07_c10.safetensors",
+      "seed": 9131105,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "7141552d47960568dca7952a8e8ae18c3ccfa0bf4c73634962aaa77d630111ce"
+    },
+    {
+      "index": 106,
+      "file": "iron_man/r07_c11.safetensors",
+      "seed": 9131106,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "23ac00e90dcbdd12b22756e3bb16cb56870147963d1f7a88073090d0be4a10a3"
+    },
+    {
+      "index": 107,
+      "file": "iron_man/r07_c12.safetensors",
+      "seed": 9131107,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "68a169bfd79f7664235a5114cdd1ec0848725084c40abd326fd103ca883d8ee6"
+    },
+    {
+      "index": 108,
+      "file": "iron_man/r07_c13.safetensors",
+      "seed": 9131108,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "7471e6420a2b5441f99306cc5b8582eea19c29a8e077387141de7e91f8615053"
+    },
+    {
+      "index": 109,
+      "file": "iron_man/r07_c14.safetensors",
+      "seed": 9131109,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "2cf31ba0dce5e311051971a8e11f9bd37f9b72d8b705f8411ca786881e48dd4f"
+    },
+    {
+      "index": 110,
+      "file": "iron_man/r07_c15.safetensors",
+      "seed": 9131110,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "9b2974ffd087579cc9f7286fe98b4e7b30d68cc033a365565a24f86f9237522e"
+    },
+    {
+      "index": 111,
+      "file": "iron_man/r07_c16.safetensors",
+      "seed": 9131111,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "2587d5d34db9420eebd60c1742c9359157dae85894206b9f11c881021538852e"
+    },
+    {
+      "index": 112,
+      "file": "iron_man/r08_c01.safetensors",
+      "seed": 9131112,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "791790d0953296b1a9e71e9b2e880a4058ff82a3d50d5b5ee8940551a023e948"
+    },
+    {
+      "index": 113,
+      "file": "iron_man/r08_c02.safetensors",
+      "seed": 9131113,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "e4f2a24ab738b053ba4392ab79b4081bdafb55b1c4452796956b0abcdf95f9cc"
+    },
+    {
+      "index": 114,
+      "file": "iron_man/r08_c03.safetensors",
+      "seed": 9131114,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "d3629ee24f7ecaaf61183610db236939a113185c7f494ce183c7aec473217f0a"
+    },
+    {
+      "index": 115,
+      "file": "iron_man/r08_c04.safetensors",
+      "seed": 9131115,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "f98c4505a3f58905c977f30f78a26538dcf0b6feabefdaee116c8fdb9da22cc4"
+    },
+    {
+      "index": 116,
+      "file": "iron_man/r08_c05.safetensors",
+      "seed": 9131116,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "c299d9202c72dcfac04112577c195bea51c0dff4f63a46d7ccb31a86d1f7fad8"
+    },
+    {
+      "index": 117,
+      "file": "iron_man/r08_c06.safetensors",
+      "seed": 9131117,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "23bc71be6a937373e05ddace2577c01500d92cd33fa1a015074771597b103588"
+    },
+    {
+      "index": 118,
+      "file": "iron_man/r08_c07.safetensors",
+      "seed": 9131118,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "60ec824119d26f3ab9858e1a64c54f193531721019113fe499cce84f0a320d60"
+    },
+    {
+      "index": 119,
+      "file": "iron_man/r08_c08.safetensors",
+      "seed": 9131119,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "710149e527f7893a32e21c7dca94489a79f4684e84759e5bf03ad5c93d828012"
+    },
+    {
+      "index": 120,
+      "file": "iron_man/r08_c09.safetensors",
+      "seed": 9131120,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "f09f185f27dd5355fbb3a5651ec011622d85830b32f5a7251ad640557fdb7f46"
+    },
+    {
+      "index": 121,
+      "file": "iron_man/r08_c10.safetensors",
+      "seed": 9131121,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "3c85e99152ac420a16c3dadce4df935d0d1eada59ef76d741f3df6591bc177f2"
+    },
+    {
+      "index": 122,
+      "file": "iron_man/r08_c11.safetensors",
+      "seed": 9131122,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "fb806817fdd126447f66ae4669ac5a8ca40259e75e8cf2d0c461a39e2d8467cd"
+    },
+    {
+      "index": 123,
+      "file": "iron_man/r08_c12.safetensors",
+      "seed": 9131123,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "ff0a46ccb83d4026704949d95063e127541fc64d703d7329e2a3eeacc44ee1ca"
+    },
+    {
+      "index": 124,
+      "file": "iron_man/r08_c13.safetensors",
+      "seed": 9131124,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "cce463053657af5dea1f0ebed555e24bdff820813fba8c7ece596b970f767ee4"
+    },
+    {
+      "index": 125,
+      "file": "iron_man/r08_c14.safetensors",
+      "seed": 9131125,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "66711035b104c3bdadf9a9b8c6c6f069a3f046a4c04f5874f6e29308395f90c8"
+    },
+    {
+      "index": 126,
+      "file": "iron_man/r08_c15.safetensors",
+      "seed": 9131126,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "761a99cdcb352c64552b9df1017dcb70aac4bedcebc4f7d16fd02cb85f6ff845"
+    },
+    {
+      "index": 127,
+      "file": "iron_man/r08_c16.safetensors",
+      "seed": 9131127,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "36b70673f16863a7153160342cf7e255f105e284ee4b230389e75e2980f1071a"
+    },
+    {
+      "index": 128,
+      "file": "iron_man/r09_c01.safetensors",
+      "seed": 9131128,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "0bf07e339bec7c31019df761aec6aa691adc1d67fe69677ad90e7d6285b22d6a"
+    },
+    {
+      "index": 129,
+      "file": "iron_man/r09_c02.safetensors",
+      "seed": 9131129,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "d1b596c6f009a07686837aecfab8cbdd7523e26ba935ff276c6b29d540043292"
+    },
+    {
+      "index": 130,
+      "file": "iron_man/r09_c03.safetensors",
+      "seed": 9131130,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "0d43f22a602a7cb76cf2836dc918b746a3855f1d3981fe5dd7181ed4bcddd2cd"
+    },
+    {
+      "index": 131,
+      "file": "iron_man/r09_c04.safetensors",
+      "seed": 9131131,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "38a6314bd32db9e2f35ab8530319fc81f3d949a0d646dac2f97dc4d2a313eb2f"
+    },
+    {
+      "index": 132,
+      "file": "iron_man/r09_c05.safetensors",
+      "seed": 9131132,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "bb55276064fdb2a988c0386431db4af3091bf57532d9dcbafea933aa69911ecb"
+    },
+    {
+      "index": 133,
+      "file": "iron_man/r09_c06.safetensors",
+      "seed": 9131133,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "562d055dda55f1f68deaf60c300df25a4524054ebc4bb7068c091581673545dc"
+    },
+    {
+      "index": 134,
+      "file": "iron_man/r09_c07.safetensors",
+      "seed": 9131134,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "6a13dbce29a59d2022fc29fd6d4c6d1a7d37e87bc5edcf81f71ef44624b23caf"
+    },
+    {
+      "index": 135,
+      "file": "iron_man/r09_c08.safetensors",
+      "seed": 9131135,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "49bcc6f2d47cf2f1a23571d7b3939ce1ca599676977afa6c60be661267c173d0"
+    },
+    {
+      "index": 136,
+      "file": "iron_man/r09_c09.safetensors",
+      "seed": 9131136,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "7a6e5a5b8c43b0736094eda19166a888f66ed20cee4120f81443906d6674df9b"
+    },
+    {
+      "index": 137,
+      "file": "iron_man/r09_c10.safetensors",
+      "seed": 9131137,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "76e358620cd426966e514ad65c5cf01f8af024610387ac2e4739328e84ee7d5e"
+    },
+    {
+      "index": 138,
+      "file": "iron_man/r09_c11.safetensors",
+      "seed": 9131138,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "b0e24808bc904f7c17175ce689a5693012701242f1573f7af76e2a97115d7868"
+    },
+    {
+      "index": 139,
+      "file": "iron_man/r09_c12.safetensors",
+      "seed": 9131139,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "a5fd014cad149f698b6089c3c9e942de57a0ad0718e7790b369b130debcaa69b"
+    },
+    {
+      "index": 140,
+      "file": "iron_man/r09_c13.safetensors",
+      "seed": 9131140,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "72d742b907fa30dae008bbb30c393eae83528a1217f6cc170be6cc78bbcfbe35"
+    },
+    {
+      "index": 141,
+      "file": "iron_man/r09_c14.safetensors",
+      "seed": 9131141,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "1b62d364d04b04b934c33260a1c9bc16e03119f40ebf1263018274fd5fe6bb04"
+    },
+    {
+      "index": 142,
+      "file": "iron_man/r09_c15.safetensors",
+      "seed": 9131142,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "6eea52368423696ee78bc444fe5f90272f8d69c1cabe73eb4102e676b618a1b9"
+    },
+    {
+      "index": 143,
+      "file": "iron_man/r09_c16.safetensors",
+      "seed": 9131143,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "c19360173de84257a117e2ab9634da37c2be930bd9577906998ba184299fc96c"
+    },
+    {
+      "index": 144,
+      "file": "iron_man/r10_c01.safetensors",
+      "seed": 9131144,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "8509d44c20fdb747532e0508bb5fafdd46a806899e501aeab33a27b787e8fb98"
+    },
+    {
+      "index": 145,
+      "file": "iron_man/r10_c02.safetensors",
+      "seed": 9131145,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "05fe1bdb0ade4dc9ca34ec90131265c696771e3a8fe958dad44625b0491b0e22"
+    },
+    {
+      "index": 146,
+      "file": "iron_man/r10_c03.safetensors",
+      "seed": 9131146,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "eb6ec774e745fa6b565979460f00eeccae526eafb0ef496a406f59a49ebd986f"
+    },
+    {
+      "index": 147,
+      "file": "iron_man/r10_c04.safetensors",
+      "seed": 9131147,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "09253c341888c31144ef06d26e82b494d0c512e63e5e2f51f05e7a1cc1a0ac9f"
+    },
+    {
+      "index": 148,
+      "file": "iron_man/r10_c05.safetensors",
+      "seed": 9131148,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "aca07eb97ea855c1d27aa6cdc218238a0b6f1215e75c6a003c18d81a2fbf6a5d"
+    },
+    {
+      "index": 149,
+      "file": "iron_man/r10_c06.safetensors",
+      "seed": 9131149,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "09095eadba54c397e57c114f7a2bc99b9336e1b00cc08b20a19bd48f60d64109"
+    },
+    {
+      "index": 150,
+      "file": "iron_man/r10_c07.safetensors",
+      "seed": 9131150,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "a5be53dc86736ad03796772153be1048af64fafb690d6216ca3aa161b2a70824"
+    },
+    {
+      "index": 151,
+      "file": "iron_man/r10_c08.safetensors",
+      "seed": 9131151,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "65e7b10cace20295d5195093d9740a108ec2764c919e8ea8eb9604fd7ddf067b"
+    },
+    {
+      "index": 152,
+      "file": "iron_man/r10_c09.safetensors",
+      "seed": 9131152,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "a018714514baed189095f0b40acdd6510e1eba657a7e133e7c15486b44dac4e5"
+    },
+    {
+      "index": 153,
+      "file": "iron_man/r10_c10.safetensors",
+      "seed": 9131153,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "1c75b6c85b2cccbd8ecc2b9d95cf7fd31b007e468143f70940030137d36146bc"
+    },
+    {
+      "index": 154,
+      "file": "iron_man/r10_c11.safetensors",
+      "seed": 9131154,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "5a2e21de5f45f44b09885d5dd2db0716006aad86702863849bca4e08da7ccc5d"
+    },
+    {
+      "index": 155,
+      "file": "iron_man/r10_c12.safetensors",
+      "seed": 9131155,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "97683d885a0c4be96e6cf466db76713a888e0ae0bf6ce51e7fec0162ae09ebf0"
+    },
+    {
+      "index": 156,
+      "file": "iron_man/r10_c13.safetensors",
+      "seed": 9131156,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "8f9750e042aa6b6d2a106df78a03390e6d738fab78d0aa96844debf3ec0ca6ce"
+    },
+    {
+      "index": 157,
+      "file": "iron_man/r10_c14.safetensors",
+      "seed": 9131157,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "24e68216abd55e8a1784ac3689623609a63c9ba804ae8152699704d455930ebd"
+    },
+    {
+      "index": 158,
+      "file": "iron_man/r10_c15.safetensors",
+      "seed": 9131158,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "7ee6f9e6986c3ad14a87fe87e0dab6ea306ffad743e5dcd0bde251b70895470c"
+    },
+    {
+      "index": 159,
+      "file": "iron_man/r10_c16.safetensors",
+      "seed": 9131159,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "f910b90efc5d956b0c342955dad7b79e9459d20397dbfd37fe00893a1e98f2b5"
+    },
+    {
+      "index": 160,
+      "file": "iron_man/r11_c01.safetensors",
+      "seed": 9131160,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "c95edf924bbc67483df609546ca284c8e81e4e4ce23d1663e31d82ddbdcf7063"
+    },
+    {
+      "index": 161,
+      "file": "iron_man/r11_c02.safetensors",
+      "seed": 9131161,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "28a885f95a03f53e073a53757514fdb561066fe216d4b1d900fb313a71f46e80"
+    },
+    {
+      "index": 162,
+      "file": "iron_man/r11_c03.safetensors",
+      "seed": 9131162,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "80de24082024e7f0adbbfa10cf917c9894d0497427bfbc84d9e1e54c9a58ad52"
+    },
+    {
+      "index": 163,
+      "file": "iron_man/r11_c04.safetensors",
+      "seed": 9131163,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "b4d63696dfdf7a21f0e97b3c71319e9d6da76a0a0b53b804ec307658b9678bb1"
+    },
+    {
+      "index": 164,
+      "file": "iron_man/r11_c05.safetensors",
+      "seed": 9131164,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "69ef1eb3b9f822d6648ec6dfef14c2d19f0a7b65a293cbf7cded8d2671db7a9a"
+    },
+    {
+      "index": 165,
+      "file": "iron_man/r11_c06.safetensors",
+      "seed": 9131165,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "502018e04c60fef0f97796bb3e05908b7f1525cc5f5de7880e6b4b4278e26770"
+    },
+    {
+      "index": 166,
+      "file": "iron_man/r11_c07.safetensors",
+      "seed": 9131166,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "1f84b1b7b4272aef1f2d15e1f513f1cfa4c5e9ad3dc2b956cfa1d902a55296e3"
+    },
+    {
+      "index": 167,
+      "file": "iron_man/r11_c08.safetensors",
+      "seed": 9131167,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "8f36a5061864b0a2f4f708d4bb45463db9ff2ac3c9f8932d3e6d53dc61208d56"
+    },
+    {
+      "index": 168,
+      "file": "iron_man/r11_c09.safetensors",
+      "seed": 9131168,
+      "prompt": "Spider-Man crouching on a ledge on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "52191b7edd0d5d74352f9c5ba1538c0f75cf94edb3ed2ee37200a5fdf489e982"
+    },
+    {
+      "index": 169,
+      "file": "iron_man/r11_c10.safetensors",
+      "seed": 9131169,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "68fa2a08ac72a7d47a17c1197edea2840c7500699ede8125080e4eff4624f79e"
+    },
+    {
+      "index": 170,
+      "file": "iron_man/r11_c11.safetensors",
+      "seed": 9131170,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "9034ed52e6bd69e9ff99085afc18e0d83bace228d18ee4878fbdecea78b91fa3"
+    },
+    {
+      "index": 171,
+      "file": "iron_man/r11_c12.safetensors",
+      "seed": 9131171,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "dc47c931aedc28e83d7b4528dba0f9c6c2e8bf29877e513b79de1a99d990d748"
+    },
+    {
+      "index": 172,
+      "file": "iron_man/r11_c13.safetensors",
+      "seed": 9131172,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "9ffc6526acac9182375c954bf3ba3772748fb8caa480ee0d0e0006137fa3167e"
+    },
+    {
+      "index": 173,
+      "file": "iron_man/r11_c14.safetensors",
+      "seed": 9131173,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "df872ebd3fc77b52bd753c2cef87f8c2a50c4d81ba7f74dab50892acc0457fd3"
+    },
+    {
+      "index": 174,
+      "file": "iron_man/r11_c15.safetensors",
+      "seed": 9131174,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "c4d0462202ed07e2b7e66fd49aa13769ea74d07cc5196549638b4072095ffa09"
+    },
+    {
+      "index": 175,
+      "file": "iron_man/r11_c16.safetensors",
+      "seed": 9131175,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "5d5c6bb5f29c80f221276b4f066e53189ce4a411364109e6197be6ad4a52d792"
+    },
+    {
+      "index": 176,
+      "file": "iron_man/r12_c01.safetensors",
+      "seed": 9131176,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "92bf15a565fc860979ceb823834ddb532273665bad8eeb39c949163704295539"
+    },
+    {
+      "index": 177,
+      "file": "iron_man/r12_c02.safetensors",
+      "seed": 9131177,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "e071f121aec163cfff7733764e344506a2502d263008831610a6d62411300fe1"
+    },
+    {
+      "index": 178,
+      "file": "iron_man/r12_c03.safetensors",
+      "seed": 9131178,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "91609d3fa5448de42cb3f14f8c50228c48b49071337d4b3ea478f4c27e1eca08"
+    },
+    {
+      "index": 179,
+      "file": "iron_man/r12_c04.safetensors",
+      "seed": 9131179,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "5c3609a03a728d941ff9d8b388323950f2d95c5fd634e66a566462dd2a94a034"
+    },
+    {
+      "index": 180,
+      "file": "iron_man/r12_c05.safetensors",
+      "seed": 9131180,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "57ae7dcab1bc6abde5556713c785d3cdd16a62d2fc58a2e97bbf9a28e3455285"
+    },
+    {
+      "index": 181,
+      "file": "iron_man/r12_c06.safetensors",
+      "seed": 9131181,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "22233c094474b19e913d636a59e4f23e40c325fcc0639c61612b1082ff6e016e"
+    },
+    {
+      "index": 182,
+      "file": "iron_man/r12_c07.safetensors",
+      "seed": 9131182,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "59e52e67f03dbba2ddabded3da2770482ebafba1dbfb138731da4aa15cc2b6d2"
+    },
+    {
+      "index": 183,
+      "file": "iron_man/r12_c08.safetensors",
+      "seed": 9131183,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "5af9f7beffb82d98946f18b269244fd3c2268781d046dd41a6f94b31f2367925"
+    },
+    {
+      "index": 184,
+      "file": "iron_man/r12_c09.safetensors",
+      "seed": 9131184,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "cc1a8200891d134fb7b04dcf891e5c4d9ff3a6e86026e69826ac480912e4ccf8"
+    },
+    {
+      "index": 185,
+      "file": "iron_man/r12_c10.safetensors",
+      "seed": 9131185,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "cf61f02b5f5e29c3c92d6d170e1548fa350683518ab2fc97ec4e74ad25c423a5"
+    },
+    {
+      "index": 186,
+      "file": "iron_man/r12_c11.safetensors",
+      "seed": 9131186,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "707b93b731dd174faa35248ce1b935826162f6e1e55f79e59b2e37dd564dfde0"
+    },
+    {
+      "index": 187,
+      "file": "iron_man/r12_c12.safetensors",
+      "seed": 9131187,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "e7032c0ed04049bfe76743fefafbf25b8b8e3b2cc45b110bf0b8783e6c3331d8"
+    },
+    {
+      "index": 188,
+      "file": "iron_man/r12_c13.safetensors",
+      "seed": 9131188,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "2358e53705ee985426b8f42f5d51ccc4f1874ddff0530586c477b57106ba1f67"
+    },
+    {
+      "index": 189,
+      "file": "iron_man/r12_c14.safetensors",
+      "seed": 9131189,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "ed10268b1b39d897bf0302366e34f23647434ac6be6e1604a62b00bc650085c5"
+    },
+    {
+      "index": 190,
+      "file": "iron_man/r12_c15.safetensors",
+      "seed": 9131190,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "e0e7d1386f43a06676e9359232f904382f4cad8d839b5d12b94534f065fd1fba"
+    },
+    {
+      "index": 191,
+      "file": "iron_man/r12_c16.safetensors",
+      "seed": 9131191,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "53a3f347bc9b2ca4a1fa2e8ca6b831a7d1d210a6782a42300652ece7140cea13"
+    },
+    {
+      "index": 192,
+      "file": "iron_man/r13_c01.safetensors",
+      "seed": 9131192,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "6a61fe6acece81afddbc6f723d75da90a823742ef026f0806c61ae29d402975f"
+    },
+    {
+      "index": 193,
+      "file": "iron_man/r13_c02.safetensors",
+      "seed": 9131193,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "5d64b9ca52874295313fe4f2d1ce85e56df8bb4f6879f0a1fb050e80756459c9"
+    },
+    {
+      "index": 194,
+      "file": "iron_man/r13_c03.safetensors",
+      "seed": 9131194,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "d8585bc93a3187beb077cb199a908bb767027fb3cfb05d92acf3a54605294a8c"
+    },
+    {
+      "index": 195,
+      "file": "iron_man/r13_c04.safetensors",
+      "seed": 9131195,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "644731cfe012fa3cea701cdbe2312ff59cf2c9b2853525abf612e80763ebfe82"
+    },
+    {
+      "index": 196,
+      "file": "iron_man/r13_c05.safetensors",
+      "seed": 9131196,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "46da24c381d2d43b7b006fe8c2d99a3890413fafff8a439dff18e0bfd1bd0829"
+    },
+    {
+      "index": 197,
+      "file": "iron_man/r13_c06.safetensors",
+      "seed": 9131197,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "298656009c35fd4ee4661ffb82f38e2d682ccdfd6c42e6dff1ef0a255c4ad560"
+    },
+    {
+      "index": 198,
+      "file": "iron_man/r13_c07.safetensors",
+      "seed": 9131198,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "d166f41b45cde11f6d5e38c985764b185411c7a4447a7870581191424e08cfc9"
+    },
+    {
+      "index": 199,
+      "file": "iron_man/r13_c08.safetensors",
+      "seed": 9131199,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "e8ec3d8903a498f3499256f300c0670442a5c6da806331a3c3515b19b135f07f"
+    },
+    {
+      "index": 200,
+      "file": "iron_man/r13_c09.safetensors",
+      "seed": 9131200,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "eda22c6053673602e32c0b466ec9d022d03fa8889ee17307c27d1820e19d55c2"
+    },
+    {
+      "index": 201,
+      "file": "iron_man/r13_c10.safetensors",
+      "seed": 9131201,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "2aeeb3d05d69bde0e5b6f58e8d8573d5fd43c7086edfc38565c9d072b7173bfc"
+    },
+    {
+      "index": 202,
+      "file": "iron_man/r13_c11.safetensors",
+      "seed": 9131202,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "7fe0505b359c54b05bf9870ac8646e99ff0ede85cef107f5b42d24b572bcadd8"
+    },
+    {
+      "index": 203,
+      "file": "iron_man/r13_c12.safetensors",
+      "seed": 9131203,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "517dd8b717ff8c91b7e27cc4140d32548217e3654783c09994126b4866a946e9"
+    },
+    {
+      "index": 204,
+      "file": "iron_man/r13_c13.safetensors",
+      "seed": 9131204,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "b2fd2c1e324068f552aad2fe0e39da6236939020d0eccd0aab413e234875d0e8"
+    },
+    {
+      "index": 205,
+      "file": "iron_man/r13_c14.safetensors",
+      "seed": 9131205,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "425656570b078ec4734dc1e976d4054bc54309884dcf6f10b47822f14a0f0a9b"
+    },
+    {
+      "index": 206,
+      "file": "iron_man/r13_c15.safetensors",
+      "seed": 9131206,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "18b57bb6437918ebfa6e8e07e4cd166b465070eada1dbae3aa35b14e0438a187"
+    },
+    {
+      "index": 207,
+      "file": "iron_man/r13_c16.safetensors",
+      "seed": 9131207,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "391d647c55c8e7fb363cc9eb79c5db8787114b6339423732d560e67b242af0f0"
+    },
+    {
+      "index": 208,
+      "file": "iron_man/r14_c01.safetensors",
+      "seed": 9131208,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "cb535e73fef9467e28608e5289cae62fabbaf86a9adee66caa5009ef65579420"
+    },
+    {
+      "index": 209,
+      "file": "iron_man/r14_c02.safetensors",
+      "seed": 9131209,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "8f81c4289bb5f218aa6eb357bedeb40e1a9363b4877bff049419bafa1a0741d7"
+    },
+    {
+      "index": 210,
+      "file": "iron_man/r14_c03.safetensors",
+      "seed": 9131210,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "0972793d4b51b2aa01fef8aa4d670984f23a7e77bbb8c9eec875a255a607498f"
+    },
+    {
+      "index": 211,
+      "file": "iron_man/r14_c04.safetensors",
+      "seed": 9131211,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "3bafeabc69de345c71e67b8cf24d370d8ed8b7aaf723c09cbebae387c337aa2c"
+    },
+    {
+      "index": 212,
+      "file": "iron_man/r14_c05.safetensors",
+      "seed": 9131212,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "3c4c05ec52f4dfd4aacd04ded18cf24239761f6bcbf5b457a1c8a52763e4c100"
+    },
+    {
+      "index": 213,
+      "file": "iron_man/r14_c06.safetensors",
+      "seed": 9131213,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "5a1ce77d15307b043ff934e9e8aa42f46b9f9ff7b604efb35cbe4994ae80b1f5"
+    },
+    {
+      "index": 214,
+      "file": "iron_man/r14_c07.safetensors",
+      "seed": 9131214,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "f390ef491f1661394d019eb21461c69ec8aba0625ce198ef37416144f82eb998"
+    },
+    {
+      "index": 215,
+      "file": "iron_man/r14_c08.safetensors",
+      "seed": 9131215,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "b839f16fbcd743d26f1cea79fa9872016887ea02e257233f9748dd2bec819705"
+    },
+    {
+      "index": 216,
+      "file": "iron_man/r14_c09.safetensors",
+      "seed": 9131216,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "19b6a49ac6d0c71276e1a25bcd0b7c8e92bb09b90a4405c2183ce0694671c96b"
+    },
+    {
+      "index": 217,
+      "file": "iron_man/r14_c10.safetensors",
+      "seed": 9131217,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "f9913235ebcd39b6910627584992f959aae69d58c01b040dd6a572f96f26bf7d"
+    },
+    {
+      "index": 218,
+      "file": "iron_man/r14_c11.safetensors",
+      "seed": 9131218,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "62c9292eecd5f94e49d4c601ee1c7ea65232bec57ab58c6c33d9a5c17093bbb0"
+    },
+    {
+      "index": 219,
+      "file": "iron_man/r14_c12.safetensors",
+      "seed": 9131219,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "650bd76bf5329010fe3a26089bf1e4f3712ffdb1b7960bb7ebd5281d0a69858d"
+    },
+    {
+      "index": 220,
+      "file": "iron_man/r14_c13.safetensors",
+      "seed": 9131220,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "c97c84e7161196d910786cf0e7ff301788086cd47bb334273a1acfdc142fb17e"
+    },
+    {
+      "index": 221,
+      "file": "iron_man/r14_c14.safetensors",
+      "seed": 9131221,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "998900296cdfae7a334ea99750472dd2082f153663ba2af9030abbb18979e630"
+    },
+    {
+      "index": 222,
+      "file": "iron_man/r14_c15.safetensors",
+      "seed": 9131222,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "d48bb15814c4293e18d805d69290296009cef38bfc2e85289e30fa082ee62705"
+    },
+    {
+      "index": 223,
+      "file": "iron_man/r14_c16.safetensors",
+      "seed": 9131223,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "4920243737d1d217d706aa9da32368ad24b70495071546d35a064e33c7169585"
+    },
+    {
+      "index": 224,
+      "file": "iron_man/r15_c01.safetensors",
+      "seed": 9131224,
+      "prompt": "Spider-Man crouching on a ledge on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "9270712278e1be7a0f2e4cac68b4b5c7dc0df74caa97eedbb80204ba5aaf7b78"
+    },
+    {
+      "index": 225,
+      "file": "iron_man/r15_c02.safetensors",
+      "seed": 9131225,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "3d1578c62527c313997956756ce79503058d6a7884aff65447f09f8f480f6b12"
+    },
+    {
+      "index": 226,
+      "file": "iron_man/r15_c03.safetensors",
+      "seed": 9131226,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "fc9143d9153e78c331d849a3da4a00ebef3c3aa97cd24eb55ac4f2e89b68f9e2"
+    },
+    {
+      "index": 227,
+      "file": "iron_man/r15_c04.safetensors",
+      "seed": 9131227,
+      "prompt": "Spider-Man crouching on a ledge on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "b0e4ab7482fb2b9b79a038e37e5976e2f64f2eeaf79ec8c61e4ccbf0c605f9d2"
+    },
+    {
+      "index": 228,
+      "file": "iron_man/r15_c05.safetensors",
+      "seed": 9131228,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "4b13cbdafcfdf8a7a03e7996e79e7b17649ddcfff893948a0d079bda1531a0d9"
+    },
+    {
+      "index": 229,
+      "file": "iron_man/r15_c06.safetensors",
+      "seed": 9131229,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "3cb9a33484028065ba4423fbd5b1ca597cdf9e362bc84687d8e625779465939c"
+    },
+    {
+      "index": 230,
+      "file": "iron_man/r15_c07.safetensors",
+      "seed": 9131230,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "56cb2b4875c082a42a5726da70d149221d21f7db3bf2d61629675590baad25af"
+    },
+    {
+      "index": 231,
+      "file": "iron_man/r15_c08.safetensors",
+      "seed": 9131231,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "d8d7b034f55e2c4f6f54d69453f2880f1ba157c306d863facea59debf16d930a"
+    },
+    {
+      "index": 232,
+      "file": "iron_man/r15_c09.safetensors",
+      "seed": 9131232,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "b5601185c95709e5ebbde5f357a78d09478a3bd3c0bb688986c95927bf0a939c"
+    },
+    {
+      "index": 233,
+      "file": "iron_man/r15_c10.safetensors",
+      "seed": 9131233,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "3bc6e6ec17fae844ee1705e14d5f82755004af7f15d88f7cc05e6646ef97ba1c"
+    },
+    {
+      "index": 234,
+      "file": "iron_man/r15_c11.safetensors",
+      "seed": 9131234,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "abf98eaa790f1dfba6d9af59132e3e4ab02da55ba311f326d9790b849380acd3"
+    },
+    {
+      "index": 235,
+      "file": "iron_man/r15_c12.safetensors",
+      "seed": 9131235,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "02a8f3a2a11609794a4f74598c3ce99f711b278ccdb37de8974da40c7f84092f"
+    },
+    {
+      "index": 236,
+      "file": "iron_man/r15_c13.safetensors",
+      "seed": 9131236,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "34ab70a96c90d9f7b5e1dac41cabebecb5932a226dcd763dad20c4e82ae44758"
+    },
+    {
+      "index": 237,
+      "file": "iron_man/r15_c14.safetensors",
+      "seed": 9131237,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "53c72d82fa8f0497c07d350d391ea6983c4489679a94fb164b50b6e503b1ab60"
+    },
+    {
+      "index": 238,
+      "file": "iron_man/r15_c15.safetensors",
+      "seed": 9131238,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "f5b61db6dddb44384f92b76a34973151e8d621a5aa7b8df435628562cc871942"
+    },
+    {
+      "index": 239,
+      "file": "iron_man/r15_c16.safetensors",
+      "seed": 9131239,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "3b3f631a70c832343cfa435cb31da25b512380c9b2695c41d423f2c40861fb1c"
+    },
+    {
+      "index": 240,
+      "file": "iron_man/r16_c01.safetensors",
+      "seed": 9131240,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "79fa68abe37e62b9e0a6906e826380d5dedb6803a2428cbfbe6e6ac7ffb5935d"
+    },
+    {
+      "index": 241,
+      "file": "iron_man/r16_c02.safetensors",
+      "seed": 9131241,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "4bd6e9bc8a168d0b3a29b22696874cdaa25aa317b2469bb99eea235da54640d6"
+    },
+    {
+      "index": 242,
+      "file": "iron_man/r16_c03.safetensors",
+      "seed": 9131242,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "418d35fe112d15eea1989355c17683e57bffc473b550ff4369b453d5567df26d"
+    },
+    {
+      "index": 243,
+      "file": "iron_man/r16_c04.safetensors",
+      "seed": 9131243,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "993f9427c391b461677a197b8e15530361234c4044996f47ead612fb842e9daf"
+    },
+    {
+      "index": 244,
+      "file": "iron_man/r16_c05.safetensors",
+      "seed": 9131244,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "3a7cf0675add5f27e66c3d5170b672eb88bdf90dec0100cd3f224cfbe7de300b"
+    },
+    {
+      "index": 245,
+      "file": "iron_man/r16_c06.safetensors",
+      "seed": 9131245,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "5974f3af370b7b9440f8f0ac901d10f9a4ad800c3ad5ecebec56a9686616afdc"
+    },
+    {
+      "index": 246,
+      "file": "iron_man/r16_c07.safetensors",
+      "seed": 9131246,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "323fede1307cb8e29ced8ece5eefacd85dd9cf9a742a592c3ba35085c0599d12"
+    },
+    {
+      "index": 247,
+      "file": "iron_man/r16_c08.safetensors",
+      "seed": 9131247,
+      "prompt": "Spider-Man crouching on a ledge in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "9d9dfbef27e8d160041498936792d9e9928e5d35747153e33a0be91e2a784009"
+    },
+    {
+      "index": 248,
+      "file": "iron_man/r16_c09.safetensors",
+      "seed": 9131248,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "6b105cf9cd5acc65ed99899af31d7aab352a740ea4964cdc99b26cf85273a7bc"
+    },
+    {
+      "index": 249,
+      "file": "iron_man/r16_c10.safetensors",
+      "seed": 9131249,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "49116861b1af9aa37b0c39c6e46458deedd6e83a3d3e5f34b801aee65001d277"
+    },
+    {
+      "index": 250,
+      "file": "iron_man/r16_c11.safetensors",
+      "seed": 9131250,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "89e10e379143bd446ae79dc4d069beb0d095e12bfa2fa7f88a6b375f9eff57c3"
+    },
+    {
+      "index": 251,
+      "file": "iron_man/r16_c12.safetensors",
+      "seed": 9131251,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "c03852776be1091a35eb632791799c74d03a972989620310ed1403fb228ea347"
+    },
+    {
+      "index": 252,
+      "file": "iron_man/r16_c13.safetensors",
+      "seed": 9131252,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "05ab029ae6730772ff102b5d94132cc7d3a3a4d20426f53dce919cc6b458286e"
+    },
+    {
+      "index": 253,
+      "file": "iron_man/r16_c14.safetensors",
+      "seed": 9131253,
+      "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "0829bdf9a0e7582f7f48e559cbf312becd912749ff0319377e79824b390cdd04"
+    },
+    {
+      "index": 254,
+      "file": "iron_man/r16_c15.safetensors",
+      "seed": 9131254,
+      "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "9545ac9e40b3a4647a6bd42b23112155b70883504d6e348f8ada86761b49980e"
+    },
+    {
+      "index": 255,
+      "file": "iron_man/r16_c16.safetensors",
+      "seed": 9131255,
+      "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+      "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+      "sha256": "c6e04822ed900abcca0797d54ae41bf8232317959fa90ad52d90f284c269e2a9"
+    }
+  ]
+}

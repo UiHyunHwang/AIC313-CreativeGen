@@ -1,0 +1,10 @@
+{
+  "index": 64,
+  "seed": 9130064,
+  "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+  "file": "spider_man/r05_c01.png",
+  "sha256": "bd69d6a42c0cc9ba4601e3fc5357fb42406c41fdf6943262509617a66b034735",
+  "active": true,
+  "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+  "generator": "2e9ea06d3d317df3eba7d090d5b4644db0732cfd05993b8419567a4357305d86"
+}

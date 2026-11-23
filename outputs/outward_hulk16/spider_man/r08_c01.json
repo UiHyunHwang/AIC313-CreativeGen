@@ -1,0 +1,10 @@
+{
+  "index": 112,
+  "file": "spider_man/r08_c01.safetensors",
+  "seed": 9364112,
+  "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+  "scene": true,
+  "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+  "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+  "sha256": "2a079e83cef3ec36a66e60af44c37bd498f371645eb835ff3cfb04bd6bdee7a1"
+}

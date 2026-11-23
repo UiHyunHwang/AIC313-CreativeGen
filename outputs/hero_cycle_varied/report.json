@@ -1,0 +1,78 @@
+{
+  "boards": [
+    {
+      "node": "spider",
+      "linked_node": "captain",
+      "row_one_based": 16,
+      "column_one_based": 15,
+      "mosaic_sha256": "8a761a399f9a313293da43d97137fe9c4cc606dccd94f16461aaaa07e503d3a5",
+      "overview_sha256": "fb668a6ea797dbcfcb29ddd91c589542f7070a030c10f8c7e15745395f644c70",
+      "outgoing_cell_pixel_sha256": "84f48fad4ce3f8b45bc789c04975ccf1e01b25254b876a4faca4e350ccf01d32",
+      "overview_pixel_sha256": "22d0a46363846454d18e62c4da68abc320caae01a613bdbdb8f5a12f8978e612"
+    },
+    {
+      "node": "captain",
+      "linked_node": "iron",
+      "row_one_based": 11,
+      "column_one_based": 14,
+      "mosaic_sha256": "640cc99a024ab8ca69b1efa3bd4eebeb663053c614d97941c5556d5c4e0227cd",
+      "overview_sha256": "9f01bf5af152c4c6d1af9ebe33b44ca867bd19e04d532f163e4c5637c651a308",
+      "outgoing_cell_pixel_sha256": "b2984a31a0f4b8735b948f88b42e7e96f8154c5c16f4b38b2b4bdf0b242ad5f0",
+      "overview_pixel_sha256": "84f48fad4ce3f8b45bc789c04975ccf1e01b25254b876a4faca4e350ccf01d32"
+    },
+    {
+      "node": "iron",
+      "linked_node": "spider",
+      "row_one_based": 4,
+      "column_one_based": 3,
+      "mosaic_sha256": "d03ef8df5134507db3b73eaaf4e8f043ced6bf3d11a64494c35e5c0301837ebd",
+      "overview_sha256": "8fc712ca9824f5be27a45282f17c418c5ca2afe27ae84b18018ffa06cac8e8fc",
+      "outgoing_cell_pixel_sha256": "22d0a46363846454d18e62c4da68abc320caae01a613bdbdb8f5a12f8978e612",
+      "overview_pixel_sha256": "b2984a31a0f4b8735b948f88b42e7e96f8154c5c16f4b38b2b4bdf0b242ad5f0"
+    }
+  ],
+  "gif": {
+    "file": "ironman_cycle.gif",
+    "sha256": "7111731e765297687c1d8b8394645f695a982f2db26646f043568b58d69ff8b6",
+    "width": 704,
+    "frames": 271,
+    "duration_ms": 30020,
+    "loop": 0,
+    "first_last_rgb_identical": true,
+    "stop_rgb_mae_255": {
+      "0": 5.933737754821777,
+      "1": 5.941315650939941,
+      "2": 2.4795002937316895,
+      "3": 5.933737754821777
+    }
+  },
+  "hold_ms": 5500,
+  "zoom_ms": 4500,
+  "thumbnail_iterations": 4,
+  "prompts": [
+    "A front-facing portrait of Iron Man fills the frame with a bold red-and-gold helmet, bright white eyes, and a plain dark background.",
+    "spider man",
+    "captain america",
+    "iron man"
+  ],
+  "raw_runs": [
+    "../ironman_spider_16x16_20261119_064518/sdxl_mosaic_20261119_064525_817477_seed42",
+    "../nested_captain_8_16/inner_16/sdxl_mosaic_20261122_030845_824879_seed42",
+    "third/sdxl_mosaic_20261122_061235_145167_seed42"
+  ],
+  "sample_counts": {
+    "opening_target": 1,
+    "tile_samples_per_level": [
+      256,
+      256,
+      256
+    ],
+    "directly_rendered_leaves_per_level": [
+      255,
+      255,
+      255
+    ]
+  },
+  "selection": "Non-generative CLIP full and 32px close-up margin, best of 256 for each of the two zoom destinations. Return slot chosen by minimum 4x4 RGB distance to opening overview. Seeds retained in source recipes.",
+  "credits": "PhotoQuilt; official SDXL base 1.0; DDIM; Diffusers; openai/clip-vit-base-patch32; PyTorch; Pillow. Opening prompt and scoring text brainstormed with Codex. Code assistance from Codex."
+}

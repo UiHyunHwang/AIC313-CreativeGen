@@ -1,0 +1,50 @@
+{
+  "gif": {
+    "duration_ms": 50020,
+    "frames": 448,
+    "pauses_ms": [
+      5500,
+      5500,
+      5500,
+      5500,
+      5500
+    ],
+    "first_last_identical": true,
+    "captain_before_after_identical": true,
+    "sha256": "14a16b219e0c619dd1dde03732bd344e776db702ef5698aeeacd178818b994f2"
+  },
+  "new_board": "outputs/varied_detour_left/new_board/sdxl_mosaic_20261122_081049_874381_seed42",
+  "new_sdxl_tile_count": 256,
+  "edges": [
+    {
+      "parent": 0,
+      "child": 1,
+      "row": 16,
+      "column": 15,
+      "sha256": "93a8b05700636146196c56b0f26f23fc2c50cac98a5049aa89fef15fb6aa54c2"
+    },
+    {
+      "parent": 1,
+      "child": 2,
+      "row": 11,
+      "column": 14,
+      "sha256": "ede52e094675acac15a57f1c104a5b12d88bcf4698b5434f820ad7d3475f2685"
+    },
+    {
+      "parent": 2,
+      "child": 3,
+      "row": 15,
+      "column": 2,
+      "sha256": "0e396a31523209bb75eb9010c595c3f354b844d341a839ec9ce4ce4c63b4af37"
+    },
+    {
+      "parent": 2,
+      "child": 0,
+      "row": 6,
+      "column": 7,
+      "sha256": "8fa54cd44548e8b747395f5942aa24019f6a52da960568236d6501a36a39c9f1"
+    }
+  ],
+  "generation_seconds": 1383.9115259433165,
+  "old_slot_restored": true
+}

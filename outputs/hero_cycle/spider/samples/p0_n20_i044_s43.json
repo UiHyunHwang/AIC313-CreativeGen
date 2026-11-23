@@ -1,0 +1,12 @@
+{
+  "index": 44,
+  "prompt": "spider man",
+  "steps": 20,
+  "seed": 43,
+  "file": "spider/samples/p0_n20_i044_s43",
+  "clip": 0.0226801335811615,
+  "full_clip": 0.02045956254005432,
+  "small_clip": 0.024900704622268677,
+  "rgb_mae": 0.04133987054228783,
+  "score": 0.014412159472703934
+}

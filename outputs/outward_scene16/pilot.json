@@ -1,0 +1,114 @@
+[
+  {
+    "hero": "spider_man",
+    "index": 33,
+    "seed": 9130033,
+    "control": "outward_palette16/spider_man/r03_c02.png",
+    "scene": "outward_scene16/spider_man/r03_c02.png"
+  },
+  {
+    "hero": "spider_man",
+    "index": 76,
+    "seed": 9130076,
+    "control": "outward_palette16/spider_man/r05_c13.png",
+    "scene": "outward_scene16/spider_man/r05_c13.png"
+  },
+  {
+    "hero": "spider_man",
+    "index": 207,
+    "seed": 9130207,
+    "control": "outward_palette16/spider_man/r13_c16.png",
+    "scene": "outward_scene16/spider_man/r13_c16.png"
+  },
+  {
+    "hero": "spider_man",
+    "index": 248,
+    "seed": 9130248,
+    "control": "outward_palette16/spider_man/r16_c09.png",
+    "scene": "outward_scene16/spider_man/r16_c09.png"
+  },
+  {
+    "hero": "iron_man",
+    "index": 17,
+    "seed": 9131017,
+    "control": "outward_scene16/pilot_controls/r02_c02.png",
+    "scene": "outward_scene16/iron_man/r02_c02.png"
+  },
+  {
+    "hero": "iron_man",
+    "index": 20,
+    "seed": 9131020,
+    "control": "outward_scene16/pilot_controls/r02_c05.png",
+    "scene": "outward_scene16/iron_man/r02_c05.png"
+  },
+  {
+    "hero": "iron_man",
+    "index": 34,
+    "seed": 9131034,
+    "control": "outward_scene16/pilot_controls/r03_c03.png",
+    "scene": "outward_scene16/iron_man/r03_c03.png"
+  },
+  {
+    "hero": "iron_man",
+    "index": 86,
+    "seed": 9131086,
+    "control": "outward_scene16/pilot_controls/r06_c07.png",
+    "scene": "outward_scene16/iron_man/r06_c07.png"
+  },
+  {
+    "hero": "iron_man",
+    "index": 104,
+    "seed": 9131104,
+    "control": "outward_scene16/pilot_controls/r07_c09.png",
+    "scene": "outward_scene16/iron_man/r07_c09.png"
+  },
+  {
+    "hero": "iron_man",
+    "index": 127,
+    "seed": 9131127,
+    "control": "outward_scene16/pilot_controls/r08_c16.png",
+    "scene": "outward_scene16/iron_man/r08_c16.png"
+  },
+  {
+    "hero": "iron_man",
+    "index": 156,
+    "seed": 9131156,
+    "control": "outward_scene16/pilot_controls/r10_c13.png",
+    "scene": "outward_scene16/iron_man/r10_c13.png"
+  },
+  {
+    "hero": "iron_man",
+    "index": 160,
+    "seed": 9131160,
+    "control": "outward_scene16/pilot_controls/r11_c01.png",
+    "scene": "outward_scene16/iron_man/r11_c01.png"
+  },
+  {
+    "hero": "captain_america",
+    "index": 49,
+    "seed": 9132049,
+    "control": "outward_palette16/captain_america/r04_c02.png",
+    "scene": "outward_scene16/captain_america/r04_c02.png"
+  },
+  {
+    "hero": "captain_america",
+    "index": 50,
+    "seed": 9132050,
+    "control": "outward_palette16/captain_america/r04_c03.png",
+    "scene": "outward_scene16/captain_america/r04_c03.png"
+  },
+  {
+    "hero": "captain_america",
+    "index": 63,
+    "seed": 9132063,
+    "control": "outward_palette16/captain_america/r04_c16.png",
+    "scene": "outward_scene16/captain_america/r04_c16.png"
+  },
+  {
+    "hero": "captain_america",
+    "index": 151,
+    "seed": 9132151,
+    "control": "outward_palette16/captain_america/r10_c08.png",
+    "scene": "outward_scene16/captain_america/r10_c08.png"
+  }
+]

@@ -1,0 +1,2311 @@
+{
+  "subject": "spider_man",
+  "leaf": "captain_america",
+  "tiles": [
+    {
+      "index": 0,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130000,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r01_c01.png",
+      "sha256": "2e98c97d6598d045f56f260ee1d7149d0ad2aa9e111d57f4a1fd8d086f7e67b2"
+    },
+    {
+      "index": 1,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130001,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r01_c02.png",
+      "sha256": "591ef40e66210956f19851e4da3ce04a0e9cb01772cff68b5407137ec7fd7cc2"
+    },
+    {
+      "index": 2,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130002,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r01_c03.png",
+      "sha256": "07d76de0fa903271abbcb0d64b67b24e6643830b9d15e947988e34493e34de63"
+    },
+    {
+      "index": 3,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130003,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r01_c04.png",
+      "sha256": "87094561afbd18e78a70fc1fc12c0ed764cbe69ceaf9f7ddd9304535be4b51f2"
+    },
+    {
+      "index": 4,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130004,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r01_c05.png",
+      "sha256": "7d319e202495f1f46e35bd82648c6d0c90cdfd3a5f68da1ea214e90d5cfbab04"
+    },
+    {
+      "index": 5,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130005,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r01_c06.png",
+      "sha256": "9d12a1e0765b6ff7f8906f1187be4be6990c421e2aac6aa0e54b18cf7833e656"
+    },
+    {
+      "index": 6,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130006,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r01_c07.png",
+      "sha256": "ae91ee28f66bc24d904474c843c8d2c5b90f1dc377edcf3769db6337ddfe042a"
+    },
+    {
+      "index": 7,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130007,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r01_c08.png",
+      "sha256": "b5a50d94bac20d6bf56948fc9979b20c79fc5639889aa14d9bd68716c2102f08"
+    },
+    {
+      "index": 8,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130008,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r01_c09.png",
+      "sha256": "57f90429d153c4e125806dd0a5a6cc8df3575906c7591569dbca9d037ae9cf34"
+    },
+    {
+      "index": 9,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130009,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r01_c10.png",
+      "sha256": "b0859f1aa2601509bb14ab02b8cd2b5ec84d5e431111aecfb9b539a596d6a90e"
+    },
+    {
+      "index": 10,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130010,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r01_c11.png",
+      "sha256": "2367deebd8fc0d5d628e0c91963d0d9835875960d466946f87fd2d760170ab21"
+    },
+    {
+      "index": 11,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130011,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r01_c12.png",
+      "sha256": "b7ad50ac7225073df804a6fbb2c283d519f098cd75a6604e7a4c211f2bedf0b2"
+    },
+    {
+      "index": 12,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130012,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r01_c13.png",
+      "sha256": "b05f43c71cd2cc932ebea43f33fd847e368e08d741af401e491a667ec7b30bcb"
+    },
+    {
+      "index": 13,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130013,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r01_c14.png",
+      "sha256": "6ea515bb6dad67748f4015fd44e35a6ce880c719ad9d0c007fd23d9a6a0d34bf"
+    },
+    {
+      "index": 14,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130014,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r01_c15.png",
+      "sha256": "171ee2eda8fc3db777866743d434ea2a54703ff10cd720e201cbd602089eeaec"
+    },
+    {
+      "index": 15,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130015,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r01_c16.png",
+      "sha256": "f8951d6f4f1c37ac093279245786003747ba23a6162735a56b1ca2b99b2a6709"
+    },
+    {
+      "index": 16,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130016,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r02_c01.png",
+      "sha256": "4d966ff658a49a9aa2418bffbf47d57f03ce138ef681c6dd3568a45fb7cd09d1"
+    },
+    {
+      "index": 17,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130017,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r02_c02.png",
+      "sha256": "a4858503ab20850ca5264728c9503510a453ad1ebd89c7b71b22e8b562818f9f"
+    },
+    {
+      "index": 18,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130018,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r02_c03.png",
+      "sha256": "95061d3f572cdcfb711caf4ec0072d3d236179df22ce05088a1a8fcec2d17d40"
+    },
+    {
+      "index": 19,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130019,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r02_c04.png",
+      "sha256": "0087ff121f3669692f37dc41e4b434728c4dad0c1386a9bec1038b25434a4bee"
+    },
+    {
+      "index": 20,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130020,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r02_c05.png",
+      "sha256": "d9c57f9272aa16fa7fbdf885e585f5947589ab8fb3af5ee0f0dd03ba3e510bfd"
+    },
+    {
+      "index": 21,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130021,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r02_c06.png",
+      "sha256": "adf0ca7d472752db0f36ff22fc616ba6e123e455f93d7d46b74230b1e7fa5c57"
+    },
+    {
+      "index": 22,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130022,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r02_c07.png",
+      "sha256": "802da2a59ad8bf927a98fc3bd3ca913c0aaa5a9c7650494a3d8d6d6d94a4ca0a"
+    },
+    {
+      "index": 23,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130023,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r02_c08.png",
+      "sha256": "73b505c9e657858adbfc11ad368d37ad68d9616e68903628b2ad744f156d890b"
+    },
+    {
+      "index": 24,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130024,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r02_c09.png",
+      "sha256": "310556eaaedf1ece42e6386652d10bfc96f027a37475d5a23b566066fb5c93cd"
+    },
+    {
+      "index": 25,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130025,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r02_c10.png",
+      "sha256": "bfb2e375be909e4483aac52b34cad2353d7c8d80a5e7357645a7a8b3b5802096"
+    },
+    {
+      "index": 26,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130026,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r02_c11.png",
+      "sha256": "c12991e9215be704848d0e3b5522bacee39d3459e658aca591aa45aed6c6599e"
+    },
+    {
+      "index": 27,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130027,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r02_c12.png",
+      "sha256": "cb07f2da0c345b9fe0f10a0c0110c1d203ea89bf39dfddf34805a90087ed363c"
+    },
+    {
+      "index": 28,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130028,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r02_c13.png",
+      "sha256": "dbbb8925d6044088a29f2418613a5daf4f1a0939eabe5cf33ff79ec8972b5062"
+    },
+    {
+      "index": 29,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130029,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r02_c14.png",
+      "sha256": "49c2db68e0e9f7916c63cd5bc9ccc23f92f55de08a2bac36007beee1dfc7a99a"
+    },
+    {
+      "index": 30,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130030,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r02_c15.png",
+      "sha256": "6aba74a30a99b71148f2765c18d4132cc20aa8406e6a3665ce2ad6d32c0f09a1"
+    },
+    {
+      "index": 31,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130031,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r02_c16.png",
+      "sha256": "89e32060984efb45a9d93232120c905d418a354d16f20d2044dd7f9bdfa00d80"
+    },
+    {
+      "index": 32,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130032,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r03_c01.png",
+      "sha256": "50e21d3017cf389202bc1573ed83d1692c4cf30bbf66697fc626db03e4196e29"
+    },
+    {
+      "index": 33,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130033,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r03_c02.png",
+      "sha256": "e09079662b8befa9ac8eefc235e69b1c1278a6dbbc768fc11988753b238198d0"
+    },
+    {
+      "index": 34,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130034,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r03_c03.png",
+      "sha256": "9110bb49dc4cb0800ce856f2c47c564fc9a80e289beab655a783f7d8198a63e2"
+    },
+    {
+      "index": 35,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130035,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r03_c04.png",
+      "sha256": "a241ffa51d77642bd3c528361e442399a548073efa8032ddd756cecc35d7d12a"
+    },
+    {
+      "index": 36,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130036,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r03_c05.png",
+      "sha256": "069af0325e07fa0b1a3dddbefa1ef25f26518d8bef1281779d2e014e2b335247"
+    },
+    {
+      "index": 37,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130037,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r03_c06.png",
+      "sha256": "4e26c88a2f1ea7f005071d4d7a61afd543f0558208398f1fb7b28314e5f109aa"
+    },
+    {
+      "index": 38,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130038,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r03_c07.png",
+      "sha256": "7d3b5560dbd1aea96ed6a7eb777c1b6f9fc0f1b79e7ed14f10973c5372b8d01d"
+    },
+    {
+      "index": 39,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130039,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r03_c08.png",
+      "sha256": "89ce38f27ca7bb7f02b56bd4869a09401c3dd88c0cdcd7f252ea97304d2e9465"
+    },
+    {
+      "index": 40,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130040,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r03_c09.png",
+      "sha256": "869715a2491b62832d2173ea13879392c8607bb412dd5400eb1a2723923249d6"
+    },
+    {
+      "index": 41,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130041,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r03_c10.png",
+      "sha256": "71be5b4f747096a9a1ff3c3127c4627131d117d67cf5a30602584ed3b0200dce"
+    },
+    {
+      "index": 42,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130042,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r03_c11.png",
+      "sha256": "b178f269e070154906a33eea5f780667f447425094cab2e645f6a119bad5922c"
+    },
+    {
+      "index": 43,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130043,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r03_c12.png",
+      "sha256": "fd83d5935e5f4b9edcd0e3eca62437e7edfca566be93486090d530e65a5be3f8"
+    },
+    {
+      "index": 44,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130044,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r03_c13.png",
+      "sha256": "6969681f1477266c576f384865ebb8198103273984c9dc4adb44b04f72d94db8"
+    },
+    {
+      "index": 45,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130045,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r03_c14.png",
+      "sha256": "f5fb0f37017cc16d3d723c3664710a24e2d8769c75d59dede3d4a44e2c6e02de"
+    },
+    {
+      "index": 46,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130046,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r03_c15.png",
+      "sha256": "eec36128812451b2613b14f7e893135c06495db4baacf351ae857ad90d86f74d"
+    },
+    {
+      "index": 47,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130047,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r03_c16.png",
+      "sha256": "caf56fd31f6175298ee46f8eb6738d421015fb3a5ec55c17965c2da54ce66c46"
+    },
+    {
+      "index": 48,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130048,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r04_c01.png",
+      "sha256": "86e88e43f12f82f37230bbe7c21c41f004842152450b315e983ac45c2b41132d"
+    },
+    {
+      "index": 49,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130049,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r04_c02.png",
+      "sha256": "7657580bb494030396a0357ff7a856a1fde4b1d5cc2ce93dcb7c4367b7760c9a"
+    },
+    {
+      "index": 50,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130050,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r04_c03.png",
+      "sha256": "5beafadf8aa51bcbd1524ee1fe53f3e36c242c9eb6bef66da13b196892b18d4b"
+    },
+    {
+      "index": 51,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130051,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r04_c04.png",
+      "sha256": "2ff4b6d91fbd5185613d833e34e2b7c8620e1df87a451c60a5efce430bb74d17"
+    },
+    {
+      "index": 52,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130052,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r04_c05.png",
+      "sha256": "16e04d801b24482ac2fb70d275d89605009cc1f5ba2e61a2ec5a90b4f68c3e50"
+    },
+    {
+      "index": 53,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130053,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r04_c06.png",
+      "sha256": "74d0d8ad1d9ffde4503b04e4dd69c7ec2c62b23a785609800a71f243580dd401"
+    },
+    {
+      "index": 54,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130054,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r04_c07.png",
+      "sha256": "69dda1dd8cc030c8f6c6a057366bf67ceed6f0a1c260ffe74c610b3e8b23fb9a"
+    },
+    {
+      "index": 55,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130055,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r04_c08.png",
+      "sha256": "e07cf2ad8c89fa5c7adb373a6ea672d7ce5a264b107b60fea0ec053362e99fa6"
+    },
+    {
+      "index": 56,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130056,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r04_c09.png",
+      "sha256": "c610e025d57193478b4e4436450df8c83bc6ce6dd405b92a3d7e2c806593379e"
+    },
+    {
+      "index": 57,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130057,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r04_c10.png",
+      "sha256": "c53abc4b7372bc1eb8d13d59d80d0323bf741588dc578a04f7edd4660eef0e2e"
+    },
+    {
+      "index": 58,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130058,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r04_c11.png",
+      "sha256": "f013b7b6957c691718775d2fc2b6912b00456b3c6e8cb1a01e6144c096675619"
+    },
+    {
+      "index": 59,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130059,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r04_c12.png",
+      "sha256": "8ab1587a0ef1bcbc6a9bb9362705aeafb29e39a66412bcbb738ca0822260605e"
+    },
+    {
+      "index": 60,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130060,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r04_c13.png",
+      "sha256": "2a95bd7c738f8aac6c32491d3f84adbf4d41b26c9e81a800a281e7c549983960"
+    },
+    {
+      "index": 61,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130061,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r04_c14.png",
+      "sha256": "245ab0697db11480c4eb8b2893af7c07bc562adce47222559ba423b8a3d62423"
+    },
+    {
+      "index": 62,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130062,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r04_c15.png",
+      "sha256": "65e9c48c3c9b26ac44e0e53ae9b2b3914c5a9d9b5a936691dc89f32631fb9e23"
+    },
+    {
+      "index": 63,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130063,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r04_c16.png",
+      "sha256": "a3b909d3a47f9d8211410a4fb1a69ad3c4919e03cd8f9dd0c7caf4818660f41d"
+    },
+    {
+      "index": 64,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130064,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r05_c01.png",
+      "sha256": "c7a6762e4b63ebcee5575a2eaedb0be6641249ce297433b46c3140018928b1d6"
+    },
+    {
+      "index": 65,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130065,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r05_c02.png",
+      "sha256": "4b3157cc1f00f8b3e502b73895ebd4683639fff0791d3e73fdff977c1f31b03a"
+    },
+    {
+      "index": 66,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130066,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r05_c03.png",
+      "sha256": "28ba8818a05f3276cb45551b493b39a9c9b43b9fa64da3df7a769cd72c28d78a"
+    },
+    {
+      "index": 67,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130067,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r05_c04.png",
+      "sha256": "7f0bb381dbc9ada28be457c01578bed176e4fbee63400346dc556abfb666bdfb"
+    },
+    {
+      "index": 68,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130068,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r05_c05.png",
+      "sha256": "59bcb518e736641cf273a456cd6fbf343fa2493c9bf0a68dd718f45ce4937198"
+    },
+    {
+      "index": 69,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130069,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r05_c06.png",
+      "sha256": "0d0078ee4b0e562ad34d21e0983a42bc25d5949de02afc52aaf090c9e234e63d"
+    },
+    {
+      "index": 70,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130070,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r05_c07.png",
+      "sha256": "4e2b7c9f5bee7f18d449f258edaf8df1f9eaa4c8082f1d4d9fdd76c652c32876"
+    },
+    {
+      "index": 71,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130071,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r05_c08.png",
+      "sha256": "5649771e3667845575b0e0e112198496a8e7714d89baca0d30adafde2d2a334c"
+    },
+    {
+      "index": 72,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130072,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r05_c09.png",
+      "sha256": "50e3b00c32d61a142304c3ec0a814d2c49d8b5772e4c86c2d1af05076f64f176"
+    },
+    {
+      "index": 73,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130073,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r05_c10.png",
+      "sha256": "991c447c3805369da68b3fb77958e9ed071a5a2b95bf46839aa00141eb25bcb8"
+    },
+    {
+      "index": 74,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130074,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r05_c11.png",
+      "sha256": "cd43b8ea77befabb41e0d2d02f19739ec65f53b098d2d7180a2493f13809d33b"
+    },
+    {
+      "index": 75,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130075,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r05_c12.png",
+      "sha256": "5adbbb8df54e15d0ce123aac77698372b95805ac49cd4ce5ebafdafb3b26a20d"
+    },
+    {
+      "index": 76,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130076,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r05_c13.png",
+      "sha256": "c04f25a723761854850ad359ab925fc6ea6dccd7a97df15a029e983a1616b0d7"
+    },
+    {
+      "index": 77,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130077,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r05_c14.png",
+      "sha256": "50f059f043da07a57edac51682ff9c91305fc46d35c6b6e37b29b2d90a42a500"
+    },
+    {
+      "index": 78,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130078,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r05_c15.png",
+      "sha256": "e26e79abe8f442999809251e60d8db5e5216834fd1345af7f26fe06e20413c78"
+    },
+    {
+      "index": 79,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130079,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r05_c16.png",
+      "sha256": "b0a15746a94bf31522ac387fc48661456fdde5e5fce9254e36c40c28fb487d4a"
+    },
+    {
+      "index": 80,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130080,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r06_c01.png",
+      "sha256": "69afd707de110c361a45a2997d1c7c366180063a432eb620ccdc14ecfd783d0f"
+    },
+    {
+      "index": 81,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130081,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r06_c02.png",
+      "sha256": "914954e21fecb912527ac0b0f6a3e62a1341fe966b31cc74a73b2cf48ef0d821"
+    },
+    {
+      "index": 82,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130082,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r06_c03.png",
+      "sha256": "7b381bf99e5b7b1298e799e6399cfc99f77d6e08d3b01ccc533f57d3ada829c7"
+    },
+    {
+      "index": 83,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130083,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r06_c04.png",
+      "sha256": "dd3a7545012348b5f01d31af5462dfe6cfcce7af48a01f160d098ad50f5f6dc3"
+    },
+    {
+      "index": 84,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130084,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r06_c05.png",
+      "sha256": "baa2d28ecdbfcc2e317b91b20e4a60b9df5323a7daf0a923eaee412aba381bc4"
+    },
+    {
+      "index": 85,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130085,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r06_c06.png",
+      "sha256": "ad91589d7af252be4d50a13aea6e95d0b52a1b1e88a7514ee63a7b7a5a2cf985"
+    },
+    {
+      "index": 86,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130086,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r06_c07.png",
+      "sha256": "d9af5e9bcb0c859dcc464048c66bcb6b66a3842f4eb4fcea14c320fb34ccf0a2"
+    },
+    {
+      "index": 87,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130087,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r06_c08.png",
+      "sha256": "1577013af4e5238bfbcb11e74e6b569c7a13030c3ffbca4b53af079b2198a7a9"
+    },
+    {
+      "index": 88,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130088,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r06_c09.png",
+      "sha256": "918ea6401b663fe081213cea6bb82177cc76298f891f6ebfcc7d3403c29389a0"
+    },
+    {
+      "index": 89,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130089,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r06_c10.png",
+      "sha256": "2063094cf7dfacc1da4c81638960a08aaee615c32081ff4a94bd22101f3b4277"
+    },
+    {
+      "index": 90,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130090,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r06_c11.png",
+      "sha256": "82a9b8d68966256345af087da54b3236620cf6959e8320b27128977871298695"
+    },
+    {
+      "index": 91,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130091,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r06_c12.png",
+      "sha256": "c7799ddb320d8eecae3d5a0dfcd9aead5133cb2cc72074a155fd4782ba14a86e"
+    },
+    {
+      "index": 92,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130092,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r06_c13.png",
+      "sha256": "cf16bba1a69fd20baae151292654dda19acef59712ca83e36f17a22fc13a3492"
+    },
+    {
+      "index": 93,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130093,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r06_c14.png",
+      "sha256": "f8c28f653e2619917dac0cf8aa0ce31685a9524fb103a0d692624c55f0819762"
+    },
+    {
+      "index": 94,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130094,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r06_c15.png",
+      "sha256": "68fb21e35af80b299f30a90bc2b3a54db6a03e2c879b22eb39e314f69e8c9209"
+    },
+    {
+      "index": 95,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130095,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r06_c16.png",
+      "sha256": "57767215eedf3fee30989b53ab74c63ed9d4cd4648ef53f016e8ab17960b7087"
+    },
+    {
+      "index": 96,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130096,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r07_c01.png",
+      "sha256": "a00efd8fdbd1a0809447963ded9a134e213a1ef19eaf25f3d7b221e2ea4cc94d"
+    },
+    {
+      "index": 97,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130097,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r07_c02.png",
+      "sha256": "0e86098739a8302f4aad589b3065f705e9b2e4880eb78b6d043f7db9ae07a863"
+    },
+    {
+      "index": 98,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130098,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r07_c03.png",
+      "sha256": "17c25698437cd98c9383d5590ec29ebf0c48ad8a15d0e7dba246d1e3fad749a6"
+    },
+    {
+      "index": 99,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130099,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r07_c04.png",
+      "sha256": "2a19f9145935b16f7f3b0a9ac915e040b9bb06e12e31d5ee42412d22ebc259cb"
+    },
+    {
+      "index": 100,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130100,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r07_c05.png",
+      "sha256": "1c86d08dc08f96c85590a76563b477c4f967ce9939a8155abb4e58b6c1af1848"
+    },
+    {
+      "index": 101,
+      "prompt": "Captain America in a blue helmet, waist-up, soft silver light",
+      "seed": 9130101,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r07_c06.png",
+      "sha256": "bfb4cd2f96e5366284b2411096648e85f75cbedcce770e5bedc7500727ef96de"
+    },
+    {
+      "index": 102,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130102,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r07_c07.png",
+      "sha256": "61169a15f261a0f9fcfa9c4531f2146da758e6a155b31c3da5ad09ebb58cad73"
+    },
+    {
+      "index": 103,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130103,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r07_c08.png",
+      "sha256": "9e96f7d2278d1e17ac8b4ac67c384404de4fea28737a844a99f74fd5ab38154b"
+    },
+    {
+      "index": 104,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130104,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r07_c09.png",
+      "sha256": "3fa7c3a0885269dde262dcbfb1932a20d03d9b4a5a8bf455b2584259ff3a731c"
+    },
+    {
+      "index": 105,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130105,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r07_c10.png",
+      "sha256": "da59044826ea773d1f4bce38e1b7e80735fc13c11ab173213242e320e3340693"
+    },
+    {
+      "index": 106,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130106,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r07_c11.png",
+      "sha256": "6323fe10a5b9ea6127130b3fd9295dd417b6e8f644387e6a70f1acf39ecd1fd8"
+    },
+    {
+      "index": 107,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130107,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r07_c12.png",
+      "sha256": "f8336f00e4b640df70b140b3df16d47181ac975dccb37e32f4766875072796ca"
+    },
+    {
+      "index": 108,
+      "prompt": "Captain America holding his shield, soft silver light",
+      "seed": 9130108,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r07_c13.png",
+      "sha256": "0a7466be2d681a3fc053c17295913b045190f70dc69af64503c3e8da0bf20a3a"
+    },
+    {
+      "index": 109,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130109,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r07_c14.png",
+      "sha256": "547cc9b380d40670f2daa4b087f6f855e6b7b7c10fd95466cb6dcef0ec24dec4"
+    },
+    {
+      "index": 110,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130110,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r07_c15.png",
+      "sha256": "d04bafde6632e28b3b4df0e70da368304d7f15ac36aa8811a11f80e75f465103"
+    },
+    {
+      "index": 111,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130111,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r07_c16.png",
+      "sha256": "85e7ee99a01bbecdce628d44643f09c8650a3402f4cc5325dc7cafe069f3000b"
+    },
+    {
+      "index": 112,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130112,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r08_c01.png",
+      "sha256": "4b1919aa0ed627a67370d37dc12476f2c7b2bb5d7fb06e9c421640e743cfac8d"
+    },
+    {
+      "index": 113,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130113,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r08_c02.png",
+      "sha256": "1a0ce41cc22dad06e0095e0e342c53a2a406f953bebf60adad9cbd5c74cb536c"
+    },
+    {
+      "index": 114,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130114,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r08_c03.png",
+      "sha256": "e7b89329db8098e9fee30b63d46a47229505df5a4213918652aba49f4f578ff3"
+    },
+    {
+      "index": 115,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130115,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r08_c04.png",
+      "sha256": "22c8b380c9a4189f7694a7908dc78a13d7d5f9f8b72cc371de078ec4fe84a9b1"
+    },
+    {
+      "index": 116,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130116,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r08_c05.png",
+      "sha256": "d0d63943cca69381929d3e20e53b48c488668572baaf5cddfe47a2633ec6a77d"
+    },
+    {
+      "index": 117,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130117,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r08_c06.png",
+      "sha256": "65e524fdd679d4e25f771b50c17f12ec84daf3a306ca4ec341dddaa5f2196183"
+    },
+    {
+      "index": 118,
+      "prompt": "Captain America in a blue helmet, waist-up, soft silver light",
+      "seed": 9130118,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r08_c07.png",
+      "sha256": "dbae06b8a98ef8194c19b689fc1c3cc0f9063ad760eb44f6f75dc073b843b8df"
+    },
+    {
+      "index": 119,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130119,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r08_c08.png",
+      "sha256": "2c399d09a84320eae23401e67c1661570ef1604be5ea4b8f5d993ebbcfe99232"
+    },
+    {
+      "index": 120,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130120,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r08_c09.png",
+      "sha256": "e3eb17ab1f78d82e4b06331402fb835fa516acd2e930349a84b4165f3d1a86b2"
+    },
+    {
+      "index": 121,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130121,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r08_c10.png",
+      "sha256": "88fceb9af6e0e12fa48e21166699a59b79d84e7f44c3581aae4878c56f0a339b"
+    },
+    {
+      "index": 122,
+      "prompt": "Captain America holding his shield, soft silver light",
+      "seed": 9130122,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r08_c11.png",
+      "sha256": "ea61b0df60ec3e2358f2ecbb040b94cb636ca65fab2622f5e56e7ab578cc47ce"
+    },
+    {
+      "index": 123,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130123,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r08_c12.png",
+      "sha256": "53660c2ca3e3129071bf29cdada3f0ad486826c1967b8c11b631d7b3f263bbe3"
+    },
+    {
+      "index": 124,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130124,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r08_c13.png",
+      "sha256": "ee8d1765d9ca537bf97326900664b71d09ca00a211c4b02aed74c58e40292219"
+    },
+    {
+      "index": 125,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130125,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r08_c14.png",
+      "sha256": "1aae15e14610589aaee0edec643397fa118848f06fb527f1839b466f762c02ff"
+    },
+    {
+      "index": 126,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130126,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r08_c15.png",
+      "sha256": "f0ba513d783a6e3729b548be3d054c169b749148b6966c5fb7188a16e5adaff0"
+    },
+    {
+      "index": 127,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130127,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r08_c16.png",
+      "sha256": "aa04d7ab59645dd27d757783f3a90ee9299744af2f33fc91f1bcea65bbd3cd3d"
+    },
+    {
+      "index": 128,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130128,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r09_c01.png",
+      "sha256": "f8554a9ecc5f95fdd8f42769ef482a0e8dd68e2eb551867e5f01923b89bbabe3"
+    },
+    {
+      "index": 129,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130129,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r09_c02.png",
+      "sha256": "a10ddebaed76d298e0cce3d3951af5c39e229b9baf3b4e4eb428ffa013255a52"
+    },
+    {
+      "index": 130,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130130,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r09_c03.png",
+      "sha256": "8a964dc0933771636ffaee94208159b2a3f8852aa89c362d60aa89f64dcc96f7"
+    },
+    {
+      "index": 131,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130131,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r09_c04.png",
+      "sha256": "3c9a5f10e917ab58f75fbd4cc91130a6185399f75ea50934b8a6ad92ddec8060"
+    },
+    {
+      "index": 132,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130132,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r09_c05.png",
+      "sha256": "e39004d686b9118a65acf393ecc329f3d9ef5b82255d2ae526f64b1bfba8724d"
+    },
+    {
+      "index": 133,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130133,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r09_c06.png",
+      "sha256": "713c0d4b65deb4dc0bf7fd6392716899aef44021eafd22c24ab8dace49a257ad"
+    },
+    {
+      "index": 134,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130134,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r09_c07.png",
+      "sha256": "704c46fa3aeccd85b70a9b39f6c39575aca61e3d8e991f12eeee986d670d09a7"
+    },
+    {
+      "index": 135,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130135,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r09_c08.png",
+      "sha256": "3fa0d9b0d305ae186a4d4f1b4c98769972f9b21cd4be09ea3052492082ef0c25"
+    },
+    {
+      "index": 136,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130136,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r09_c09.png",
+      "sha256": "2b6473ca0933d12840dea277f0ec4af86495227b5cf97d6ca94a52761c88f3f9"
+    },
+    {
+      "index": 137,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130137,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r09_c10.png",
+      "sha256": "79a5a34707fdc8674aae531b7c6169833d445e5be4b0ac5e997f7dace64fd1fb"
+    },
+    {
+      "index": 138,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130138,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r09_c11.png",
+      "sha256": "17d2c4ae529a12b56066448a0bc2e8e2ca76a870f4a24668a0d0b47371621e49"
+    },
+    {
+      "index": 139,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130139,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r09_c12.png",
+      "sha256": "3c6729d25086e3d454736babf28a00736fe9adfb3b2bb286634e4a10846d89d2"
+    },
+    {
+      "index": 140,
+      "prompt": "Captain America running with his shield, soft silver light",
+      "seed": 9130140,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r09_c13.png",
+      "sha256": "66db30a3a2d440d1d8ba5b9be8953c951a6248e322d8a7cdcdf56fc3a405a2a2"
+    },
+    {
+      "index": 141,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130141,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r09_c14.png",
+      "sha256": "0e54a64e692780fb8284ba3a8767a9b076fe88e8ad8f0f75bfa619a2c9329c63"
+    },
+    {
+      "index": 142,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130142,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r09_c15.png",
+      "sha256": "5885ee18377004427e82034ec839ce7d10fd5947b941a853695de06ace4f1260"
+    },
+    {
+      "index": 143,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130143,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r09_c16.png",
+      "sha256": "a8614e9025b978b3221579bf73438a60eb41d7feb48d7c4793364e9112782577"
+    },
+    {
+      "index": 144,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130144,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r10_c01.png",
+      "sha256": "7f6f4da6e7a653d4b7c30b361992e70a6f49f0444ee5acd06a3aabce908f319a"
+    },
+    {
+      "index": 145,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130145,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r10_c02.png",
+      "sha256": "c3f7801185b975b2bca7552f793de4b853bff4c91e4ff782508cd69da250ea1c"
+    },
+    {
+      "index": 146,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130146,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r10_c03.png",
+      "sha256": "4011bb99307ce7a905f922f9144ec6e2cb0b70c1984a95d477522ec9b53c839f"
+    },
+    {
+      "index": 147,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130147,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r10_c04.png",
+      "sha256": "d8550b0c5d9634cf60d6056c1ea366d447493a86dcf819a40c982aad1602248b"
+    },
+    {
+      "index": 148,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130148,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r10_c05.png",
+      "sha256": "5e6593e314b2beccad5771774cdb0968dee782401b12e58424220ef5d0ec60db"
+    },
+    {
+      "index": 149,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130149,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r10_c06.png",
+      "sha256": "e94c420231b8bf01b4519d49f6a24783125d11fdf5c06d188b7ae421622034ec"
+    },
+    {
+      "index": 150,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130150,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r10_c07.png",
+      "sha256": "a87e5841dbf9a382c9c1ba8a0e3dc5c5015f860a0ee053c4af29da53bbce9a66"
+    },
+    {
+      "index": 151,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130151,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r10_c08.png",
+      "sha256": "e94fc3fcbd9f05f1594da1088f8e92a84b9d16cbabbe9bc7b5d568c32fc02ac8"
+    },
+    {
+      "index": 152,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130152,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r10_c09.png",
+      "sha256": "9a2c4dc0023f8d16e8d9a0b2fbc01a58310507961c5cce64a9e37a572c4dfd3b"
+    },
+    {
+      "index": 153,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130153,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r10_c10.png",
+      "sha256": "c8f4647159250fbf71935b25195609223c873abf9d43e82ce3ae73a3096ff7f0"
+    },
+    {
+      "index": 154,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130154,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r10_c11.png",
+      "sha256": "d38851e3f458604f5f874cbaeabd3f93ddba91658927ee65aa8510255d9423d6"
+    },
+    {
+      "index": 155,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130155,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r10_c12.png",
+      "sha256": "54bcda2e0044eb35dcda6563f67b263a7371f0ef1fedf9712d61010114c3de03"
+    },
+    {
+      "index": 156,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130156,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r10_c13.png",
+      "sha256": "cfcedff50efe0a6bdf32edd628e62ac0d7be3c931ac0d9065cc2dc73a9649d37"
+    },
+    {
+      "index": 157,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130157,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r10_c14.png",
+      "sha256": "6943534ac489b4ffa632fd6a585245ee60efbc56c775e7db73f666aa6697a3b8"
+    },
+    {
+      "index": 158,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130158,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r10_c15.png",
+      "sha256": "c5963d51dc16e01ede939bdb4bf5e516556e7614a082d3a6bedb4d6e55069843"
+    },
+    {
+      "index": 159,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130159,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r10_c16.png",
+      "sha256": "61c61b3b1bcbcbde09de8b1e54c7dcfb1cb53c853fde6313fbec7c235f822041"
+    },
+    {
+      "index": 160,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130160,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r11_c01.png",
+      "sha256": "5e8f986859e6e7ebb109ad656d47f0647bc7622c93c1a0fc68a19cae69edf1d0"
+    },
+    {
+      "index": 161,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130161,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r11_c02.png",
+      "sha256": "4d08b8b1072e439e10745781a7c2a20937e68e89db8bf85e20ef71b28fe6850a"
+    },
+    {
+      "index": 162,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130162,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r11_c03.png",
+      "sha256": "f9a0eb1e69122544cf81631273358a8bb9bba4ac54f1f5db5690ffe31dc970e2"
+    },
+    {
+      "index": 163,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130163,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r11_c04.png",
+      "sha256": "98509334a81c5e3e62ba48b1ec7b42f7d3f6a060e619a8fdcfdd37f913442a6e"
+    },
+    {
+      "index": 164,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130164,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r11_c05.png",
+      "sha256": "a9f528dce98028f96e676d6060716710c53a27a5f12df70d443eeddda7e40543"
+    },
+    {
+      "index": 165,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130165,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r11_c06.png",
+      "sha256": "45e2a80742e4479678cb952247c72da849a1b0542a6686c994f5f3eba56ea7d3"
+    },
+    {
+      "index": 166,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130166,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r11_c07.png",
+      "sha256": "a2842763e1c01928289c2572254fea6698e838d3de11a4392c3f7fba33866fbb"
+    },
+    {
+      "index": 167,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130167,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r11_c08.png",
+      "sha256": "df07bc85c9797d297a4c9dc5f13723909c6db25ca112ec5fe2b0f666509314a6"
+    },
+    {
+      "index": 168,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130168,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r11_c09.png",
+      "sha256": "bd75587b959ce462709e99cc753fc6c87d396a4eaeafb4bcf9c996fc6d96cf1d"
+    },
+    {
+      "index": 169,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130169,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r11_c10.png",
+      "sha256": "27b0da25bf1a2c9cd8d4f6c608cda25feb9b4116f734047d5b217b07b70eff77"
+    },
+    {
+      "index": 170,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130170,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r11_c11.png",
+      "sha256": "13ea0fb2f536ebe8bb3c1739375989b00cae69fae4f386282f29cc3646058bc2"
+    },
+    {
+      "index": 171,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130171,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r11_c12.png",
+      "sha256": "c86a7950706e4c4413d75f10fe840279b6d0042cee39f11cc10ac69a44ea4338"
+    },
+    {
+      "index": 172,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130172,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r11_c13.png",
+      "sha256": "d3d8a4691e24a22647f3423bffc98a1673d5a5fcde84f0a5b059b79352085e6f"
+    },
+    {
+      "index": 173,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130173,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r11_c14.png",
+      "sha256": "5146402e793b67e79c7e3016c0f86ee5c631e55e87df8d8a7e39209a5b154d63"
+    },
+    {
+      "index": 174,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130174,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r11_c15.png",
+      "sha256": "fdcff8b885e244e597c17eb7892954e2fe736a2947d6d0b6f5f59740ea7fe84c"
+    },
+    {
+      "index": 175,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130175,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r11_c16.png",
+      "sha256": "55ddc14b50a1c492544f99d35b9a4b7d35aebca58635e94d6ad4f156d593ce1a"
+    },
+    {
+      "index": 176,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130176,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r12_c01.png",
+      "sha256": "e1acedff169b6a57efdf66440781a5fed39f9e745f125e46ed9843fe0027a292"
+    },
+    {
+      "index": 177,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130177,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r12_c02.png",
+      "sha256": "556fe3b4697aaa980f4bbc7466ca1d3a84cbfe32c66550418208f4ac54c863cd"
+    },
+    {
+      "index": 178,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130178,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r12_c03.png",
+      "sha256": "93b9a09b5e9e11b2da4ff0fdc429196f97ba0bdf41a7b47ea0a6f194dcb2b853"
+    },
+    {
+      "index": 179,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130179,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r12_c04.png",
+      "sha256": "c6ce4e6544f8a594951904dd034da1e1f3d71e7c01c3e5e691a9e52541cf09d8"
+    },
+    {
+      "index": 180,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130180,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r12_c05.png",
+      "sha256": "e1ac71bd0c2ee1d29552298f66e5fe521f926fe5b4529b9d12903a645ec2ebd5"
+    },
+    {
+      "index": 181,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130181,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r12_c06.png",
+      "sha256": "45b2b452666244e1f93f1b246105e11abfb07253efd000ca57517c8559f3e713"
+    },
+    {
+      "index": 182,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130182,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r12_c07.png",
+      "sha256": "f3f9116beb402f13a56079a521de453469d7ce3c8c11d55990227cbeb171e03c"
+    },
+    {
+      "index": 183,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130183,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r12_c08.png",
+      "sha256": "87f6a2da5170430b822fd5d7a61c1c219428f2ecc10320d7ef320feb1b55d1c9"
+    },
+    {
+      "index": 184,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130184,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r12_c09.png",
+      "sha256": "ffb9f2cc5f7b82480f870608624e5e95aaeef8f3f92e3995204a6711190fe1ae"
+    },
+    {
+      "index": 185,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130185,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r12_c10.png",
+      "sha256": "fb59b1cfb128497e116f51b813b3b11ebbf2bf709a364137ce9ba6658153b122"
+    },
+    {
+      "index": 186,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130186,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r12_c11.png",
+      "sha256": "08004be7a8bc77db66a9142a5ec4753d7bf27fd550c45280d62a90c37a73bfc9"
+    },
+    {
+      "index": 187,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130187,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r12_c12.png",
+      "sha256": "78007c4333cb1dbd102b01ad31a44832279aebbccd7c3aa0f33260c6d3e655ee"
+    },
+    {
+      "index": 188,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130188,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r12_c13.png",
+      "sha256": "3769d5668ee76d1a200085f9b468fabe0e10f8d601f43974a9bd0a7a051fa477"
+    },
+    {
+      "index": 189,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130189,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r12_c14.png",
+      "sha256": "3f35a39c3baa0832cd3449d03302dc973e6e5026ce3c71d572e1030d8c922ee9"
+    },
+    {
+      "index": 190,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130190,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r12_c15.png",
+      "sha256": "60b15283e3304e3171ebb199d6fc9ea036477ceb17a4aa7f98a357d6de2769fd"
+    },
+    {
+      "index": 191,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130191,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r12_c16.png",
+      "sha256": "4ff1b7702192196fb46358c48ca72e6977346b044d250af509703dd42150325c"
+    },
+    {
+      "index": 192,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130192,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r13_c01.png",
+      "sha256": "e2d0f57cdf952658dbb9cc04d2c6c115c69dec7a45281ee4c0803c8a6d66cef9"
+    },
+    {
+      "index": 193,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130193,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r13_c02.png",
+      "sha256": "921c137616c867f8d3d65e48e5c138259e75180f08c49e451e76ff57081d7c96"
+    },
+    {
+      "index": 194,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130194,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r13_c03.png",
+      "sha256": "b984b4436b5a8a927d1772aada653c2eec296bb1e0a9fe0213fd95cccfefa5f9"
+    },
+    {
+      "index": 195,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130195,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r13_c04.png",
+      "sha256": "8480b226373bab8e73a4603440b821b7cab655d031a7c5517a498462788c86b0"
+    },
+    {
+      "index": 196,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130196,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r13_c05.png",
+      "sha256": "13088763d971ea2c9fae5be846e1cbf73ec07a1aa51f0acbe8c840c6e017872b"
+    },
+    {
+      "index": 197,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130197,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r13_c06.png",
+      "sha256": "601588fdd9cfcc29293d773b91d4a30af5eb686d3f843e9a813bc0900bb86db7"
+    },
+    {
+      "index": 198,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130198,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r13_c07.png",
+      "sha256": "7e5ec61dcd9d9637193f55204d8bf8462d6dcb1fae7fe676b576d45b4d1e057e"
+    },
+    {
+      "index": 199,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130199,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r13_c08.png",
+      "sha256": "71722310b64cbc2ae350abf100f73d70250ff0b869bd3753b69e279df6c25971"
+    },
+    {
+      "index": 200,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130200,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r13_c09.png",
+      "sha256": "bc3ecc5bc7976b103da6817633960aabe874c5fc2d64e1dab57c60d0129d09d5"
+    },
+    {
+      "index": 201,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130201,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r13_c10.png",
+      "sha256": "8a1baa48d07e27c765be642d1aebedfeb816b6e5d1611a1ccd829c3cf94081e8"
+    },
+    {
+      "index": 202,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130202,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r13_c11.png",
+      "sha256": "45240681522b9fb915b3aeda565f0905d9ef5f08eef207150ebe7884c76e9003"
+    },
+    {
+      "index": 203,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130203,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r13_c12.png",
+      "sha256": "600b904b97314d98e2f4b232dcefd646070c46afcb7098095449e6d4afc1d481"
+    },
+    {
+      "index": 204,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130204,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r13_c13.png",
+      "sha256": "c2c9c39237c079804dec12d79d93a31d47bfc8030bb7453c90e83c08c74708e2"
+    },
+    {
+      "index": 205,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130205,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r13_c14.png",
+      "sha256": "933b2e5eeb6ecab930eb902ab21ac91b3ac5b2bbf89870c1820dc9043d974436"
+    },
+    {
+      "index": 206,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130206,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r13_c15.png",
+      "sha256": "87e6deec13c871f1cf931802eaf804b1cae8cbbbab98b4fd386e4c46c788b9e6"
+    },
+    {
+      "index": 207,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130207,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r13_c16.png",
+      "sha256": "f87da54de049c72c080594dcb2ac26e22d5712607bca224c1addab3be2cf8a50"
+    },
+    {
+      "index": 208,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130208,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r14_c01.png",
+      "sha256": "62cada0bd8f2435fff1b1e190de906cd989e6c667a9e5f71d5fa4eb276dedb6c"
+    },
+    {
+      "index": 209,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130209,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r14_c02.png",
+      "sha256": "59818944cad36ed79147eabaa2d0bb3cf866089822370dac9e1f812b99e56064"
+    },
+    {
+      "index": 210,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130210,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r14_c03.png",
+      "sha256": "3f3d22bb39d6ec44bff6d873f7e0f6a3dedc712c50fd99de40e5dfabbfebdc58"
+    },
+    {
+      "index": 211,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130211,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r14_c04.png",
+      "sha256": "160149a340ee8323c895d47a8145e9d38bcedb34a91730193ac167a44c94a6c2"
+    },
+    {
+      "index": 212,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130212,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r14_c05.png",
+      "sha256": "53916c6072b6fa7db9edd279fdb5599d713d61cadc086b90cc57f458086a6d95"
+    },
+    {
+      "index": 213,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130213,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r14_c06.png",
+      "sha256": "c7d471953d29db43b2f23a76691504d7210a6aaf509a1805a69e607226286a86"
+    },
+    {
+      "index": 214,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130214,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r14_c07.png",
+      "sha256": "367e58d9e65f69de5f5673b1c5247aa76c517de7819c915c116a5dd375b44222"
+    },
+    {
+      "index": 215,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130215,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r14_c08.png",
+      "sha256": "6a19ef7e13857460bd6243c1f268d2b1dfde752817b7fe47d5491fb2b307179a"
+    },
+    {
+      "index": 216,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130216,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r14_c09.png",
+      "sha256": "4f132b8732bce587fbb5baea361b81c9ed0c85845b0e1cc50cccd990a79c8dc3"
+    },
+    {
+      "index": 217,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130217,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r14_c10.png",
+      "sha256": "f55ec41e478c9aa18e43e529eaf76fcf75ae7b4014ecb2b77d62e867b919d3e0"
+    },
+    {
+      "index": 218,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130218,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r14_c11.png",
+      "sha256": "e495ba84340ad227ecced8f25bd911cfe117bff60b8084281c2072c6171df677"
+    },
+    {
+      "index": 219,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130219,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r14_c12.png",
+      "sha256": "4ff282dff96c6b59e587c8c409dd3c6c75814f4ae91d1f770d9ddd3c0ed75c68"
+    },
+    {
+      "index": 220,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130220,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r14_c13.png",
+      "sha256": "929d75c294fe631e9c9830cf21e07aca1f129acc275d01ce173d62595388a8f4"
+    },
+    {
+      "index": 221,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130221,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r14_c14.png",
+      "sha256": "9e4b13d07b76c0635142f8fc1a24eb243ccaac43a9c530697c53dc79a2288db4"
+    },
+    {
+      "index": 222,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130222,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r14_c15.png",
+      "sha256": "32f66b2501b248df13e5a4ac4554a16d2b085f1e6780e234b33279209d1dd33b"
+    },
+    {
+      "index": 223,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130223,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r14_c16.png",
+      "sha256": "6bdc7672ae1887feb06bdc141d84ea9ac7d21ae9e79abf2e83b1dfcebd3f934b"
+    },
+    {
+      "index": 224,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130224,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r15_c01.png",
+      "sha256": "8c42ceb0b77b7d2f51dc17c568ea5a48a2a41daff43798d939ffddf3064b6470"
+    },
+    {
+      "index": 225,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130225,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r15_c02.png",
+      "sha256": "baf2b45efa78d9a757631f6092726d5c9270516248ffb736b341a2d9ab6494ec"
+    },
+    {
+      "index": 226,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130226,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r15_c03.png",
+      "sha256": "bfb4c5e65c2b102eab70b3b7ec96dd8e18ed5c25c0b3af7bfe0cb8df08c04e13"
+    },
+    {
+      "index": 227,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130227,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r15_c04.png",
+      "sha256": "d14c1e9e19604825c6d805b00f8076093b8a889c2f26a7f694327e24e825ae35"
+    },
+    {
+      "index": 228,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130228,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r15_c05.png",
+      "sha256": "1f930c82ba98743edd3921786b4080a714e9c92ed3c01b1e468533823b2aef95"
+    },
+    {
+      "index": 229,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130229,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r15_c06.png",
+      "sha256": "871ede63bf3fda6a9ed64d3cb7eac29be6a026fbb3705c353ba5359e85b5fea8"
+    },
+    {
+      "index": 230,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130230,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r15_c07.png",
+      "sha256": "d3d967b66e7b81e789724bb46d8d1efc7769f66a00b325f52d4bd25c12a06f95"
+    },
+    {
+      "index": 231,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130231,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r15_c08.png",
+      "sha256": "5c6d1372bbb6342168fec8e4412bbdb39e8e1a2b1c68e9e4d0c83389e3210760"
+    },
+    {
+      "index": 232,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130232,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r15_c09.png",
+      "sha256": "08280cad51f544d98202401eef1ce197338e5f5b0d377854213a57e1a7001f87"
+    },
+    {
+      "index": 233,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130233,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r15_c10.png",
+      "sha256": "e77aeff7f79bdf0ba39cbb9c80e5cc051ac86a6251f88ba2eaabbeee8ef6a233"
+    },
+    {
+      "index": 234,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130234,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r15_c11.png",
+      "sha256": "730641a0bc68b279d83e66e9161867bff8b1a0cd71db4201f689637ce30cd795"
+    },
+    {
+      "index": 235,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130235,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r15_c12.png",
+      "sha256": "b697568697212b7194726b131b38776e6e025257ff1bb2df5a81264757fe12bc"
+    },
+    {
+      "index": 236,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130236,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r15_c13.png",
+      "sha256": "68c8b7730ae40647e0b5e2195307efe7956b8d477d26b914ed88ab690688682d"
+    },
+    {
+      "index": 237,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130237,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r15_c14.png",
+      "sha256": "90ebe4f16cb85d49d2bb312904be33ca131b5bd6576f216aa8b12284d72dacd3"
+    },
+    {
+      "index": 238,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130238,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r15_c15.png",
+      "sha256": "0faf6467d12196f8c74f91a2aa529425667182aa46e9f376e70953e1c08cc2f5"
+    },
+    {
+      "index": 239,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130239,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r15_c16.png",
+      "sha256": "de53a31bfd7b43bc254a6548128732f95d5ca3815911afe3f52ec41425f3af46"
+    },
+    {
+      "index": 240,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130240,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r16_c01.png",
+      "sha256": "d1c3221be10c7b6fd22d0e2edbc1badfc8c521ff617e708d34d12b58c0637973"
+    },
+    {
+      "index": 241,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130241,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r16_c02.png",
+      "sha256": "780ef0b4e341b21680d8f2019aabd3f017f4253b3f0aa11558e92ba6bf4cb91e"
+    },
+    {
+      "index": 242,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130242,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r16_c03.png",
+      "sha256": "0e3d8e92dcf9d0f206397bbcef80afe47452719958a1bd755306499a4c5eedcd"
+    },
+    {
+      "index": 243,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130243,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r16_c04.png",
+      "sha256": "d31ec64315ebb23f3073ee4a9055d1c70c784a8aca8848e85f34f4ab787758a8"
+    },
+    {
+      "index": 244,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130244,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r16_c05.png",
+      "sha256": "c75369fd2752fe4549a03e1f843cddc2a7d3767c69f6117bc02cd0e3806eeffb"
+    },
+    {
+      "index": 245,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130245,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r16_c06.png",
+      "sha256": "247f6d7d6f65c448d88c05839d1060dd1db0a9b57585a61463072f82727c8bf1"
+    },
+    {
+      "index": 246,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130246,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r16_c07.png",
+      "sha256": "3122870c6a4bb0fb226d57a14bea3cf6cf6e6e9df8cbf1990410d1ed9d46487e"
+    },
+    {
+      "index": 247,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "seed": 9130247,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r16_c08.png",
+      "sha256": "58328aff0a635eb6f59b3188ef742f93872bdd0560e553e50910efe608aaaa08"
+    },
+    {
+      "index": 248,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "seed": 9130248,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r16_c09.png",
+      "sha256": "8d017d063b6f12c0cfc48d390945b982a152a22d3bfcc733a40e8a9cf7a7fba4"
+    },
+    {
+      "index": 249,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "seed": 9130249,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r16_c10.png",
+      "sha256": "f34154b82663c9b017b855cc317dd39e99cb98186d1cc313561cb5c8409f0660"
+    },
+    {
+      "index": 250,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130250,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r16_c11.png",
+      "sha256": "80482190664c0ba893ea665673d11701a5ab822d8ad6026332effd688ee7ad24"
+    },
+    {
+      "index": 251,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130251,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r16_c12.png",
+      "sha256": "def54c6bb0209b94580d95406d69675d628fa9b77a95105f1de9f353fea90b3d"
+    },
+    {
+      "index": 252,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130252,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r16_c13.png",
+      "sha256": "e2103d3b7f1651a7ccd7e783e88509bf8407bff990b4a9810099e1fb59f1ebd6"
+    },
+    {
+      "index": 253,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "seed": 9130253,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r16_c14.png",
+      "sha256": "cb177b014d5d75787bf6637496deca5d1947ef89e690e0c34db191e6966d6c8c"
+    },
+    {
+      "index": 254,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "seed": 9130254,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r16_c15.png",
+      "sha256": "802ef91fd894394646a734ef9184f14c49dc6ce2ca2157da3d0a2b20243eb6a3"
+    },
+    {
+      "index": 255,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "seed": 9130255,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "file": "spider_man/r16_c16.png",
+      "sha256": "c340506831fef0032f8e785e6163b4817db4c7045921422934ce9716d4a8f4db"
+    }
+  ],
+  "target": "spider_iron_captain/opening.png"
+}

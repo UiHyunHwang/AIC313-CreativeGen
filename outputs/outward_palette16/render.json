@@ -1,0 +1,111 @@
+{
+  "grid": 16,
+  "edges": [
+    {
+      "outer": "spider_man",
+      "inner": "captain_america",
+      "row": 4,
+      "column": 3,
+      "child_sha": "ad522110bbac6e9efa6688cdae87162e02e2bf97cb1e6aef6aa6d73a7d478269"
+    },
+    {
+      "outer": "iron_man",
+      "inner": "spider_man",
+      "row": 1,
+      "column": 16,
+      "child_sha": "bfc6c4cdb28e0ea55d23b040a7271cc7f7e1c53959745e37e50158c7a8f2e4f8"
+    },
+    {
+      "outer": "captain_america",
+      "inner": "iron_man",
+      "row": 4,
+      "column": 16,
+      "child_sha": "3235eba8836cca50c0707cdaa10aa77bef27fe99a63aeb6b9d322235ae057247"
+    }
+  ],
+  "diagnostics": {
+    "previous": {
+      "spider_man": {
+        "row": 3,
+        "column": 7,
+        "border": 0.11656051129102707,
+        "pattern": 0.050460442900657654,
+        "rgb_mae64": 0.059994447976350784,
+        "lower_right_mae64": 0.06013454869389534
+      },
+      "iron_man": {
+        "row": 6,
+        "column": 6,
+        "border": 0.10129540599882603,
+        "pattern": 0.07082752883434296,
+        "rgb_mae64": 0.047957513481378555,
+        "lower_right_mae64": 0.05005744472146034
+      },
+      "captain_america": {
+        "row": 7,
+        "column": 6,
+        "border": 0.09111064113676548,
+        "pattern": 0.08275587856769562,
+        "rgb_mae64": 0.06944923847913742,
+        "lower_right_mae64": 0.07623059302568436
+      }
+    },
+    "current": {
+      "spider_man": {
+        "row": 4,
+        "column": 3,
+        "border": 0.06825762428343296,
+        "pattern": 0.03906619921326637,
+        "rgb_mae64": 0.03344152122735977,
+        "lower_right_mae64": 0.03166104853153229
+      },
+      "iron_man": {
+        "row": 1,
+        "column": 16,
+        "border": 0.0667924415320158,
+        "pattern": 0.04711035266518593,
+        "rgb_mae64": 0.032421234995126724,
+        "lower_right_mae64": 0.03345077857375145
+      },
+      "captain_america": {
+        "row": 4,
+        "column": 16,
+        "border": 0.07395529995361964,
+        "pattern": 0.05841527506709099,
+        "rgb_mae64": 0.03459935262799263,
+        "lower_right_mae64": 0.031178513541817665
+      }
+    }
+  },
+  "gif": {
+    "order": [
+      "spider_man",
+      "iron_man",
+      "captain_america",
+      "spider_man"
+    ],
+    "camera": "outward",
+    "width_per_leg": [
+      0.0625,
+      1.0
+    ],
+    "frames": 268,
+    "duration_ms": 30020,
+    "holds": [
+      [
+        0,
+        5500
+      ],
+      [
+        10000,
+        5500
+      ],
+      [
+        20000,
+        5500
+      ]
+    ],
+    "first_last_identical": true,
+    "gif_sha256": "1663cb10b4f5c455594c6aad5e4548204b37c9e0235ac642ebaac25d3cd11e78"
+  }
+}

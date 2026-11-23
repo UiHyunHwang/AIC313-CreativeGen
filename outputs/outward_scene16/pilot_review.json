@@ -1,0 +1,297 @@
+{
+  "adopt": true,
+  "metrics": {
+    "scene": {
+      "control": -0.006175457499921322,
+      "scene": 0.024713627994060516,
+      "delta": 0.030889085493981838,
+      "increased": 16
+    },
+    "identity44": {
+      "control": 0.05530403833836317,
+      "scene": 0.05096053797751665,
+      "delta": -0.0043435003608465195,
+      "increased": 6
+    },
+    "color": {
+      "control": 0.03240400326797385,
+      "scene": 0.057449959150326795,
+      "delta": 0.025045955882352942,
+      "increased": 14
+    }
+  },
+  "rows": [
+    {
+      "hero": "spider_man",
+      "index": 33,
+      "seed": 9130033,
+      "control": "outward_palette16/spider_man/r03_c02.png",
+      "scene": "outward_scene16/spider_man/r03_c02.png",
+      "control_metrics": {
+        "scene": -0.0020472705364227295,
+        "identity44": 0.0901891440153122,
+        "color": 0.020588235294117647
+      },
+      "scene_metrics": {
+        "scene": 0.020135492086410522,
+        "identity44": 0.09846740961074829,
+        "color": 0.06584967320261437
+      }
+    },
+    {
+      "hero": "spider_man",
+      "index": 76,
+      "seed": 9130076,
+      "control": "outward_palette16/spider_man/r05_c13.png",
+      "scene": "outward_scene16/spider_man/r05_c13.png",
+      "control_metrics": {
+        "scene": -0.03085029125213623,
+        "identity44": 0.089800626039505,
+        "color": 0.028921568627450978
+      },
+      "scene_metrics": {
+        "scene": 0.016559123992919922,
+        "identity44": 0.07441572844982147,
+        "color": 0.07867647058823529
+      }
+    },
+    {
+      "hero": "spider_man",
+      "index": 207,
+      "seed": 9130207,
+      "control": "outward_palette16/spider_man/r13_c16.png",
+      "scene": "outward_scene16/spider_man/r13_c16.png",
+      "control_metrics": {
+        "scene": -0.03396686911582947,
+        "identity44": 0.0661049485206604,
+        "color": 0.019281045751633988
+      },
+      "scene_metrics": {
+        "scene": 0.00700610876083374,
+        "identity44": 0.06314706802368164,
+        "color": 0.04076797385620915
+      }
+    },
+    {
+      "hero": "spider_man",
+      "index": 248,
+      "seed": 9130248,
+      "control": "outward_palette16/spider_man/r16_c09.png",
+      "scene": "outward_scene16/spider_man/r16_c09.png",
+      "control_metrics": {
+        "scene": -0.00040799379348754883,
+        "identity44": 0.08931629359722137,
+        "color": 0.04150326797385621
+      },
+      "scene_metrics": {
+        "scene": 0.022314295172691345,
+        "identity44": 0.08215312659740448,
+        "color": 0.0687908496732026
+      }
+    },
+    {
+      "hero": "iron_man",
+      "index": 17,
+      "seed": 9131017,
+      "control": "outward_scene16/pilot_controls/r02_c02.png",
+      "scene": "outward_scene16/iron_man/r02_c02.png",
+      "control_metrics": {
+        "scene": -0.005943372845649719,
+        "identity44": 0.04589541256427765,
+        "color": 0.03529411764705882
+      },
+      "scene_metrics": {
+        "scene": 0.015553340315818787,
+        "identity44": 0.07006897032260895,
+        "color": 0.03455882352941176
+      }
+    },
+    {
+      "hero": "iron_man",
+      "index": 20,
+      "seed": 9131020,
+      "control": "outward_scene16/pilot_controls/r02_c05.png",
+      "scene": "outward_scene16/iron_man/r02_c05.png",
+      "control_metrics": {
+        "scene": 0.0034467577934265137,
+        "identity44": 0.06199893355369568,
+        "color": 0.050816993464052294
+      },
+      "scene_metrics": {
+        "scene": 0.006654262542724609,
+        "identity44": 0.051198601722717285,
+        "color": 0.04950980392156864
+      }
+    },
+    {
+      "hero": "iron_man",
+      "index": 34,
+      "seed": 9131034,
+      "control": "outward_scene16/pilot_controls/r03_c03.png",
+      "scene": "outward_scene16/iron_man/r03_c03.png",
+      "control_metrics": {
+        "scene": 0.02332080900669098,
+        "identity44": 0.06052038073539734,
+        "color": 0.01805555555555556
+      },
+      "scene_metrics": {
+        "scene": 0.053306207060813904,
+        "identity44": 0.047175005078315735,
+        "color": 0.03218954248366013
+      }
+    },
+    {
+      "hero": "iron_man",
+      "index": 86,
+      "seed": 9131086,
+      "control": "outward_scene16/pilot_controls/r06_c07.png",
+      "scene": "outward_scene16/iron_man/r06_c07.png",
+      "control_metrics": {
+        "scene": -0.0302354097366333,
+        "identity44": 0.013976946473121643,
+        "color": 0.03243464052287581
+      },
+      "scene_metrics": {
+        "scene": 0.018041610717773438,
+        "identity44": 0.03571385145187378,
+        "color": 0.07352941176470588
+      }
+    },
+    {
+      "hero": "iron_man",
+      "index": 104,
+      "seed": 9131104,
+      "control": "outward_scene16/pilot_controls/r07_c09.png",
+      "scene": "outward_scene16/iron_man/r07_c09.png",
+      "control_metrics": {
+        "scene": 0.01578235626220703,
+        "identity44": -0.007799327373504639,
+        "color": 0.061764705882352944
+      },
+      "scene_metrics": {
+        "scene": 0.03233940899372101,
+        "identity44": -0.02131219208240509,
+        "color": 0.0661764705882353
+      }
+    },
+    {
+      "hero": "iron_man",
+      "index": 127,
+      "seed": 9131127,
+      "control": "outward_scene16/pilot_controls/r08_c16.png",
+      "scene": "outward_scene16/iron_man/r08_c16.png",
+      "control_metrics": {
+        "scene": 0.015565827488899231,
+        "identity44": 0.049997419118881226,
+        "color": 0.038562091503267976
+      },
+      "scene_metrics": {
+        "scene": 0.03149767220020294,
+        "identity44": 0.04232695698738098,
+        "color": 0.05751633986928104
+      }
+    },
+    {
+      "hero": "iron_man",
+      "index": 156,
+      "seed": 9131156,
+      "control": "outward_scene16/pilot_controls/r10_c13.png",
+      "scene": "outward_scene16/iron_man/r10_c13.png",
+      "control_metrics": {
+        "scene": 0.01517176628112793,
+        "identity44": 0.04973408579826355,
+        "color": 0.030065359477124177
+      },
+      "scene_metrics": {
+        "scene": 0.04586389660835266,
+        "identity44": 0.03964059054851532,
+        "color": 0.060702614379084974
+      }
+    },
+    {
+      "hero": "iron_man",
+      "index": 160,
+      "seed": 9131160,
+      "control": "outward_scene16/pilot_controls/r11_c01.png",
+      "scene": "outward_scene16/iron_man/r11_c01.png",
+      "control_metrics": {
+        "scene": 0.008405059576034546,
+        "identity44": 0.04978446662425995,
+        "color": 0.03284313725490196
+      },
+      "scene_metrics": {
+        "scene": 0.01953117549419403,
+        "identity44": 0.07422128319740295,
+        "color": 0.04379084967320262
+      }
+    },
+    {
+      "hero": "captain_america",
+      "index": 49,
+      "seed": 9132049,
+      "control": "outward_palette16/captain_america/r04_c02.png",
+      "scene": "outward_scene16/captain_america/r04_c02.png",
+      "control_metrics": {
+        "scene": -0.030292734503746033,
+        "identity44": 0.07712703943252563,
+        "color": 0.03831699346405229
+      },
+      "scene_metrics": {
+        "scene": 0.021492689847946167,
+        "identity44": -0.008150383830070496,
+        "color": 0.07320261437908497
+      }
+    },
+    {
+      "hero": "captain_america",
+      "index": 50,
+      "seed": 9132050,
+      "control": "outward_palette16/captain_america/r04_c03.png",
+      "scene": "outward_scene16/captain_america/r04_c03.png",
+      "control_metrics": {
+        "scene": -0.014356434345245361,
+        "identity44": 0.03073611855506897,
+        "color": 0.02418300653594771
+      },
+      "scene_metrics": {
+        "scene": 0.029340222477912903,
+        "identity44": 0.05985717475414276,
+        "color": 0.057843137254901957
+      }
+    },
+    {
+      "hero": "captain_america",
+      "index": 63,
+      "seed": 9132063,
+      "control": "outward_palette16/captain_america/r04_c16.png",
+      "scene": "outward_scene16/captain_america/r04_c16.png",
+      "control_metrics": {
+        "scene": -0.006478980183601379,
+        "identity44": 0.07044485211372375,
+        "color": 0.028104575163398687
+      },
+      "scene_metrics": {
+        "scene": 0.024031147360801697,
+        "identity44": 0.07641543447971344,
+        "color": 0.06813725490196078
+      }
+    },
+    {
+      "hero": "captain_america",
+      "index": 151,
+      "seed": 9132151,
+      "control": "outward_palette16/captain_america/r10_c08.png",
+      "scene": "outward_scene16/captain_america/r10_c08.png",
+      "control_metrics": {
+        "scene": -0.02592054009437561,
+        "identity44": 0.047037273645401,
+        "color": 0.017728758169934643
+      },
+      "scene_metrics": {
+        "scene": 0.031751394271850586,
+        "identity44": 0.030029982328414917,
+        "color": 0.04795751633986928
+      }
+    }
+  ]
+}

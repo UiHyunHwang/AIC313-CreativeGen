@@ -1,0 +1,10 @@
+{
+  "index": 252,
+  "file": "hulk/r16_c13.safetensors",
+  "seed": 9365252,
+  "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+  "scene": false,
+  "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+  "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+  "sha256": "888017fc0da663869275a16f8de71843fa732bf88a0e1a4a4cd4731ddd4cc35d"
+}

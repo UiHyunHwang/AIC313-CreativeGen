@@ -1,0 +1,12 @@
+{
+  "index": 121,
+  "prompt": "Captain America, close-up portrait, blue helmet with a white A",
+  "steps": 12,
+  "seed": 2001210,
+  "file": "captain/samples/p1_n12_i121_s2001210",
+  "clip": 0.009223826229572296,
+  "full_clip": 0.012787356972694397,
+  "small_clip": 0.005660295486450195,
+  "rgb_mae": 0.10727124661207199,
+  "score": -0.012230423092842103
+}

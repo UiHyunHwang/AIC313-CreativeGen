@@ -1,0 +1,71 @@
+{
+  "fresh_used": 85,
+  "archive_used": 5,
+  "changes": 90,
+  "baseline": {
+    "average_negative": 50,
+    "either_negative": 98
+  },
+  "final": {
+    "average_negative": 3,
+    "either_negative": 13
+  },
+  "selected": [
+    {
+      "index": 63,
+      "prompt": "Spider-Man, close-up portrait, red webbed mask and large white eyes",
+      "steps": 20,
+      "seed": 1000632,
+      "file": "spider/samples/p1_n20_i063_s1000632",
+      "native": 0.08037874102592468,
+      "small": 0.018104568123817444,
+      "margin": 0.04924165457487106,
+      "error": 0.040604572743177414
+    },
+    {
+      "index": 125,
+      "prompt": "Spider-Man, close-up portrait, red webbed mask and large white eyes",
+      "steps": 20,
+      "seed": 1001250,
+      "file": "spider/samples/p1_n20_i125_s1001250",
+      "native": 0.059045642614364624,
+      "small": 0.04626837372779846,
+      "margin": 0.05265700817108154,
+      "error": 0.04844771325588226
+    },
+    {
+      "index": 217,
+      "prompt": "Spider-Man, close-up portrait, red webbed mask and large white eyes",
+      "steps": 20,
+      "seed": 43,
+      "file": "spider/samples/p1_n20_i217_s43",
+      "native": 0.04016828536987305,
+      "small": 0.03939032554626465,
+      "margin": 0.03977930545806885,
+      "error": 0.028839869424700737
+    },
+    {
+      "index": 227,
+      "prompt": "Spider-Man, close-up portrait, red webbed mask and large white eyes",
+      "steps": 20,
+      "seed": 43,
+      "file": "spider/samples/p1_n20_i227_s43",
+      "native": 0.04006567597389221,
+      "small": 0.01728440821170807,
+      "margin": 0.02867504209280014,
+      "error": 0.055310457944869995
+    },
+    {
+      "index": 252,
+      "prompt": "Spider-Man, close-up portrait, red webbed mask and large white eyes",
+      "steps": 20,
+      "seed": 43,
+      "file": "spider/samples/p1_n20_i252_s43",
+      "native": 0.05397045612335205,
+      "small": 0.04837840795516968,
+      "margin": 0.051174432039260864,
+      "error": 0.03570261597633362
+    }
+  ],
+  "reviewed_archive": 433
+}

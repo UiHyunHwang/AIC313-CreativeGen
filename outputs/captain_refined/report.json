@@ -1,0 +1,134 @@
+{
+  "quality": {
+    "prompts": [
+      "Captain America holding his shield",
+      "Captain America in action, blue suit and star shield",
+      "Captain America in uniform, cinematic still"
+    ],
+    "positive": [
+      "Captain America in his blue uniform carrying a red white and blue shield",
+      "Captain America in a clear full-body action pose",
+      "a clear face portrait of superhero Captain America wearing his helmet"
+    ],
+    "negative": [
+      "a shield, star or flag alone without a person",
+      "a tiny distant figure in a large empty scene",
+      "a blurry abstract patch without a recognizable subject",
+      "a different superhero wearing a spider web suit"
+    ],
+    "locked_index": 173,
+    "weak_count": 140,
+    "replaced": 126,
+    "candidate_count": 322,
+    "before": {
+      "count": 255,
+      "old_clip_below_zero": 101,
+      "clip": {
+        "mean": 0.006601100108202766,
+        "p10": -0.045915281772613524
+      },
+      "variety": {
+        "mean": 0.0015109376872287077,
+        "p10": -0.06009578108787536
+      },
+      "rgb_mae": {
+        "mean": 0.05481962241670665,
+        "p10": 0.02776143662631512
+      }
+    },
+    "after": {
+      "count": 255,
+      "old_clip_below_zero": 23,
+      "clip": {
+        "mean": 0.033194691147290026,
+        "p10": 0.003939081728458409
+      },
+      "variety": {
+        "mean": 0.035645858446757,
+        "p10": 0.001158429682254793
+      },
+      "rgb_mae": {
+        "mean": 0.05838972382685718,
+        "p10": 0.02849673442542553
+      }
+    },
+    "rule": "Threshold 0.005 on either verifier margin; same parent/12 updates/t=836. Both margins must match or exceed original; RGB MAE tolerance 0.035. Early stop at both margins >=0.025. Deterministic seeds recorded."
+  },
+  "boards": [
+    {
+      "node": "spider",
+      "linked_node": "captain",
+      "row_one_based": 16,
+      "column_one_based": 15,
+      "mosaic_sha256": "9ed712d93fe0ef3c3a162a52755d886f9f64bf3061234f1140d4478ef1f505a2",
+      "overview_sha256": "5741ee922ab43e14c5502ab753acf504b10164ace93989a368d7ce69367b7246",
+      "outgoing_cell_pixel_sha256": "961a01d260aed0c605f0660303054bf939136517dc70ab4c24c350cefd684f19",
+      "overview_pixel_sha256": "babb2e21e942d1ab0c83ed59ade48021d2c2fe1c0b350300f1c16057d1f9fa54"
+    },
+    {
+      "node": "captain",
+      "linked_node": "iron",
+      "row_one_based": 11,
+      "column_one_based": 14,
+      "mosaic_sha256": "0341c1a989c48c964116d9e324d895624588cecd6020aed939cfe06842784c4f",
+      "overview_sha256": "27dbd15bf5b945ccfea9b5d344cd553e3be814430ec98ad375086aa27646d3ff",
+      "outgoing_cell_pixel_sha256": "161eb644cbff98c55a75844a0312c6a502dc38b2bfbe017aae96512fba45b1bf",
+      "overview_pixel_sha256": "961a01d260aed0c605f0660303054bf939136517dc70ab4c24c350cefd684f19"
+    },
+    {
+      "node": "iron",
+      "linked_node": "spider",
+      "row_one_based": 4,
+      "column_one_based": 3,
+      "mosaic_sha256": "bc0d79b02ff2b446a1ad3a2a90f46fb9a5c27442cc14684cad2a512605da9015",
+      "overview_sha256": "06d16b321af0735c3b9b76734dd71be2ef75c714fc3b875d62635d5e5a208182",
+      "outgoing_cell_pixel_sha256": "babb2e21e942d1ab0c83ed59ade48021d2c2fe1c0b350300f1c16057d1f9fa54",
+      "overview_pixel_sha256": "161eb644cbff98c55a75844a0312c6a502dc38b2bfbe017aae96512fba45b1bf"
+    }
+  ],
+  "gif": {
+    "file": "ironman_cycle.gif",
+    "sha256": "f73bcc257adf3d1d2834993df3a4f4d7ce1feaf7577340b3e960e0803432ab15",
+    "width": 704,
+    "frames": 271,
+    "duration_ms": 30020,
+    "loop": 0,
+    "first_last_rgb_identical": true,
+    "stop_rgb_mae_255": {
+      "0": 5.84013032913208,
+      "1": 6.155392646789551,
+      "2": 2.48759388923645,
+      "3": 5.84013032913208
+    }
+  },
+  "hold_ms": 5500,
+  "zoom_ms": 4500,
+  "thumbnail_iterations": 4,
+  "prompts": [
+    "A front-facing portrait of Iron Man fills the frame with a bold red-and-gold helmet, bright white eyes, and a plain dark background.",
+    "spider man",
+    "captain america",
+    "iron man"
+  ],
+  "raw_runs": [
+    "../ironman_spider_16x16_20261119_064518/sdxl_mosaic_20261119_064525_817477_seed42",
+    "../nested_captain_8_16/inner_16/sdxl_mosaic_20261122_030845_824879_seed42",
+    "../hero_cycle_varied/third/sdxl_mosaic_20261122_061235_145167_seed42"
+  ],
+  "sample_counts": {
+    "new_sdxl_candidates": 322,
+    "opening_target": 1,
+    "tile_samples_per_level": [
+      256,
+      256,
+      256
+    ],
+    "directly_rendered_leaves_per_level": [
+      255,
+      255,
+      255
+    ]
+  },
+  "selection": "Non-generative CLIP full and 32px close-up margin, best of 256 for each of the two zoom destinations. Return slot chosen by minimum 4x4 RGB distance to opening overview. Seeds retained in source recipes.",
+  "credits": "PhotoQuilt; official SDXL base 1.0; DDIM; Diffusers; openai/clip-vit-base-patch32; PyTorch; Pillow. Opening prompt and scoring text brainstormed with Codex. Code assistance from Codex."
+}

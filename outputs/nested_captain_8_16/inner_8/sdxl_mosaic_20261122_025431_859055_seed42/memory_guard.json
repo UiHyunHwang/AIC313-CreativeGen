@@ -1,0 +1,8 @@
+{
+  "status": "parent_exited",
+  "pid": 1935741,
+  "min_free_gpu_gib": 3.0,
+  "samples": 405,
+  "last_free_gib": 9.52734375,
+  "minimum_observed_free_gib": 9.08203125
+}

@@ -1,0 +1,11 @@
+{
+  "index": 82,
+  "prompt": "Spider-Man crouching, red mask and white eyes",
+  "steps": 12,
+  "seed": 5100820,
+  "file": "samples/p0_n12_i082_s5100820",
+  "native": 0.039994627237319946,
+  "small": 0.016150981187820435,
+  "margin": 0.02807280421257019,
+  "error": 0.02647058665752411
+}

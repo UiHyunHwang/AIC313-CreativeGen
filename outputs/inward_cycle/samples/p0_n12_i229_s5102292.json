@@ -1,0 +1,11 @@
+{
+  "index": 229,
+  "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+  "steps": 12,
+  "seed": 5102292,
+  "file": "samples/p0_n12_i229_s5102292",
+  "native": 0.05148455500602722,
+  "small": 0.029221385717391968,
+  "margin": 0.040352970361709595,
+  "error": 0.029738565906882286
+}

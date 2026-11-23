@@ -1,0 +1,10 @@
+{
+  "index": 45,
+  "file": "hulk/r03_c14.safetensors",
+  "seed": 9494045,
+  "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+  "scene": true,
+  "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+  "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+  "sha256": "853ec7a0e231ed0156fcb7eb96aacbd2fc904524490159f04ca2885c05fa827c"
+}

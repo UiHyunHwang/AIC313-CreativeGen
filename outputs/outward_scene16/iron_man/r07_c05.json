@@ -1,0 +1,10 @@
+{
+  "index": 100,
+  "seed": 9131100,
+  "prompt": "Spider-Man crouching on a ledge in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+  "file": "iron_man/r07_c05.png",
+  "sha256": "46563938c5c696b323a10f650e17505476bd80dfb6a20dab333b149bd3bf327e",
+  "active": true,
+  "parent": "2bb3220cf2507030c8d37517eea1ca53db19d52090192ae87e83ff3f2e05fdf8",
+  "generator": "2e9ea06d3d317df3eba7d090d5b4644db0732cfd05993b8419567a4357305d86"
+}

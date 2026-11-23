@@ -1,0 +1,39 @@
+{
+  "grid": 8,
+  "prompt": "Spider-Man, waist-up, in his red and blue suit",
+  "sdxl": "462165984030d82259a11f4367a4eed129e94a7b",
+  "clip": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+  "parent_sha256": "3effa888666dd63712174a5798ca9f4e149f5abd90685b459fe6c86115608609",
+  "target_sha256": "4c80765397e7d68865d12a6ab0c3e6fb6a304e3628be3d89e3fe8b01ac4d1788",
+  "weight": 2.0,
+  "proposals": [
+    [
+      5.0,
+      0.0
+    ],
+    [
+      3.0,
+      0.0
+    ],
+    [
+      8.0,
+      0.0
+    ],
+    [
+      5.0,
+      0.65
+    ],
+    [
+      8.0,
+      0.65
+    ]
+  ],
+  "steps": 12,
+  "branch_steps": [
+    3,
+    6,
+    9
+  ],
+  "start_timestep": 836,
+  "seed_offset": 8110000
+}

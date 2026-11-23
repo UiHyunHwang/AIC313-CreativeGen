@@ -1,0 +1,10 @@
+{
+  "index": 5,
+  "seed": 9130005,
+  "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+  "file": "spider_man/r01_c06.png",
+  "sha256": "9d12a1e0765b6ff7f8906f1187be4be6990c421e2aac6aa0e54b18cf7833e656",
+  "active": false,
+  "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+  "generator": "2e9ea06d3d317df3eba7d090d5b4644db0732cfd05993b8419567a4357305d86"
+}

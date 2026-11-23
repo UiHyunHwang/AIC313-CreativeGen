@@ -1,0 +1,10 @@
+{
+  "index": 108,
+  "file": "spider_man/r07_c13.safetensors",
+  "seed": 9364108,
+  "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a metal train shed with sunlit girders, cinematic still, directional light and deep shadows",
+  "scene": true,
+  "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+  "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+  "sha256": "0383eb978edf1cdc32549a1958e43b065b24f92de0edd51c0a52cfec11bfaf3d"
+}

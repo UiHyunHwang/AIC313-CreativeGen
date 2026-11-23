@@ -1,0 +1,184 @@
+{
+  "n": 63,
+  "metrics": {
+    "margin88": {
+      "old": 0.06541680485483199,
+      "new": 0.07939855778028095,
+      "delta": 0.013981752925448947,
+      "increases": 42,
+      "old_negative": 3,
+      "new_negative": 0,
+      "paired_bootstrap_95": [
+        0.0064996355819323705,
+        0.02166995396098447
+      ]
+    },
+    "native": {
+      "old": 0.07221390543475983,
+      "new": 0.07916375285103208,
+      "delta": 0.006949847416272239,
+      "increases": 36,
+      "old_negative": 2,
+      "new_negative": 0,
+      "paired_bootstrap_95": [
+        0.0011324941224995116,
+        0.01359081464036116
+      ]
+    },
+    "margin44": {
+      "old": 0.04295041352983505,
+      "new": 0.0610072955725685,
+      "delta": 0.01805688204273345,
+      "increases": 42,
+      "old_negative": 10,
+      "new_negative": 3,
+      "paired_bootstrap_95": [
+        0.00938053967815543,
+        0.027042327129415088
+      ]
+    },
+    "luma": {
+      "old": 0.04230933049445794,
+      "new": 0.0350174010902037,
+      "delta": -0.0072919294042542325,
+      "increases": 14,
+      "old_negative": 0,
+      "new_negative": 0,
+      "paired_bootstrap_95": [
+        -0.011392730579023277,
+        -0.002746409637918107
+      ]
+    },
+    "rgb": {
+      "old": 0.04581647520027463,
+      "new": 0.037243231450991024,
+      "delta": -0.008573243749283609,
+      "increases": 9,
+      "old_negative": 0,
+      "new_negative": 0,
+      "paired_bootstrap_95": [
+        -0.012196544324240041,
+        -0.004521993474502649
+      ]
+    }
+  },
+  "checks": {
+    "gain88": true,
+    "majority": true,
+    "native": true,
+    "luma": true,
+    "rgb": true
+  },
+  "passed": true,
+  "by_prompt": {
+    "Captain America holding his shield": {
+      "old": 0.055933508683334694,
+      "new": 0.07405707917430183,
+      "delta": 0.018123570490967144,
+      "increases": 17,
+      "old_negative": 2,
+      "new_negative": 0,
+      "paired_bootstrap_95": [
+        0.007053060626441782,
+        0.02997374990108338
+      ]
+    },
+    "Captain America in a blue helmet, waist-up": {
+      "old": 0.07601092330047063,
+      "new": 0.09036147523493994,
+      "delta": 0.014350551934469314,
+      "increases": 14,
+      "old_negative": 1,
+      "new_negative": 0,
+      "paired_bootstrap_95": [
+        0.004741630969302995,
+        0.027056805913647012
+      ]
+    },
+    "Captain America running with his shield": {
+      "old": 0.06472460627555847,
+      "new": 0.07376312091946602,
+      "delta": 0.009038514643907546,
+      "increases": 11,
+      "old_negative": 0,
+      "new_negative": 0,
+      "paired_bootstrap_95": [
+        -0.007629406619817019,
+        0.025760927293449625
+      ]
+    }
+  },
+  "all_64": {
+    "n": 64,
+    "metrics": {
+      "margin88": {
+        "old": 0.06569829932413995,
+        "new": 0.07938045240007341,
+        "delta": 0.013682153075933456,
+        "increases": 42,
+        "old_negative": 3,
+        "new_negative": 0,
+        "paired_bootstrap_95": [
+          0.006192808889318258,
+          0.02142856913269497
+        ]
+      },
+      "native": {
+        "old": 0.07221514289267361,
+        "new": 0.0790354092605412,
+        "delta": 0.006820266367867589,
+        "increases": 36,
+        "old_negative": 2,
+        "new_negative": 0,
+        "paired_bootstrap_95": [
+          0.0009011177520733328,
+          0.01337252700468525
+        ]
+      },
+      "margin44": {
+        "old": 0.0435365098528564,
+        "new": 0.06082520354539156,
+        "delta": 0.017288693692535162,
+        "increases": 42,
+        "old_negative": 10,
+        "new_negative": 3,
+        "paired_bootstrap_95": [
+          0.008545651397434994,
+          0.026415976212592795
+        ]
+      },
+      "luma": {
+        "old": 0.042318028950055306,
+        "new": 0.034886262981912296,
+        "delta": -0.007431765968143009,
+        "increases": 14,
+        "old_negative": 0,
+        "new_negative": 0,
+        "paired_bootstrap_95": [
+          -0.011455903565686057,
+          -0.0029646387054014117
+        ]
+      },
+      "rgb": {
+        "old": 0.0457822717144154,
+        "new": 0.03706086685997434,
+        "delta": -0.008721404854441062,
+        "increases": 9,
+        "old_negative": 0,
+        "new_negative": 0,
+        "paired_bootstrap_95": [
+          -0.012331590866961051,
+          -0.004752603848464787
+        ]
+      }
+    },
+    "checks": {
+      "gain88": true,
+      "majority": true,
+      "native": true,
+      "luma": true,
+      "rgb": true
+    },
+    "passed": true
+  }
+}

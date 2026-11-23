@@ -1,0 +1,10 @@
+{
+  "index": 64,
+  "seed": 9132064,
+  "prompt": "Iron Man helmet and shoulders, glowing eyes in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+  "file": "captain_america/r05_c01.png",
+  "sha256": "d38c47c78eab73bf35dc1816b3e10f0e5bd8ac5c5c731e8ecb84a7e12c26b7d5",
+  "active": true,
+  "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+  "generator": "2e9ea06d3d317df3eba7d090d5b4644db0732cfd05993b8419567a4357305d86"
+}

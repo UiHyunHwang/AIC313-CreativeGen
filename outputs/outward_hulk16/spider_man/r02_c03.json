@@ -1,0 +1,10 @@
+{
+  "index": 18,
+  "file": "spider_man/r02_c03.safetensors",
+  "seed": 9364018,
+  "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+  "scene": true,
+  "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+  "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+  "sha256": "264eaf58712e0547d5d298da052ab4298abe1068a0f71f37f4b27999db40b207"
+}

@@ -1,0 +1,24 @@
+{
+  "index": 23,
+  "file": "spider_man/r03_c08.png",
+  "seed": 8721023,
+  "prompt": "Captain America in a blue helmet, waist-up",
+  "generator": "4ed9697411a93e2f4dee3060e61faf3db30ad74133719f1a75eb04fdec4fd2d4",
+  "sha256": "5c2279cbd1bbbb0f4053d84b1639bfb99f17daa74c7c448d3538d6e6d0af8ea7",
+  "baseline_sha256": "6d37a6570267dc612fc3cd351c45300e8c194f5867bca63c918d64f9f895db09",
+  "baseline": {
+    "margin88": 0.08067753911018372,
+    "native": 0.09098947048187256,
+    "margin44": 0.07346153259277344,
+    "luma": 0.03866186243407428,
+    "rgb": 0.044199347496032715
+  },
+  "candidate": {
+    "margin88": 0.10932901501655579,
+    "native": 0.09997692704200745,
+    "margin44": 0.09897573292255402,
+    "luma": 0.024055929807946082,
+    "rgb": 0.027205878868699074
+  },
+  "active": false
+}

@@ -1,0 +1,10 @@
+{
+  "index": 195,
+  "file": "thor/r13_c04.safetensors",
+  "seed": 9495195,
+  "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+  "scene": true,
+  "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+  "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+  "sha256": "c2c0e8d9bc522a9bbbde1654449a18389feb002737a4a19cbe78d7a8b1fa1d46"
+}

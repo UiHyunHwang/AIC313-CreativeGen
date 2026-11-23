@@ -1,0 +1,9 @@
+{
+  "index": 227,
+  "file": "iron_man/r15_c04.safetensors",
+  "seed": 9131227,
+  "prompt": "Spider-Man crouching on a ledge on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+  "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+  "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+  "sha256": "b0e4ab7482fb2b9b79a038e37e5976e2f64f2eeaf79ec8c61e4ccbf0c605f9d2"
+}

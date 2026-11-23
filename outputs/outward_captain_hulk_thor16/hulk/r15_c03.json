@@ -1,0 +1,10 @@
+{
+  "index": 226,
+  "file": "hulk/r15_c03.safetensors",
+  "seed": 9494226,
+  "prompt": "Captain America bracing his shield inside an amber-lit engine hall, copper pipes and shadowed beams, cinematic still, directional light and deep shadows",
+  "scene": true,
+  "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+  "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+  "sha256": "ac47dc6e0be2067c77c3ec781d1ab9fec85a5bb01dd9a3c3c65f523435d39f4f"
+}

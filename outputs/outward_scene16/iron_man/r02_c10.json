@@ -1,0 +1,10 @@
+{
+  "index": 25,
+  "seed": 9131025,
+  "prompt": "Spider-Man wearing his red webbed mask, waist-up in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+  "file": "iron_man/r02_c10.png",
+  "sha256": "121c81454a76a3d971a669fbf5b3b29272000bfb6026ef20fed927b78ef5ca69",
+  "active": true,
+  "parent": "2bb3220cf2507030c8d37517eea1ca53db19d52090192ae87e83ff3f2e05fdf8",
+  "generator": "2e9ea06d3d317df3eba7d090d5b4644db0732cfd05993b8419567a4357305d86"
+}

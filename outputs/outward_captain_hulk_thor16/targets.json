@@ -1,0 +1,30 @@
+{
+  "heroes": [
+    "spider_man",
+    "iron_man",
+    "captain_america",
+    "hulk",
+    "thor"
+  ],
+  "selected": [
+    "outward_palette16/opening.png",
+    "outward_thor_iron16/portraits/iron_9413003.png",
+    "outward_palette16/targets/captain_america_2.png",
+    "outward_hulk16/portraits/hulk_9363100.png",
+    "outward_thor16/portraits/thor_9253101.png"
+  ],
+  "hashes": [
+    "197cb30b6b3dc5ad0d3d5b1a814070baf25e900bed07d04b68e036c6a0a30c7d",
+    "7fab9619125ca68962c867f1f410cff9c27f5a212fd538ad8fd2a86a1cb283d8",
+    "bc1a9bb9f4f3cc87cc423578923082e00c3814cb8165ceddcecf08bfa2732b5d",
+    "df9571c3e71590d34edaa7ddf62dd6a856d8a56ff57886e2fd8d73b79ff9a951",
+    "c0de956cdc1d4a0bfaf78c41a1bce3395728f6caba5418d94a6cda31c6b0a614"
+  ],
+  "latent_hashes": [
+    "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+    "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+    "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+    "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+    "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b"
+  ]
+}

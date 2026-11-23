@@ -1,0 +1,21 @@
+{
+  "overview_side": 64,
+  "target_highlight_threshold": 0.7,
+  "statistics": {
+    "target": {
+      "bright_mean": 0.8374377277970011,
+      "n": 68,
+      "mae64": 0.0
+    },
+    "old": {
+      "bright_mean": 0.8348805420991925,
+      "n": 68,
+      "mae64": 0.05822802734375
+    },
+    "new": {
+      "bright_mean": 0.6803779584775086,
+      "n": 68,
+      "mae64": 0.06308046492034314
+    }
+  }
+}

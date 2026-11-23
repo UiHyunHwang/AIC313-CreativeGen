@@ -1,0 +1,130 @@
+{
+  "indices": [
+    219,
+    187,
+    165,
+    64,
+    169,
+    140,
+    60,
+    72
+  ],
+  "groups": [
+    {
+      "prompt": "captain america",
+      "steps": 12,
+      "mean": 0.016445877868682145,
+      "q25": -0.004728533327579498,
+      "clip_mean": 0.027704047970473766,
+      "error_mean": 0.0562908505089581,
+      "samples": [
+        "captain/samples/p0_n12_i219_s43",
+        "captain/samples/p0_n12_i187_s43",
+        "captain/samples/p0_n12_i165_s43",
+        "captain/samples/p0_n12_i064_s43",
+        "captain/samples/p0_n12_i169_s43",
+        "captain/samples/p0_n12_i140_s43",
+        "captain/samples/p0_n12_i060_s43",
+        "captain/samples/p0_n12_i072_s43"
+      ]
+    },
+    {
+      "prompt": "captain america",
+      "steps": 20,
+      "mean": 0.013997061271220444,
+      "q25": -0.005675536207854748,
+      "clip_mean": 0.02545947954058647,
+      "error_mean": 0.05731209134683013,
+      "samples": [
+        "captain/samples/p0_n20_i219_s43",
+        "captain/samples/p0_n20_i187_s43",
+        "captain/samples/p0_n20_i165_s43",
+        "captain/samples/p0_n20_i064_s43",
+        "captain/samples/p0_n20_i169_s43",
+        "captain/samples/p0_n20_i140_s43",
+        "captain/samples/p0_n20_i060_s43",
+        "captain/samples/p0_n20_i072_s43"
+      ]
+    },
+    {
+      "prompt": "Captain America, close-up portrait, blue helmet with a white A",
+      "steps": 12,
+      "mean": 0.027322735358029603,
+      "q25": 0.009457435086369514,
+      "clip_mean": 0.04112788196653128,
+      "error_mean": 0.06902573304250836,
+      "samples": [
+        "captain/samples/p1_n12_i219_s43",
+        "captain/samples/p1_n12_i187_s43",
+        "captain/samples/p1_n12_i165_s43",
+        "captain/samples/p1_n12_i064_s43",
+        "captain/samples/p1_n12_i169_s43",
+        "captain/samples/p1_n12_i140_s43",
+        "captain/samples/p1_n12_i060_s43",
+        "captain/samples/p1_n12_i072_s43"
+      ]
+    },
+    {
+      "prompt": "Captain America, close-up portrait, blue helmet with a white A",
+      "steps": 20,
+      "mean": 0.0240907228551805,
+      "q25": 0.006633067317306994,
+      "clip_mean": 0.037652814760804176,
+      "error_mean": 0.06781045952811837,
+      "samples": [
+        "captain/samples/p1_n20_i219_s43",
+        "captain/samples/p1_n20_i187_s43",
+        "captain/samples/p1_n20_i165_s43",
+        "captain/samples/p1_n20_i064_s43",
+        "captain/samples/p1_n20_i169_s43",
+        "captain/samples/p1_n20_i140_s43",
+        "captain/samples/p1_n20_i060_s43",
+        "captain/samples/p1_n20_i072_s43"
+      ]
+    }
+  ],
+  "best": {
+    "prompt": "Captain America, close-up portrait, blue helmet with a white A",
+    "steps": 12,
+    "mean": 0.027322735358029603,
+    "q25": 0.009457435086369514,
+    "clip_mean": 0.04112788196653128,
+    "error_mean": 0.06902573304250836,
+    "samples": [
+      "captain/samples/p1_n12_i219_s43",
+      "captain/samples/p1_n12_i187_s43",
+      "captain/samples/p1_n12_i165_s43",
+      "captain/samples/p1_n12_i064_s43",
+      "captain/samples/p1_n12_i169_s43",
+      "captain/samples/p1_n12_i140_s43",
+      "captain/samples/p1_n12_i060_s43",
+      "captain/samples/p1_n12_i072_s43"
+    ]
+  },
+  "controls": [
+    {
+      "file": "control_42_0.png",
+      "seed": 42,
+      "prompt": "captain america",
+      "clip": 0.01999933272600174
+    },
+    {
+      "file": "control_42_1.png",
+      "seed": 42,
+      "prompt": "Captain America, close-up portrait, blue helmet with a white A",
+      "clip": 0.05939313769340515
+    },
+    {
+      "file": "control_43_0.png",
+      "seed": 43,
+      "prompt": "captain america",
+      "clip": 0.04580298811197281
+    },
+    {
+      "file": "control_43_1.png",
+      "seed": 43,
+      "prompt": "Captain America, close-up portrait, blue helmet with a white A",
+      "clip": 0.06455911695957184
+    }
+  ]
+}

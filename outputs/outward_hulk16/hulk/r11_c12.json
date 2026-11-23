@@ -1,0 +1,10 @@
+{
+  "index": 171,
+  "file": "hulk/r11_c12.safetensors",
+  "seed": 9365171,
+  "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a firelit forge with copper pillars, cinematic still, directional light and deep shadows",
+  "scene": true,
+  "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+  "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+  "sha256": "cbb63b55cf82cc99cb90d23e108b18da3bc1a7b8bf1936dbdab575950dfbed29"
+}

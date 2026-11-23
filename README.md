@@ -1,3 +1,11 @@
+# AIC313 CreativeGen · PhotoQuilt with SDXL
+
+The baseline is the five-hero, 16×16 outward zoom in [the experiment directory](outputs/outward_captain_hulk_thor16/README.md). [generate.py](outputs/outward_captain_hulk_thor16/generate.py) samples the tiles, [render.py](outputs/outward_captain_hulk_thor16/render.py) places one nested board per scene, and [accelerate.py](outputs/outward_captain_hulk_thor16/accelerate.py) exports the four-lap MP4.
+
+The source snapshot includes SDXL code, tests, experiment scripts, recipes, seed records, and verification metadata. The local PhotoQuilt working directory holds generated tiles, latents and earlier boards used by the renderer. To rebuild those inputs, follow the linked experiment README and its predecessor recipes. The MP4 exporter also requires FFmpeg with libx264. Run it from the project root with `python -m outputs.outward_captain_hulk_thor16.accelerate` after generating its inputs.
+
+The reference movie is `spider_iron_captain_hulk_thor_continuous_4_laps.mp4`. Its SHA-256 is `1adfa576e824af737a30f7686691aec3cc30dafaba02a0b26bfa4a286f5294f5`. The upstream PhotoQuilt project and its original credits follow.
+
 <p align="center">
   <img src="assets/title-figure.png" alt="PhotoQuilt" width="720"/>
 </p>
@@ -10,6 +18,17 @@
 </p>
 
 ---
+
+## CreativeGen SDXL adaptation
+
+**Local additions:** [`sdxl/`](sdxl/README.md) implements prompt-and-seed generation
+of both the target and mosaic using only
+`stabilityai/stable-diffusion-xl-base-1.0`. Start with the SDXL-specific guide and
+[`requirements-sdxl.txt`](requirements-sdxl.txt) for this adaptation. The original
+backends and examples below are upstream documentation and include checkpoints
+and reference-image modes outside the CreativeGen assignment's allowed scope.
+The SDXL addition completed guarded 2048, 4096, 8192, and 16384 square runs on the local 20 GiB vGPU;
+see the SDXL guide for settings, measurements, and remaining validation scope.
 
 **PhotoQuilt** is a training-free framework for generating photomosaics at arbitrary resolution. A low-resolution bootstrap pass fixes the global layout; the latent canvas is upscaled and re-noised; denoising then proceeds in fixed tiles so each region becomes its own convincing image while the overall scene stays coherent.
 

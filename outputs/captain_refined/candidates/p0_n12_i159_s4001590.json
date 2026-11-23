@@ -1,0 +1,12 @@
+{
+  "index": 159,
+  "prompt": "Captain America holding his shield",
+  "steps": 12,
+  "seed": 4001590,
+  "file": "candidates/p0_n12_i159_s4001590",
+  "clip": 0.04129192233085632,
+  "variety": 0.043287500739097595,
+  "rgb_mae": 0.023202618584036827,
+  "score": 0.037649187818169595,
+  "contrast": "a tiny distant figure in a large empty scene"
+}

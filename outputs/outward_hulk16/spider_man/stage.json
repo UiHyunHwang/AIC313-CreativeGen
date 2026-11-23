@@ -1,0 +1,2568 @@
+{
+  "subject": "spider_man",
+  "leaf": "hulk",
+  "target": "outward_palette16/opening.png",
+  "directory": "outward_hulk16",
+  "tiles": [
+    {
+      "index": 0,
+      "file": "spider_man/r01_c01.safetensors",
+      "seed": 9364000,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "ee6ce80868cba1bba4031ef18387408bca2be1d1c01a95a8dc25931384c4d358"
+    },
+    {
+      "index": 1,
+      "file": "spider_man/r01_c02.safetensors",
+      "seed": 9364001,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d10e0597db446e113ae793221cb675392cd37ba85d19aebc4a456c274af55705"
+    },
+    {
+      "index": 2,
+      "file": "spider_man/r01_c03.safetensors",
+      "seed": 9364002,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "1abc75e25a8c2dace90d7e4c04ff02376bb96eb557f33e8bfef635bd6812f010"
+    },
+    {
+      "index": 3,
+      "file": "spider_man/r01_c04.safetensors",
+      "seed": 9364003,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "42c75f46a090f332e949509198e1faaae0d6bb3f9e65dd2f934d52b01ceb2bef"
+    },
+    {
+      "index": 4,
+      "file": "spider_man/r01_c05.safetensors",
+      "seed": 9364004,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "cc714ea997a698c038880b1898d3e64b820fd0bfcbf84638def87f0bbc956698"
+    },
+    {
+      "index": 5,
+      "file": "spider_man/r01_c06.safetensors",
+      "seed": 9364005,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "46f11b7a008b4065e6654a1730caf797d80661b1e260fe09630d55e999d5921a"
+    },
+    {
+      "index": 6,
+      "file": "spider_man/r01_c07.safetensors",
+      "seed": 9364006,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "634062e4a3fa1a79405db3db37d5124be045e0272a6fecbe459b27e38e863c6f"
+    },
+    {
+      "index": 7,
+      "file": "spider_man/r01_c08.safetensors",
+      "seed": 9364007,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "71010aa86bac7cb400e9068a97c98ea5d6ee8a83d44f0645f76937722f1aedc3"
+    },
+    {
+      "index": 8,
+      "file": "spider_man/r01_c09.safetensors",
+      "seed": 9364008,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "a06a831ba904ad3272095f4bd126049a154d4396609a61c190079ed96aed886a"
+    },
+    {
+      "index": 9,
+      "file": "spider_man/r01_c10.safetensors",
+      "seed": 9364009,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "8d002e4ca7438b6e554489a29127be70d66d8df1aceb2e28776000df5dac134a"
+    },
+    {
+      "index": 10,
+      "file": "spider_man/r01_c11.safetensors",
+      "seed": 9364010,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "9d471cc6c8c90cb19c61e96f95575a57901d3baad406f4fc56c015d10032923f"
+    },
+    {
+      "index": 11,
+      "file": "spider_man/r01_c12.safetensors",
+      "seed": 9364011,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "0d3bdddee00efec1619fd16f9c91e6907c8f40e1e8a105561dbc3a836eea506c"
+    },
+    {
+      "index": 12,
+      "file": "spider_man/r01_c13.safetensors",
+      "seed": 9364012,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "8e977322074e303611f4aabb6fac4b9dc6597c12deba1408cb7bd4ffd4517532"
+    },
+    {
+      "index": 13,
+      "file": "spider_man/r01_c14.safetensors",
+      "seed": 9364013,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "406d93cb977fda3fb692395853aea7ff4ebc7e794ff55d5973d8d206b1a7c07c"
+    },
+    {
+      "index": 14,
+      "file": "spider_man/r01_c15.safetensors",
+      "seed": 9364014,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "cad0b31ad9c34e8d85e9b091835d8431c5541f58ef5ef7b18f945ac5286238f8"
+    },
+    {
+      "index": 15,
+      "file": "spider_man/r01_c16.safetensors",
+      "seed": 9364015,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "ea2b529d9a58fcf9207571169e664a7bf60e89a680869068b1d2edf6346d29a6"
+    },
+    {
+      "index": 16,
+      "file": "spider_man/r02_c01.safetensors",
+      "seed": 9364016,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "b8739dfb27326c59ec79ebf6dac36e49f3747e3c1b1d460c5f504e4e19631bf1"
+    },
+    {
+      "index": 17,
+      "file": "spider_man/r02_c02.safetensors",
+      "seed": 9364017,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "678e064a178ae868e8fe88dcdeac31666c7db01091ef459aa5404c27bd9b681d"
+    },
+    {
+      "index": 18,
+      "file": "spider_man/r02_c03.safetensors",
+      "seed": 9364018,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "264eaf58712e0547d5d298da052ab4298abe1068a0f71f37f4b27999db40b207"
+    },
+    {
+      "index": 19,
+      "file": "spider_man/r02_c04.safetensors",
+      "seed": 9364019,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f8fb775f7244a4374872b2a4eac197bb372f13cad3272203ea637167061d497d"
+    },
+    {
+      "index": 20,
+      "file": "spider_man/r02_c05.safetensors",
+      "seed": 9364020,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "0e705ca67d8a93d0f2e738f7004fad20b0aa0885213ab28ccae437df3a71e10b"
+    },
+    {
+      "index": 21,
+      "file": "spider_man/r02_c06.safetensors",
+      "seed": 9364021,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "39186386ebe0966ba2b87d04cd71520e9665519bd969e02442b971a8a97dfc88"
+    },
+    {
+      "index": 22,
+      "file": "spider_man/r02_c07.safetensors",
+      "seed": 9364022,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "e620a4de2ded9e8404f83a7eb6c352752bb3c198c84985340dda649cefd4ccd8"
+    },
+    {
+      "index": 23,
+      "file": "spider_man/r02_c08.safetensors",
+      "seed": 9364023,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "e58a493750fcac5854e43042750823437354f8dfa8e86b4a92ea5a67ccdaffc3"
+    },
+    {
+      "index": 24,
+      "file": "spider_man/r02_c09.safetensors",
+      "seed": 9364024,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "4e4cb307a358f5404d2a1ad3d8527964133bac0e0ec3a9326a17cee708fafc4d"
+    },
+    {
+      "index": 25,
+      "file": "spider_man/r02_c10.safetensors",
+      "seed": 9364025,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "3e067a9085f6775bf7012251fa94d1daeb1dd93456053f0f66430e3f1344c3a2"
+    },
+    {
+      "index": 26,
+      "file": "spider_man/r02_c11.safetensors",
+      "seed": 9364026,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "0a820bacb8ce11dac3e8fc8bae00523267e191516eb5766c30f8f98c7816f229"
+    },
+    {
+      "index": 27,
+      "file": "spider_man/r02_c12.safetensors",
+      "seed": 9364027,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5c4d9733d391b579a2826c364e07b1dfa80a725b982e9413a0d2e1b863bd8184"
+    },
+    {
+      "index": 28,
+      "file": "spider_man/r02_c13.safetensors",
+      "seed": 9364028,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "8f82bfb16a16970abded28e8c87e6fde2ad7f31cbe5c232619f151c6beb73f82"
+    },
+    {
+      "index": 29,
+      "file": "spider_man/r02_c14.safetensors",
+      "seed": 9364029,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "3d7809db573ad056803ccf517e0c910da519864af253f8dd21a4f9ee65f7ad5e"
+    },
+    {
+      "index": 30,
+      "file": "spider_man/r02_c15.safetensors",
+      "seed": 9364030,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "877df5f6fe3269f1a504269fd54b03e93d0b6d140ce5ebdf22cdc5ddb47fd52f"
+    },
+    {
+      "index": 31,
+      "file": "spider_man/r02_c16.safetensors",
+      "seed": 9364031,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "058993052f8f0c3c97b6be28520c6f2e4405ad47c305bc179b7b47b2a1df4c7e"
+    },
+    {
+      "index": 32,
+      "file": "spider_man/r03_c01.safetensors",
+      "seed": 9364032,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "487176341e1c6bc889725b8ca9e01490acb2a2b6f0a5100500455b4640b05395"
+    },
+    {
+      "index": 33,
+      "file": "spider_man/r03_c02.safetensors",
+      "seed": 9364033,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "fc292e93afe3d32d443117dba1ce1138f23c2902658c3c3f6d301d00d626c566"
+    },
+    {
+      "index": 34,
+      "file": "spider_man/r03_c03.safetensors",
+      "seed": 9364034,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "050904a5918f05e6a4361fe9217d574730543948c0c11a6a0e6416da4674ef49"
+    },
+    {
+      "index": 35,
+      "file": "spider_man/r03_c04.safetensors",
+      "seed": 9364035,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "b9a3b84dd2584f66155452ae4469f3241ac1315cbd40276cffc360e2e92b4bc9"
+    },
+    {
+      "index": 36,
+      "file": "spider_man/r03_c05.safetensors",
+      "seed": 9364036,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "9e795d5e56005ec811e5fa8f402fbdcf77334e5e650ff9c11560dda620be4fbd"
+    },
+    {
+      "index": 37,
+      "file": "spider_man/r03_c06.safetensors",
+      "seed": 9364037,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d9807deec6787f4edf51e71374ed7a52ea6c6fb8259ce4bacea34232074d0dfb"
+    },
+    {
+      "index": 38,
+      "file": "spider_man/r03_c07.safetensors",
+      "seed": 9364038,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a brick foundry reflecting crimson furnace light, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "1864fd03818a38240d55aa02ef71c63b3161a71416472cd73dfe65c7aa6883d7"
+    },
+    {
+      "index": 39,
+      "file": "spider_man/r03_c08.safetensors",
+      "seed": 9364039,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "69009eb681b976c492f9185dbc0dec8aace4947176ace420f51215ac8f884e45"
+    },
+    {
+      "index": 40,
+      "file": "spider_man/r03_c09.safetensors",
+      "seed": 9364040,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "44b2fa99a54570c5db9a91b787dedb5a0d66560bd82b8029e826794a7327d4b9"
+    },
+    {
+      "index": 41,
+      "file": "spider_man/r03_c10.safetensors",
+      "seed": 9364041,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "2e1adb77c8b7b84725653b30083391979b4a7b88ee732f9b8773f097f42a26db"
+    },
+    {
+      "index": 42,
+      "file": "spider_man/r03_c11.safetensors",
+      "seed": 9364042,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "4755d1c270dad2c85beea0d8c7c48e0bb6facbd0019c088eb0fc94db620c1cc4"
+    },
+    {
+      "index": 43,
+      "file": "spider_man/r03_c12.safetensors",
+      "seed": 9364043,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "45d4385957edf2d1dda7f196782280637152c24a5cc6fd8db6c7aad98f7a7018"
+    },
+    {
+      "index": 44,
+      "file": "spider_man/r03_c13.safetensors",
+      "seed": 9364044,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5aa34b9f7880796e638884a34c80cc3d533ac18c0d4d0d7f1bf8522a13ac3d2a"
+    },
+    {
+      "index": 45,
+      "file": "spider_man/r03_c14.safetensors",
+      "seed": 9364045,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "740f1b5f9510e350a38bd4777dbb304b5661e6915409caae508f6ab808328101"
+    },
+    {
+      "index": 46,
+      "file": "spider_man/r03_c15.safetensors",
+      "seed": 9364046,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "0b9bbe7b318c6947d5977d4afc7e5f7544bce9f094c9f05b382f44fc156d5160"
+    },
+    {
+      "index": 47,
+      "file": "spider_man/r03_c16.safetensors",
+      "seed": 9364047,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "4647133c66e717f060d729a1e9028429a1306fa0ce0a0ba33d3cdd54a75a201d"
+    },
+    {
+      "index": 48,
+      "file": "spider_man/r04_c01.safetensors",
+      "seed": 9364048,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "c2d61f21e8ebb44b0111d3a0fe932508c84089dcea79b9577a17546e6565da30"
+    },
+    {
+      "index": 49,
+      "file": "spider_man/r04_c02.safetensors",
+      "seed": 9364049,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "ad457aa878ae7b931df9e2375fc93e3e4226db8720126e4d09b446779624bad9"
+    },
+    {
+      "index": 50,
+      "file": "spider_man/r04_c03.safetensors",
+      "seed": 9364050,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5c3c823b12aeb669562a839e297dacfd6ab2c2111c887ee94ee1b4456b56b1a4"
+    },
+    {
+      "index": 51,
+      "file": "spider_man/r04_c04.safetensors",
+      "seed": 9364051,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "942992d0e0cb737cf9918c04a375765cce26e1bb67e952118527c89e4d19d7b8"
+    },
+    {
+      "index": 52,
+      "file": "spider_man/r04_c05.safetensors",
+      "seed": 9364052,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "facb8f14dce0d7b61d1f1362488d06d24a28c89a624b4102d7b0f91916f38029"
+    },
+    {
+      "index": 53,
+      "file": "spider_man/r04_c06.safetensors",
+      "seed": 9364053,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "19bdfea21fed66d30c4605ce2caae3c49d030de040b6d80a88882518e5bdc0e5"
+    },
+    {
+      "index": 54,
+      "file": "spider_man/r04_c07.safetensors",
+      "seed": 9364054,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f200927bec01ba26688a58d05c552cd75b63a77abd02806101e51767b8665bab"
+    },
+    {
+      "index": 55,
+      "file": "spider_man/r04_c08.safetensors",
+      "seed": 9364055,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d9e4bb2209ce6a719dcef5f5133b775a7842450f91a2e1d48520fd45f4bc115e"
+    },
+    {
+      "index": 56,
+      "file": "spider_man/r04_c09.safetensors",
+      "seed": 9364056,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "1659c00c670648ee6d9997d56f9446e1cef487d582bdf14325742eca634c902b"
+    },
+    {
+      "index": 57,
+      "file": "spider_man/r04_c10.safetensors",
+      "seed": 9364057,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "a47393cd39a17e9a46925d52cd0790613534f51482aac230ef9a0bf4300cc166"
+    },
+    {
+      "index": 58,
+      "file": "spider_man/r04_c11.safetensors",
+      "seed": 9364058,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "83e3c1cc7d2838e037ec80a77f8f58c0ffe6e44f9fd696c5020747c2f9fa54b3"
+    },
+    {
+      "index": 59,
+      "file": "spider_man/r04_c12.safetensors",
+      "seed": 9364059,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "12a4577fb13e39df52ed36171ec00ee24b046cd0d88e330bd0fa8cf40178c58f"
+    },
+    {
+      "index": 60,
+      "file": "spider_man/r04_c13.safetensors",
+      "seed": 9364060,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "2b9cc88be2f362ed3a9e090b47e23ff33d9bedeff0d9a1fa9ddbaeed1c3f0303"
+    },
+    {
+      "index": 61,
+      "file": "spider_man/r04_c14.safetensors",
+      "seed": 9364061,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "a24ee7c8c61274b2f6eeac2f2ab7e791eedc6a508342c2bb72376f3e8ed4a55c"
+    },
+    {
+      "index": 62,
+      "file": "spider_man/r04_c15.safetensors",
+      "seed": 9364062,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "9beaf8205946f0942594ff4a7e7f5ce7d1ff841937aaed9263aa007b72f85590"
+    },
+    {
+      "index": 63,
+      "file": "spider_man/r04_c16.safetensors",
+      "seed": 9364063,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "253933ad483ebb869841a26939881eb5bf977fc377867695dfa9532c365d7405"
+    },
+    {
+      "index": 64,
+      "file": "spider_man/r05_c01.safetensors",
+      "seed": 9364064,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "8b4c4778e2365d4c0095bb1e2f043e809e7763118cceafa5f413dcdbd7e61334"
+    },
+    {
+      "index": 65,
+      "file": "spider_man/r05_c02.safetensors",
+      "seed": 9364065,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "eb4e613114078388a81b6ed3842a5e19ad15205fd7ec61b58ed3a012eda8f65a"
+    },
+    {
+      "index": 66,
+      "file": "spider_man/r05_c03.safetensors",
+      "seed": 9364066,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f83fac41b26066fbda0047b61f9bf74210f675336dcdc6c6ac2ac9ce6561abd7"
+    },
+    {
+      "index": 67,
+      "file": "spider_man/r05_c04.safetensors",
+      "seed": 9364067,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "372c08d5991a05e0294c88b839dc54246c750427bb71442dcbeb14ac844ef44b"
+    },
+    {
+      "index": 68,
+      "file": "spider_man/r05_c05.safetensors",
+      "seed": 9364068,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "46bfe809cf681c305e7bc72f398da06ef6f6333566d6ce6d574c2d0d527969f4"
+    },
+    {
+      "index": 69,
+      "file": "spider_man/r05_c06.safetensors",
+      "seed": 9364069,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "78ff49f4098d0164926d8ba0d75909d34753b65fddbc9bec9675efbc45dcd755"
+    },
+    {
+      "index": 70,
+      "file": "spider_man/r05_c07.safetensors",
+      "seed": 9364070,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "e7ed765e116f2ad7c03b406fd1efeccbbc0b8b98e22ca99571f5dfbfc73e71dd"
+    },
+    {
+      "index": 71,
+      "file": "spider_man/r05_c08.safetensors",
+      "seed": 9364071,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d556d79e91d7014427af36e4f52efd092e6d4edc85710a80ee70b391adf38f15"
+    },
+    {
+      "index": 72,
+      "file": "spider_man/r05_c09.safetensors",
+      "seed": 9364072,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "21b7904ea4512d647f58b61d7d54f93787381b0cd29e73e2b1d5672e0e988c64"
+    },
+    {
+      "index": 73,
+      "file": "spider_man/r05_c10.safetensors",
+      "seed": 9364073,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "ec185c9a8b2b1b4454bc9fe31e772e9f7fdf099ce06866e9f2d895c23089c0c6"
+    },
+    {
+      "index": 74,
+      "file": "spider_man/r05_c11.safetensors",
+      "seed": 9364074,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "726b91a95824d5f3297679fe762d94797ac4c64df0652538f660ffe2c6e6ea48"
+    },
+    {
+      "index": 75,
+      "file": "spider_man/r05_c12.safetensors",
+      "seed": 9364075,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "053bee2957a74aefe5c9a8483e09962374daf05a93097c083b4023f41fce1486"
+    },
+    {
+      "index": 76,
+      "file": "spider_man/r05_c13.safetensors",
+      "seed": 9364076,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "88616e4a84db89eef4db7b08096b0a554f5080579a95fb78b487236bf7357321"
+    },
+    {
+      "index": 77,
+      "file": "spider_man/r05_c14.safetensors",
+      "seed": 9364077,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "fc0b4553757c3b2999928474bafe74dcd3d8083441e3e8373fe5e812553f1e6a"
+    },
+    {
+      "index": 78,
+      "file": "spider_man/r05_c15.safetensors",
+      "seed": 9364078,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d19ed77c1521fff8976346d9c9ab9f17dce1adeaf5e40aade0e59b21db8a7a85"
+    },
+    {
+      "index": 79,
+      "file": "spider_man/r05_c16.safetensors",
+      "seed": 9364079,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "90520f5143024d46820bb82fec986ccdf7bace5df51b4dbfde3998f5b7d47331"
+    },
+    {
+      "index": 80,
+      "file": "spider_man/r06_c01.safetensors",
+      "seed": 9364080,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "227951b911f169cd8dd6be5cb3ee5afdc437f6bb9ef5cca235220b636bfb9c6c"
+    },
+    {
+      "index": 81,
+      "file": "spider_man/r06_c02.safetensors",
+      "seed": 9364081,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "eaaace89b16b1ca5c81f1bfc7f1c2b6cbb6ef749df1d1770b73049eafe8926d7"
+    },
+    {
+      "index": 82,
+      "file": "spider_man/r06_c03.safetensors",
+      "seed": 9364082,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "30ebb3bec0c695b477d0c90b477a287deb457f0e7c05dfe8446571f06f8d07a9"
+    },
+    {
+      "index": 83,
+      "file": "spider_man/r06_c04.safetensors",
+      "seed": 9364083,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5e747960a5a8ed91005cc95edcb98bfa86ce732ee0ef3244483a51aa71615847"
+    },
+    {
+      "index": 84,
+      "file": "spider_man/r06_c05.safetensors",
+      "seed": 9364084,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "702e6a18e6f6cc840e90a5b929febe8fa8ae02a1f60face9472e39b01ec16dbf"
+    },
+    {
+      "index": 85,
+      "file": "spider_man/r06_c06.safetensors",
+      "seed": 9364085,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "8776907b7d0dbf92e1f04601a2fe4154368a70dfe7b5bd864c0b02f6f6d1c413"
+    },
+    {
+      "index": 86,
+      "file": "spider_man/r06_c07.safetensors",
+      "seed": 9364086,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "58557d00fd06dc7cdd59fc9c405ba4c9273bd296778ea3e70b8d16e6d4e885cd"
+    },
+    {
+      "index": 87,
+      "file": "spider_man/r06_c08.safetensors",
+      "seed": 9364087,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "21e9e0d74fe0a2368797f7c89c8f9d473863f8aa090e606e0431280bacb6b236"
+    },
+    {
+      "index": 88,
+      "file": "spider_man/r06_c09.safetensors",
+      "seed": 9364088,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "60424b474b606f16236fbad766c8a14396e51e79b28aca4b7ce758ad9fee0425"
+    },
+    {
+      "index": 89,
+      "file": "spider_man/r06_c10.safetensors",
+      "seed": 9364089,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d73931cfe9b3eb5debb2ee540ed7cf0d88ffdad06180d903ee499c4ca4df0a6c"
+    },
+    {
+      "index": 90,
+      "file": "spider_man/r06_c11.safetensors",
+      "seed": 9364090,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "a6caccd4290433c29e0796eed4dfb85b2727b8645c874687120814e7300e6728"
+    },
+    {
+      "index": 91,
+      "file": "spider_man/r06_c12.safetensors",
+      "seed": 9364091,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "b2d0028c88cdd877217dc66c6bc4952a92188c810b518428ad805825ec96d409"
+    },
+    {
+      "index": 92,
+      "file": "spider_man/r06_c13.safetensors",
+      "seed": 9364092,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "dc5add5f221df6785312bb75e5c1e1fd10bf20eb7985b639d106bbba279c1fab"
+    },
+    {
+      "index": 93,
+      "file": "spider_man/r06_c14.safetensors",
+      "seed": 9364093,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "2ac280b49d30dc0c94124c25a66e7eb40aeaa440e519d6c4cd1d7d0ef0149fbb"
+    },
+    {
+      "index": 94,
+      "file": "spider_man/r06_c15.safetensors",
+      "seed": 9364094,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "dbbfb46460b5826be86540396059e45b3188895d228e8015e0c5d40b39b5547b"
+    },
+    {
+      "index": 95,
+      "file": "spider_man/r06_c16.safetensors",
+      "seed": 9364095,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "3591b191e2d529e467e75ce5b4622748234c1632b97174c45be65600870a946b"
+    },
+    {
+      "index": 96,
+      "file": "spider_man/r07_c01.safetensors",
+      "seed": 9364096,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "daacfb5ab3be7e0448cd010e1712afccf833ea69e9014082ec4d1076783d2837"
+    },
+    {
+      "index": 97,
+      "file": "spider_man/r07_c02.safetensors",
+      "seed": 9364097,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "60d2596b8411cee46d7f0bedc03d64e580d071faec02c7270c5767f0f5bd372c"
+    },
+    {
+      "index": 98,
+      "file": "spider_man/r07_c03.safetensors",
+      "seed": 9364098,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "b2619afde5ec2f82c30d2fb59a9e2c2dba5d126bbcf2a2bffd303ffea53f8d87"
+    },
+    {
+      "index": 99,
+      "file": "spider_man/r07_c04.safetensors",
+      "seed": 9364099,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "0d692172e4bb1dbce90ef9e14021561da947d29e478e808735f83f41a34610f7"
+    },
+    {
+      "index": 100,
+      "file": "spider_man/r07_c05.safetensors",
+      "seed": 9364100,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "9d13d13b3040b63227e15fd75a8fdb8274f190442ebd84aee49a5843b42665ee"
+    },
+    {
+      "index": 101,
+      "file": "spider_man/r07_c06.safetensors",
+      "seed": 9364101,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, soft silver light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "eb6ec107b951c9292c9f97aafe22a10868128911de9452711d1e5cbf4df51ee8"
+    },
+    {
+      "index": 102,
+      "file": "spider_man/r07_c07.safetensors",
+      "seed": 9364102,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "19e80cc04cb07c1f0ff0569882d03ee92ba05e2c3c3f384db23df5c15470459e"
+    },
+    {
+      "index": 103,
+      "file": "spider_man/r07_c08.safetensors",
+      "seed": 9364103,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "ed138a1396e267a3dc61154b9489af5d59f9e76003f1fc6321fd9da238de5947"
+    },
+    {
+      "index": 104,
+      "file": "spider_man/r07_c09.safetensors",
+      "seed": 9364104,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "fb385f2b69888f718f37b74ceda38e1b4f3a06a3e4fc9891bcc28bc3b3b6225e"
+    },
+    {
+      "index": 105,
+      "file": "spider_man/r07_c10.safetensors",
+      "seed": 9364105,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "dea048a52756eca6925f2c348121224745af03c216666eca9b2ac11516e2901a"
+    },
+    {
+      "index": 106,
+      "file": "spider_man/r07_c11.safetensors",
+      "seed": 9364106,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "0f122ae0d8824f53bc7ad08995f2d2ebccbd18364373befb568385963537dfb3"
+    },
+    {
+      "index": 107,
+      "file": "spider_man/r07_c12.safetensors",
+      "seed": 9364107,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5eeb7bff2a0e1b964c9a8f13f3cd11af03d5425b424d79ffff11242036a33eeb"
+    },
+    {
+      "index": 108,
+      "file": "spider_man/r07_c13.safetensors",
+      "seed": 9364108,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a metal train shed with sunlit girders, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "0383eb978edf1cdc32549a1958e43b065b24f92de0edd51c0a52cfec11bfaf3d"
+    },
+    {
+      "index": 109,
+      "file": "spider_man/r07_c14.safetensors",
+      "seed": 9364109,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "1eabc100cd8b82ef532a46f77e95a5dd7ec704ed9856f11c839299e2175021fd"
+    },
+    {
+      "index": 110,
+      "file": "spider_man/r07_c15.safetensors",
+      "seed": 9364110,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "b8145242c31032e77271963bb000053b6d4aa44a8681c927fdce3a9bc780ce6f"
+    },
+    {
+      "index": 111,
+      "file": "spider_man/r07_c16.safetensors",
+      "seed": 9364111,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "3374954a53adf24c83e87542d28ac8352dc4422b1ba353231849ef950054b1de"
+    },
+    {
+      "index": 112,
+      "file": "spider_man/r08_c01.safetensors",
+      "seed": 9364112,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "2a079e83cef3ec36a66e60af44c37bd498f371645eb835ff3cfb04bd6bdee7a1"
+    },
+    {
+      "index": 113,
+      "file": "spider_man/r08_c02.safetensors",
+      "seed": 9364113,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f1123cb588c4f8237a59a823a2bdc4c2b0816a4bdb98c6d74fb2d8ce87778cdd"
+    },
+    {
+      "index": 114,
+      "file": "spider_man/r08_c03.safetensors",
+      "seed": 9364114,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "647403f4ad0e54d9462ffa58ab1324c9781065caaac92d7aa40bee8de886b163"
+    },
+    {
+      "index": 115,
+      "file": "spider_man/r08_c04.safetensors",
+      "seed": 9364115,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d6600c5cce600a947a73e3b86624cc23bff5d284c8ac47d2208567005fa06626"
+    },
+    {
+      "index": 116,
+      "file": "spider_man/r08_c05.safetensors",
+      "seed": 9364116,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "bd159e0b6dfbdfa34bd0c7b1b917b7c4e18261e6b0e91fdb21c1e5b03c01d633"
+    },
+    {
+      "index": 117,
+      "file": "spider_man/r08_c06.safetensors",
+      "seed": 9364117,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "59385fad66e8096b0857e584a8397c4b4b7fd47252c83933ba7f6852d9cd3d53"
+    },
+    {
+      "index": 118,
+      "file": "spider_man/r08_c07.safetensors",
+      "seed": 9364118,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, soft silver light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "cf1fed904e848e094165960f48946df5c06aae0cdc42e289dff123ace2500b80"
+    },
+    {
+      "index": 119,
+      "file": "spider_man/r08_c08.safetensors",
+      "seed": 9364119,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "fa45ee609572b4573044dc5d2543cadb361a40cac067431e5c4361d3ba2e6642"
+    },
+    {
+      "index": 120,
+      "file": "spider_man/r08_c09.safetensors",
+      "seed": 9364120,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "acf8f7efb998ff74790ebccb916534800ceb72cce4a6e4f7b3a612095149cb08"
+    },
+    {
+      "index": 121,
+      "file": "spider_man/r08_c10.safetensors",
+      "seed": 9364121,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "49f50b3e6245be619470a56d1a27114f487fd228bc870cecaa729fd00baa6fde"
+    },
+    {
+      "index": 122,
+      "file": "spider_man/r08_c11.safetensors",
+      "seed": 9364122,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, soft silver light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "4f508266668f172dac3bf46a526bffee53e14357807449e5c0c0af92bfc07c89"
+    },
+    {
+      "index": 123,
+      "file": "spider_man/r08_c12.safetensors",
+      "seed": 9364123,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "45b3b8d42c98e125a17f6170c02736c6a900ab503d01dae3315f6ea4f08ce19d"
+    },
+    {
+      "index": 124,
+      "file": "spider_man/r08_c13.safetensors",
+      "seed": 9364124,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "6463cbe332e0fa47ff428d04609d79fa34344e9755fc599d2b065f9ed6828040"
+    },
+    {
+      "index": 125,
+      "file": "spider_man/r08_c14.safetensors",
+      "seed": 9364125,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "bcc179029393288ab36f5ed5c58b2c67dd29483f5fa4c2f87dc24d3b833484e2"
+    },
+    {
+      "index": 126,
+      "file": "spider_man/r08_c15.safetensors",
+      "seed": 9364126,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "af104af0f599477db613945e39c63132ad81c4063ec54e69acbaabf540460c7e"
+    },
+    {
+      "index": 127,
+      "file": "spider_man/r08_c16.safetensors",
+      "seed": 9364127,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5d0db4133c82f2bad7ea4dba7915fa36fb293080db6556f54dbee4dfcf1edbba"
+    },
+    {
+      "index": 128,
+      "file": "spider_man/r09_c01.safetensors",
+      "seed": 9364128,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "9816bdf22ed4cb79ea1e7d8113f6f7dd483dfac74a4c1c4c19af00f161153434"
+    },
+    {
+      "index": 129,
+      "file": "spider_man/r09_c02.safetensors",
+      "seed": 9364129,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "2d877b2e66b2fba73a27368d46dc3cacc392400592650f92420c1a7b3a536a6b"
+    },
+    {
+      "index": 130,
+      "file": "spider_man/r09_c03.safetensors",
+      "seed": 9364130,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "cf527b46f7c30d8d4bf1766460ce5ec218dc935bdefa1d318a29261b4f99dcf2"
+    },
+    {
+      "index": 131,
+      "file": "spider_man/r09_c04.safetensors",
+      "seed": 9364131,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "b4cbbe014157ce75de9e6d55fb9bc69b0bbaee069e2027aa3282862c0b0d5a64"
+    },
+    {
+      "index": 132,
+      "file": "spider_man/r09_c05.safetensors",
+      "seed": 9364132,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d1a0a0e42aba473147b072a4a1c77d7ad3190f3e77aa88e5b4dfb4c862cf4414"
+    },
+    {
+      "index": 133,
+      "file": "spider_man/r09_c06.safetensors",
+      "seed": 9364133,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "e757398f130e0720eb447f3eebcaa13df87724ded24fd92c4df9a30886175d40"
+    },
+    {
+      "index": 134,
+      "file": "spider_man/r09_c07.safetensors",
+      "seed": 9364134,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f64182a80e43fd7d5e35d3aefa41a2df1641f303dcc7478ceef6fee845d84683"
+    },
+    {
+      "index": 135,
+      "file": "spider_man/r09_c08.safetensors",
+      "seed": 9364135,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "9769086cc1a02fa77013430ce1da6630b1c93343eb9f4c808eaa27652d2c3234"
+    },
+    {
+      "index": 136,
+      "file": "spider_man/r09_c09.safetensors",
+      "seed": 9364136,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "9b1e5a18a2cc4028d4f73f56ef7212f801e52abf45e6b2e72b604e6ed090d337"
+    },
+    {
+      "index": 137,
+      "file": "spider_man/r09_c10.safetensors",
+      "seed": 9364137,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "e768d8b45840c6fe79d22dc8eb301692e2443afeb64fcb9ef6cb5df1251374cb"
+    },
+    {
+      "index": 138,
+      "file": "spider_man/r09_c11.safetensors",
+      "seed": 9364138,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "8d8198ba0ed3072712c9318f8bbbcfa9d43becec27b2efc2ddc5f8ab48a08afd"
+    },
+    {
+      "index": 139,
+      "file": "spider_man/r09_c12.safetensors",
+      "seed": 9364139,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "7ed1f172edd2beee81c5c08bda9f19629470b3f31b00963ccd6e9a60a0812350"
+    },
+    {
+      "index": 140,
+      "file": "spider_man/r09_c13.safetensors",
+      "seed": 9364140,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, soft silver light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "614d1c9a302c4fc6459181131a236b5f520d7ddbbaaee59aaca1d2050bd5f5e1"
+    },
+    {
+      "index": 141,
+      "file": "spider_man/r09_c14.safetensors",
+      "seed": 9364141,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "13b31b168d88b1f05caa4dc692d61433919f5c3ed2781adcbbf8cdfc6f5423fe"
+    },
+    {
+      "index": 142,
+      "file": "spider_man/r09_c15.safetensors",
+      "seed": 9364142,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "9d4916be5e833453034b16043707d7597d7376b72feff86cc4c97e5089553d0e"
+    },
+    {
+      "index": 143,
+      "file": "spider_man/r09_c16.safetensors",
+      "seed": 9364143,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "8559870308abcdd961964b4b17ed037ebde2155d00bcd4b34f2a6cece0131cfb"
+    },
+    {
+      "index": 144,
+      "file": "spider_man/r10_c01.safetensors",
+      "seed": 9364144,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "6865e1e54557733cf88dceb41ba350441124ff492a121df23abc485a14c29a9e"
+    },
+    {
+      "index": 145,
+      "file": "spider_man/r10_c02.safetensors",
+      "seed": 9364145,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "4198abd035c95b8b71aa00cd849a136f2febea808301041ba02720b3a79981ef"
+    },
+    {
+      "index": 146,
+      "file": "spider_man/r10_c03.safetensors",
+      "seed": 9364146,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "1c37c9ea9735f779cb25782bf91c984e23c911c0b4bc3088cf776b0e7b08ac0e"
+    },
+    {
+      "index": 147,
+      "file": "spider_man/r10_c04.safetensors",
+      "seed": 9364147,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "be4b536fe00c0c8eb27b1f28b7b4b324532007779edec52ac94cfd3691bdb447"
+    },
+    {
+      "index": 148,
+      "file": "spider_man/r10_c05.safetensors",
+      "seed": 9364148,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "daffa02288284839063a7259ecd10c5d91f3f0e8aa024bbd4e10014563051c7c"
+    },
+    {
+      "index": 149,
+      "file": "spider_man/r10_c06.safetensors",
+      "seed": 9364149,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "278050f299da3244b85e948aa9e73b7ef1b89f9cd2e0306b5778252b9003bb32"
+    },
+    {
+      "index": 150,
+      "file": "spider_man/r10_c07.safetensors",
+      "seed": 9364150,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "7b453712ea392dcda094b6195405e149e592c070f75d895458d617827b605912"
+    },
+    {
+      "index": 151,
+      "file": "spider_man/r10_c08.safetensors",
+      "seed": 9364151,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "b442e9622718f36e5f1b83bf18fb80f3e138dcedce42c4d0d2e90fe0fb5316c7"
+    },
+    {
+      "index": 152,
+      "file": "spider_man/r10_c09.safetensors",
+      "seed": 9364152,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d2288b765485c057511e0ca728cd606e6ce9596e3af2875b7420b199a29f1b3f"
+    },
+    {
+      "index": 153,
+      "file": "spider_man/r10_c10.safetensors",
+      "seed": 9364153,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "ad4618025b28e6ac8e9cf19f7fccb33c2f9d8953d2ee197e080211c273071538"
+    },
+    {
+      "index": 154,
+      "file": "spider_man/r10_c11.safetensors",
+      "seed": 9364154,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "327149c1979e5103a7536a1d386f4c426d20b4a4f97d8cc84762245a5dacce46"
+    },
+    {
+      "index": 155,
+      "file": "spider_man/r10_c12.safetensors",
+      "seed": 9364155,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "b1cfdbb0370f3117e1149f40d14e1ed2706d885d9d4b7f793f7e984a0b717767"
+    },
+    {
+      "index": 156,
+      "file": "spider_man/r10_c13.safetensors",
+      "seed": 9364156,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "04ef3c5d5d219ba1e1fbb133a34671e71cd2815bf637b525859bf890c623b35b"
+    },
+    {
+      "index": 157,
+      "file": "spider_man/r10_c14.safetensors",
+      "seed": 9364157,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "56903ee9cdf088d0fd01194950bf4126c14e3c617072c95432b5b6d01ebc4a8a"
+    },
+    {
+      "index": 158,
+      "file": "spider_man/r10_c15.safetensors",
+      "seed": 9364158,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "e5a6ef0b7ee8c913e326164b759a40fb64c5b17ef6ad5c3672137ae99355b0b2"
+    },
+    {
+      "index": 159,
+      "file": "spider_man/r10_c16.safetensors",
+      "seed": 9364159,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "56c328b87a19437052c708515f4eeab8c92e3f21ddde7d4b2e1837f9d5d3f790"
+    },
+    {
+      "index": 160,
+      "file": "spider_man/r11_c01.safetensors",
+      "seed": 9364160,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "a38e61138c0b4942114e7419c08f4fc176370c28b85d67e0add2b737271af3ab"
+    },
+    {
+      "index": 161,
+      "file": "spider_man/r11_c02.safetensors",
+      "seed": 9364161,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "369e4737196197e9ae2e272a4dda852c854fc993f1416db7ef52ed6b35c9620e"
+    },
+    {
+      "index": 162,
+      "file": "spider_man/r11_c03.safetensors",
+      "seed": 9364162,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "ef2226dbdb90ec7c5c30cb7cb7766574c497a7740523d8ec6aa90125fe68bbfa"
+    },
+    {
+      "index": 163,
+      "file": "spider_man/r11_c04.safetensors",
+      "seed": 9364163,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "ee895b28d5469cbe1cccd4ae39d5938b567f4bb646552e97e3ff075d3f19324d"
+    },
+    {
+      "index": 164,
+      "file": "spider_man/r11_c05.safetensors",
+      "seed": 9364164,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "1373b069ec39e068a2f35490bf6172f6dca8b7778c9812bffc3ea4fa270c1ede"
+    },
+    {
+      "index": 165,
+      "file": "spider_man/r11_c06.safetensors",
+      "seed": 9364165,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "b856644becf74a7882f77cac5fc4773af2e6039fcec22ebbd4863d1a7a513301"
+    },
+    {
+      "index": 166,
+      "file": "spider_man/r11_c07.safetensors",
+      "seed": 9364166,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f5ed7099c4d86d794d85676b5db8bc7e3a15a36fe43d69c0297125763a416b85"
+    },
+    {
+      "index": 167,
+      "file": "spider_man/r11_c08.safetensors",
+      "seed": 9364167,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5b1fb4dee6e6a501fe1620513227d34d3403bd170bd3fb0e39e0c3ab1cc4e43a"
+    },
+    {
+      "index": 168,
+      "file": "spider_man/r11_c09.safetensors",
+      "seed": 9364168,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "031685aa9d17691f886b39f22d80692bb8c0a8bbc8c011586f7b4b5b0ebc43ac"
+    },
+    {
+      "index": 169,
+      "file": "spider_man/r11_c10.safetensors",
+      "seed": 9364169,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5191b27a4995b8d990cbf604a02b4a4a75303385f28b00e9aa78bbe448d19d2f"
+    },
+    {
+      "index": 170,
+      "file": "spider_man/r11_c11.safetensors",
+      "seed": 9364170,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "996a21568f15aa28b951828009076c0cf6f16147e7ef01b7ea3222c829f00561"
+    },
+    {
+      "index": 171,
+      "file": "spider_man/r11_c12.safetensors",
+      "seed": 9364171,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "b2b4393ba5d134e8809f8a1eaa2e9688ffda9ea6052bb1dca793591ee16b55b9"
+    },
+    {
+      "index": 172,
+      "file": "spider_man/r11_c13.safetensors",
+      "seed": 9364172,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "6524e6e873d933a71074f34db9b0e0438cfb27ff90eed72846d34e668f57d2b7"
+    },
+    {
+      "index": 173,
+      "file": "spider_man/r11_c14.safetensors",
+      "seed": 9364173,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "913386b3b18dab567225e9fbc09ce3981828a0865699d285aa6fbffe11c8499b"
+    },
+    {
+      "index": 174,
+      "file": "spider_man/r11_c15.safetensors",
+      "seed": 9364174,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "8327415e633bf99581ac4c6a28f77e0b68cfd48a6a69e6932adcbf2524742fc2"
+    },
+    {
+      "index": 175,
+      "file": "spider_man/r11_c16.safetensors",
+      "seed": 9364175,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "12a633fe2b60a9760972c7312a5319037890006446df9a6f0958c02d9b80a259"
+    },
+    {
+      "index": 176,
+      "file": "spider_man/r12_c01.safetensors",
+      "seed": 9364176,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "63f476eb05fd8590ef9d9fe1900bd2f5403dd2629c4de18535bd9a6b90b48bc8"
+    },
+    {
+      "index": 177,
+      "file": "spider_man/r12_c02.safetensors",
+      "seed": 9364177,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "628b7a2a42f11f507bc6104cb52f6fecb0bdac5412781ea6d5979ee1decd75b1"
+    },
+    {
+      "index": 178,
+      "file": "spider_man/r12_c03.safetensors",
+      "seed": 9364178,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d4d5988940596d762b76c71f18c84ddefb0abdc10c8ae9d95c962cc5a26edec8"
+    },
+    {
+      "index": 179,
+      "file": "spider_man/r12_c04.safetensors",
+      "seed": 9364179,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "16c410198bc0dbf3e8c2d3691079b5dbd34398669fb0e42522c100a0754d0673"
+    },
+    {
+      "index": 180,
+      "file": "spider_man/r12_c05.safetensors",
+      "seed": 9364180,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "3e10f84a319faac7ec8d9f6d7dd112876857ad41ec4f28c0e4576ba3d79a0caa"
+    },
+    {
+      "index": 181,
+      "file": "spider_man/r12_c06.safetensors",
+      "seed": 9364181,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "4ea1744f332149b0f73ca2ec6802b88e6894fc55c44b89e81940f5f1d37704b9"
+    },
+    {
+      "index": 182,
+      "file": "spider_man/r12_c07.safetensors",
+      "seed": 9364182,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "ca1d5c65f3e96dda7ac5e77ce38205bb5de0d5bce6a38d4ec17950e7864ce2ef"
+    },
+    {
+      "index": 183,
+      "file": "spider_man/r12_c08.safetensors",
+      "seed": 9364183,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "fccade7c4d1d29ccc50c02a6d08e2ff817a8ac401c2e0bbd4c210317f7c355a6"
+    },
+    {
+      "index": 184,
+      "file": "spider_man/r12_c09.safetensors",
+      "seed": 9364184,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "6093daaeedb806cf3a5b057232e0f742a0f42307889f5fc999326fb8a0e61804"
+    },
+    {
+      "index": 185,
+      "file": "spider_man/r12_c10.safetensors",
+      "seed": 9364185,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "ca1ea47e3e8f1dfefe0d8a18211be79add9dad810a80caa806d7cb45c4df74e8"
+    },
+    {
+      "index": 186,
+      "file": "spider_man/r12_c11.safetensors",
+      "seed": 9364186,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "4d5155fac1ec9cbf43021c0d8fb8c85e7a04ac801198b10cbd7be51c94dfa988"
+    },
+    {
+      "index": 187,
+      "file": "spider_man/r12_c12.safetensors",
+      "seed": 9364187,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "e1409dc80a3733af68a534492256badcd7711e2cf99a1b49966d5d1603a66751"
+    },
+    {
+      "index": 188,
+      "file": "spider_man/r12_c13.safetensors",
+      "seed": 9364188,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "cf44e9b1d346f053f6c3de6494e12a1985646d69b089a1259927eb9db7af40ab"
+    },
+    {
+      "index": 189,
+      "file": "spider_man/r12_c14.safetensors",
+      "seed": 9364189,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "c38680b6da06e9ba0a130fbe2193e1a97fa825b0d461734e4414cdb01b25ebd2"
+    },
+    {
+      "index": 190,
+      "file": "spider_man/r12_c15.safetensors",
+      "seed": 9364190,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "4a0a2aef264f5dd64cc4858b9177d734eb72a792cb3632d6e44f37daa7cd9919"
+    },
+    {
+      "index": 191,
+      "file": "spider_man/r12_c16.safetensors",
+      "seed": 9364191,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "ffdf4742164ae41a2064da79c0900e966ab242e996bf6822a492ebb659afbded"
+    },
+    {
+      "index": 192,
+      "file": "spider_man/r13_c01.safetensors",
+      "seed": 9364192,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d4868f5941aeabf889cbf8e4304be6574c1b37659a2994cd18e5c7d4721a499b"
+    },
+    {
+      "index": 193,
+      "file": "spider_man/r13_c02.safetensors",
+      "seed": 9364193,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "ca8acf2845b2381d48ab35558b81940ee282e8d67dd725131c41d59e3fe198e7"
+    },
+    {
+      "index": 194,
+      "file": "spider_man/r13_c03.safetensors",
+      "seed": 9364194,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "b84c7781d8465d40b41d12feca54cebe5568e786f73cf5a5b3626ced947ce653"
+    },
+    {
+      "index": 195,
+      "file": "spider_man/r13_c04.safetensors",
+      "seed": 9364195,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "c1a5efa5fa2fd3951923ed50a33d582e3e886c9553e4e07b4d9a47b56d16fc31"
+    },
+    {
+      "index": 196,
+      "file": "spider_man/r13_c05.safetensors",
+      "seed": 9364196,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "a87fddc696063dae8bf58f0201e615897d6a8c17a90cc67df6f1d7c39e9ef947"
+    },
+    {
+      "index": 197,
+      "file": "spider_man/r13_c06.safetensors",
+      "seed": 9364197,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "e2ac409aa3ee0bc991f63654b61bec2d7124d2ece979f402404211bd651c3772"
+    },
+    {
+      "index": 198,
+      "file": "spider_man/r13_c07.safetensors",
+      "seed": 9364198,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "2ad08c5091ccf2b0132f1a5397327aef62fab0942324b87034a172e070940b23"
+    },
+    {
+      "index": 199,
+      "file": "spider_man/r13_c08.safetensors",
+      "seed": 9364199,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "dc894a534ac0e5ed160af77c17d97e10ab80e83c1bc9a183d089ca35f57e1b38"
+    },
+    {
+      "index": 200,
+      "file": "spider_man/r13_c09.safetensors",
+      "seed": 9364200,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "8985673480e722eace1120ea98fc6713c12288ea2ccab1af8d6eeaf3480a90f6"
+    },
+    {
+      "index": 201,
+      "file": "spider_man/r13_c10.safetensors",
+      "seed": 9364201,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "ef5956c8eea575bef009a6bcc69be66aaa59a6743e52a313cfae0a363ab8071f"
+    },
+    {
+      "index": 202,
+      "file": "spider_man/r13_c11.safetensors",
+      "seed": 9364202,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d82d040a379480d70bdab07860db44765b12bb0ec2907a8f89dee54f9efa8299"
+    },
+    {
+      "index": 203,
+      "file": "spider_man/r13_c12.safetensors",
+      "seed": 9364203,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "749a39b3d15503c92faec9335e0ee691a52255c50d5b68076b1af829c153b5ff"
+    },
+    {
+      "index": 204,
+      "file": "spider_man/r13_c13.safetensors",
+      "seed": 9364204,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "00903a88ee9eba9e5f20219d294fe0e28767a35a7563cdd8ae6a36d05de8bdea"
+    },
+    {
+      "index": 205,
+      "file": "spider_man/r13_c14.safetensors",
+      "seed": 9364205,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "042ed01625db219108fb64f1f53167f5baf181539b0f74bbae86eb40c599175a"
+    },
+    {
+      "index": 206,
+      "file": "spider_man/r13_c15.safetensors",
+      "seed": 9364206,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "bc75b8bfc9e9170b1b7f642cc0b3444190ba5005678e8a9ce3746defac31713d"
+    },
+    {
+      "index": 207,
+      "file": "spider_man/r13_c16.safetensors",
+      "seed": 9364207,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "2898d63d99be85049108d2cc5b9d9e9fb3dfd49703e52c009ee76229e888eee9"
+    },
+    {
+      "index": 208,
+      "file": "spider_man/r14_c01.safetensors",
+      "seed": 9364208,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "8f0cf7751f1ec30accd30d149d7c11018fe686a5f478d4c1bfe9e3d134b77a26"
+    },
+    {
+      "index": 209,
+      "file": "spider_man/r14_c02.safetensors",
+      "seed": 9364209,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "925d32e3ee0ed0ec750079852280de69b46b5a786b174f4981e9e9ed34e791d3"
+    },
+    {
+      "index": 210,
+      "file": "spider_man/r14_c03.safetensors",
+      "seed": 9364210,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "3129b4c5f1bf195dfd496d71a2d22abb1d003f4c9d67b556ae549f28a2361de1"
+    },
+    {
+      "index": 211,
+      "file": "spider_man/r14_c04.safetensors",
+      "seed": 9364211,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "123d722400f012bbd40c05d750701f2288ebc6c0ed9c007ca607b6f7d1f6c800"
+    },
+    {
+      "index": 212,
+      "file": "spider_man/r14_c05.safetensors",
+      "seed": 9364212,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "40d125f3e942da99f195d4d0d8ab68014d2e1765c192f27dbef39776fadf9410"
+    },
+    {
+      "index": 213,
+      "file": "spider_man/r14_c06.safetensors",
+      "seed": 9364213,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "8abf2e11bbbe43a57eebe2c1bbc67366e25f76e0dc7bdd40ec5322f59f46ded8"
+    },
+    {
+      "index": 214,
+      "file": "spider_man/r14_c07.safetensors",
+      "seed": 9364214,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "0038b36b535186cda099f4d55ad34cf41c23f3729c3c4c29f049e8b5222217e4"
+    },
+    {
+      "index": 215,
+      "file": "spider_man/r14_c08.safetensors",
+      "seed": 9364215,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f1ab4ff0f6f6df2c3aeaf8be6fdf502c908f21a283ae4c24b37f23003cd1e9f5"
+    },
+    {
+      "index": 216,
+      "file": "spider_man/r14_c09.safetensors",
+      "seed": 9364216,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "978f3a64d8898c7640a9d9109cf887f047e71aba73fde01e12817129a8df97f5"
+    },
+    {
+      "index": 217,
+      "file": "spider_man/r14_c10.safetensors",
+      "seed": 9364217,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "868bd584bb37160ffa90ae01737f1d7b848cf1d8a96d41bc310dd5f5e1ea1fb5"
+    },
+    {
+      "index": 218,
+      "file": "spider_man/r14_c11.safetensors",
+      "seed": 9364218,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "e52d460bfac8460eab3e8bb79a29a4a6d765e9caa746b14b720ee5814c5094e4"
+    },
+    {
+      "index": 219,
+      "file": "spider_man/r14_c12.safetensors",
+      "seed": 9364219,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "08c1ecab1699e6d8e3f52c0deb9de79605767d4c9ec1567c79ee9d8adb53622f"
+    },
+    {
+      "index": 220,
+      "file": "spider_man/r14_c13.safetensors",
+      "seed": 9364220,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "814d117da979b229e5137e7a4758d09f2c9f8787d88c5cc9febd9b0efb2aa5c8"
+    },
+    {
+      "index": 221,
+      "file": "spider_man/r14_c14.safetensors",
+      "seed": 9364221,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "c16c0586f69b7902a39bb6c8be5ec46fbe25548efebcff8256aa1fef9023b65e"
+    },
+    {
+      "index": 222,
+      "file": "spider_man/r14_c15.safetensors",
+      "seed": 9364222,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "8133c3e18c4582fa90d55b9e7920fb19400265fbde1f97749f9079bdd7249f85"
+    },
+    {
+      "index": 223,
+      "file": "spider_man/r14_c16.safetensors",
+      "seed": 9364223,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "e2827599f0114192d92ba314cc3fe5248df0277632bf1c62df21b1f2e287bed9"
+    },
+    {
+      "index": 224,
+      "file": "spider_man/r15_c01.safetensors",
+      "seed": 9364224,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "795a711bb5c3fec70e23c49124b47100fee601ebf4146190a482b6257460442a"
+    },
+    {
+      "index": 225,
+      "file": "spider_man/r15_c02.safetensors",
+      "seed": 9364225,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "77781ca30e7b475cd1b300bb1fd81c600e0d85f8f05b697c80d60fcff12e7769"
+    },
+    {
+      "index": 226,
+      "file": "spider_man/r15_c03.safetensors",
+      "seed": 9364226,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5e63f9029d9a6ff19ee77dad7d6a1c2b145796298a7f0ac5bf4cee6acdfdcffc"
+    },
+    {
+      "index": 227,
+      "file": "spider_man/r15_c04.safetensors",
+      "seed": 9364227,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "e4e6f4a5235fd52b97749a0e125f10c82499d0b7bd82b76a05c6307d78ee5516"
+    },
+    {
+      "index": 228,
+      "file": "spider_man/r15_c05.safetensors",
+      "seed": 9364228,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "c4449d0f629443683d295f7bb55be834040e69a2daa346e8b6b91b6e8f9ca5bc"
+    },
+    {
+      "index": 229,
+      "file": "spider_man/r15_c06.safetensors",
+      "seed": 9364229,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "150621a6ea10c765e4334aa61f15bef32a2cc6971f2b5c76adb429bf7ad9139a"
+    },
+    {
+      "index": 230,
+      "file": "spider_man/r15_c07.safetensors",
+      "seed": 9364230,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "bb275fced27aa766f23265b11a97a108a62bd8938f938ec38971238ccbde762b"
+    },
+    {
+      "index": 231,
+      "file": "spider_man/r15_c08.safetensors",
+      "seed": 9364231,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "ebde75665b9b07a07d7cb330f099408c2fdb0e84857088f5ff39a1ca0ca34e87"
+    },
+    {
+      "index": 232,
+      "file": "spider_man/r15_c09.safetensors",
+      "seed": 9364232,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "744e8e3c83f6c90f8a8b3abfa48ef01c557a1c18c991ecb20a3b50e193c76d26"
+    },
+    {
+      "index": 233,
+      "file": "spider_man/r15_c10.safetensors",
+      "seed": 9364233,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "cdf00929059337c8aef0122bb79b611747ebc0bef0e8e218c92df7a19aead6ab"
+    },
+    {
+      "index": 234,
+      "file": "spider_man/r15_c11.safetensors",
+      "seed": 9364234,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "16de5d5b2c6ae4ec252f16919f97d820581cad50fe5721912acee09c49e9d9fb"
+    },
+    {
+      "index": 235,
+      "file": "spider_man/r15_c12.safetensors",
+      "seed": 9364235,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "68a4655bb5a4c162fd341be72c133dea72f701ddfbb8e05b00eadf2c453a1f05"
+    },
+    {
+      "index": 236,
+      "file": "spider_man/r15_c13.safetensors",
+      "seed": 9364236,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "a936b17074d4cb4b9eaf3a27338fb24e26c11e53e278b51e14564608bd0a5fa5"
+    },
+    {
+      "index": 237,
+      "file": "spider_man/r15_c14.safetensors",
+      "seed": 9364237,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "4005ff666ab0f1471c1981d207d6f3d95faa9d8a3c3e72cfebb08054070150e8"
+    },
+    {
+      "index": 238,
+      "file": "spider_man/r15_c15.safetensors",
+      "seed": 9364238,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "bae6d617bc5309fb5fb82a3590c0aeeb31121b859a0d3ae33da7a847eac08447"
+    },
+    {
+      "index": 239,
+      "file": "spider_man/r15_c16.safetensors",
+      "seed": 9364239,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d954f5c1b1e1cb7b7e675b11b568242b02cebae4f1692780177aeb3ffa60a372"
+    },
+    {
+      "index": 240,
+      "file": "spider_man/r16_c01.safetensors",
+      "seed": 9364240,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "468dfd4475376ed0c3e8dcbdb1756cfffadf21d86751e118a6e0d815e7f97bdf"
+    },
+    {
+      "index": 241,
+      "file": "spider_man/r16_c02.safetensors",
+      "seed": 9364241,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "6228dc350d33b004ec8cf40e8af6580c373613e94d402682fcf84abe9d9cf680"
+    },
+    {
+      "index": 242,
+      "file": "spider_man/r16_c03.safetensors",
+      "seed": 9364242,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "e7516fd6757e1c30814a17bcabacce4d9e42d6dce70306e2ac988f5eeb2b5885"
+    },
+    {
+      "index": 243,
+      "file": "spider_man/r16_c04.safetensors",
+      "seed": 9364243,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d9dbe92c767812531b6978d5fb0c92e232e00ff7952d237a531364de9eb022f9"
+    },
+    {
+      "index": 244,
+      "file": "spider_man/r16_c05.safetensors",
+      "seed": 9364244,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "4e6a791dd804abfb93284754fa5981c6bba948095b7016ad663b01853867dd80"
+    },
+    {
+      "index": 245,
+      "file": "spider_man/r16_c06.safetensors",
+      "seed": 9364245,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "b3fff45c0ef6c3036379dd6d3f95d7fc195cbe4cd29f24fa099e794ac2c20508"
+    },
+    {
+      "index": 246,
+      "file": "spider_man/r16_c07.safetensors",
+      "seed": 9364246,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "fca4d073ec894355cdcf3ddf46a4da277e00224037d628fc723dc1d63a091ad1"
+    },
+    {
+      "index": 247,
+      "file": "spider_man/r16_c08.safetensors",
+      "seed": 9364247,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "c83f7b696d1bbd8bb15cb1e4fa1dadf00bc55409df35c30e0193dcb36c279bca"
+    },
+    {
+      "index": 248,
+      "file": "spider_man/r16_c09.safetensors",
+      "seed": 9364248,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "47722a5d416e3eed18c0043048ecbd187cd623f163ce4c8d26b58471880c6cd3"
+    },
+    {
+      "index": 249,
+      "file": "spider_man/r16_c10.safetensors",
+      "seed": 9364249,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists in a graphite steel mill with heavy beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "7829bf31fa431f23f6e535dbf30e3a4a10669d7021c037c225d9720a6690ca34"
+    },
+    {
+      "index": 250,
+      "file": "spider_man/r16_c11.safetensors",
+      "seed": 9364250,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "56e5056d4cbc9d5a87d22e4f576ea415bed3ce55c457f4883d9977674194fa16"
+    },
+    {
+      "index": 251,
+      "file": "spider_man/r16_c12.safetensors",
+      "seed": 9364251,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "81b7e3a55448d82399ea09c410ac52508f3d2dc837f9fe5b29977e21c39207e1"
+    },
+    {
+      "index": 252,
+      "file": "spider_man/r16_c13.safetensors",
+      "seed": 9364252,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "71a896da6724c7eefcb1a85bb2fc20c4a5262a37e0fdd7d7416f203c18111c7c"
+    },
+    {
+      "index": 253,
+      "file": "spider_man/r16_c14.safetensors",
+      "seed": 9364253,
+      "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "7b017f2d6f434874f2edfc4293ad16519ace58d212884ba27ee944f8f5a2cdae"
+    },
+    {
+      "index": 254,
+      "file": "spider_man/r16_c15.safetensors",
+      "seed": 9364254,
+      "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "e3996434282f5f8b3b9c3f29dd49cb77ec687eb30f885eb8c4973e78fa36305b"
+    },
+    {
+      "index": 255,
+      "file": "spider_man/r16_c16.safetensors",
+      "seed": 9364255,
+      "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "b535108a9d7c23b9a596da9dc799b9e5197df3d145afa5483654d9437ba69de7"
+    }
+  ]
+}

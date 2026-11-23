@@ -1,0 +1,23 @@
+{
+  "index": 33,
+  "file": "spider_man/r05_c02.png",
+  "seed": 8721033,
+  "prompt": "Captain America holding his shield",
+  "generator": "74aeee1bf6fa77791e3f1166b839b1b7d7e95847458de9a06f388da42895d71a",
+  "sha256": "76d829ef70497dceb8741b45f3276d3878557df5caf11fdb36f6977e44eacb1d",
+  "baseline_sha256": "3870705a2657c46eea43a553dd4ce568a3645edc8419423ef31f8fefb68a9ee9",
+  "baseline": {
+    "margin88": 0.01822856068611145,
+    "native": 0.06066186726093292,
+    "margin44": -0.012535393238067627,
+    "luma": 0.040476230738498264,
+    "rgb": 0.039950985461473465
+  },
+  "candidate": {
+    "margin88": 0.03364311158657074,
+    "native": 0.04982477426528931,
+    "margin44": -0.01713547110557556,
+    "luma": 0.03381064070053398,
+    "rgb": 0.033496737480163574
+  }
+}

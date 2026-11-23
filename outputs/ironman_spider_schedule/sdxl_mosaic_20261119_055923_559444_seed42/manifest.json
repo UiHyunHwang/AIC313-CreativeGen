@@ -1,0 +1,280 @@
+{
+  "status": "complete",
+  "started_at_utc": "2026-11-19T05:59:23.559579+00:00",
+  "replay_config": "/root/workspace/creativegen/PhotoQuilt/outputs/ironman_spider_schedule/recipe.json",
+  "source_sha256": {
+    "sdxl/__init__.py": "39bf9bdf2cacc8a031961190a0a02331e1bc7c7812f1457958ebf9d09964322e",
+    "sdxl/__main__.py": "aaa167f09ab487ca17c2e5e19edc9142e477ed4e336ff6112582170bced1feda",
+    "sdxl/config.py": "a94b63cfabaf18cb96cc17b9bc5fbeb5f9ac781e0086e80f5a41ef2f611dc135",
+    "sdxl/decode.py": "11a640383c74008a2a1feff5d2f8052a294d878bcc9bd91c3f48b834106803c1",
+    "sdxl/memory_guard.py": "706c348ffd068023a1f10ab572064909541777765801e9d57c742c22b44a8c39",
+    "sdxl/run_sdxl_mosaic.py": "0f4ef114c0fb7d1e7756393a734950954329eb5a74a0cd65c1bf97685a36570b",
+    "sdxl/tiling.py": "72667c5e6ddf86c8a1b2f04ec5db421dc3adaa9d6badbaba9e885e043a9bf399",
+    "sdxl/README.md": "0f86e83ca0615a5d63ee431e41d8facfbbb978dde19a898e30a169a2c1c3668b",
+    "requirements-sdxl.txt": "d35fd9b156768e930a4932f1b659a860c9418f3a34eddc36389f09f6be7e2037",
+    "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  "git": {
+    "head": "60a1b1a3b95f00f47d2c5a82caa9c5976c693194",
+    "status": "M README.md\n?? requirements-sdxl.txt\n?? sdxl/\n?? tests/"
+  },
+  "samples_generated": {
+    "targets": 1,
+    "mosaics": 1
+  },
+  "outputs": {
+    "target.png": {
+      "sha256": "4c80765397e7d68865d12a6ab0c3e6fb6a304e3628be3d89e3fe8b01ac4d1788"
+    },
+    "final_latents.safetensors": {
+      "sha256": "deac7d6c9886de0c814d4e6d6e712bb5be4bb0dc89ad923db5707b384a70ca12"
+    },
+    "mosaic.png": {
+      "sha256": "2d35d0882feb9bcaf7dcd4a195f4c3ad82f2563751b5f9300137724ed14ff773"
+    },
+    "tiles/r000_c000.png": {
+      "sha256": "da3a5e4b69f5271dbaf65e4ff753390e1e83205d2a4ea4f3c726e20769d2a63b"
+    },
+    "tiles/r000_c001.png": {
+      "sha256": "b8f417c5367cad1003c455c936c51a7b3e70ac4c20e03b75ee74937dc11abd5c"
+    },
+    "tiles/r000_c002.png": {
+      "sha256": "ae6a582d3ea102c26021c32ec89d9bbf809b9387e91b6055b017e5ad2eed4501"
+    },
+    "tiles/r000_c003.png": {
+      "sha256": "1930d3aa3396017af03a865025f60ec470665767bc642bbf6c27c911e1834f39"
+    },
+    "tiles/r000_c004.png": {
+      "sha256": "69716f965ae678ff87247acdf2ff0c75aacaa738e7a6c6dbe7accf36c579a6dd"
+    },
+    "tiles/r000_c005.png": {
+      "sha256": "ee328878534d633125bb65cfd1ede288ad179c6e6e0d361c470d6f3a703fd565"
+    },
+    "tiles/r000_c006.png": {
+      "sha256": "14b1e520685f468d532a1287ac821719344425cd205e6ce2d4727562f37f6f6c"
+    },
+    "tiles/r000_c007.png": {
+      "sha256": "7a3e58fb6d29fe73f3a04e15b229785e8b8fa1eccda6c151af31e2b9005070a9"
+    },
+    "tiles/r001_c000.png": {
+      "sha256": "264bef5b810df761fecd90a1b74e47abec951e4c2096da13b4b1768c26060d37"
+    },
+    "tiles/r001_c001.png": {
+      "sha256": "e566b3bd2880aa45e8c73b60fff3953e9bb1390c279b4e1e63acecf9be614c18"
+    },
+    "tiles/r001_c002.png": {
+      "sha256": "6b7c8fcb051f638fc0786b99e620d95f4e546e112d0ef50ce5e586c65c40baef"
+    },
+    "tiles/r001_c003.png": {
+      "sha256": "acf7c72286e7d427617adeadddc03552c6058d463d709fc68d3101648cec440a"
+    },
+    "tiles/r001_c004.png": {
+      "sha256": "cb83884bcbaa1537c3ad8076ed9064e569688dfc0e71a41538111d89eb3f3e49"
+    },
+    "tiles/r001_c005.png": {
+      "sha256": "c0d2ccb0a2d3703ba6aafc49a7c0a98d7bc82ab345eea12f7a461cd7624859f0"
+    },
+    "tiles/r001_c006.png": {
+      "sha256": "0226b84f955fed2ce85a33f4eba0765750c59f3eae87b1ce47bc0c124fd4e3fa"
+    },
+    "tiles/r001_c007.png": {
+      "sha256": "06b03e129d092edc2121f6bf45edca9c6dddea7881a0e3879eb51f22f652e88f"
+    },
+    "tiles/r002_c000.png": {
+      "sha256": "74ecca89cb04a422f9a45bb8f47850a1436b3347a9f091b978cf47d74fa5f9ed"
+    },
+    "tiles/r002_c001.png": {
+      "sha256": "06b86fd7180ada2fb7f54320bb2b2ca41daca32dc12157fff10b8ddbb13186eb"
+    },
+    "tiles/r002_c002.png": {
+      "sha256": "502417e47735069211283dd5c0a033e77ca97a0db013966856a446e34ad367f1"
+    },
+    "tiles/r002_c003.png": {
+      "sha256": "b8e29161395b0286bc313029f78f6579154a3cce5278fbdee18ddb8af1c6df4f"
+    },
+    "tiles/r002_c004.png": {
+      "sha256": "56b2d2607e2e26b0a3aa9b259391c5335ad0c5f62b9d8c5d0908cc6c070bd46e"
+    },
+    "tiles/r002_c005.png": {
+      "sha256": "c9e55d5e7044e4b6832e0242374e7a36930d8517a933330c384969d9ff1baaf0"
+    },
+    "tiles/r002_c006.png": {
+      "sha256": "2c4fc4fbc309627f4fdd5324a2b548c7672469411ae98e51a535d8ad04f786c7"
+    },
+    "tiles/r002_c007.png": {
+      "sha256": "a47e22a613c53c141f89e3fa00757f7f611dc5db5462621aeddf76c213c33b54"
+    },
+    "tiles/r003_c000.png": {
+      "sha256": "8baa9ab2f51d42108744ab3cde289f59f567bef80ffb63f1e2eab84cfe945c59"
+    },
+    "tiles/r003_c001.png": {
+      "sha256": "4a9c654e3ae68992c7f02592a0eae7fdda9c278c71fe60f9fb1a07493d821505"
+    },
+    "tiles/r003_c002.png": {
+      "sha256": "069a2ba67a853249e1b86bf2fb8322315236bc0dbcc8446a740295ef384ae8d8"
+    },
+    "tiles/r003_c003.png": {
+      "sha256": "65532fd89c4053a92467e00c55e6184113705c62238f0ad5b548375e950ce8aa"
+    },
+    "tiles/r003_c004.png": {
+      "sha256": "edac48316a47ac1dbefae3c6eac7fbf65d79d836be7fab23a458886a95983c5e"
+    },
+    "tiles/r003_c005.png": {
+      "sha256": "e69da06d5fd18b9b652b4ca47e3d3ca73deb023ba1e12135ba2b60a7193fa997"
+    },
+    "tiles/r003_c006.png": {
+      "sha256": "5c69c4315763b365bb4434a1488ce9d241f8cb7a15596d07a4f9adda9b133a8b"
+    },
+    "tiles/r003_c007.png": {
+      "sha256": "8351b3396d43d20ed2da3b95f0450fe097dbdb5f558d633f31d102b258f75225"
+    },
+    "tiles/r004_c000.png": {
+      "sha256": "e23c841671103f686a19baa0ec9ac84d69b7bbb6ddeb5f6b6dd5fbffe365c333"
+    },
+    "tiles/r004_c001.png": {
+      "sha256": "7be5811f8dd9a59418896e5b2ec2ba9b8191e55492db195c0516627c4500f2a6"
+    },
+    "tiles/r004_c002.png": {
+      "sha256": "a227cd588349a3d90ace98392fbfeb6bedc1e63d5d2bb1ebdcc2c6759c8ab448"
+    },
+    "tiles/r004_c003.png": {
+      "sha256": "69bfa6c09bfc94e1a66432044300c9b9813ef434a6351a8fd32f17367fc5d6b9"
+    },
+    "tiles/r004_c004.png": {
+      "sha256": "3db92aa229afcd6d4ebf9ae30205e1155553708cb4982a904df86364a22780eb"
+    },
+    "tiles/r004_c005.png": {
+      "sha256": "8e169f5ea7c688c63b4185e2b95099e71ae1adbe2b4bd8f4b00affd208ba302f"
+    },
+    "tiles/r004_c006.png": {
+      "sha256": "56789dd744d2f2e406155275d7a0d011c5abeb7ced61c4ea795cc1dac16ba4cf"
+    },
+    "tiles/r004_c007.png": {
+      "sha256": "ef810b0cbdbab0fa889cfa53f88a98b143c2fcad25423005fe14e4504a5f1208"
+    },
+    "tiles/r005_c000.png": {
+      "sha256": "b02c6f80c0fb5380c9e9520b0093fa70824290dd63e1eaee4da1cfe7fa2440e7"
+    },
+    "tiles/r005_c001.png": {
+      "sha256": "f768bd285d2e2b75de82acaf1522383c02ad8fc67f1addb12b3db60bfd306f70"
+    },
+    "tiles/r005_c002.png": {
+      "sha256": "2ec28c72543673ba9e541a9fcd52c602cfb22d101e3e2dc09d8c862bc26722b1"
+    },
+    "tiles/r005_c003.png": {
+      "sha256": "a70d4b4be7cca6fa476693e05b7b2690e7ca4bec4cf36ca56468263648172d3e"
+    },
+    "tiles/r005_c004.png": {
+      "sha256": "6ac335ddda8f202dd469a3dc28d37353882ffdc1e83de5ce843561ea4da1ae73"
+    },
+    "tiles/r005_c005.png": {
+      "sha256": "237e53620b71e42be48df98d7b68da91081fb4a6f3207882c80f428a486926b1"
+    },
+    "tiles/r005_c006.png": {
+      "sha256": "6a2293de50c57e4c96e827219ec65a26c5e7eaa87c770f67b0942c62e7c67a08"
+    },
+    "tiles/r005_c007.png": {
+      "sha256": "c3f45c19a6efbde0784424b2d983a12a6c5e675780418055b06c6a578b2cdb05"
+    },
+    "tiles/r006_c000.png": {
+      "sha256": "b605b4f6c6c635900b82d5e9dbd656078b4cd467f27a013eca1fe7b1708c7eb0"
+    },
+    "tiles/r006_c001.png": {
+      "sha256": "c9521454c9948691bba9e4121d36831447f4213ec4e0f9f5cb9d9d6212d50297"
+    },
+    "tiles/r006_c002.png": {
+      "sha256": "45f1598efc65baa3b790ad839a62076c39124fb0ceae01e8cd102b21018ad303"
+    },
+    "tiles/r006_c003.png": {
+      "sha256": "f59db84c20e3cea5f0a3a2e0d24a4cf53af63036e7adab2f93224b16072d9f57"
+    },
+    "tiles/r006_c004.png": {
+      "sha256": "782a600eb6bbdfc6407f08660cbad10d31105c3e777556457803f892a4fae2f6"
+    },
+    "tiles/r006_c005.png": {
+      "sha256": "c79642538882a01d86971e92d9bdd27d9901a8cd87767745fa26ed875f997ec1"
+    },
+    "tiles/r006_c006.png": {
+      "sha256": "c23f6b2f18f4961f4cbca111fa5189247afd37acb644f106afd702fbf875f929"
+    },
+    "tiles/r006_c007.png": {
+      "sha256": "4e9901b064e5b471f16baedcb72bcf6ccf55e744a37dc5366157e7f73a0b57c2"
+    },
+    "tiles/r007_c000.png": {
+      "sha256": "1527e0c88d8a353442d6276c516380581834926aa749ed2dd815d32920c82b6c"
+    },
+    "tiles/r007_c001.png": {
+      "sha256": "80dcba20164392b4660cfa1c7bf730078d401060ca7e110538f96d66109316b2"
+    },
+    "tiles/r007_c002.png": {
+      "sha256": "661533f11a076c0e5e5020b71ab6e6a1ecc52526cb5a68df002476a7a956e0c2"
+    },
+    "tiles/r007_c003.png": {
+      "sha256": "cd7a949795cba32f06339e3a2fc427b0a6957e34abd20f93a6f80f77f4c1bfe5"
+    },
+    "tiles/r007_c004.png": {
+      "sha256": "823eb58fcc2c319c4f0aab80413b9841703bf5f845068f0f96167a420a269485"
+    },
+    "tiles/r007_c005.png": {
+      "sha256": "7741c12b2c82f3cc161fd6e44733da843fac1827df370a435a0295354fd22356"
+    },
+    "tiles/r007_c006.png": {
+      "sha256": "7ced64c7f87b35a5a417eca2142c3b87862216b8a3bfc7ec5b15f460de7c9732"
+    },
+    "tiles/r007_c007.png": {
+      "sha256": "6bae5f2da2f4f739b10dd38739c0d943b9f71305a1b77f4496b10fea7cfcd472"
+    }
+  },
+  "references": {
+    "method": "https://arxiv.org/abs/2606.30968v2",
+    "upstream_code": "https://github.com/KooroshRH/PhotoQuilt",
+    "sdxl": "https://arxiv.org/abs/2307.01952",
+    "model": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
+    "ddim": "https://arxiv.org/abs/2010.02502",
+    "diffusers": "https://github.com/huggingface/diffusers"
+  },
+  "derived": {
+    "target_height": 1024,
+    "target_width": 1024,
+    "tile_rows": 8,
+    "tile_columns": 8,
+    "strength_step_fraction": 0.9230769230769231,
+    "ddim_eta": 0.0,
+    "overlap_pixels": 0,
+    "rng_device": "cpu",
+    "scheduler_class": "DDIMScheduler",
+    "decode_mode": "cpu-tiles",
+    "tail_offload": "model",
+    "tail_serial_cfg": true,
+    "tile_initialization": "renoised_target",
+    "tile_start_timestep": 836,
+    "injection_index": 1,
+    "injection_timestep": 836,
+    "full_timesteps": [
+      912,
+      836,
+      760,
+      684,
+      608,
+      532,
+      456,
+      380,
+      304,
+      228,
+      152,
+      76,
+      0
+    ]
+  },
+  "timings_seconds": {
+    "target_denoise": 33.735013767145574,
+    "tile_denoise": 233.3380885478109,
+    "mosaic_decode": 55.670774911530316
+  },
+  "memory": {
+    "peak_allocated_gib": 5.108893394470215,
+    "peak_reserved_gib": 5.81640625
+  },
+  "finished_at_utc": "2026-11-19T06:05:44.755070+00:00",
+  "total_seconds": 381.18707249313593
+}

@@ -1,0 +1,10 @@
+{
+  "index": 144,
+  "file": "thor/r10_c01.safetensors",
+  "seed": 9495144,
+  "prompt": "Marvel's Incredible Hulk, massive green muscles and short black hair, bracing his fists, crimson reflected light",
+  "scene": false,
+  "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+  "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+  "sha256": "6e39028b15e15700420e7ae55d70e7d2e569c6a991db0000e251991cc179a032"
+}

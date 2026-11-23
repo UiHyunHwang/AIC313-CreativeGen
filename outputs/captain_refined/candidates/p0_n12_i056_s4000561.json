@@ -1,0 +1,12 @@
+{
+  "index": 56,
+  "prompt": "Captain America in action, blue suit and star shield",
+  "steps": 12,
+  "seed": 4000561,
+  "file": "candidates/p0_n12_i056_s4000561",
+  "clip": 0.056884586811065674,
+  "variety": 0.08161411434412003,
+  "rgb_mae": 0.08733659982681274,
+  "score": 0.0517820306122303,
+  "contrast": "a shield, star or flag alone without a person"
+}

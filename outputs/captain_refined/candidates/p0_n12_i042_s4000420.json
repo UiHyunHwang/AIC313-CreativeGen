@@ -1,0 +1,12 @@
+{
+  "index": 42,
+  "prompt": "Captain America holding his shield",
+  "steps": 12,
+  "seed": 4000420,
+  "file": "candidates/p0_n12_i042_s4000420",
+  "clip": 0.06441950798034668,
+  "variety": 0.0808355063199997,
+  "rgb_mae": 0.07949347048997879,
+  "score": 0.05672881305217743,
+  "contrast": "a different superhero wearing a spider web suit"
+}

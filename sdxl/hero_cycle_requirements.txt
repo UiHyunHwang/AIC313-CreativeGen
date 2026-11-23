@@ -1,0 +1,11 @@
+# Python 3.11.16. Install torch 2.6.0+cu124 from the official PyTorch CUDA 12.4 wheel index.
+torch==2.6.0+cu124
+diffusers==0.39.0
+transformers==4.57.6
+accelerate==1.15.0
+huggingface-hub==0.36.2
+safetensors==0.8.0
+numpy==2.4.6
+Pillow==13.0.0
+tokenizers==0.22.2
+regex==2026.11.9

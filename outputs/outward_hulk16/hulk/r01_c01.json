@@ -1,0 +1,10 @@
+{
+  "index": 0,
+  "file": "hulk/r01_c01.safetensors",
+  "seed": 9365000,
+  "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+  "scene": true,
+  "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+  "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+  "sha256": "c0bff6fd85ac04a83e5ac27a491cfa05b6d72f2021ec943bdd45f4586cdfdb14"
+}

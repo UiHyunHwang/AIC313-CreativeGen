@@ -1,0 +1,2311 @@
+{
+  "subject": "iron_man",
+  "leaf": "spider_man",
+  "tiles": [
+    {
+      "index": 0,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131000,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r01_c01.png",
+      "sha256": "4ccc18001a0f06180c72796c77b8495e3dea38a4c11f0fa370418dc48cc2c6fa"
+    },
+    {
+      "index": 1,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131001,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r01_c02.png",
+      "sha256": "7e9e508f24c50a817f718506589827e55e7fb9588033de3e873a8e0d66709482"
+    },
+    {
+      "index": 2,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131002,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r01_c03.png",
+      "sha256": "1356d418879386677db8277a751e855761d4c79ccff90c46334d03f1be22435d"
+    },
+    {
+      "index": 3,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131003,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r01_c04.png",
+      "sha256": "1cc03560ef6187da8ec20e0aec986d8a8120831fd784319c2833f37faeee2b0e"
+    },
+    {
+      "index": 4,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131004,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r01_c05.png",
+      "sha256": "5f50d7ca16ca731340adee7210e4ab7a7673585b92db6efec2d3e439b5fe07af"
+    },
+    {
+      "index": 5,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131005,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r01_c06.png",
+      "sha256": "40dd6366ec5d7bfeae26553d5ef7dcf2971fa264e823e65bdca3bad312541317"
+    },
+    {
+      "index": 6,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131006,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r01_c07.png",
+      "sha256": "c1bd9fa839ff68b97fa6ced024aaea94d22589a2e2db8e00d197bebd6a27798a"
+    },
+    {
+      "index": 7,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131007,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r01_c08.png",
+      "sha256": "746d008fd8c5acd055e1ab9bb0d7c4e1b3d64ed6877f8bb006aada0a1a49f9d6"
+    },
+    {
+      "index": 8,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131008,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r01_c09.png",
+      "sha256": "6aae733f7ebb322d56eb42a43e0a6efc12b7471fe3c1a3076ab85cb91ed66fb8"
+    },
+    {
+      "index": 9,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131009,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r01_c10.png",
+      "sha256": "0c3e942b35bd7e7be59e9c4c4166698eaef0094ebae43c4598325bce92609945"
+    },
+    {
+      "index": 10,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131010,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r01_c11.png",
+      "sha256": "8219d0a547ab8f0ce0119de0ad2977abab7264c80a4ce272b98b8426e3c94bbf"
+    },
+    {
+      "index": 11,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131011,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r01_c12.png",
+      "sha256": "d4c83ad6f0771ba2268a85a6f27eed59527eef1a1cdd5e8feab68353aa74e00d"
+    },
+    {
+      "index": 12,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131012,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r01_c13.png",
+      "sha256": "f67d9b193f37bd9c56f9088128172e868740f880dd2961a6ac0d31d923e3bad7"
+    },
+    {
+      "index": 13,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131013,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r01_c14.png",
+      "sha256": "76572c20116c1f6707579debbc6fe73e8d5e327f5ad52a2375a74dac630bbf5c"
+    },
+    {
+      "index": 14,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131014,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r01_c15.png",
+      "sha256": "6ecf4257952ebfd82f6ef5f279887e219a0c1d8d7351e3f0a3235e9f9c27a50f"
+    },
+    {
+      "index": 15,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131015,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r01_c16.png",
+      "sha256": "a4cfcf1b09856f446107ce72cdd792624ae0f3a0bd4f309d5bf3f679e40e7a66"
+    },
+    {
+      "index": 16,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131016,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r02_c01.png",
+      "sha256": "b5aaf3867dedf4c284e2b2ebcccc0c552b67885b9ac2b0aeadd82b044e7412a9"
+    },
+    {
+      "index": 17,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131017,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r02_c02.png",
+      "sha256": "da440ab84ffc36b5ea195ca12a02115d33e6cccbfae5a57f5a9043bb91a76213"
+    },
+    {
+      "index": 18,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131018,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r02_c03.png",
+      "sha256": "e7cf059c7d8247afabce85859f4968c23b34bf2ba7c7392d85af4b6a48c0ee62"
+    },
+    {
+      "index": 19,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131019,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r02_c04.png",
+      "sha256": "b919e782b0eae237f8740d004e5121f14e49e82e8138f32779f3b835f404080e"
+    },
+    {
+      "index": 20,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131020,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r02_c05.png",
+      "sha256": "f74efe451ccfd03f0d2bcb4ef14532402dd65effbda70c2cf7c91fde766c79c2"
+    },
+    {
+      "index": 21,
+      "prompt": "Spider-Man crouching with his mask visible, crimson reflected light",
+      "seed": 9131021,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r02_c06.png",
+      "sha256": "7c276b506d6df0e72738ca6432bf6b3ed13ef38003c912fd9bd5132ff8e1fbf0"
+    },
+    {
+      "index": 22,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, crimson reflected light",
+      "seed": 9131022,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r02_c07.png",
+      "sha256": "38c14cbb7b430709123461814ca6f44151ac8b7d813e8012bb89cfafb2bcecf9"
+    },
+    {
+      "index": 23,
+      "prompt": "Spider-Man in his red and blue suit, crimson reflected light",
+      "seed": 9131023,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r02_c08.png",
+      "sha256": "e84dd87d540c7debd47f035bb1c06c42a8d1d57aaa792ecfaea404996d4e6539"
+    },
+    {
+      "index": 24,
+      "prompt": "Spider-Man crouching with his mask visible, crimson reflected light",
+      "seed": 9131024,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r02_c09.png",
+      "sha256": "7e401efd878a58760edd6dd0efa9af5ffb5f9a90ada021e26ac9dc8e66ada3ba"
+    },
+    {
+      "index": 25,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, crimson reflected light",
+      "seed": 9131025,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r02_c10.png",
+      "sha256": "9b1f41c5ba5445d13166c92b7335d85db3d8f6c70665acc1181ac57383a0c03c"
+    },
+    {
+      "index": 26,
+      "prompt": "Spider-Man in his red and blue suit, crimson reflected light",
+      "seed": 9131026,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r02_c11.png",
+      "sha256": "cc8d10692353806a5ae85372a0aaa3ff7b775c3c12d1a4879daad2ac614ab968"
+    },
+    {
+      "index": 27,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131027,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r02_c12.png",
+      "sha256": "8186e7735a956e80eefb4d14424c39ee39150f20b5cc521d771dad9ca708c95f"
+    },
+    {
+      "index": 28,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131028,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r02_c13.png",
+      "sha256": "3b95202928b43fc73ba86ea47e503a5054e7ac2201c05f16f3caea90b8256dd8"
+    },
+    {
+      "index": 29,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131029,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r02_c14.png",
+      "sha256": "cab3e986ac2b07892b53db540fb67f709b2dbdc6f30d68dcf273caeef7730b4d"
+    },
+    {
+      "index": 30,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131030,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r02_c15.png",
+      "sha256": "f0dfed40b12c4889a98c0293ee10ec4505e20bd3d606d81f08ca3f7bb2182aa0"
+    },
+    {
+      "index": 31,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131031,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r02_c16.png",
+      "sha256": "b0137ce80bd2dace5943e32c409784f86d9d3011f0876d34b9bb8fd2a55c560f"
+    },
+    {
+      "index": 32,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131032,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r03_c01.png",
+      "sha256": "beab4c492e13da9ed08ec025101cb58288b7bb29376a76ba0c4571a44216546a"
+    },
+    {
+      "index": 33,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131033,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r03_c02.png",
+      "sha256": "921b62a19170074208b3b2d8657e43735c397ee1bedf2f3b422c9563a04e25bf"
+    },
+    {
+      "index": 34,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131034,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r03_c03.png",
+      "sha256": "3ffcb1c481a6b0f72bb2cf8550357482572710f43f1d10e9df2926da21adeb67"
+    },
+    {
+      "index": 35,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131035,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r03_c04.png",
+      "sha256": "1e8106caa3e3fb66a9601df1f9c8fd5d1c29af4e1cfa1da62da0889f989f5b34"
+    },
+    {
+      "index": 36,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131036,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r03_c05.png",
+      "sha256": "7875683580341463c874770ac782b0345f3cdffd3dd0adec60b8bcfc34023277"
+    },
+    {
+      "index": 37,
+      "prompt": "Spider-Man in his red and blue suit, warm copper lighting",
+      "seed": 9131037,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r03_c06.png",
+      "sha256": "fd8bd606459fe387a41fbe31a30b9fe6ecd9c0f057c1064a0280f37ffaf93870"
+    },
+    {
+      "index": 38,
+      "prompt": "Spider-Man crouching with his mask visible, crimson reflected light",
+      "seed": 9131038,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r03_c07.png",
+      "sha256": "c0952efff1ca7aaf1bfd66e40beb1472e2babd3e5a413ad294ccad0a7a0493a2"
+    },
+    {
+      "index": 39,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, crimson reflected light",
+      "seed": 9131039,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r03_c08.png",
+      "sha256": "23f7fa79a8c5f0d985221378d79c478942613d0201d1c49aba1cd8b75250c121"
+    },
+    {
+      "index": 40,
+      "prompt": "Spider-Man in his red and blue suit, crimson reflected light",
+      "seed": 9131040,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r03_c09.png",
+      "sha256": "a04434eabba6375e75ab85a05d88147eead398797846ae4e095a2be02ade66eb"
+    },
+    {
+      "index": 41,
+      "prompt": "Spider-Man crouching with his mask visible, crimson reflected light",
+      "seed": 9131041,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r03_c10.png",
+      "sha256": "d9b974991f1d878093aeb6848c35d4a8ecfc5256eb8897d4b1d18fced6e358c6"
+    },
+    {
+      "index": 42,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, warm copper lighting",
+      "seed": 9131042,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r03_c11.png",
+      "sha256": "c6ce58f46c68a885fd473294dedd435abe59fbd80a168b23626c857713375a32"
+    },
+    {
+      "index": 43,
+      "prompt": "Spider-Man in his red and blue suit, crimson reflected light",
+      "seed": 9131043,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r03_c12.png",
+      "sha256": "25720ce37fc95de4889c6d9ffbc1644ac7743e0cb699c4041cc145ab342fc0d3"
+    },
+    {
+      "index": 44,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131044,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r03_c13.png",
+      "sha256": "26a9be93051b0d5428e7acb96acb8d8783f59a8d67b4cea5a462eee3e7aaf5f0"
+    },
+    {
+      "index": 45,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131045,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r03_c14.png",
+      "sha256": "fd65f71958b789cca9094e32b519839b31a56090e033702d6be8b5010c264dd4"
+    },
+    {
+      "index": 46,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131046,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r03_c15.png",
+      "sha256": "36df6015d1f91ce15ee2ef2f5168166a6c134ca6161f76f3e50044cb7355472a"
+    },
+    {
+      "index": 47,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131047,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r03_c16.png",
+      "sha256": "45837e9ce6c2cf776e593fe479c35c3dc6ece713716531dbb82eb0a71ee42f57"
+    },
+    {
+      "index": 48,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131048,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r04_c01.png",
+      "sha256": "5be7389308d0cffa156f3a84df917087824e905ede4927ab2d39778ecf98a053"
+    },
+    {
+      "index": 49,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131049,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r04_c02.png",
+      "sha256": "8735c19c65b188b88c15b0ca53800db7807daed881259f474866cad6bda86745"
+    },
+    {
+      "index": 50,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131050,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r04_c03.png",
+      "sha256": "2402869dcb4841ea5ec0b5fd7184e5a3cb6d74fe60c64e7a5fc171a08cf46bd5"
+    },
+    {
+      "index": 51,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131051,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r04_c04.png",
+      "sha256": "eed76a4c571d09b223d29b06edceff70172b7d85c9a32b24b88caacce00233ae"
+    },
+    {
+      "index": 52,
+      "prompt": "Spider-Man crouching with his mask visible, warm copper lighting",
+      "seed": 9131052,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r04_c05.png",
+      "sha256": "0d408e8c741279be2f078bed79fe262a7d41f7357052e68f899f8d0560c1b9eb"
+    },
+    {
+      "index": 53,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, warm copper lighting",
+      "seed": 9131053,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r04_c06.png",
+      "sha256": "5cbbdeb8c778079393c8a5726cc1101866e7c7907026554c8e9fc847cca0c64c"
+    },
+    {
+      "index": 54,
+      "prompt": "Spider-Man in his red and blue suit, crimson reflected light",
+      "seed": 9131054,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r04_c07.png",
+      "sha256": "f61e7a7510c8cd120b4fed2eb529522321096fb735900f468e690fca8cc4190e"
+    },
+    {
+      "index": 55,
+      "prompt": "Spider-Man crouching with his mask visible, crimson reflected light",
+      "seed": 9131055,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r04_c08.png",
+      "sha256": "c62672f1a44a8b58c5d8cde738357bb507eea6283752d50f68b6df256f4ae665"
+    },
+    {
+      "index": 56,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, crimson reflected light",
+      "seed": 9131056,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r04_c09.png",
+      "sha256": "720b999f92e1acb0ac35c20ddd48ab4dbfc4439751824f2fc2fe343f910c2c98"
+    },
+    {
+      "index": 57,
+      "prompt": "Spider-Man in his red and blue suit, crimson reflected light",
+      "seed": 9131057,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r04_c10.png",
+      "sha256": "befce970aec36c623b33c4e543909d1bd3bb7f73b56eb1131647fbfe5ec1365a"
+    },
+    {
+      "index": 58,
+      "prompt": "Spider-Man crouching with his mask visible, soft silver light",
+      "seed": 9131058,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r04_c11.png",
+      "sha256": "5d8a8b7dbecd7d1a0b3f2230869348feb792c7eb5d69a9bc1decdb483dcd3808"
+    },
+    {
+      "index": 59,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, warm copper lighting",
+      "seed": 9131059,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r04_c12.png",
+      "sha256": "f7985548ddf2734cdbd39ebd8f41db6952967e8980d85a67192194e848fb0315"
+    },
+    {
+      "index": 60,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131060,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r04_c13.png",
+      "sha256": "27fe9d38d35ed9a504f86bb3306b6ee2de8a91d4999989c4e13010356743bef7"
+    },
+    {
+      "index": 61,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131061,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r04_c14.png",
+      "sha256": "8ef0538a7eaea2d8616e0ff7b68c0425748b30015f03dac01640ffaa26549b3b"
+    },
+    {
+      "index": 62,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131062,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r04_c15.png",
+      "sha256": "af5b0de0890403441c235b8405dfd384430cbf00bebdb286be98ab9634050d6e"
+    },
+    {
+      "index": 63,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131063,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r04_c16.png",
+      "sha256": "102b67bf2eed73ecb0c0c6e048908a7750666635ba02ad363be7858093e43825"
+    },
+    {
+      "index": 64,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131064,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r05_c01.png",
+      "sha256": "671a63c1e88736d17f9fc0d7972f82f5bb6e6d4623244f5fe679fd1dbc8f12d8"
+    },
+    {
+      "index": 65,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131065,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r05_c02.png",
+      "sha256": "af07cf154146010c9e853f31f1bec6adf27200b58bf73ba99c2adee145683f83"
+    },
+    {
+      "index": 66,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131066,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r05_c03.png",
+      "sha256": "2b9e321eaf2844225d53832c50135eb2610b53a57e847ecaae6573910a75566c"
+    },
+    {
+      "index": 67,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131067,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r05_c04.png",
+      "sha256": "050f3b3ae0bd54a3171f69e3c3caae612d68f6a632b4cae90cabd60848bfa2f1"
+    },
+    {
+      "index": 68,
+      "prompt": "Spider-Man in his red and blue suit, warm copper lighting",
+      "seed": 9131068,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r05_c05.png",
+      "sha256": "3ec1db666b639152def5cba8975e70d061ace41057b9cf0c15e86964eea2ffc6"
+    },
+    {
+      "index": 69,
+      "prompt": "Spider-Man crouching with his mask visible, warm copper lighting",
+      "seed": 9131069,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r05_c06.png",
+      "sha256": "c2a9d24bbd0bf3008350ddbbe903f81637d3a78d42f2a2f647d2f0b41b7951fc"
+    },
+    {
+      "index": 70,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131070,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r05_c07.png",
+      "sha256": "08079e1f9794c98f9b81d61d70d70dbeb3e7ddd2045ea7988f66afcd9e6c7175"
+    },
+    {
+      "index": 71,
+      "prompt": "Spider-Man in his red and blue suit, cool steel-blue light",
+      "seed": 9131071,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r05_c08.png",
+      "sha256": "a4e6e711c463d621a7c02217e5576e3d764838dab6ab62521c2e9cc3f864db4e"
+    },
+    {
+      "index": 72,
+      "prompt": "Spider-Man crouching with his mask visible, cool steel-blue light",
+      "seed": 9131072,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r05_c09.png",
+      "sha256": "17a5e4d896612571e425860fc677e20abf72ec32fcea8f8a0b14c47933777414"
+    },
+    {
+      "index": 73,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, warm copper lighting",
+      "seed": 9131073,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r05_c10.png",
+      "sha256": "da352b6470edd0444e60348fc5dae526047204eeed56665cdd792566582b6dc1"
+    },
+    {
+      "index": 74,
+      "prompt": "Spider-Man in his red and blue suit, warm copper lighting",
+      "seed": 9131074,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r05_c11.png",
+      "sha256": "810279c53297e017e43d3b1531dd4df8a624e4d73d815a427afe2186d5b6c9af"
+    },
+    {
+      "index": 75,
+      "prompt": "Spider-Man crouching with his mask visible, warm copper lighting",
+      "seed": 9131075,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r05_c12.png",
+      "sha256": "957aa005c6ff6f79362192f97f0f460e247b032f94e02150cdf6a9f017ba50e5"
+    },
+    {
+      "index": 76,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131076,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r05_c13.png",
+      "sha256": "be6331fb4970389212b4f3576e5c9537106b3f47f126cf5324e06c0b38183666"
+    },
+    {
+      "index": 77,
+      "prompt": "Spider-Man in his red and blue suit, soft silver light",
+      "seed": 9131077,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r05_c14.png",
+      "sha256": "6fdbcd3a5f4149ad8dbfb222156a36b74aade9d03ea857633fb83582dd284a19"
+    },
+    {
+      "index": 78,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131078,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r05_c15.png",
+      "sha256": "7328a559ce12bb4148417c9b6fee671d7bda3abf8e99d03cf5dfae29029fefdc"
+    },
+    {
+      "index": 79,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131079,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r05_c16.png",
+      "sha256": "bb60ae868c44c39d0bdc29e1771cec5a86956d652a4ca26ea86e19832f653967"
+    },
+    {
+      "index": 80,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131080,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r06_c01.png",
+      "sha256": "6ea7ce49737c09323dd9662fd65e7a2e71488fd0778462a9924fed294ffed87f"
+    },
+    {
+      "index": 81,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131081,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r06_c02.png",
+      "sha256": "bd2f38a0e6a0169917d460c410665815e2f7c0f57031ec889ccf9854cc9dd720"
+    },
+    {
+      "index": 82,
+      "prompt": "Spider-Man in his red and blue suit, soft silver light",
+      "seed": 9131082,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r06_c03.png",
+      "sha256": "a8b65ba8c00ca0b22eae031c7c6d9d5044d1c1373247ef41a7c7534460c2ed1f"
+    },
+    {
+      "index": 83,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131083,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r06_c04.png",
+      "sha256": "8372424b502918a73a76317ae7cfc609a1c82059be152549b7ba3bc52a97cd45"
+    },
+    {
+      "index": 84,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, warm copper lighting",
+      "seed": 9131084,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r06_c05.png",
+      "sha256": "7b7c7ed952be537380e2b451b844bd91a29c1cc8c9cfbf984afff5a860486b1d"
+    },
+    {
+      "index": 85,
+      "prompt": "Spider-Man in his red and blue suit, warm copper lighting",
+      "seed": 9131085,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r06_c06.png",
+      "sha256": "93cdf680ab3e9801adece9bceba6ccbd09ea315d7c663582901aed2b9f6af4d1"
+    },
+    {
+      "index": 86,
+      "prompt": "Spider-Man crouching with his mask visible, warm copper lighting",
+      "seed": 9131086,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r06_c07.png",
+      "sha256": "6eec124431ea3e7051070e0e50a8d104324500ab92cc6f7a5a3ae9a46ee04c44"
+    },
+    {
+      "index": 87,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, crimson reflected light",
+      "seed": 9131087,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r06_c08.png",
+      "sha256": "8be49c3926b5c09e889147b1ee293ea607e24e21acd9e4e47f1f29cc64ec8075"
+    },
+    {
+      "index": 88,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131088,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r06_c09.png",
+      "sha256": "827f0a23329c778f5e1c1fb4407d32f4ca9d3c6b83df3a2bef6595bb550f4187"
+    },
+    {
+      "index": 89,
+      "prompt": "Spider-Man crouching with his mask visible, warm copper lighting",
+      "seed": 9131089,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r06_c10.png",
+      "sha256": "cd063b41c089ed0fa337a3dbf86662c9bf07e27b834a79e31a479858c0cef79b"
+    },
+    {
+      "index": 90,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, warm copper lighting",
+      "seed": 9131090,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r06_c11.png",
+      "sha256": "9cb4440b84d21326187f82b6a25611e187ce9c29ad6f3167e33cbf78910d239f"
+    },
+    {
+      "index": 91,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131091,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r06_c12.png",
+      "sha256": "722ca01716835d7fd7f42830236bfcfe249b7a355bed2c9a73040018bf43d6ae"
+    },
+    {
+      "index": 92,
+      "prompt": "Spider-Man crouching with his mask visible, crimson reflected light",
+      "seed": 9131092,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r06_c13.png",
+      "sha256": "8bc9d56595c731d97c0cb6d744c13e51af35369d009c722237f1e27046fb6e79"
+    },
+    {
+      "index": 93,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, soft silver light",
+      "seed": 9131093,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r06_c14.png",
+      "sha256": "420cb3cd6fad6a94b94d2e101ac0d198f85fa40c4f75a1614075690579d289c3"
+    },
+    {
+      "index": 94,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131094,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r06_c15.png",
+      "sha256": "30ebe5f6faad9bea74c069533f8cf921dbb184fce8ffd7514fa229663d24f4d4"
+    },
+    {
+      "index": 95,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131095,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r06_c16.png",
+      "sha256": "37249d3f2a514cad5184dd9cc11149acbc7802eebf2749522fa80fa186c4c939"
+    },
+    {
+      "index": 96,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131096,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r07_c01.png",
+      "sha256": "c02a532fb09ba50360db158626a0a68e2863b9700e338a5a161492f9fdffdb39"
+    },
+    {
+      "index": 97,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131097,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r07_c02.png",
+      "sha256": "d979d945e9e33af57d05bbd01e5486d2e0b40371e50343c3ba6c204dd1208afc"
+    },
+    {
+      "index": 98,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, soft silver light",
+      "seed": 9131098,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r07_c03.png",
+      "sha256": "7a7a5e093a262ce96d9fb9ef21e04c7598ea9143da4d8eeb73927bfd23ff881c"
+    },
+    {
+      "index": 99,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131099,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r07_c04.png",
+      "sha256": "8c4acb347686faaf4606f244ec71431e5bd7e3c5c01be88d069533cec9aa839a"
+    },
+    {
+      "index": 100,
+      "prompt": "Spider-Man crouching with his mask visible, warm copper lighting",
+      "seed": 9131100,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r07_c05.png",
+      "sha256": "ab7be64894576e1ceff75279c8652eb801a51ebb17b10f74eabdbdab21a28aac"
+    },
+    {
+      "index": 101,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, warm copper lighting",
+      "seed": 9131101,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r07_c06.png",
+      "sha256": "2aa8900ce465b32433a6e1092e16e2e8cd6f868a2f2e21863a3d65bdd3a1407b"
+    },
+    {
+      "index": 102,
+      "prompt": "Spider-Man in his red and blue suit, warm copper lighting",
+      "seed": 9131102,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r07_c07.png",
+      "sha256": "15bcfbb8eeb639c3c6c68b99c153456fe8248d66ccf9a1abc7aa3ba9250f2bf0"
+    },
+    {
+      "index": 103,
+      "prompt": "Spider-Man crouching with his mask visible, crimson reflected light",
+      "seed": 9131103,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r07_c08.png",
+      "sha256": "45834a03e3a9c6cc2d95ad4aac6a68bf12f28e6bba4467afa55b5402983bac4c"
+    },
+    {
+      "index": 104,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, crimson reflected light",
+      "seed": 9131104,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r07_c09.png",
+      "sha256": "cc036db26ce1ca1ae41f3ac84167c346f3be54792d20a36087a01a5c2fbf9f78"
+    },
+    {
+      "index": 105,
+      "prompt": "Spider-Man in his red and blue suit, warm copper lighting",
+      "seed": 9131105,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r07_c10.png",
+      "sha256": "e4803391239744c5f9d12a6b5daf246e9cfa19be6b663c5be32d3713796b87b5"
+    },
+    {
+      "index": 106,
+      "prompt": "Spider-Man crouching with his mask visible, warm copper lighting",
+      "seed": 9131106,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r07_c11.png",
+      "sha256": "03626a0548d7db647214d87f4b9a05c6801ff061884e374ea23f5ca341d2092e"
+    },
+    {
+      "index": 107,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, cool steel-blue light",
+      "seed": 9131107,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r07_c12.png",
+      "sha256": "bb1081650b558ffa83a12e254b26296f87bf0c46b6b685f653dcfcc42ca46281"
+    },
+    {
+      "index": 108,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131108,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r07_c13.png",
+      "sha256": "d9b2206e4ec1f248a0345f2fe21613b3af73d9f6b1ebb67515ff74e5d08a2f79"
+    },
+    {
+      "index": 109,
+      "prompt": "Spider-Man crouching with his mask visible, soft silver light",
+      "seed": 9131109,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r07_c14.png",
+      "sha256": "2e94abfcc1fc6f9cd296fe379cb9267aa1f72ab4973c6da93e76667675a553f7"
+    },
+    {
+      "index": 110,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131110,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r07_c15.png",
+      "sha256": "e835bd50a2be6502b0410255a5a0cd12c4608d8e9f8725fccf96259ef1ce8874"
+    },
+    {
+      "index": 111,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131111,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r07_c16.png",
+      "sha256": "e5cb780c19ae80d9f8568494f474f63540b8152b1ada694b0c86c5df3f4343af"
+    },
+    {
+      "index": 112,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131112,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r08_c01.png",
+      "sha256": "b12ae28d939b7e72636f5d288605e5560cb5b3a98bd00ef0a6f4a09eb512513b"
+    },
+    {
+      "index": 113,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131113,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r08_c02.png",
+      "sha256": "15f1bc5218c49fe6574c7b5e8f3fd973cbfefa33c00fd424fadc04bbdb65cd6b"
+    },
+    {
+      "index": 114,
+      "prompt": "Spider-Man crouching with his mask visible, soft silver light",
+      "seed": 9131114,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r08_c03.png",
+      "sha256": "280d9f48dae1b4cc81060e362478ea7f07db200b135710ffb660176d5ecaf26e"
+    },
+    {
+      "index": 115,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131115,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r08_c04.png",
+      "sha256": "fad867ade4c6672133a5d60f25a13055625edf0b651dd73f432fa073f309ddcb"
+    },
+    {
+      "index": 116,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131116,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r08_c05.png",
+      "sha256": "1fbf73a4d491af37c4af61de4652646ff599bb1c7f709d3af327150ef8c6fa4b"
+    },
+    {
+      "index": 117,
+      "prompt": "Spider-Man crouching with his mask visible, warm copper lighting",
+      "seed": 9131117,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r08_c06.png",
+      "sha256": "d99ee862e0d78f80f2ea273d3b70f3751d69ff908a00d53e75d047c7259c5cf1"
+    },
+    {
+      "index": 118,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, soft silver light",
+      "seed": 9131118,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r08_c07.png",
+      "sha256": "775dbca5957827851ee9dc219b1cdf677d00d2f01400848525a3d5fdf47593b2"
+    },
+    {
+      "index": 119,
+      "prompt": "Spider-Man in his red and blue suit, warm copper lighting",
+      "seed": 9131119,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r08_c08.png",
+      "sha256": "1059d5478b5b62b3dd4c82ad040d59601e0089b99aea83ef91b6ec9f49386a94"
+    },
+    {
+      "index": 120,
+      "prompt": "Spider-Man crouching with his mask visible, warm copper lighting",
+      "seed": 9131120,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r08_c09.png",
+      "sha256": "def384f5a4cfdbfc6c886781ccbc37ee76189f32e109e17fdd6a12ccb2ddd3aa"
+    },
+    {
+      "index": 121,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, soft silver light",
+      "seed": 9131121,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r08_c10.png",
+      "sha256": "61b4140ea7c3aac2372f13fbba9e1eb7d2424742e6a2b4e63646ee7dc0c14d51"
+    },
+    {
+      "index": 122,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131122,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r08_c11.png",
+      "sha256": "84a00af7c04f540c45598185845fc8744f8bb7cec796678c5cf2ec9cf33869d5"
+    },
+    {
+      "index": 123,
+      "prompt": "Spider-Man crouching with his mask visible, cool steel-blue light",
+      "seed": 9131123,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r08_c12.png",
+      "sha256": "ac2e6b918d7a582fb2094f712f514067de9b7222dd6a760ee4471e2566876e4e"
+    },
+    {
+      "index": 124,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131124,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r08_c13.png",
+      "sha256": "9d439372e0dd3924fa2ed311cc001c4440a0415cc8242060d010f556b5ba4613"
+    },
+    {
+      "index": 125,
+      "prompt": "Spider-Man in his red and blue suit, soft silver light",
+      "seed": 9131125,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r08_c14.png",
+      "sha256": "94bde23b6facd13040da0f52ed95a1bff6cd7378e57a554d32d7b75ae5f448ff"
+    },
+    {
+      "index": 126,
+      "prompt": "Spider-Man crouching with his mask visible, soft silver light",
+      "seed": 9131126,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r08_c15.png",
+      "sha256": "f403629ead9ae729cfe7e7ea6c7a625d5c637ec76f4223fa71606617c5be20c2"
+    },
+    {
+      "index": 127,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131127,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r08_c16.png",
+      "sha256": "af9cdea4839001760bdf69fd262bab668cc58d00db013e1ac72b21d224c42f58"
+    },
+    {
+      "index": 128,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131128,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r09_c01.png",
+      "sha256": "02bec06181239952f89f634f26cd1996d48b9a17994499ff4567776c4cdc041d"
+    },
+    {
+      "index": 129,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, soft silver light",
+      "seed": 9131129,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r09_c02.png",
+      "sha256": "8b0cf564fbb87b58c1027e420602a88a50157b8b4a71723a369602f2ef3b1b0b"
+    },
+    {
+      "index": 130,
+      "prompt": "Spider-Man in his red and blue suit, soft silver light",
+      "seed": 9131130,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r09_c03.png",
+      "sha256": "c19d3289b7c77d2cb68748abb1baf000baf545b939c94542675cbc901a0b7c80"
+    },
+    {
+      "index": 131,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131131,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r09_c04.png",
+      "sha256": "95c12e81018caec8b3abce4ff4a6a9ac13193e25ebdab29d470ce950486586ef"
+    },
+    {
+      "index": 132,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131132,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r09_c05.png",
+      "sha256": "70d21ef293bdb8ed41a0f08ea2199284a288551294070c72af1ddbb10ed0df50"
+    },
+    {
+      "index": 133,
+      "prompt": "Spider-Man in his red and blue suit, warm copper lighting",
+      "seed": 9131133,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r09_c06.png",
+      "sha256": "76d52a58f18a60b6a7b7a37cd5f28ff6e6aac4fa490b7d0395f1bac76a8afeb0"
+    },
+    {
+      "index": 134,
+      "prompt": "Spider-Man crouching with his mask visible, soft silver light",
+      "seed": 9131134,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r09_c07.png",
+      "sha256": "a527477db3997684a28e3b6dbbb27972f1d8f11fe122765c4d8564c5c4378637"
+    },
+    {
+      "index": 135,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, warm copper lighting",
+      "seed": 9131135,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r09_c08.png",
+      "sha256": "d9b586d48c5feb3af16a5ff2cb789efc327ce7ff1edac11828c19e433291e80f"
+    },
+    {
+      "index": 136,
+      "prompt": "Spider-Man in his red and blue suit, warm copper lighting",
+      "seed": 9131136,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r09_c09.png",
+      "sha256": "ab535bc125ba6f99e60a50eb384b13176388b23b2571498c89d2ca44e6512b0c"
+    },
+    {
+      "index": 137,
+      "prompt": "Spider-Man crouching with his mask visible, soft silver light",
+      "seed": 9131137,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r09_c10.png",
+      "sha256": "8ce8aae78c9c7175f780d782236fb472675ad785cd39f82efc81e23f5ab7d2d7"
+    },
+    {
+      "index": 138,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, soft silver light",
+      "seed": 9131138,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r09_c11.png",
+      "sha256": "9ae06288e867c242efc932d2e09a6c26f1c9e12980f5e8a4e2179e8c8aa4d132"
+    },
+    {
+      "index": 139,
+      "prompt": "Spider-Man in his red and blue suit, cool steel-blue light",
+      "seed": 9131139,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r09_c12.png",
+      "sha256": "a89d88815a03d91948267a5bea9ee88b285fe22b316558939c72b49382b068db"
+    },
+    {
+      "index": 140,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131140,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r09_c13.png",
+      "sha256": "91e333e58a242542706a874e7bd6d2cbd9e3df13b1a4532e58ec5381c525ed58"
+    },
+    {
+      "index": 141,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, soft silver light",
+      "seed": 9131141,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r09_c14.png",
+      "sha256": "6c83e53bb8a11a5eca1dfaf5f484cee5c58a3e39982e5b0a2fdfdc997faab73e"
+    },
+    {
+      "index": 142,
+      "prompt": "Spider-Man in his red and blue suit, soft silver light",
+      "seed": 9131142,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r09_c15.png",
+      "sha256": "b82b4a78121f4a5a1b71d35091c3b2c633bb5435a9702460fb81a618b4f12ffb"
+    },
+    {
+      "index": 143,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131143,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r09_c16.png",
+      "sha256": "9435db05ea75e06e5b356a68d27f5d2e0b1a9adaaddff9fc225c451a36577658"
+    },
+    {
+      "index": 144,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131144,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r10_c01.png",
+      "sha256": "093520b4441c7bb6f63511e1b1590c6dd07242a57616403ba5357baa6f50c37c"
+    },
+    {
+      "index": 145,
+      "prompt": "Spider-Man crouching with his mask visible, soft silver light",
+      "seed": 9131145,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r10_c02.png",
+      "sha256": "219ff6b34699fa1492ada7673300073e805d45525b75ffae73e9d89e4db014c8"
+    },
+    {
+      "index": 146,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, soft silver light",
+      "seed": 9131146,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r10_c03.png",
+      "sha256": "d1ace9b67a7b6ca16716da4a72d9f138aeab8b7c81742bb7887d92af6858bc7a"
+    },
+    {
+      "index": 147,
+      "prompt": "Spider-Man in his red and blue suit, soft silver light",
+      "seed": 9131147,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r10_c04.png",
+      "sha256": "dea295a5b74c7983349aeada990f55257ccd9227a07ac15f68577959cc9c6f9b"
+    },
+    {
+      "index": 148,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131148,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r10_c05.png",
+      "sha256": "04670f01c2b93ac9c1288dd6bce7215a6aea954b128e8fa5e358d24824ef8e88"
+    },
+    {
+      "index": 149,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131149,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r10_c06.png",
+      "sha256": "07775b6029fa7636450602e08fdab2297e066ae01121f5fac1b390f5cdb921cd"
+    },
+    {
+      "index": 150,
+      "prompt": "Spider-Man in his red and blue suit, soft silver light",
+      "seed": 9131150,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r10_c07.png",
+      "sha256": "730c6147b567448705b934bb87cc385dfd4e01fe0355c65c2d494b5061d5d096"
+    },
+    {
+      "index": 151,
+      "prompt": "Spider-Man crouching with his mask visible, warm copper lighting",
+      "seed": 9131151,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r10_c08.png",
+      "sha256": "d776c07117308abfd03c9aed715413cebaac6da2e25fc57ee71164b62a2115ca"
+    },
+    {
+      "index": 152,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, warm copper lighting",
+      "seed": 9131152,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r10_c09.png",
+      "sha256": "2804ce223143e2d08fe59f808f44f5847d4e93590811c00464d659a8d3c920da"
+    },
+    {
+      "index": 153,
+      "prompt": "Spider-Man in his red and blue suit, soft silver light",
+      "seed": 9131153,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r10_c10.png",
+      "sha256": "1dd7ce0e852acc64f379496d049e111e0c6815295720a6ea2ce40d0ed319dfce"
+    },
+    {
+      "index": 154,
+      "prompt": "Spider-Man crouching with his mask visible, cool steel-blue light",
+      "seed": 9131154,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r10_c11.png",
+      "sha256": "bed3d9c7c8d4056dcdf77851edc03f9105220477da478bec3fed040220369df7"
+    },
+    {
+      "index": 155,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131155,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r10_c12.png",
+      "sha256": "42ce43d0b9c8350132d6e579ff6db329138c0a4c8ce4c2ea5a6b45ef4b457429"
+    },
+    {
+      "index": 156,
+      "prompt": "Spider-Man in his red and blue suit, soft silver light",
+      "seed": 9131156,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r10_c13.png",
+      "sha256": "3c0950cd217e4634fa2efd38d238aa4ed8c13bf718a72e8fe43ef273fd2f9d67"
+    },
+    {
+      "index": 157,
+      "prompt": "Spider-Man crouching with his mask visible, soft silver light",
+      "seed": 9131157,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r10_c14.png",
+      "sha256": "915233aaccff7b61a5b5192d1d041ba68256d40c58744b2a02764cd71c3326fc"
+    },
+    {
+      "index": 158,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, soft silver light",
+      "seed": 9131158,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r10_c15.png",
+      "sha256": "8e978a089f2520e5406a1c1a4583488bddfd0f6e7519033f572d76e787b6ae65"
+    },
+    {
+      "index": 159,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131159,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r10_c16.png",
+      "sha256": "8212b699e0b20c4d21e12e820c902d7a6151485d582c86064beb6eee365a6144"
+    },
+    {
+      "index": 160,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131160,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r11_c01.png",
+      "sha256": "fb379413bb7744d7007a7a8f33a6c1efe7ef2b2821dc45d688837849268ccaf8"
+    },
+    {
+      "index": 161,
+      "prompt": "Spider-Man in his red and blue suit, soft silver light",
+      "seed": 9131161,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r11_c02.png",
+      "sha256": "8cd378a3b0a27aad05ab15f0fdf4d22e56245bdba2d17e714923c92b5e22ca3d"
+    },
+    {
+      "index": 162,
+      "prompt": "Spider-Man crouching with his mask visible, soft silver light",
+      "seed": 9131162,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r11_c03.png",
+      "sha256": "f128b2d8b32529da61cb97672e194df01f548a91094d702a79809b8a0cd8bfee"
+    },
+    {
+      "index": 163,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, soft silver light",
+      "seed": 9131163,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r11_c04.png",
+      "sha256": "0864a7b4f93fa1706d5979ad5619431f412be908cf802c1c2d289974013fd6b5"
+    },
+    {
+      "index": 164,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131164,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r11_c05.png",
+      "sha256": "df1cb3ce20a1bfde6aa891c9f79787a2ff3be62f96930b8f8e2f71c070ab6759"
+    },
+    {
+      "index": 165,
+      "prompt": "Spider-Man crouching with his mask visible, warm copper lighting",
+      "seed": 9131165,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r11_c06.png",
+      "sha256": "cd5f75b098f2fdeccd5b5c30e98be9b911931419c0a44c6430850d8a9cf027e5"
+    },
+    {
+      "index": 166,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, warm copper lighting",
+      "seed": 9131166,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r11_c07.png",
+      "sha256": "ab9b7ed445bcfa1f449e97d2e3bf9dcdcef5b75d2849fb749e96ae881df189d2"
+    },
+    {
+      "index": 167,
+      "prompt": "Spider-Man in his red and blue suit, warm copper lighting",
+      "seed": 9131167,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r11_c08.png",
+      "sha256": "92f14a8acd03d391def34abb1d3726c56900be6026456b96cc4768a787ec260f"
+    },
+    {
+      "index": 168,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131168,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r11_c09.png",
+      "sha256": "e414f8e8fcc1e977ac28065af86fe010710d85d730d314484a39a1a5c79bef72"
+    },
+    {
+      "index": 169,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, cool steel-blue light",
+      "seed": 9131169,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r11_c10.png",
+      "sha256": "7880e5c52beda2898582538528e82001d9e4d4cb78725649a86dedbfbf6bd54a"
+    },
+    {
+      "index": 170,
+      "prompt": "Spider-Man in his red and blue suit, cool steel-blue light",
+      "seed": 9131170,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r11_c11.png",
+      "sha256": "14b7607e58d0485811e4b03ad6e6053c36566cd79ca08cce193e43b034e85e11"
+    },
+    {
+      "index": 171,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131171,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r11_c12.png",
+      "sha256": "77b4b2aadeab2d6ee37a53ff3a58bca2ece1bff5c2443843b2598586819aaace"
+    },
+    {
+      "index": 172,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, soft silver light",
+      "seed": 9131172,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r11_c13.png",
+      "sha256": "46ca786b4523d469bd0ef249de2951d7d65d36bad4ac0111b2c1485ab0a4286e"
+    },
+    {
+      "index": 173,
+      "prompt": "Spider-Man in his red and blue suit, soft silver light",
+      "seed": 9131173,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r11_c14.png",
+      "sha256": "6771cdcf81fdf5fe78566b6070c260766d37be3a1b3472c6b0c58128c90ca3cb"
+    },
+    {
+      "index": 174,
+      "prompt": "Spider-Man crouching with his mask visible, soft silver light",
+      "seed": 9131174,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r11_c15.png",
+      "sha256": "d5682bf27cf30c94993bd9924d9076d15c2448d7c70dddf4f9fda801392bc094"
+    },
+    {
+      "index": 175,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131175,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r11_c16.png",
+      "sha256": "f0689e399c7532628044c119ccd4cf0dd228b6df721e79cce69d51b9fe1d8a85"
+    },
+    {
+      "index": 176,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131176,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r12_c01.png",
+      "sha256": "42ee2f7ed7ef375b930e9bacd7ab3a0d5c8a419712529b67927f1b031b09c72d"
+    },
+    {
+      "index": 177,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, soft silver light",
+      "seed": 9131177,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r12_c02.png",
+      "sha256": "9d4fa7b030ad2286d068a423f7e14684fffcd9310dd0abe787cb0b0d31e19a31"
+    },
+    {
+      "index": 178,
+      "prompt": "Spider-Man in his red and blue suit, soft silver light",
+      "seed": 9131178,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r12_c03.png",
+      "sha256": "7eb85b571ea19f79eb3b1881bf94ac258cc3a3b5c7985ca4d6d6841f8ec71674"
+    },
+    {
+      "index": 179,
+      "prompt": "Spider-Man crouching with his mask visible, soft silver light",
+      "seed": 9131179,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r12_c04.png",
+      "sha256": "81cfbabc455e72844322ed020b3ea0463e73f0c668c545b1d179401bc50427d9"
+    },
+    {
+      "index": 180,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131180,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r12_c05.png",
+      "sha256": "0fd7fd946f8b9ca67c42a877874437d70e6c339b844a4486b545ee02d60a781a"
+    },
+    {
+      "index": 181,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131181,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r12_c06.png",
+      "sha256": "3ec18523f0d8608936e2b7e823e02954fc6473a4384895ee2bda6f608c6b2ce9"
+    },
+    {
+      "index": 182,
+      "prompt": "Spider-Man crouching with his mask visible, warm copper lighting",
+      "seed": 9131182,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r12_c07.png",
+      "sha256": "bc623e8e0140c63975df1b96abed4ec7884bbd27c944f2896e5e19a636d338e8"
+    },
+    {
+      "index": 183,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, warm copper lighting",
+      "seed": 9131183,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r12_c08.png",
+      "sha256": "9ca7e52886c09fd84e55ec1c9e7e9805ef782c35bda57650a6bb7410aff83e63"
+    },
+    {
+      "index": 184,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131184,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r12_c09.png",
+      "sha256": "8b747caf1f1517a30118a28d3f3dc86d94779baf9cd51dba2877d912a4ea065d"
+    },
+    {
+      "index": 185,
+      "prompt": "Spider-Man crouching with his mask visible, cool steel-blue light",
+      "seed": 9131185,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r12_c10.png",
+      "sha256": "4ab91fa906d63735cc0083ca0d8d2093cbe16c997c938b2e7fffbd33f149e307"
+    },
+    {
+      "index": 186,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131186,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r12_c11.png",
+      "sha256": "0e3596b183254ea055b0e281531b7e1c92a31680398d5f33eedc856832092b92"
+    },
+    {
+      "index": 187,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131187,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r12_c12.png",
+      "sha256": "d0f1e2463a20b4b109bccabf256f3d3c63ba9a2388a386f51f9212a4062d8005"
+    },
+    {
+      "index": 188,
+      "prompt": "Spider-Man crouching with his mask visible, soft silver light",
+      "seed": 9131188,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r12_c13.png",
+      "sha256": "b93b1e5ba82902dc29c98df1e43d672bec6b13a6788c6d8a2413a3cc25a2326f"
+    },
+    {
+      "index": 189,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, soft silver light",
+      "seed": 9131189,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r12_c14.png",
+      "sha256": "508e2271d3d7d5bbd5e7b5e55d7aec5051822fc473ff557539f1805849d58544"
+    },
+    {
+      "index": 190,
+      "prompt": "Spider-Man in his red and blue suit, soft silver light",
+      "seed": 9131190,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r12_c15.png",
+      "sha256": "8b105380f31d1275b1b440608f438d7254f3376ec3ebb9cedfef56a29d48bab0"
+    },
+    {
+      "index": 191,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131191,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r12_c16.png",
+      "sha256": "5390824e49ad12efa85be139754768caeb9ccf70dd7e5f7a0a1aa650e22b3c36"
+    },
+    {
+      "index": 192,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131192,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r13_c01.png",
+      "sha256": "08d5f0235df8312438bb075d420eeeee6ba99ac251bbed124445fcde1044dbe3"
+    },
+    {
+      "index": 193,
+      "prompt": "Spider-Man crouching with his mask visible, soft silver light",
+      "seed": 9131193,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r13_c02.png",
+      "sha256": "da3d0f7d23186802732940136340b03d9f18289f97f7ade7bd90d426d17c58a2"
+    },
+    {
+      "index": 194,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, soft silver light",
+      "seed": 9131194,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r13_c03.png",
+      "sha256": "344395b36636adc1b7a5f8b7153019e6f82dbf634b69e902f1dafded3d86d057"
+    },
+    {
+      "index": 195,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131195,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r13_c04.png",
+      "sha256": "b686b6a1c5e749a309e4aca7f74045d84a397c6520d2bd56a72a70da7a134b46"
+    },
+    {
+      "index": 196,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131196,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r13_c05.png",
+      "sha256": "32ef81cd9847fc04c203110882d4c9043a1e001b7af668f90bc1c9412643cd38"
+    },
+    {
+      "index": 197,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131197,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r13_c06.png",
+      "sha256": "cbda938f83076237a276014e55bd196620917bd08f7aa7e34f5e63125841e847"
+    },
+    {
+      "index": 198,
+      "prompt": "Spider-Man in his red and blue suit, warm copper lighting",
+      "seed": 9131198,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r13_c07.png",
+      "sha256": "b2083e3f12a5c7f1375185aa5e49cb07dfe801c90028dc3e01c1d2004e29291d"
+    },
+    {
+      "index": 199,
+      "prompt": "Spider-Man crouching with his mask visible, warm copper lighting",
+      "seed": 9131199,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r13_c08.png",
+      "sha256": "699c5a3497f9b070d8469b8ac006f8f4e2c889af63222468eda2774f532d0ad8"
+    },
+    {
+      "index": 200,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131200,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r13_c09.png",
+      "sha256": "d022aec2fe346685d468f2ecc7e7c284b0f21c5f8f7c5083a8753394b0f8487a"
+    },
+    {
+      "index": 201,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131201,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r13_c10.png",
+      "sha256": "47ef1303d597e1a4695b467a500556d70b67977dfe307b8238fd54e84643308d"
+    },
+    {
+      "index": 202,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131202,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r13_c11.png",
+      "sha256": "ed077e45e4444795d60d0ee0867f49ec574c426c5dad8ddad993d79401b93cff"
+    },
+    {
+      "index": 203,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131203,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r13_c12.png",
+      "sha256": "803b84b145a84aea56f59a6a840ea008b951fa1da4c4cbffd4218362b10ea6b4"
+    },
+    {
+      "index": 204,
+      "prompt": "Spider-Man in his red and blue suit, crimson reflected light",
+      "seed": 9131204,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r13_c13.png",
+      "sha256": "5436088f89f0ad6994f2112263d4683c084bbc7af25b4c444f2c99d2f7e7c6ba"
+    },
+    {
+      "index": 205,
+      "prompt": "Spider-Man crouching with his mask visible, soft silver light",
+      "seed": 9131205,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r13_c14.png",
+      "sha256": "e4eb69f48bf4e152c7a1f6fd2d1a81c9d4e45f2b5e4aa0c3af80fabe7de2e526"
+    },
+    {
+      "index": 206,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, soft silver light",
+      "seed": 9131206,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r13_c15.png",
+      "sha256": "771feb9c544dbdabc2a99063da965bb18fd5bbab85abd7ecf4909a7df526187e"
+    },
+    {
+      "index": 207,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131207,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r13_c16.png",
+      "sha256": "a2584e80262ef7db83112848374cee8bf483052cea3818d85b29376363db3402"
+    },
+    {
+      "index": 208,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131208,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r14_c01.png",
+      "sha256": "1eba03e0a972af0ec1bfb2333427a756b0a8bbdf01cb091ecb779cd58e0cd2e8"
+    },
+    {
+      "index": 209,
+      "prompt": "Spider-Man in his red and blue suit, crimson reflected light",
+      "seed": 9131209,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r14_c02.png",
+      "sha256": "9f5a0be2b8584f7a11c6970cccaf04861a7fbb74055528ad264e19b34ced7691"
+    },
+    {
+      "index": 210,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131210,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r14_c03.png",
+      "sha256": "3e78f79eb2b624a983fa896cc96ac65c5df37c1ff81afa3a61fa754ea7016d00"
+    },
+    {
+      "index": 211,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, warm copper lighting",
+      "seed": 9131211,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r14_c04.png",
+      "sha256": "3246471d3e7ea70f38ad48a39de55c165bcab3a2022ff7bf78e690198aa3cfe2"
+    },
+    {
+      "index": 212,
+      "prompt": "Spider-Man in his red and blue suit, warm copper lighting",
+      "seed": 9131212,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r14_c05.png",
+      "sha256": "b9ee906749951667fd9b1d1868c0be2765e22eaef6d780eb55a4af4342c55e48"
+    },
+    {
+      "index": 213,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131213,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r14_c06.png",
+      "sha256": "8c11cb97e60f823bfc0b8aafc848f4f25834c9f2a1a655cf7383e8d63b290967"
+    },
+    {
+      "index": 214,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, warm copper lighting",
+      "seed": 9131214,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r14_c07.png",
+      "sha256": "57c8da0f9b4a795a46761de70e5436e9becb2665b51cba60663ca07005ae9be3"
+    },
+    {
+      "index": 215,
+      "prompt": "Spider-Man in his red and blue suit, warm copper lighting",
+      "seed": 9131215,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r14_c08.png",
+      "sha256": "084d6085a5ae536d64a665285f0764f887860a27f368f9bee86b9d28e0552db9"
+    },
+    {
+      "index": 216,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131216,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r14_c09.png",
+      "sha256": "0d8b5c5867dce1c570919417509454c78bddab83f37cf77337551d53d9954337"
+    },
+    {
+      "index": 217,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, soft silver light",
+      "seed": 9131217,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r14_c10.png",
+      "sha256": "824630de84a6573e8edc1e05417368caf91c68c69e90a0d8da70157c6f4f2b1b"
+    },
+    {
+      "index": 218,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131218,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r14_c11.png",
+      "sha256": "dacec63c99fb1a201f48c70177143c81b49281027ff724c41b85cd829133ad67"
+    },
+    {
+      "index": 219,
+      "prompt": "Spider-Man crouching with his mask visible, warm copper lighting",
+      "seed": 9131219,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r14_c12.png",
+      "sha256": "dd45bbb3e40bd546242cb22d509b18f54e3621c04712115a917ccac58a828fc1"
+    },
+    {
+      "index": 220,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, warm copper lighting",
+      "seed": 9131220,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r14_c13.png",
+      "sha256": "2d0595d7060b08be833c5cd914b71a8a4a5bda0143106df41e7b945ccc6e8a9b"
+    },
+    {
+      "index": 221,
+      "prompt": "Spider-Man in his red and blue suit, cool steel-blue light",
+      "seed": 9131221,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r14_c14.png",
+      "sha256": "cb575ec1def5121ec30b3d592b7f9f4ccbce85da70dedf9579cbc24b3396970c"
+    },
+    {
+      "index": 222,
+      "prompt": "Spider-Man crouching with his mask visible, crimson reflected light",
+      "seed": 9131222,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r14_c15.png",
+      "sha256": "313dfc40317b4c4661fb6049372b30e226c3184c854099366fe848e8a0b24e1a"
+    },
+    {
+      "index": 223,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131223,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r14_c16.png",
+      "sha256": "36d7a679129e92873d4f7c1a9098b996570591ac86460d8645782654316494f1"
+    },
+    {
+      "index": 224,
+      "prompt": "Spider-Man crouching with his mask visible, crimson reflected light",
+      "seed": 9131224,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r15_c01.png",
+      "sha256": "f5727fb3d30dc78bf5d3126ba5eee7ba5afdde5cfa13a5b89a378cbd662a2303"
+    },
+    {
+      "index": 225,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, crimson reflected light",
+      "seed": 9131225,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r15_c02.png",
+      "sha256": "9d85e4025e156ea32624110c6c0c14aa4230ade33bdc05cc3343ebc60a707f70"
+    },
+    {
+      "index": 226,
+      "prompt": "Spider-Man in his red and blue suit, cool steel-blue light",
+      "seed": 9131226,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r15_c03.png",
+      "sha256": "7b08db9694f65864d337a8a04fb085779c1c1a65fee54d88d34854665beeb90b"
+    },
+    {
+      "index": 227,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131227,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r15_c04.png",
+      "sha256": "0d514b1e1c5db12bfffafb3975beebcd077c9265b561da0abee29a64dfa048ae"
+    },
+    {
+      "index": 228,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131228,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r15_c05.png",
+      "sha256": "f54277ab0058ae05914384e8b15e1d36798508d58cd5bef4b1169712b2f70f5a"
+    },
+    {
+      "index": 229,
+      "prompt": "Spider-Man in his red and blue suit, cool steel-blue light",
+      "seed": 9131229,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r15_c06.png",
+      "sha256": "795f13f545c3555440bde66fe5c184c5b68a8ca99c715647a7c993c522a53a28"
+    },
+    {
+      "index": 230,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131230,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r15_c07.png",
+      "sha256": "bc31a273ab82677466a6732bd206df1207bd74ad53ff68eefca479f4881e7702"
+    },
+    {
+      "index": 231,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, crimson reflected light",
+      "seed": 9131231,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r15_c08.png",
+      "sha256": "ee9cbaf1845508308fcf8c622555de0cf0b8f80d99913a8230cc635c7abd2d20"
+    },
+    {
+      "index": 232,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131232,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r15_c09.png",
+      "sha256": "faa7b6f22b92e13a9d81dcb028c09f9e56ae459819dab351965ca46add00174e"
+    },
+    {
+      "index": 233,
+      "prompt": "Spider-Man crouching with his mask visible, cool steel-blue light",
+      "seed": 9131233,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r15_c10.png",
+      "sha256": "debcacddfba0886d0b83508e800b9c7bbec828d6116d210b7959f116983ce80b"
+    },
+    {
+      "index": 234,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, cool steel-blue light",
+      "seed": 9131234,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r15_c11.png",
+      "sha256": "be0d97a495e8fde929cd8bf048d8633173fe8d7c39589dff8f611b17ac0b5324"
+    },
+    {
+      "index": 235,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131235,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r15_c12.png",
+      "sha256": "dd426c69edf46c7bc2b18cd31a8f93e478939abae98c06ec995abfe6ccb60f40"
+    },
+    {
+      "index": 236,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131236,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r15_c13.png",
+      "sha256": "0bf27b355eca49ebc6950724d97a9ca1bbc660b20078648b72ebb250dc596709"
+    },
+    {
+      "index": 237,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, cool steel-blue light",
+      "seed": 9131237,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r15_c14.png",
+      "sha256": "a5d5905abafa9379b5cb45d536b4fb2a2e449471c4f427283b9043382e834222"
+    },
+    {
+      "index": 238,
+      "prompt": "Spider-Man in his red and blue suit, crimson reflected light",
+      "seed": 9131238,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r15_c15.png",
+      "sha256": "df5d8592c1fa2eb09201cea1221a60dfd628dde840ebbe0cbcf8eb8171ec5a4b"
+    },
+    {
+      "index": 239,
+      "prompt": "Spider-Man crouching with his mask visible, crimson reflected light",
+      "seed": 9131239,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r15_c16.png",
+      "sha256": "968f197ddc09fe36d72235f893bc60440b646328f25b2ed02ddec1cb43051cf4"
+    },
+    {
+      "index": 240,
+      "prompt": "Spider-Man in his red and blue suit, crimson reflected light",
+      "seed": 9131240,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r16_c01.png",
+      "sha256": "b2ae76a96b79cf69baa899dc9951dfce3f089e9840be1c775c87f8708e746e90"
+    },
+    {
+      "index": 241,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131241,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r16_c02.png",
+      "sha256": "485200ff733f11cbfe9208da7556b126f8101a25bf0b4a6a66eed25ec5dd56c3"
+    },
+    {
+      "index": 242,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131242,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r16_c03.png",
+      "sha256": "3575610c7bac1f350936ec1e91e093cf11d1716343e9364edd485d9e73a7958e"
+    },
+    {
+      "index": 243,
+      "prompt": "Spider-Man in his red and blue suit, crimson reflected light",
+      "seed": 9131243,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r16_c04.png",
+      "sha256": "e811aa6988aec126f777054d199a2684be596daefdd7fcd8d9ae9e94643fec89"
+    },
+    {
+      "index": 244,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131244,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r16_c05.png",
+      "sha256": "66cc694de4790f11493c7694ebc80a99dd977233f84d73eb85cbc388ad0bc30b"
+    },
+    {
+      "index": 245,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131245,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r16_c06.png",
+      "sha256": "be9ec84a31a0337d6febae9b1ea6bf143c56ffd6c4b01743fa51bc37eb933443"
+    },
+    {
+      "index": 246,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131246,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r16_c07.png",
+      "sha256": "4631137d8eed689c5a963e1153f3de4933fd01f8fcb514cb7334413840d26da1"
+    },
+    {
+      "index": 247,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131247,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r16_c08.png",
+      "sha256": "260443355135a1ad8f8722d4d482f93048925e5ff1597014061539f184102708"
+    },
+    {
+      "index": 248,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131248,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r16_c09.png",
+      "sha256": "98dff4dc696259bb0f4ca5179dbfc38de9d6fae9f5adda15fb3f3bbd150df22e"
+    },
+    {
+      "index": 249,
+      "prompt": "Spider-Man in his red and blue suit, muted neutral lighting",
+      "seed": 9131249,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r16_c10.png",
+      "sha256": "ce167e8be3af93561b6fd1329fcba3fd974f70dc4b6f0595fa22f515fea9c61d"
+    },
+    {
+      "index": 250,
+      "prompt": "Spider-Man crouching with his mask visible, muted neutral lighting",
+      "seed": 9131250,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r16_c11.png",
+      "sha256": "586bf61639b1323d5326fc0126d358899242b8ec54202f648591477eb5230b48"
+    },
+    {
+      "index": 251,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131251,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r16_c12.png",
+      "sha256": "fdb1e79c2df5770f3a540b9c877e86505251e5150fe45d5970d0dd023bfe5cda"
+    },
+    {
+      "index": 252,
+      "prompt": "Spider-Man in his red and blue suit, crimson reflected light",
+      "seed": 9131252,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r16_c13.png",
+      "sha256": "5a54caad3e20085b5cc7977d7fc5551b8c5a0cf145baf621bf2347999e92c87f"
+    },
+    {
+      "index": 253,
+      "prompt": "Spider-Man crouching with his mask visible, crimson reflected light",
+      "seed": 9131253,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r16_c14.png",
+      "sha256": "0fefbbc8c1e7da9458b70f3f041916040373f5c2bd2e29780c39eb312d5a50a5"
+    },
+    {
+      "index": 254,
+      "prompt": "Spider-Man wearing a red webbed mask, waist-up, muted neutral lighting",
+      "seed": 9131254,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r16_c15.png",
+      "sha256": "54bdbf28091cea0e7f3abc5ab23bd77ea853c0b40383e9c6854a735a7be0aeac"
+    },
+    {
+      "index": 255,
+      "prompt": "Spider-Man in his red and blue suit, crimson reflected light",
+      "seed": 9131255,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "9838c0f3fb9f90afa65532ee3d42a683664a246eff202deac28e2a175bf637f4",
+      "file": "iron_man/r16_c16.png",
+      "sha256": "99b4671b40fcf7f3ef0e3f9c6604073022456c0d9082ce66ffadb81383228c71"
+    }
+  ],
+  "target": "outward_palette16/targets/iron_man_0.png"
+}

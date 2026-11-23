@@ -1,0 +1,286 @@
+{
+  "status": "complete",
+  "started_at_utc": "2026-11-22T03:02:06.753260+00:00",
+  "replay_config": "/root/workspace/creativegen/PhotoQuilt/outputs/nested_captain_8_16/inner_8/recipe.json",
+  "source_sha256": {
+    "sdxl/__init__.py": "39bf9bdf2cacc8a031961190a0a02331e1bc7c7812f1457958ebf9d09964322e",
+    "sdxl/__main__.py": "aaa167f09ab487ca17c2e5e19edc9142e477ed4e336ff6112582170bced1feda",
+    "sdxl/config.py": "a9b347524936091c97609f6365c8d6e6e1146d6e5cda9cf2138e8a01bbe52c3c",
+    "sdxl/decode.py": "11a640383c74008a2a1feff5d2f8052a294d878bcc9bd91c3f48b834106803c1",
+    "sdxl/memory_guard.py": "706c348ffd068023a1f10ab572064909541777765801e9d57c742c22b44a8c39",
+    "sdxl/run_sdxl_mosaic.py": "68e9b98aa2e494000512373537f35d3dff47fa357895213f66ec91129dd78027",
+    "sdxl/tiling.py": "0e6913097722cd8fbfe38eeca8defded880d670aff15197e9c8f9c97fde18090",
+    "sdxl/README.md": "c5169e447c0cc22fe369d1ec0860d4126601bb3d1ee07ac8949c9ef6906cf2e1",
+    "requirements-sdxl.txt": "d35fd9b156768e930a4932f1b659a860c9418f3a34eddc36389f09f6be7e2037",
+    "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  "git": {
+    "head": "60a1b1a3b95f00f47d2c5a82caa9c5976c693194",
+    "status": "M README.md\n?? requirements-sdxl.txt\n?? sdxl/\n?? tests/"
+  },
+  "samples_generated": {
+    "targets": 0,
+    "mosaics": 1
+  },
+  "outputs": {
+    "target.png": {
+      "sha256": "cf8fe808d2bd7d6fe46fbc26a06b0d022e0a184c8c5e617f2c63d0ff0ff6f5d2"
+    },
+    "final_latents.safetensors": {
+      "sha256": "7109b8a5ab242526c13c45d6ae97c9a09a2c78ca9fce5564afdc8ca6dd6a7ca1"
+    },
+    "mosaic.png": {
+      "sha256": "c387483e4ec50b45d89f44c330226b7c3c2692de85095d4e48ee0701503b308f"
+    },
+    "tiles/r000_c000.png": {
+      "sha256": "3f889288e62d7e2defb75b9f875327c355d4fde564292dcc5b70d697edf56f6f"
+    },
+    "tiles/r000_c001.png": {
+      "sha256": "e6d73caffa6695e6c4e7edb1edb0d34685b71b35013428dac07bbd19baf80772"
+    },
+    "tiles/r000_c002.png": {
+      "sha256": "e2fc014e329eae3f2a05cbb81788076ad2fec4b6be4b3af28693c9ccaaa01915"
+    },
+    "tiles/r000_c003.png": {
+      "sha256": "2fe8d6dae06576cd4894238c98a349624fd83cc76bd795a25fa5073150990f84"
+    },
+    "tiles/r000_c004.png": {
+      "sha256": "ecca3b11b4f0314de56d9d87d66648cd978b961639a41d220841a268a5e1046c"
+    },
+    "tiles/r000_c005.png": {
+      "sha256": "595288f7acf41c43e91c42cc247c265bfb0061fe34d9abfd87fda9bb35b30e4e"
+    },
+    "tiles/r000_c006.png": {
+      "sha256": "552f1c8e5463d900c3a5ce284fe04fbee10942d81ef6438f14137737703eb587"
+    },
+    "tiles/r000_c007.png": {
+      "sha256": "7e4c771269e4bb12aede0cb6320467b33859e8dcd4722b63d4a8f012c70ba3f6"
+    },
+    "tiles/r001_c000.png": {
+      "sha256": "e4e6dc4b1055b8a0ef5f262b7e0499159b768731b97580ccd19ebab310d22599"
+    },
+    "tiles/r001_c001.png": {
+      "sha256": "39078957577003b1a0f31f916249270d957f746ba146b551b810e97928dcfa7c"
+    },
+    "tiles/r001_c002.png": {
+      "sha256": "edf0d0190e011f0dabb6f9b130d128668526af15cfd5d8f0daffe8a987f4a19e"
+    },
+    "tiles/r001_c003.png": {
+      "sha256": "002036db8691310f0642f1714a0ffa89c079e01f456678e7a49326237cdaf5fd"
+    },
+    "tiles/r001_c004.png": {
+      "sha256": "3710320c2854b2fcb486747bd27054de266fd127b2c11dd34a718e685820ff10"
+    },
+    "tiles/r001_c005.png": {
+      "sha256": "da129731f41bdbe1cfb6454ba152975faaaf0d45a9f215753f15b65b49b86ee4"
+    },
+    "tiles/r001_c006.png": {
+      "sha256": "c6fce98aeeae2d09abf89fd4b8c193232d48c232af3717c24f69aa8d5c8bb64b"
+    },
+    "tiles/r001_c007.png": {
+      "sha256": "3b9a9cedb02936566bc93ff24e8326fd18bc5b8d325ace406f18c568281ae374"
+    },
+    "tiles/r002_c000.png": {
+      "sha256": "7cb1465a5fc5edbe0a58afd95b2bf29b22c0232f1da21d0eaa93c2abd3a7bfeb"
+    },
+    "tiles/r002_c001.png": {
+      "sha256": "0fb70f408d8ec8506f2172921771c510def2354f1b3816f094782479fb1e3b8f"
+    },
+    "tiles/r002_c002.png": {
+      "sha256": "1fa00a0b94a0f3d685c8c0c65d9b830f3681b2bdbba92937c12981db5f81b89f"
+    },
+    "tiles/r002_c003.png": {
+      "sha256": "6f285deabf08e0725755d60b7438fdd1ed6f7c8b2060e79ffa5bf6500efc1e03"
+    },
+    "tiles/r002_c004.png": {
+      "sha256": "87b96d3f1fc506a5f5c7c2cc4d8b21e0787b602edc06ec1817e767e9aaca6650"
+    },
+    "tiles/r002_c005.png": {
+      "sha256": "369bf6aa2ff3d8a97fe5be5d38884b50b094b04141fc2f8c16af494dfbdc7d5e"
+    },
+    "tiles/r002_c006.png": {
+      "sha256": "41e9b33ced9cda95cfdd6dbb6b9216a937b3de4ae9b62b80624d2cb6b1f64bf5"
+    },
+    "tiles/r002_c007.png": {
+      "sha256": "933fe4a9b18d7ba8793423b91b9a472a9c518ea2bdae76ca23a601002b317fb6"
+    },
+    "tiles/r003_c000.png": {
+      "sha256": "57629b5222d5ebec381570bf160332e1708f9b2a3805f4316175b73a2f29f002"
+    },
+    "tiles/r003_c001.png": {
+      "sha256": "7efa516f6f8535de26d706420dc318ff7e8823d024927a4478200187d50fd79e"
+    },
+    "tiles/r003_c002.png": {
+      "sha256": "946a0a7eada06a4ab2c375879c3fca4e7343ae8b5e4ae78896f68275aa0dce1f"
+    },
+    "tiles/r003_c003.png": {
+      "sha256": "4bf2f50f2a70afd3f223055d1eee130f23e55b4fa40da770678ff8aeba0b622a"
+    },
+    "tiles/r003_c004.png": {
+      "sha256": "addfebe615958ba1de73e1bcad8a929868454f8f5484a8dc1ffb3311468361ab"
+    },
+    "tiles/r003_c005.png": {
+      "sha256": "3853eb0082e393bdcfbc24bd205c577500b113cc3be0349708115882e0a57925"
+    },
+    "tiles/r003_c006.png": {
+      "sha256": "b7239d0d0506fd76499fc1d5d00f86f16d5a0ade552c6bd9b3750c072c6e97d7"
+    },
+    "tiles/r003_c007.png": {
+      "sha256": "073d0a9a9aa951ea045c59268dfa7ae3b0fad16d82e4f19867bc9eefff80a7a5"
+    },
+    "tiles/r004_c000.png": {
+      "sha256": "61d7c42c74ecb3ca730c9d785a225ce8b70153ad45fbe48132bb45e8336f1cdf"
+    },
+    "tiles/r004_c001.png": {
+      "sha256": "6d1a307822e800bfdd04d7a82464c96d65bdd0609a355ce86f81ef3f8cf2cd43"
+    },
+    "tiles/r004_c002.png": {
+      "sha256": "2df655567279df496b0c583e067f8d06e0873a737d8f953000209525016181ac"
+    },
+    "tiles/r004_c003.png": {
+      "sha256": "a9a2fb5fd0b2d8ff22ab7d433ffe4b2188fc99b28ee7ac7b84e3d59d9ad148fd"
+    },
+    "tiles/r004_c004.png": {
+      "sha256": "9d27afd78302cec397f0db60a3735d773480180a23162d382eae8defac83ea15"
+    },
+    "tiles/r004_c005.png": {
+      "sha256": "130db32b3b38bbb9b2dfc0163a7eb7a61d42aaba0f759d5b5ba8163fad9e0174"
+    },
+    "tiles/r004_c006.png": {
+      "sha256": "046a1f95ae8fe4e6f7759f0f3199a92f8d8e85d2e2887cedffb6453b4be21abb"
+    },
+    "tiles/r004_c007.png": {
+      "sha256": "14123351f35120e58fd0726f20870705333550b6c1fd3022ae3c65211443aabd"
+    },
+    "tiles/r005_c000.png": {
+      "sha256": "07f68c8d2a4437c659fda8d7c9451aec5fee9c464075a7d32787f1b4d59c75cc"
+    },
+    "tiles/r005_c001.png": {
+      "sha256": "ba2106301ce7842ffdd2335ed09b3ad9040af21337e9692305edbdc4e7e33260"
+    },
+    "tiles/r005_c002.png": {
+      "sha256": "4da4a2ac755912debd247cdf10432f0afdaf58e82e058833ebb57196b89a3bd5"
+    },
+    "tiles/r005_c003.png": {
+      "sha256": "66bf3373d8fd212e9087bd3aef45bd3aeb07229751d4a9f0b48537fef883eb42"
+    },
+    "tiles/r005_c004.png": {
+      "sha256": "a76167befa17d39e7b1738b023167f3071b3d323b01bbe2a02991cfd7ee757f7"
+    },
+    "tiles/r005_c005.png": {
+      "sha256": "bafa554ed2e5bb6fc0d8626cc33b94f7993641fd27808953adaa213a774afe94"
+    },
+    "tiles/r005_c006.png": {
+      "sha256": "3c7df302835ea0b5d27fdd8dc6f1919b94d36ec4524d27499a652bf5a04886a8"
+    },
+    "tiles/r005_c007.png": {
+      "sha256": "3fb278ab6ec46b5956f10fd413445b5bbe1bb972d82d687998c787da8c808389"
+    },
+    "tiles/r006_c000.png": {
+      "sha256": "576e27445f40d23427f2f629f0f9bbbb8264fe20923e8b5483a9b5606741b029"
+    },
+    "tiles/r006_c001.png": {
+      "sha256": "6f639df4b4f8aa7d450b24894085aa1d766e38083afd1bd839bd63d46bf32f6b"
+    },
+    "tiles/r006_c002.png": {
+      "sha256": "afc072043cbb659668f45fdc09052ef503df6536013c5112feaba3659cb1b065"
+    },
+    "tiles/r006_c003.png": {
+      "sha256": "47bd138fdf491e97b5cde87cba0b6b2a22e8f09d8046150ddcb1a243e44084be"
+    },
+    "tiles/r006_c004.png": {
+      "sha256": "6af131f1f62a5fe46647392212fbb4ad9e02e921bb3afa0495f7a965b8e932da"
+    },
+    "tiles/r006_c005.png": {
+      "sha256": "1115801c6f78013000531926286a20725becc642f080c33ff750bc5179b45ac7"
+    },
+    "tiles/r006_c006.png": {
+      "sha256": "6f83aaf48af5aa922ee50ba623fe67aed75ebc92f0e571cb44ac1016e796a2e6"
+    },
+    "tiles/r006_c007.png": {
+      "sha256": "ea8ce70d63a62340c9de2a2c056ba98da17bf862eae9cdaf1af08ba785048380"
+    },
+    "tiles/r007_c000.png": {
+      "sha256": "2c8306d040b5993cb5c6b6c0c225d5bb1ea84bff9f3c5c89ec1d3f232cb2e883"
+    },
+    "tiles/r007_c001.png": {
+      "sha256": "f73c967fda071262ff6efbc3242a5566533c0c02957bff77244625525bb172c5"
+    },
+    "tiles/r007_c002.png": {
+      "sha256": "811f9daced40580463dd701b2fb4dc9aa33a0e0a5411c61258f4ee59cae3d633"
+    },
+    "tiles/r007_c003.png": {
+      "sha256": "36b8d24d0ff1dec6098ead964b3f297356efe5f5cf406118b6bb3d93eecc73fd"
+    },
+    "tiles/r007_c004.png": {
+      "sha256": "9445e1d0b0d8b413f1e9770af4cd2d1bfbd13ee70570db28df691a77f7d990d4"
+    },
+    "tiles/r007_c005.png": {
+      "sha256": "11c45d1a587a50582b4104ee4c020a1837a7350449b1b4dfafc54ff915d460d6"
+    },
+    "tiles/r007_c006.png": {
+      "sha256": "24bbb224002855cb56343c28986ba4d88d7ed24c286c072be8df9375a9d12657"
+    },
+    "tiles/r007_c007.png": {
+      "sha256": "069e7f7cc7a3ee5382156e7ec06f4d27338251c077a517dc01986bc30ae64f3d"
+    }
+  },
+  "references": {
+    "method": "https://arxiv.org/abs/2606.30968v2",
+    "upstream_code": "https://github.com/KooroshRH/PhotoQuilt",
+    "sdxl": "https://arxiv.org/abs/2307.01952",
+    "model": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
+    "ddim": "https://arxiv.org/abs/2010.02502",
+    "diffusers": "https://github.com/huggingface/diffusers"
+  },
+  "derived": {
+    "target_height": 1024,
+    "target_width": 1024,
+    "tile_rows": 8,
+    "tile_columns": 8,
+    "strength_step_fraction": 0.9230769230769231,
+    "ddim_eta": 0.0,
+    "overlap_pixels": 0,
+    "rng_device": "cpu",
+    "scheduler_class": "DDIMScheduler",
+    "decode_mode": "cpu-tiles",
+    "tail_offload": "model",
+    "tail_serial_cfg": true,
+    "parent_tile_source": {
+      "run": "outputs/ironman_spider_16x16_20261119_064518/sdxl_mosaic_20261119_064525_817477_seed42",
+      "sha256": "0ad25b9ddf4b3ba6fbc2369c2f15aa01b56a2e9833182706a240927f12346794",
+      "row": 15,
+      "column": 14
+    },
+    "tile_initialization": "renoised_target",
+    "tile_start_timestep": 836,
+    "injection_index": 1,
+    "injection_timestep": 836,
+    "full_timesteps": [
+      912,
+      836,
+      760,
+      684,
+      608,
+      532,
+      456,
+      380,
+      304,
+      228,
+      152,
+      76,
+      0
+    ]
+  },
+  "timings_seconds": {
+    "parent_tile_load": 0.07055232767015696,
+    "tile_denoise": 231.65602715220302,
+    "mosaic_decode": 114.70609476976097
+  },
+  "memory": {
+    "peak_allocated_gib": 5.108893394470215,
+    "peak_reserved_gib": 5.81640625
+  },
+  "finished_at_utc": "2026-11-22T03:08:44.747862+00:00",
+  "total_seconds": 397.98099667578936
+}

@@ -1,0 +1,84 @@
+{
+  "native_side": 16384,
+  "generated_tiles": 256,
+  "sampled_targets": 6,
+  "quality": {
+    "previous": {
+      "mosaic_spider_palette": 0.035749287096765045,
+      "mosaic_rgb_mae64": 0.0517578125,
+      "leaf_identity_mean": 0.035009220768423645,
+      "leaf_identity_positive": 219,
+      "n": 255
+    },
+    "edited": {
+      "mosaic_spider_palette": 0.020583454192167613,
+      "mosaic_rgb_mae64": 0.04875791072845459,
+      "leaf_identity_mean": 0.0345649438161476,
+      "leaf_identity_positive": 226,
+      "n": 255
+    }
+  },
+  "clip": [
+    "openai/clip-vit-base-patch32",
+    "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268"
+  ],
+  "preservation": {
+    "spider_man": {
+      "identical_native_ordinary_tiles": 255,
+      "unchanged_outside_portal": true,
+      "original_slot": true
+    },
+    "captain_america": {
+      "identical_native_ordinary_tiles": 255,
+      "unchanged_outside_portal": true,
+      "original_slot": true
+    },
+    "thor": {
+      "identical_native_ordinary_tiles": 255,
+      "unchanged_outside_portal": true,
+      "original_slot": true
+    }
+  },
+  "encoded_rgb_mae_outside_retained_links": {
+    "spider_man": 0.0,
+    "captain_america": 0.09073353859450116,
+    "thor": 1.7351421973748178
+  },
+  "gif": {
+    "order": [
+      "spider_man",
+      "iron_man",
+      "captain_america",
+      "thor",
+      "spider_man"
+    ],
+    "camera": "outward",
+    "width_per_leg": [
+      0.0625,
+      1.0
+    ],
+    "frames": 357,
+    "duration_ms": 40020,
+    "holds": [
+      [
+        0,
+        5500
+      ],
+      [
+        10000,
+        5500
+      ],
+      [
+        20000,
+        5500
+      ],
+      [
+        30000,
+        5500
+      ]
+    ],
+    "first_last_identical": true,
+    "gif_sha256": "564885cc15a9951913d470e4a5be05052e73eb090840da07d85016afbcb5685c"
+  },
+  "peak_gpu_gib": 11.12890625
+}

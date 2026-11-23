@@ -1,0 +1,10 @@
+{
+  "index": 10,
+  "seed": 9132010,
+  "prompt": "Iron Man in an action pose, cool steel-blue light",
+  "file": "captain_america/r01_c11.png",
+  "sha256": "6e9a1a20583ba832b5a1652dfbb6c3b0cd098bd4ca9c92a4d7e7b937971b3945",
+  "active": false,
+  "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+  "generator": "2e9ea06d3d317df3eba7d090d5b4644db0732cfd05993b8419567a4357305d86"
+}

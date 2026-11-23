@@ -1,0 +1,10 @@
+{
+  "index": 98,
+  "file": "hulk/r07_c03.safetensors",
+  "seed": 9494098,
+  "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+  "scene": false,
+  "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+  "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+  "sha256": "9f94bc66db7bdc4d09c2d931c2c9c07b6cbfda101a2605c61ededd43f3190fb6"
+}

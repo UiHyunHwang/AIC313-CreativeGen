@@ -1,0 +1,130 @@
+{
+  "indices": [
+    15,
+    19,
+    71,
+    254,
+    135,
+    44,
+    181,
+    244
+  ],
+  "groups": [
+    {
+      "prompt": "spider man",
+      "steps": 12,
+      "mean": 0.007998193427920342,
+      "q25": -0.004988154489547015,
+      "clip_mean": 0.01562891248613596,
+      "error_mean": 0.03815359529107809,
+      "samples": [
+        "spider/samples/p0_n12_i015_s43",
+        "spider/samples/p0_n12_i019_s43",
+        "spider/samples/p0_n12_i071_s43",
+        "spider/samples/p0_n12_i254_s43",
+        "spider/samples/p0_n12_i135_s43",
+        "spider/samples/p0_n12_i044_s43",
+        "spider/samples/p0_n12_i181_s43",
+        "spider/samples/p0_n12_i244_s43"
+      ]
+    },
+    {
+      "prompt": "spider man",
+      "steps": 20,
+      "mean": 0.0011518650688230984,
+      "q25": -0.007487695757299662,
+      "clip_mean": 0.008698842488229275,
+      "error_mean": 0.03773488709703088,
+      "samples": [
+        "spider/samples/p0_n20_i015_s43",
+        "spider/samples/p0_n20_i019_s43",
+        "spider/samples/p0_n20_i071_s43",
+        "spider/samples/p0_n20_i254_s43",
+        "spider/samples/p0_n20_i135_s43",
+        "spider/samples/p0_n20_i044_s43",
+        "spider/samples/p0_n20_i181_s43",
+        "spider/samples/p0_n20_i244_s43"
+      ]
+    },
+    {
+      "prompt": "Spider-Man, close-up portrait, red webbed mask and large white eyes",
+      "steps": 12,
+      "mean": 0.03442651629447937,
+      "q25": 0.01703023761510849,
+      "clip_mean": 0.04363199044018984,
+      "error_mean": 0.04602737072855234,
+      "samples": [
+        "spider/samples/p1_n12_i015_s43",
+        "spider/samples/p1_n12_i019_s43",
+        "spider/samples/p1_n12_i071_s43",
+        "spider/samples/p1_n12_i254_s43",
+        "spider/samples/p1_n12_i135_s43",
+        "spider/samples/p1_n12_i044_s43",
+        "spider/samples/p1_n12_i181_s43",
+        "spider/samples/p1_n12_i244_s43"
+      ]
+    },
+    {
+      "prompt": "Spider-Man, close-up portrait, red webbed mask and large white eyes",
+      "steps": 20,
+      "mean": 0.03668493367731571,
+      "q25": 0.02473802175372839,
+      "clip_mean": 0.04570045694708824,
+      "error_mean": 0.04507761634886265,
+      "samples": [
+        "spider/samples/p1_n20_i015_s43",
+        "spider/samples/p1_n20_i019_s43",
+        "spider/samples/p1_n20_i071_s43",
+        "spider/samples/p1_n20_i254_s43",
+        "spider/samples/p1_n20_i135_s43",
+        "spider/samples/p1_n20_i044_s43",
+        "spider/samples/p1_n20_i181_s43",
+        "spider/samples/p1_n20_i244_s43"
+      ]
+    }
+  ],
+  "best": {
+    "prompt": "Spider-Man, close-up portrait, red webbed mask and large white eyes",
+    "steps": 20,
+    "mean": 0.03668493367731571,
+    "q25": 0.02473802175372839,
+    "clip_mean": 0.04570045694708824,
+    "error_mean": 0.04507761634886265,
+    "samples": [
+      "spider/samples/p1_n20_i015_s43",
+      "spider/samples/p1_n20_i019_s43",
+      "spider/samples/p1_n20_i071_s43",
+      "spider/samples/p1_n20_i254_s43",
+      "spider/samples/p1_n20_i135_s43",
+      "spider/samples/p1_n20_i044_s43",
+      "spider/samples/p1_n20_i181_s43",
+      "spider/samples/p1_n20_i244_s43"
+    ]
+  },
+  "controls": [
+    {
+      "file": "control_42_0.png",
+      "seed": 42,
+      "prompt": "spider man",
+      "clip": 0.031801000237464905
+    },
+    {
+      "file": "control_42_1.png",
+      "seed": 42,
+      "prompt": "Spider-Man, close-up portrait, red webbed mask and large white eyes",
+      "clip": 0.06978747248649597
+    },
+    {
+      "file": "control_43_0.png",
+      "seed": 43,
+      "prompt": "spider man",
+      "clip": -0.009476140141487122
+    },
+    {
+      "file": "control_43_1.png",
+      "seed": 43,
+      "prompt": "Spider-Man, close-up portrait, red webbed mask and large white eyes",
+      "clip": 0.03169223666191101
+    }
+  ]
+}

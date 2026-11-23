@@ -1,0 +1,10 @@
+{
+  "index": 250,
+  "file": "hulk/r16_c11.safetensors",
+  "seed": 9365250,
+  "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+  "scene": false,
+  "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+  "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+  "sha256": "9c3d6ebe5de5315f680be5370f09632d3740ca308a513c04eaa2b13f884859cf"
+}

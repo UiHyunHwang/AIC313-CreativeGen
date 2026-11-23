@@ -1,0 +1,17 @@
+{
+  "spider_man": {
+    "n": 63,
+    "positive": 59,
+    "mean": 0.05714060886511727
+  },
+  "iron_man": {
+    "n": 63,
+    "positive": 62,
+    "mean": 0.042719135445261756
+  },
+  "captain_america": {
+    "n": 63,
+    "positive": 61,
+    "mean": 0.04963042717131357
+  }
+}

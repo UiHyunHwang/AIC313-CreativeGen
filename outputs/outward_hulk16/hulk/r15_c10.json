@@ -1,0 +1,10 @@
+{
+  "index": 233,
+  "file": "hulk/r15_c10.safetensors",
+  "seed": 9365233,
+  "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+  "scene": true,
+  "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+  "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+  "sha256": "c5bcf161dcb218e3fdb14ba9a231c9c62489c5293f0afb5a4b017c611bc8e7aa"
+}

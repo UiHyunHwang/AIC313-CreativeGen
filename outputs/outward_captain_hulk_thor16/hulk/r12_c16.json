@@ -1,0 +1,10 @@
+{
+  "index": 191,
+  "file": "hulk/r12_c16.safetensors",
+  "seed": 9494191,
+  "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+  "scene": true,
+  "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+  "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+  "sha256": "66d7b1f515a6cafc0c93fe599dddfa5cac0cb38ac9b1272cafd8e6ba03be4116"
+}

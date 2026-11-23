@@ -1,0 +1,10 @@
+{
+  "index": 20,
+  "seed": 9131020,
+  "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+  "file": "iron_man/r02_c05.png",
+  "sha256": "0cf6932668d92021979949f7c676552d7102f4e31890aaa3c62d9dd318361169",
+  "active": true,
+  "parent": "2bb3220cf2507030c8d37517eea1ca53db19d52090192ae87e83ff3f2e05fdf8",
+  "generator": "2e9ea06d3d317df3eba7d090d5b4644db0732cfd05993b8419567a4357305d86"
+}

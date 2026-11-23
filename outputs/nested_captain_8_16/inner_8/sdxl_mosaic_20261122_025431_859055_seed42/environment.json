@@ -1,0 +1,43 @@
+{
+  "python": "3.11.16",
+  "platform": "Linux-6.8.0-44-generic-x86_64-with-glibc2.39",
+  "packages": {
+    "torch": "2.6.0+cu124",
+    "diffusers": "0.39.0",
+    "transformers": "4.57.6",
+    "accelerate": "1.15.0",
+    "huggingface-hub": "0.36.2",
+    "safetensors": "0.8.0",
+    "numpy": "2.4.6",
+    "Pillow": "13.0.0",
+    "tokenizers": "0.22.2",
+    "ftfy": null,
+    "regex": "2026.11.9"
+  },
+  "device": "cuda:0",
+  "torch_cuda": "12.4",
+  "cudnn": 90100,
+  "deterministic_algorithms": true,
+  "cublas_workspace_config": ":4096:8",
+  "allow_tf32": false,
+  "attention_processors": [
+    "AttnProcessor2_0"
+  ],
+  "vae_dtype": "torch.float32",
+  "vae_tiling": true,
+  "gpu_memory_limit_gib": 8.0,
+  "min_free_gpu_gib": 3.0,
+  "gpu": {
+    "name": "GRID A100D-20C",
+    "total_memory_gib": 19.9959716796875,
+    "compute_capability": [
+      8,
+      0
+    ]
+  },
+  "sdp_backends": {
+    "flash": true,
+    "memory_efficient": true,
+    "math": true
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "status": "generating",
+  "started_at_utc": "2026-11-22T02:54:31.859191+00:00",
+  "replay_config": "/root/workspace/creativegen/PhotoQuilt/outputs/nested_captain_8_16/inner_8/recipe.json",
+  "source_sha256": {
+    "sdxl/__init__.py": "39bf9bdf2cacc8a031961190a0a02331e1bc7c7812f1457958ebf9d09964322e",
+    "sdxl/__main__.py": "aaa167f09ab487ca17c2e5e19edc9142e477ed4e336ff6112582170bced1feda",
+    "sdxl/config.py": "a9b347524936091c97609f6365c8d6e6e1146d6e5cda9cf2138e8a01bbe52c3c",
+    "sdxl/decode.py": "11a640383c74008a2a1feff5d2f8052a294d878bcc9bd91c3f48b834106803c1",
+    "sdxl/memory_guard.py": "706c348ffd068023a1f10ab572064909541777765801e9d57c742c22b44a8c39",
+    "sdxl/run_sdxl_mosaic.py": "68e9b98aa2e494000512373537f35d3dff47fa357895213f66ec91129dd78027",
+    "sdxl/tiling.py": "0e6913097722cd8fbfe38eeca8defded880d670aff15197e9c8f9c97fde18090",
+    "sdxl/README.md": "af403f5cfc498eaca2a23f07e7993a0435ce90310600c1201a9314deb3ff89e9",
+    "requirements-sdxl.txt": "d35fd9b156768e930a4932f1b659a860c9418f3a34eddc36389f09f6be7e2037",
+    "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  "git": {
+    "head": "60a1b1a3b95f00f47d2c5a82caa9c5976c693194",
+    "status": "M README.md\n?? requirements-sdxl.txt\n?? sdxl/\n?? tests/"
+  },
+  "samples_generated": {
+    "targets": 0,
+    "mosaics": 0
+  },
+  "outputs": {
+    "target.png": {
+      "sha256": "cf8fe808d2bd7d6fe46fbc26a06b0d022e0a184c8c5e617f2c63d0ff0ff6f5d2"
+    }
+  },
+  "references": {
+    "method": "https://arxiv.org/abs/2606.30968v2",
+    "upstream_code": "https://github.com/KooroshRH/PhotoQuilt",
+    "sdxl": "https://arxiv.org/abs/2307.01952",
+    "model": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
+    "ddim": "https://arxiv.org/abs/2010.02502",
+    "diffusers": "https://github.com/huggingface/diffusers"
+  },
+  "derived": {
+    "target_height": 1024,
+    "target_width": 1024,
+    "tile_rows": 8,
+    "tile_columns": 8,
+    "strength_step_fraction": 0.9230769230769231,
+    "ddim_eta": 0.0,
+    "overlap_pixels": 0,
+    "rng_device": "cpu",
+    "scheduler_class": "DDIMScheduler",
+    "decode_mode": "cpu-tiles",
+    "tail_offload": "model",
+    "tail_serial_cfg": true,
+    "parent_tile_source": {
+      "run": "outputs/ironman_spider_16x16_20261119_064518/sdxl_mosaic_20261119_064525_817477_seed42",
+      "sha256": "0ad25b9ddf4b3ba6fbc2369c2f15aa01b56a2e9833182706a240927f12346794",
+      "row": 15,
+      "column": 14
+    },
+    "tile_initialization": "renoised_target",
+    "tile_start_timestep": 836,
+    "injection_index": 1,
+    "injection_timestep": 836,
+    "full_timesteps": [
+      912,
+      836,
+      760,
+      684,
+      608,
+      532,
+      456,
+      380,
+      304,
+      228,
+      152,
+      76,
+      0
+    ]
+  },
+  "timings_seconds": {
+    "parent_tile_load": 0.053710770793259144
+  }
+}

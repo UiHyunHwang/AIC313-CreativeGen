@@ -1,0 +1,12 @@
+{
+  "index": 129,
+  "prompt": "Captain America in uniform, cinematic still",
+  "steps": 12,
+  "seed": 4001292,
+  "file": "candidates/p0_n12_i129_s4001292",
+  "clip": -0.03678615391254425,
+  "variety": -0.060629963874816895,
+  "rgb_mae": 0.06658497452735901,
+  "score": -0.06202505379915237,
+  "contrast": "a tiny distant figure in a large empty scene"
+}

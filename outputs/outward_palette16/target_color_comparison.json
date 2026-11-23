@@ -1,0 +1,30 @@
+{
+  "previous": {
+    "spider_man": {
+      "prior_tile_palette": 0.013961467891931534,
+      "best_target_patch_16": 0.03017517924308777
+    },
+    "iron_man": {
+      "prior_tile_palette": 0.022742029279470444,
+      "best_target_patch_16": 0.05727133899927139
+    },
+    "captain_america": {
+      "prior_tile_palette": 0.010852992534637451,
+      "best_target_patch_16": 0.06871794909238815
+    }
+  },
+  "current": {
+    "spider_man": {
+      "prior_tile_palette": 0.013961467891931534,
+      "best_target_patch_16": 0.039236098527908325
+    },
+    "iron_man": {
+      "prior_tile_palette": 0.03989540785551071,
+      "best_target_patch_16": 0.05130656063556671
+    },
+    "captain_america": {
+      "prior_tile_palette": 0.042597584426403046,
+      "best_target_patch_16": 0.05751144513487816
+    }
+  }
+}

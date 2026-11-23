@@ -1,0 +1,40 @@
+{
+  "raw_board": {
+    "baseline": {
+      "highlight": 0.8344026874279122,
+      "luma64_mae": 0.0573373410692402
+    },
+    "first": {
+      "highlight": 0.6797890657439447,
+      "luma64_mae": 0.06230980660232843
+    },
+    "candidate": {
+      "highlight": 0.8200028143021915,
+      "luma64_mae": 0.05636489028033088
+    }
+  },
+  "checks": {
+    "highlight": true,
+    "luma64": true
+  },
+  "active_tiles": 23,
+  "highlight_cells": 68,
+  "rendered_board": {
+    "baseline": {
+      "highlight": 0.8348805420991925,
+      "luma64_mae": 0.05822802734375
+    },
+    "first": {
+      "highlight": 0.6803779584775086,
+      "luma64_mae": 0.06308046492034314
+    },
+    "candidate": {
+      "highlight": 0.8206330219146479,
+      "luma64_mae": 0.05724080690870098
+    }
+  },
+  "rendered_checks": {
+    "highlight": true,
+    "luma64": true
+  }
+}

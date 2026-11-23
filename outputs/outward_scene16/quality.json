@@ -1,0 +1,43 @@
+{
+  "model": "openai/clip-vit-base-patch32",
+  "revision": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+  "display": 44,
+  "stats": {
+    "spider_man": {
+      "prior": {
+        "n": 63,
+        "positive": 59,
+        "mean": 0.05714060886511727
+      },
+      "current": {
+        "n": 255,
+        "positive": 243,
+        "mean": 0.0528952827056249
+      }
+    },
+    "iron_man": {
+      "prior": {
+        "n": 63,
+        "positive": 62,
+        "mean": 0.042719135445261756
+      },
+      "current": {
+        "n": 255,
+        "positive": 222,
+        "mean": 0.03495552656697292
+      }
+    },
+    "captain_america": {
+      "prior": {
+        "n": 63,
+        "positive": 61,
+        "mean": 0.04963042717131357
+      },
+      "current": {
+        "n": 255,
+        "positive": 248,
+        "mean": 0.053437287959398005
+      }
+    }
+  }
+}

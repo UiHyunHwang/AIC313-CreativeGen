@@ -1,0 +1,7 @@
+{
+  "global_prompt_author": "Codex one-sentence prompt, at user request",
+  "tile_prompt_author": "User-provided verbatim",
+  "global_prompt": "A front-facing portrait of Iron Man fills the frame with a bold red-and-gold helmet, bright white eyes, and a plain dark background.",
+  "tile_prompt": "spider man",
+  "preview_operation": "Pillow LANCZOS resize, tile contact sheet, and JPEG encoding"
+}

@@ -1,0 +1,10 @@
+{
+  "index": 128,
+  "seed": 9132128,
+  "prompt": "Iron Man in an action pose, crimson reflected light",
+  "file": "captain_america/r09_c01.png",
+  "sha256": "70576af806d1fe904a273bb00c8eea4f740fa8ddddae969dc565ef19d8d84e01",
+  "active": false,
+  "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+  "generator": "2e9ea06d3d317df3eba7d090d5b4644db0732cfd05993b8419567a4357305d86"
+}

@@ -1,0 +1,18 @@
+{
+  "parent": "outputs/ironman_spider_16x16_20261119_064518/sdxl_mosaic_20261119_064525_817477_seed42",
+  "parent_config_sha256": "7a219fb0671f5d3d792f817e24a6ccbcef7a7cf82a2c71abe4de6a3e11e5bb12",
+  "parent_selection": "../../selection.json",
+  "parent_candidates": 256,
+  "parent_tile": "r015_c014",
+  "inner_prompt": "captain america",
+  "inner_tile_count": 256,
+  "outer_prompt_provenance": {
+    "global_prompt_author": "Codex one-sentence prompt, at user request",
+    "tile_prompt_author": "User-provided verbatim",
+    "global_prompt": "A front-facing portrait of Iron Man fills the frame with a bold red-and-gold helmet, bright white eyes, and a plain dark background.",
+    "tile_prompt": "spider man",
+    "preview_operation": "Pillow LANCZOS resize, tile contact sheet, and JPEG encoding"
+  },
+  "inner_example": "r008_c012",
+  "nested_previews": "The chosen parent cell displays the reduced child mosaic at all zoom levels. Preview and zoom files are classical resampling of the generated layers."
+}

@@ -1,0 +1,105 @@
+{
+  "grid": 16,
+  "generated_native_leaves": 512,
+  "candidates": 4,
+  "hero_order": [
+    "spider_man",
+    "iron_man",
+    "captain_america",
+    "thor",
+    "hulk",
+    "spider_man"
+  ],
+  "preservation": {
+    "iron_man": {
+      "identical_ordinary_native_tiles": 255,
+      "identical_overview_outside_link": true,
+      "old_slot_retained": true
+    },
+    "captain_america": {
+      "identical_ordinary_native_tiles": 255,
+      "identical_overview_outside_link": true,
+      "old_slot_retained": true
+    },
+    "thor": {
+      "identical_ordinary_native_tiles": 255,
+      "identical_overview_outside_link": true,
+      "old_slot_retained": true
+    }
+  },
+  "encoded_holds_outside_link": {
+    "iron_man": {
+      "mean_abs_8bit": 0.22497974396370118,
+      "identical_fraction": 0.9756866796305299
+    },
+    "captain_america": {
+      "mean_abs_8bit": 0.06056352292983309,
+      "identical_fraction": 0.9943586938907795
+    },
+    "thor": {
+      "mean_abs_8bit": 0.0,
+      "identical_fraction": 1.0
+    }
+  },
+  "green_rgb_mae_8bit": {
+    "pixels": 89596,
+    "old": 12.74312097266247,
+    "new": 6.440804649017069
+  },
+  "clip": {
+    "hulk": {
+      "count": 255,
+      "positive": 255,
+      "mean": 0.07599444360125299
+    },
+    "thor": {
+      "count": 255,
+      "positive": 254,
+      "mean": 0.061629681318413974
+    }
+  },
+  "clip_model": "openai/clip-vit-base-patch32",
+  "clip_revision": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+  "gif": {
+    "order": [
+      "spider_man",
+      "iron_man",
+      "captain_america",
+      "thor",
+      "hulk",
+      "spider_man"
+    ],
+    "camera": "outward",
+    "width_per_leg": [
+      0.0625,
+      1.0
+    ],
+    "frames": 449,
+    "duration_ms": 50020,
+    "holds": [
+      [
+        0,
+        5500
+      ],
+      [
+        10000,
+        5500
+      ],
+      [
+        20000,
+        5500
+      ],
+      [
+        30000,
+        5500
+      ],
+      [
+        40000,
+        5500
+      ]
+    ],
+    "first_last_identical": true,
+    "gif_sha256": "55ffec0e6778be41906347a04e13d9fc3aedf18b4ae8c5fe34ccc95ad39461c7"
+  },
+  "peak_generation_gib": 11.14453125
+}

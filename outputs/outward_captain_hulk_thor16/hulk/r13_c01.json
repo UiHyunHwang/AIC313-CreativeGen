@@ -1,0 +1,10 @@
+{
+  "index": 192,
+  "file": "hulk/r13_c01.safetensors",
+  "seed": 9494192,
+  "prompt": "Captain America holding his shield, warm copper lighting",
+  "scene": false,
+  "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+  "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+  "sha256": "7d43a017e7a2362bdc891c52e25b02941fe5d873febba7daa0e5c7f97744fae4"
+}

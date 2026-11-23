@@ -1,0 +1,12 @@
+{
+  "index": 210,
+  "prompt": "Iron Man, close-up portrait of his red and gold helmet with glowing white eyes",
+  "steps": 12,
+  "seed": 43,
+  "file": "iron/samples/p1_n12_i210_s43",
+  "clip": 0.1075323149561882,
+  "full_clip": 0.12849631905555725,
+  "small_clip": 0.08656831085681915,
+  "rgb_mae": 0.05318627133965492,
+  "score": 0.09689506068825722
+}

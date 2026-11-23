@@ -1,0 +1,308 @@
+{
+  "grid": 16,
+  "edges": [
+    {
+      "outer": "spider_man",
+      "inner": "hulk",
+      "row": 2,
+      "column": 1,
+      "border": 0.06756222248077393,
+      "target_pattern": 0.06373170018196106,
+      "child_sha": "dae84ef0f32f547663edae15ba680dfa43371b9c4237a70f8f9e8716c9c7cb09"
+    },
+    {
+      "outer": "iron_man",
+      "inner": "spider_man",
+      "row": 2,
+      "column": 16,
+      "border": 0.07756613691647847,
+      "target_pattern": 0.061568912118673325,
+      "child_sha": "331aa04060ad0ade09e201183f3154d2bca949f10793c4fa57cd1ef0719b6fa0"
+    },
+    {
+      "outer": "captain_america",
+      "inner": "iron_man",
+      "row": 13,
+      "column": 15,
+      "border": 0.06419077888131142,
+      "target_pattern": 0.06791222840547562,
+      "child_sha": "500f55796ace969e52af85988b3973538b7d32f7f70dfd9e7c81de3024cbe50d"
+    },
+    {
+      "outer": "thor",
+      "inner": "captain_america",
+      "row": 2,
+      "column": 3,
+      "border": 0.07148514688014984,
+      "target_pattern": 0.04633048176765442,
+      "child_sha": "711171e09cb5fa712236f292c30967b30acffb54d05ef238e39dae268eb568e0"
+    },
+    {
+      "outer": "hulk",
+      "inner": "thor",
+      "row": 4,
+      "column": 16,
+      "border": 0.06198981155951818,
+      "target_pattern": 0.06066963076591492,
+      "child_sha": "cbfe0f39c19be902acab32a755a3290a69410a1a01755b26e5f0532af7369fe5"
+    }
+  ],
+  "preservation": {
+    "iron_man": {
+      "identical_ordinary_native_tiles": 255,
+      "identical_overview_outside_link": true,
+      "old_slot_retained": true
+    },
+    "captain_america": {
+      "identical_ordinary_native_tiles": 255,
+      "identical_overview_outside_link": true,
+      "old_slot_retained": true
+    },
+    "thor": {
+      "identical_ordinary_native_tiles": 255,
+      "identical_overview_outside_link": true,
+      "old_slot_retained": true
+    }
+  },
+  "gif": {
+    "order": [
+      "spider_man",
+      "iron_man",
+      "captain_america",
+      "thor",
+      "hulk",
+      "spider_man"
+    ],
+    "camera": "outward",
+    "width_per_leg": [
+      0.0625,
+      1.0
+    ],
+    "frames": 449,
+    "duration_ms": 50020,
+    "holds": [
+      [
+        0,
+        5500
+      ],
+      [
+        10000,
+        5500
+      ],
+      [
+        20000,
+        5500
+      ],
+      [
+        30000,
+        5500
+      ],
+      [
+        40000,
+        5500
+      ]
+    ],
+    "first_last_identical": true,
+    "gif_sha256": "55ffec0e6778be41906347a04e13d9fc3aedf18b4ae8c5fe34ccc95ad39461c7"
+  },
+  "palette": {
+    "replaced_indices": [
+      93,
+      153,
+      205,
+      111,
+      217,
+      124,
+      171,
+      173,
+      127,
+      112,
+      186,
+      52,
+      108,
+      64,
+      220,
+      61,
+      175,
+      204,
+      94,
+      202,
+      177,
+      174,
+      168,
+      216,
+      212,
+      190,
+      58,
+      132,
+      181,
+      114,
+      192,
+      225
+    ],
+    "added_rgb": [
+      [
+        207,
+        215,
+        168
+      ],
+      [
+        167,
+        190,
+        127
+      ],
+      [
+        162,
+        165,
+        117
+      ],
+      [
+        139,
+        160,
+        106
+      ],
+      [
+        140,
+        146,
+        100
+      ],
+      [
+        133,
+        134,
+        89
+      ],
+      [
+        123,
+        134,
+        89
+      ],
+      [
+        107,
+        133,
+        83
+      ],
+      [
+        114,
+        120,
+        93
+      ],
+      [
+        114,
+        119,
+        65
+      ],
+      [
+        107,
+        108,
+        82
+      ],
+      [
+        107,
+        107,
+        58
+      ],
+      [
+        98,
+        112,
+        75
+      ],
+      [
+        97,
+        102,
+        69
+      ],
+      [
+        91,
+        105,
+        71
+      ],
+      [
+        80,
+        104,
+        69
+      ],
+      [
+        88,
+        94,
+        72
+      ],
+      [
+        89,
+        93,
+        54
+      ],
+      [
+        85,
+        87,
+        59
+      ],
+      [
+        81,
+        80,
+        55
+      ],
+      [
+        74,
+        87,
+        60
+      ],
+      [
+        73,
+        78,
+        54
+      ],
+      [
+        67,
+        81,
+        56
+      ],
+      [
+        58,
+        80,
+        53
+      ],
+      [
+        68,
+        71,
+        49
+      ],
+      [
+        66,
+        65,
+        45
+      ],
+      [
+        59,
+        67,
+        46
+      ],
+      [
+        50,
+        66,
+        44
+      ],
+      [
+        57,
+        58,
+        40
+      ],
+      [
+        45,
+        57,
+        38
+      ],
+      [
+        44,
+        51,
+        33
+      ],
+      [
+        36,
+        41,
+        25
+      ]
+    ],
+    "sampled_green_pixels": 109923
+  },
+  "peak_render_reserved_gib": 5.78125
+}

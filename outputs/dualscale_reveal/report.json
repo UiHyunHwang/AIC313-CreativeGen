@@ -1,0 +1,16 @@
+{
+  "board_size": [
+    8192,
+    8192
+  ],
+  "selected_row": 3,
+  "selected_column": 1,
+  "selection_rule": "Maximum of the weaker of native and 44-pixel Spider-Man CLIP margins, all 64 cells",
+  "frames": 201,
+  "duration_ms": 20520,
+  "hold_ms": 5500,
+  "loop": true,
+  "verified_first_last_identical": true,
+  "gif_sha256": "59fd2df08824333c85137bbc5c659ecd67214feccac278fb3d7a5fab2e77bd1f",
+  "board_sha256": "f80371012bbc68b07443c40d8337b9e950794d9563d96f0e018f9fcf25e588a9"
+}

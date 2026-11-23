@@ -1,0 +1,47 @@
+{
+  "pilot_positions_zero_based": {
+    "background": [
+      0,
+      0
+    ],
+    "red_forehead": [
+      1,
+      4
+    ],
+    "gold_faceplate": [
+      4,
+      3
+    ],
+    "bright_chest_light": [
+      7,
+      4
+    ]
+  },
+  "pilot_tile_generations": 16,
+  "tail_updates_per_tile": 12,
+  "pilot_target_seed": 42,
+  "tile_noise_seed": 43,
+  "variants": [
+    {
+      "start_t": 550,
+      "initialization": "renoised target"
+    },
+    {
+      "start_t": 836,
+      "initialization": "renoised target"
+    },
+    {
+      "start_t": 913,
+      "initialization": "pure noise with 2x2 target guidance",
+      "guidance_strength": 0.25
+    },
+    {
+      "start_t": 913,
+      "initialization": "pure noise with 2x2 target guidance",
+      "guidance_strength": 0.6
+    }
+  ],
+  "selection": "The t=836 run showed recognizable red-and-blue Spider-Man figures at three positions, and a partially occluded figure on the gold tile. Both palette settings produced a spider in the forehead tile. The final 8x8 run uses the t=836 setting.",
+  "global_prompt_author": "Codex, in response to user's request for one sentence",
+  "tile_prompt_author": "User, verbatim"
+}

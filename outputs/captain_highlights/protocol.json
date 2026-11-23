@@ -1,0 +1,45 @@
+{
+  "generator_sha256": "4ed9697411a93e2f4dee3060e61faf3db30ad74133719f1a75eb04fdec4fd2d4",
+  "board": "spider_man",
+  "leaves": "captain_america",
+  "source_sha256": "197cb30b6b3dc5ad0d3d5b1a814070baf25e900bed07d04b68e036c6a0a30c7d",
+  "source_latent_sha256": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+  "grid": 8,
+  "native_side": 1024,
+  "steps": 12,
+  "start": 836,
+  "cfg_early": 6.5,
+  "cfg_late": 5.0,
+  "initial_pool": 2,
+  "late_pool": 4,
+  "late_weights_zero_based": {
+    "5": 0.17,
+    "6": 0.22,
+    "7": 0.25,
+    "8": 0.22,
+    "9": 0.15
+  },
+  "gate": {
+    "min_gain88": 0.005,
+    "min_win_fraction": 0.5,
+    "max_native_loss": 0.005,
+    "max_luma_increase": 0.015,
+    "max_rgb_increase": 0.015
+  },
+  "excluded_portal": 22,
+  "sdxl_model": "stabilityai/stable-diffusion-xl-base-1.0",
+  "sdxl_revision": "462165984030d82259a11f4367a4eed129e94a7b",
+  "base_schedule": "74aeee1bf6fa77791e3f1166b839b1b7d7e95847458de9a06f388da42895d71a",
+  "mask": {
+    "pool": 16,
+    "onset": 0.63,
+    "ramp": 0.16,
+    "dilation": 3,
+    "native_coarse": 16,
+    "multiplier": 1.5
+  },
+  "secondary_gate": {
+    "min_highlight_recovery": 0.5,
+    "max_raw_board_luma64_extra": 0.002
+  }
+}

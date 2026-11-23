@@ -1,0 +1,73 @@
+{
+  "n": 63,
+  "metrics": {
+    "margin88": {
+      "old": 0.06565940853149171,
+      "new": 0.0795703993903266,
+      "delta": 0.013910990858834887,
+      "increases": 42,
+      "old_negative": 3,
+      "new_negative": 0,
+      "paired_bootstrap_95": [
+        0.006443668204167532,
+        0.021588362694259674
+      ]
+    },
+    "native": {
+      "old": 0.07215424213144514,
+      "new": 0.07925406902555436,
+      "delta": 0.007099826894109211,
+      "increases": 36,
+      "old_negative": 2,
+      "new_negative": 0,
+      "paired_bootstrap_95": [
+        0.0013005092444400939,
+        0.01359285188336221
+      ]
+    },
+    "margin44": {
+      "old": 0.043696805598243835,
+      "new": 0.061562714359116935,
+      "delta": 0.017865908760873097,
+      "increases": 42,
+      "old_negative": 10,
+      "new_negative": 3,
+      "paired_bootstrap_95": [
+        0.009116014731781823,
+        0.026856726680010084
+      ]
+    },
+    "luma": {
+      "old": 0.042356087458954146,
+      "new": 0.03467240580874865,
+      "delta": -0.0076836816502055,
+      "increases": 13,
+      "old_negative": 0,
+      "new_negative": 0,
+      "paired_bootstrap_95": [
+        -0.01176119811241164,
+        -0.0031548820891788643
+      ]
+    },
+    "rgb": {
+      "old": 0.04582425614907628,
+      "new": 0.03688531052616854,
+      "delta": -0.008938945622907745,
+      "increases": 8,
+      "old_negative": 0,
+      "new_negative": 0,
+      "paired_bootstrap_95": [
+        -0.012542794535439166,
+        -0.004899333694594957
+      ]
+    }
+  },
+  "checks": {
+    "gain88": true,
+    "majority": true,
+    "native": true,
+    "luma": true,
+    "rgb": true
+  },
+  "passed": true
+}

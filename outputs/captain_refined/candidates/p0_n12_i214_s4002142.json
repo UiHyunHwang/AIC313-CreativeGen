@@ -1,0 +1,12 @@
+{
+  "index": 214,
+  "prompt": "Captain America in uniform, cinematic still",
+  "steps": 12,
+  "seed": 4002142,
+  "file": "candidates/p0_n12_i214_s4002142",
+  "clip": 0.045509062707424164,
+  "variety": 0.05470925569534302,
+  "rgb_mae": 0.08504902571439743,
+  "score": 0.0330993540585041,
+  "contrast": "a shield, star or flag alone without a person"
+}

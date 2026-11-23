@@ -1,0 +1,89 @@
+{
+  "grid": 16,
+  "edges": [
+    {
+      "outer": "spider_man",
+      "inner": "thor",
+      "row": 12,
+      "column": 2,
+      "border": 0.06958572752773762,
+      "target_pattern": 0.03985026851296425,
+      "child_sha": "cbfe0f39c19be902acab32a755a3290a69410a1a01755b26e5f0532af7369fe5"
+    },
+    {
+      "outer": "iron_man",
+      "inner": "spider_man",
+      "row": 2,
+      "column": 16,
+      "border": 0.07569133614500363,
+      "target_pattern": 0.06337233632802963,
+      "child_sha": "6db0381e7f6a904a9facec02704a00e83c6941f3bc3167d392bafed7226741ec"
+    },
+    {
+      "outer": "captain_america",
+      "inner": "iron_man",
+      "row": 13,
+      "column": 15,
+      "border": 0.06428294815123081,
+      "target_pattern": 0.06791222840547562,
+      "child_sha": "5af6ba5c3386ae9133d800447e602c324b2bfa140ee380d1eb9ec1d4c3349c66"
+    },
+    {
+      "outer": "thor",
+      "inner": "captain_america",
+      "row": 2,
+      "column": 3,
+      "border": 0.07148514688014984,
+      "target_pattern": 0.04633048176765442,
+      "child_sha": "dee7018d65bf3e4cd624607358bddec907b0af23012ba0d58b1946e17232f883"
+    }
+  ],
+  "preservation": {
+    "iron_man": {
+      "identical_ordinary_native_tiles": 255,
+      "identical_overview_outside_link": true,
+      "old_slot_retained": true
+    },
+    "captain_america": {
+      "identical_ordinary_native_tiles": 255,
+      "identical_overview_outside_link": true,
+      "old_slot_retained": true
+    }
+  },
+  "gif": {
+    "order": [
+      "spider_man",
+      "iron_man",
+      "captain_america",
+      "thor",
+      "spider_man"
+    ],
+    "camera": "outward",
+    "width_per_leg": [
+      0.0625,
+      1.0
+    ],
+    "frames": 360,
+    "duration_ms": 40020,
+    "holds": [
+      [
+        0,
+        5500
+      ],
+      [
+        10000,
+        5500
+      ],
+      [
+        20000,
+        5500
+      ],
+      [
+        30000,
+        5500
+      ]
+    ],
+    "first_last_identical": true,
+    "gif_sha256": "4bf73ba832b44cd15a9d1a1ce39079d613dedc99a0f177e3c9780bb3e6909537"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "index": 12,
+  "seed": 9131012,
+  "prompt": "Spider-Man in his red and blue suit, leaning against a railing on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+  "file": "iron_man/r01_c13.png",
+  "sha256": "8049107ff12fe3aa3295904c7c5a57e4da4d675513f8ef0ca50f6e18a9e31b88",
+  "active": true,
+  "parent": "2bb3220cf2507030c8d37517eea1ca53db19d52090192ae87e83ff3f2e05fdf8",
+  "generator": "2e9ea06d3d317df3eba7d090d5b4644db0732cfd05993b8419567a4357305d86"
+}

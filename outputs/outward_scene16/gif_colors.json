@@ -1,0 +1,48 @@
+{
+  "previous": {
+    "spider_man": {
+      "border": 0.10590565204620361,
+      "border_chroma": 0.02384059503674507,
+      "border_luma": 0.17768482863903046,
+      "pattern": 0.05005726218223572,
+      "pattern_chroma": 0.015391825698316097
+    },
+    "iron_man": {
+      "border": 0.09805062413215637,
+      "border_chroma": 0.09860919415950775,
+      "border_luma": 0.07772240042686462,
+      "pattern": 0.07084088772535324,
+      "pattern_chroma": 0.06459229439496994
+    },
+    "captain_america": {
+      "border": 0.08364015817642212,
+      "border_chroma": 0.04397384822368622,
+      "border_luma": 0.11751362681388855,
+      "pattern": 0.08274644613265991,
+      "pattern_chroma": 0.056365299969911575
+    }
+  },
+  "current": {
+    "spider_man": {
+      "border": 0.05852842330932617,
+      "border_chroma": 0.04599747061729431,
+      "border_luma": 0.0625649020075798,
+      "pattern": 0.042202264070510864,
+      "pattern_chroma": 0.035010889172554016
+    },
+    "iron_man": {
+      "border": 0.07040799409151077,
+      "border_chroma": 0.061766237020492554,
+      "border_luma": 0.07206709682941437,
+      "pattern": 0.06126290187239647,
+      "pattern_chroma": 0.058703746646642685
+    },
+    "captain_america": {
+      "border": 0.0658072829246521,
+      "border_chroma": 0.0369969978928566,
+      "border_luma": 0.09265080839395523,
+      "pattern": 0.06773875653743744,
+      "pattern_chroma": 0.04563227295875549
+    }
+  }
+}

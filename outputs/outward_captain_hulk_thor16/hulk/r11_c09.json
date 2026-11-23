@@ -1,0 +1,10 @@
+{
+  "index": 168,
+  "file": "hulk/r11_c09.safetensors",
+  "seed": 9494168,
+  "prompt": "Captain America running with his shield, muted neutral lighting",
+  "scene": false,
+  "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+  "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+  "sha256": "cd11d347637cb45160da2cd3373a891f286a5a2ec2eaf8aeecb7b9c34ccac98e"
+}

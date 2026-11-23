@@ -1,0 +1,8 @@
+{
+  "status": "monitoring_finished",
+  "pid": 1936632,
+  "min_free_gpu_gib": 3.0,
+  "samples": 318,
+  "last_free_gib": 9.384765625,
+  "minimum_observed_free_gib": 8.822265625
+}

@@ -1,0 +1,429 @@
+{
+  "gif": {
+    "file": "ironman_cycle.gif",
+    "sha256": "785dcefba61ac0444298ccce168875b6de7af3019ea4c17d273215618cb2abfd",
+    "width": 704,
+    "frames": 214,
+    "duration_ms": 14850,
+    "loop": 0,
+    "first_last_rgb_identical": true,
+    "stop_rgb_mae_255": {
+      "0": 5.853944778442383,
+      "1": 6.7605390548706055,
+      "2": 3.402672052383423,
+      "3": 5.853944778442383
+    }
+  },
+  "nodes": [
+    {
+      "node": "spider",
+      "linked_node": "captain",
+      "row_one_based": 5,
+      "column_one_based": 10,
+      "mosaic_sha256": "45507c6ad32d35c7216570be6dfe25d8c156149d82b304b8d44d96ca4ac9ae39",
+      "overview_sha256": "2f42d9a18abc65ca198e2523fe4c88a5f2e455c2a31638d8d72dcdcec276e448",
+      "outgoing_cell_pixel_sha256": "60c0abb74888b297139f650953e9545a48e41b137a026cf5ada711c3b6667c92",
+      "overview_pixel_sha256": "f1dc620d04d5f97bad5122249ad5f39ac14acada562a9f75f9d313bc4d3b3fd4"
+    },
+    {
+      "node": "captain",
+      "linked_node": "iron",
+      "row_one_based": 1,
+      "column_one_based": 1,
+      "mosaic_sha256": "59f0ee4344be45ec8920e8843401f9584357dc17b3cc6d9525cdf1b0d6f8d6c2",
+      "overview_sha256": "da207d2c4dd773d3e0440595d4aef01e74826254418a129d880b74b8dd227641",
+      "outgoing_cell_pixel_sha256": "6f71949e1d2ec9f6e9351732dc645cf6289e3b123ec694868e7ca4c9648eb290",
+      "overview_pixel_sha256": "60c0abb74888b297139f650953e9545a48e41b137a026cf5ada711c3b6667c92"
+    },
+    {
+      "node": "iron",
+      "linked_node": "spider",
+      "row_one_based": 14,
+      "column_one_based": 15,
+      "mosaic_sha256": "af745016ca186d2f1139cfb78c1df3c0a652a9e1ce07e574a166f43bb512bb6c",
+      "overview_sha256": "874a12c3013aa0d467780be7dbf29e7341268c1d990e5f9ba86446f982d214bf",
+      "outgoing_cell_pixel_sha256": "f1dc620d04d5f97bad5122249ad5f39ac14acada562a9f75f9d313bc4d3b3fd4",
+      "overview_pixel_sha256": "6f71949e1d2ec9f6e9351732dc645cf6289e3b123ec694868e7ca4c9648eb290"
+    }
+  ],
+  "thumbnail_iterations": 4,
+  "stats": {
+    "spider": {
+      "sample_count": 437,
+      "standalone_controls": 4,
+      "pilot": {
+        "indices": [
+          15,
+          19,
+          71,
+          254,
+          135,
+          44,
+          181,
+          244
+        ],
+        "groups": [
+          {
+            "prompt": "spider man",
+            "steps": 12,
+            "mean": 0.007998193427920342,
+            "q25": -0.004988154489547015,
+            "clip_mean": 0.01562891248613596,
+            "error_mean": 0.03815359529107809,
+            "samples": [
+              "spider/samples/p0_n12_i015_s43",
+              "spider/samples/p0_n12_i019_s43",
+              "spider/samples/p0_n12_i071_s43",
+              "spider/samples/p0_n12_i254_s43",
+              "spider/samples/p0_n12_i135_s43",
+              "spider/samples/p0_n12_i044_s43",
+              "spider/samples/p0_n12_i181_s43",
+              "spider/samples/p0_n12_i244_s43"
+            ]
+          },
+          {
+            "prompt": "spider man",
+            "steps": 20,
+            "mean": 0.0011518650688230984,
+            "q25": -0.007487695757299662,
+            "clip_mean": 0.008698842488229275,
+            "error_mean": 0.03773488709703088,
+            "samples": [
+              "spider/samples/p0_n20_i015_s43",
+              "spider/samples/p0_n20_i019_s43",
+              "spider/samples/p0_n20_i071_s43",
+              "spider/samples/p0_n20_i254_s43",
+              "spider/samples/p0_n20_i135_s43",
+              "spider/samples/p0_n20_i044_s43",
+              "spider/samples/p0_n20_i181_s43",
+              "spider/samples/p0_n20_i244_s43"
+            ]
+          },
+          {
+            "prompt": "Spider-Man, close-up portrait, red webbed mask and large white eyes",
+            "steps": 12,
+            "mean": 0.03442651629447937,
+            "q25": 0.01703023761510849,
+            "clip_mean": 0.04363199044018984,
+            "error_mean": 0.04602737072855234,
+            "samples": [
+              "spider/samples/p1_n12_i015_s43",
+              "spider/samples/p1_n12_i019_s43",
+              "spider/samples/p1_n12_i071_s43",
+              "spider/samples/p1_n12_i254_s43",
+              "spider/samples/p1_n12_i135_s43",
+              "spider/samples/p1_n12_i044_s43",
+              "spider/samples/p1_n12_i181_s43",
+              "spider/samples/p1_n12_i244_s43"
+            ]
+          },
+          {
+            "prompt": "Spider-Man, close-up portrait, red webbed mask and large white eyes",
+            "steps": 20,
+            "mean": 0.03668493367731571,
+            "q25": 0.02473802175372839,
+            "clip_mean": 0.04570045694708824,
+            "error_mean": 0.04507761634886265,
+            "samples": [
+              "spider/samples/p1_n20_i015_s43",
+              "spider/samples/p1_n20_i019_s43",
+              "spider/samples/p1_n20_i071_s43",
+              "spider/samples/p1_n20_i254_s43",
+              "spider/samples/p1_n20_i135_s43",
+              "spider/samples/p1_n20_i044_s43",
+              "spider/samples/p1_n20_i181_s43",
+              "spider/samples/p1_n20_i244_s43"
+            ]
+          }
+        ],
+        "best": {
+          "prompt": "Spider-Man, close-up portrait, red webbed mask and large white eyes",
+          "steps": 20,
+          "mean": 0.03668493367731571,
+          "q25": 0.02473802175372839,
+          "clip_mean": 0.04570045694708824,
+          "error_mean": 0.04507761634886265,
+          "samples": [
+            "spider/samples/p1_n20_i015_s43",
+            "spider/samples/p1_n20_i019_s43",
+            "spider/samples/p1_n20_i071_s43",
+            "spider/samples/p1_n20_i254_s43",
+            "spider/samples/p1_n20_i135_s43",
+            "spider/samples/p1_n20_i044_s43",
+            "spider/samples/p1_n20_i181_s43",
+            "spider/samples/p1_n20_i244_s43"
+          ]
+        },
+        "controls": [
+          {
+            "file": "control_42_0.png",
+            "seed": 42,
+            "prompt": "spider man",
+            "clip": 0.031801000237464905
+          },
+          {
+            "file": "control_42_1.png",
+            "seed": 42,
+            "prompt": "Spider-Man, close-up portrait, red webbed mask and large white eyes",
+            "clip": 0.06978747248649597
+          },
+          {
+            "file": "control_43_0.png",
+            "seed": 43,
+            "prompt": "spider man",
+            "clip": -0.009476140141487122
+          },
+          {
+            "file": "control_43_1.png",
+            "seed": 43,
+            "prompt": "Spider-Man, close-up portrait, red webbed mask and large white eyes",
+            "clip": 0.03169223666191101
+          }
+        ]
+      },
+      "unique_base_coordinates": 256,
+      "rerolls": 157,
+      "changed_by_selection": 64,
+      "metrics": {
+        "base": {
+          "score": {
+            "mean": 0.03503703987371409,
+            "q10": 0.002886300161480904
+          },
+          "clip": {
+            "mean": 0.04362344974651933,
+            "q10": 0.010999899357557297
+          },
+          "rgb_mae": {
+            "mean": 0.04293204936402617,
+            "q10": 0.027450979687273502
+          }
+        },
+        "tiles": {
+          "score": {
+            "mean": 0.044631741775083354,
+            "q10": 0.02875382490456104
+          },
+          "clip": {
+            "mean": 0.05330144669278525,
+            "q10": 0.038508713245391846
+          },
+          "rgb_mae": {
+            "mean": 0.04334852458850946,
+            "q10": 0.027736928313970566
+          }
+        }
+      },
+      "macro_rgb_mae_32_on_0_to_1": 0.03094235062599182
+    },
+    "captain": {
+      "sample_count": 447,
+      "standalone_controls": 4,
+      "pilot": {
+        "indices": [
+          219,
+          187,
+          165,
+          64,
+          169,
+          140,
+          60,
+          72
+        ],
+        "groups": [
+          {
+            "prompt": "captain america",
+            "steps": 12,
+            "mean": 0.016445877868682145,
+            "q25": -0.004728533327579498,
+            "clip_mean": 0.027704047970473766,
+            "error_mean": 0.0562908505089581,
+            "samples": [
+              "captain/samples/p0_n12_i219_s43",
+              "captain/samples/p0_n12_i187_s43",
+              "captain/samples/p0_n12_i165_s43",
+              "captain/samples/p0_n12_i064_s43",
+              "captain/samples/p0_n12_i169_s43",
+              "captain/samples/p0_n12_i140_s43",
+              "captain/samples/p0_n12_i060_s43",
+              "captain/samples/p0_n12_i072_s43"
+            ]
+          },
+          {
+            "prompt": "captain america",
+            "steps": 20,
+            "mean": 0.013997061271220444,
+            "q25": -0.005675536207854748,
+            "clip_mean": 0.02545947954058647,
+            "error_mean": 0.05731209134683013,
+            "samples": [
+              "captain/samples/p0_n20_i219_s43",
+              "captain/samples/p0_n20_i187_s43",
+              "captain/samples/p0_n20_i165_s43",
+              "captain/samples/p0_n20_i064_s43",
+              "captain/samples/p0_n20_i169_s43",
+              "captain/samples/p0_n20_i140_s43",
+              "captain/samples/p0_n20_i060_s43",
+              "captain/samples/p0_n20_i072_s43"
+            ]
+          },
+          {
+            "prompt": "Captain America, close-up portrait, blue helmet with a white A",
+            "steps": 12,
+            "mean": 0.027322735358029603,
+            "q25": 0.009457435086369514,
+            "clip_mean": 0.04112788196653128,
+            "error_mean": 0.06902573304250836,
+            "samples": [
+              "captain/samples/p1_n12_i219_s43",
+              "captain/samples/p1_n12_i187_s43",
+              "captain/samples/p1_n12_i165_s43",
+              "captain/samples/p1_n12_i064_s43",
+              "captain/samples/p1_n12_i169_s43",
+              "captain/samples/p1_n12_i140_s43",
+              "captain/samples/p1_n12_i060_s43",
+              "captain/samples/p1_n12_i072_s43"
+            ]
+          },
+          {
+            "prompt": "Captain America, close-up portrait, blue helmet with a white A",
+            "steps": 20,
+            "mean": 0.0240907228551805,
+            "q25": 0.006633067317306994,
+            "clip_mean": 0.037652814760804176,
+            "error_mean": 0.06781045952811837,
+            "samples": [
+              "captain/samples/p1_n20_i219_s43",
+              "captain/samples/p1_n20_i187_s43",
+              "captain/samples/p1_n20_i165_s43",
+              "captain/samples/p1_n20_i064_s43",
+              "captain/samples/p1_n20_i169_s43",
+              "captain/samples/p1_n20_i140_s43",
+              "captain/samples/p1_n20_i060_s43",
+              "captain/samples/p1_n20_i072_s43"
+            ]
+          }
+        ],
+        "best": {
+          "prompt": "Captain America, close-up portrait, blue helmet with a white A",
+          "steps": 12,
+          "mean": 0.027322735358029603,
+          "q25": 0.009457435086369514,
+          "clip_mean": 0.04112788196653128,
+          "error_mean": 0.06902573304250836,
+          "samples": [
+            "captain/samples/p1_n12_i219_s43",
+            "captain/samples/p1_n12_i187_s43",
+            "captain/samples/p1_n12_i165_s43",
+            "captain/samples/p1_n12_i064_s43",
+            "captain/samples/p1_n12_i169_s43",
+            "captain/samples/p1_n12_i140_s43",
+            "captain/samples/p1_n12_i060_s43",
+            "captain/samples/p1_n12_i072_s43"
+          ]
+        },
+        "controls": [
+          {
+            "file": "control_42_0.png",
+            "seed": 42,
+            "prompt": "captain america",
+            "clip": 0.01999933272600174
+          },
+          {
+            "file": "control_42_1.png",
+            "seed": 42,
+            "prompt": "Captain America, close-up portrait, blue helmet with a white A",
+            "clip": 0.05939313769340515
+          },
+          {
+            "file": "control_43_0.png",
+            "seed": 43,
+            "prompt": "captain america",
+            "clip": 0.04580298811197281
+          },
+          {
+            "file": "control_43_1.png",
+            "seed": 43,
+            "prompt": "Captain America, close-up portrait, blue helmet with a white A",
+            "clip": 0.06455911695957184
+          }
+        ]
+      },
+      "unique_base_coordinates": 256,
+      "rerolls": 167,
+      "changed_by_selection": 63,
+      "metrics": {
+        "base": {
+          "score": {
+            "mean": 0.020848057595139836,
+            "q10": -0.02306882701814175
+          },
+          "clip": {
+            "mean": 0.033769192290492356,
+            "q10": -0.008741073310375214
+          },
+          "rgb_mae": {
+            "mean": 0.0646056734767626,
+            "q10": 0.037459149956703186
+          }
+        },
+        "tiles": {
+          "score": {
+            "mean": 0.030648915041820143,
+            "q10": 0.005532089620828628
+          },
+          "clip": {
+            "mean": 0.04372100206092,
+            "q10": 0.01759721338748932
+          },
+          "rgb_mae": {
+            "mean": 0.06536043509549927,
+            "q10": 0.03819444589316845
+          }
+        }
+      },
+      "macro_rgb_mae_32_on_0_to_1": 0.059603504836559296
+    },
+    "iron": {
+      "sample_count": 255,
+      "standalone_controls": 0,
+      "pilot": {},
+      "unique_base_coordinates": 255,
+      "rerolls": 0,
+      "changed_by_selection": 0,
+      "metrics": {
+        "base": {
+          "score": {
+            "mean": 0.07644603842613744,
+            "q10": 0.05656160280108452
+          },
+          "clip": {
+            "mean": 0.084087714815841,
+            "q10": 0.06477014869451522
+          },
+          "rgb_mae": {
+            "mean": 0.03820838194851782,
+            "q10": 0.022826797142624856
+          }
+        },
+        "tiles": {
+          "score": {
+            "mean": 0.07644603842613744,
+            "q10": 0.05656160280108452
+          },
+          "clip": {
+            "mean": 0.084087714815841,
+            "q10": 0.06477014869451522
+          },
+          "rgb_mae": {
+            "mean": 0.03820838194851782,
+            "q10": 0.022826797142624856
+          }
+        }
+      },
+      "macro_rgb_mae_32_on_0_to_1": 0.0287237036973238
+    }
+  },
+  "total_generated_samples": 1148,
+  "count_note": "One opening bootstrap; independent tile candidates (pilot/final overlap deduplicated) and controls. Cyclic references and camera frames are not new SDXL samples."
+}

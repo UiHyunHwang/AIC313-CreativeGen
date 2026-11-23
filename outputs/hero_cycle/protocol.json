@@ -1,0 +1,67 @@
+{
+  "heroes": {
+    "spider": [
+      "spider man",
+      "Spider-Man, close-up portrait, red webbed mask and large white eyes",
+      [
+        "a close-up portrait of Spider-Man's red webbed mask and large white eyes",
+        "a large, clearly visible Spider-Man facing the viewer, his head and shoulders filling the picture"
+      ],
+      [
+        "a distant tiny superhero against a wide background",
+        "a spider insect or spiderweb without a person",
+        "an abstract blurry patch with no recognizable subject",
+        "a small full-body figure doing a stunt in a landscape"
+      ]
+    ],
+    "captain": [
+      "captain america",
+      "Captain America, close-up portrait, blue helmet with a white A",
+      [
+        "Captain America with his round star shield and a blue helmet",
+        "a clear portrait of Marvel superhero Captain America, red white and blue shield"
+      ],
+      [
+        "an abstract patch of texture",
+        "a tiny figure in an empty landscape",
+        "Spider-Man with a red webbed mask",
+        "a flag without a superhero"
+      ]
+    ],
+    "iron": [
+      "iron man",
+      "Iron Man, close-up portrait of his red and gold helmet with glowing white eyes",
+      [
+        "a close-up portrait of Iron Man wearing his red and gold metal helmet",
+        "Iron Man's faceplate with two glowing white eyes filling the frame"
+      ],
+      [
+        "an abstract patch of texture",
+        "a tiny figure in an empty landscape",
+        "a spiderweb",
+        "an empty room without a superhero"
+      ]
+    ]
+  },
+  "clip": [
+    "openai/clip-vit-base-patch32",
+    "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268"
+  ],
+  "score": "mean CLIP margin at native and 32px minus 0.2 times 4x4 RGB MAE (RGB in [0,1])",
+  "pilots": "eight luminance quantiles, two prompts x 12/20 updates at t=836; matched full-canvas noise seed 43",
+  "seeds": "weakest 64 by joint score: two additional seeds; third if below initial median",
+  "candidate_rule": "maximize joint score subject to base RGB error + 0.04 and nondecreasing CLIP",
+  "zoom_rule": "highest mean full/thumbnail CLIP score after rerolls; ties use smallest index",
+  "return_rule": "reserve one slot before Iron Man sampling by lowest 4x4 RGB error to opening mosaic preview",
+  "prompt_authorship": "Short Spider-Man and Captain America prompts from user. Global and portrait prompts brainstormed with Codex.",
+  "references": [
+    "https://arxiv.org/abs/2606.30968v2",
+    "https://github.com/KooroshRH/PhotoQuilt",
+    "https://arxiv.org/abs/2307.01952",
+    "https://arxiv.org/abs/2010.02502",
+    "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
+    "https://huggingface.co/openai/clip-vit-base-patch32",
+    "https://github.com/huggingface/diffusers",
+    "https://github.com/huggingface/transformers"
+  ]
+}

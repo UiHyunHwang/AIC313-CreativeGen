@@ -1,0 +1,2568 @@
+{
+  "subject": "hulk",
+  "leaf": "thor",
+  "target": "outward_hulk16/portraits/hulk_9363100.png",
+  "directory": "outward_hulk16",
+  "tiles": [
+    {
+      "index": 0,
+      "file": "hulk/r01_c01.safetensors",
+      "seed": 9365000,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "c0bff6fd85ac04a83e5ac27a491cfa05b6d72f2021ec943bdd45f4586cdfdb14"
+    },
+    {
+      "index": 1,
+      "file": "hulk/r01_c02.safetensors",
+      "seed": 9365001,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "70cec20893ca699897a9f189193015dc761f4a0f08300d29de6f88e14e915c72"
+    },
+    {
+      "index": 2,
+      "file": "hulk/r01_c03.safetensors",
+      "seed": 9365002,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, cool steel-blue light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "90eadc0d932e4d4b176aea3b56b70b3e61bf007b9ba4d4b0e922c94510e7a5b3"
+    },
+    {
+      "index": 3,
+      "file": "hulk/r01_c04.safetensors",
+      "seed": 9365003,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, cool steel-blue light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "ceb4e5935cf15f222d62185bd54b94814d27d0524c99baae4fc1c9f7886d3cf5"
+    },
+    {
+      "index": 4,
+      "file": "hulk/r01_c05.safetensors",
+      "seed": 9365004,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2a8d5dbbb198d596f04855be12b92c77ac26eed23597fd2f3fd971d7afe222af"
+    },
+    {
+      "index": 5,
+      "file": "hulk/r01_c06.safetensors",
+      "seed": 9365005,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "79ed31de7b4a8bac190b486abf306ab041bfdb31482257cc5f60c836b6ce1371"
+    },
+    {
+      "index": 6,
+      "file": "hulk/r01_c07.safetensors",
+      "seed": 9365006,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "c4ad47981fe17e859d9b76fed2c61363ed52db27b253e0d7797de68cc48b0335"
+    },
+    {
+      "index": 7,
+      "file": "hulk/r01_c08.safetensors",
+      "seed": 9365007,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "923a8a7aa6e87109e7727c4822613c1e87be75699653996af496e54efe43f702"
+    },
+    {
+      "index": 8,
+      "file": "hulk/r01_c09.safetensors",
+      "seed": 9365008,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "bfe187fe92d3c49afc12bcb9596fda865a4755eed91ab269268fcc546359674e"
+    },
+    {
+      "index": 9,
+      "file": "hulk/r01_c10.safetensors",
+      "seed": 9365009,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "c22569307db91eb0cc5fcf553ae632d5979ab04f80ab0b5112f332620db9ee6b"
+    },
+    {
+      "index": 10,
+      "file": "hulk/r01_c11.safetensors",
+      "seed": 9365010,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "f8271f49eb666925ce85bc678d58470885de6088f7fc9e5af5e79bf693aac9c4"
+    },
+    {
+      "index": 11,
+      "file": "hulk/r01_c12.safetensors",
+      "seed": 9365011,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "3067c960eabe2397699da57ecfeadf90bdb564efcbb48b8838244583712ff096"
+    },
+    {
+      "index": 12,
+      "file": "hulk/r01_c13.safetensors",
+      "seed": 9365012,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "8a4265b7f6ccdb4ecf04d7829271595a22e984309f6759d01d78ffa5a522dd6c"
+    },
+    {
+      "index": 13,
+      "file": "hulk/r01_c14.safetensors",
+      "seed": 9365013,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, cool steel-blue light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "fa5cae1a6d8c8763a47f1a82d86049a79dec80911ee6814741e76677bef8b66c"
+    },
+    {
+      "index": 14,
+      "file": "hulk/r01_c15.safetensors",
+      "seed": 9365014,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, cool steel-blue light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "6b3b9d1d10f3bc900c3a8b521d311a4e49d1fcc6d911115b3bdd2fc523308917"
+    },
+    {
+      "index": 15,
+      "file": "hulk/r01_c16.safetensors",
+      "seed": 9365015,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, cool steel-blue light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "9fb2cd986b661595903a7e067038abf8e6c22aa25764d7c1b46a916dbad92989"
+    },
+    {
+      "index": 16,
+      "file": "hulk/r02_c01.safetensors",
+      "seed": 9365016,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "474d9955c6cefb515cd9ccda13a5ce9c8142f583e93431acd56a37d784032be5"
+    },
+    {
+      "index": 17,
+      "file": "hulk/r02_c02.safetensors",
+      "seed": 9365017,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "6eb5132fa915a61bf8c293e5b1d41f321fc2b4ce8e71fedb5c5c6a6b60d14bcb"
+    },
+    {
+      "index": 18,
+      "file": "hulk/r02_c03.safetensors",
+      "seed": 9365018,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, cool steel-blue light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "b87f16138ef5884e1db023318df17c32aa793a3817b9376e9cae28ff2cdc5fe9"
+    },
+    {
+      "index": 19,
+      "file": "hulk/r02_c04.safetensors",
+      "seed": 9365019,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "ff25898fefd0c15e771bb383d31f0982ccd5212a0a9e5829c6ef041445b6498a"
+    },
+    {
+      "index": 20,
+      "file": "hulk/r02_c05.safetensors",
+      "seed": 9365020,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, cool steel-blue light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "60c0a3d63b2cced447ab77ce65f70adc44886645804c25d016d9d187d2aeb01a"
+    },
+    {
+      "index": 21,
+      "file": "hulk/r02_c06.safetensors",
+      "seed": 9365021,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "fe3159f3a04d79aea5643c7d0a0e770ff0bded320079b78d55835eb54ca24b58"
+    },
+    {
+      "index": 22,
+      "file": "hulk/r02_c07.safetensors",
+      "seed": 9365022,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "79db868f5beff042816b7d6415a0ee52f39e453eb3ac849b086015320e21e5e7"
+    },
+    {
+      "index": 23,
+      "file": "hulk/r02_c08.safetensors",
+      "seed": 9365023,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "efd51e7f23edf170ec599fb03b328df3b5b02593049251df79f4d3ab76f57f76"
+    },
+    {
+      "index": 24,
+      "file": "hulk/r02_c09.safetensors",
+      "seed": 9365024,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "029fcacae61aca682fb06ce4342a910f100a9caab96996133323dc3be4835715"
+    },
+    {
+      "index": 25,
+      "file": "hulk/r02_c10.safetensors",
+      "seed": 9365025,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "727621734ded839fa8050579788440ea850f630d67791bc34c417e0c6e71ae43"
+    },
+    {
+      "index": 26,
+      "file": "hulk/r02_c11.safetensors",
+      "seed": 9365026,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "e0aa705f13d5703efc07d5b2f7e204629c41ccf53291eaf5a0e4e6400332db4d"
+    },
+    {
+      "index": 27,
+      "file": "hulk/r02_c12.safetensors",
+      "seed": 9365027,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "304aed1fe5d9ba64d3ed6a39136c454193e5dd65e81cb8a4c1edbc6f470583a3"
+    },
+    {
+      "index": 28,
+      "file": "hulk/r02_c13.safetensors",
+      "seed": 9365028,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "25f59ca3668673b678158e0399a21fe84ed07a2fd64a57a036b03e3014b30f8e"
+    },
+    {
+      "index": 29,
+      "file": "hulk/r02_c14.safetensors",
+      "seed": 9365029,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "d4cfec300737c5d32be70000165231cb96c2b9c500561423b8582565923d3398"
+    },
+    {
+      "index": 30,
+      "file": "hulk/r02_c15.safetensors",
+      "seed": 9365030,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "688863365f5199cc301e78f50cf22a6de68e1f76e8d72beb7e7e19cf34753424"
+    },
+    {
+      "index": 31,
+      "file": "hulk/r02_c16.safetensors",
+      "seed": 9365031,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "86a5046437ef17c990a9fdaac79b23b0ce02b80a974c697c386af67a66ce5462"
+    },
+    {
+      "index": 32,
+      "file": "hulk/r03_c01.safetensors",
+      "seed": 9365032,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "fd537a089d7fde1f3bba6b6e41c837394bebace05d0e5e6a3ceccb6db21bef3d"
+    },
+    {
+      "index": 33,
+      "file": "hulk/r03_c02.safetensors",
+      "seed": 9365033,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "3f7d738a38f94e43f00ca0df6c56e0686dba0891aa957fb80bd8255929cc5014"
+    },
+    {
+      "index": 34,
+      "file": "hulk/r03_c03.safetensors",
+      "seed": 9365034,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, cool steel-blue light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "6b8a649de1d73057e9dd68845d0bb719a0244baa5dbeca91320fdc0bb022e7fb"
+    },
+    {
+      "index": 35,
+      "file": "hulk/r03_c04.safetensors",
+      "seed": 9365035,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, cool steel-blue light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "ea9b6694a08c030e9440b6ee84161a5bbc77e4127f5aa15fbcccd3140a2e2dc3"
+    },
+    {
+      "index": 36,
+      "file": "hulk/r03_c05.safetensors",
+      "seed": 9365036,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "82e712d21691df2bc8087b3eead3fdbe5e3bc8808c2bafa94d18b50bb8765821"
+    },
+    {
+      "index": 37,
+      "file": "hulk/r03_c06.safetensors",
+      "seed": 9365037,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "faaf4bd2486e01fd437686d7ea42696f5ca79fa662e57fab341f84cb3c72afea"
+    },
+    {
+      "index": 38,
+      "file": "hulk/r03_c07.safetensors",
+      "seed": 9365038,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, cool steel-blue light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "a146b28c7e84a89baa0c9afd17646068e1f85c490dd765e8e308cf47ee047a91"
+    },
+    {
+      "index": 39,
+      "file": "hulk/r03_c08.safetensors",
+      "seed": 9365039,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "89f62061fafd6099ec28246db3b202727dd3b6a6e387a3a84e4e62a202e49784"
+    },
+    {
+      "index": 40,
+      "file": "hulk/r03_c09.safetensors",
+      "seed": 9365040,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "95c19616e65b5cc019f0c880fdfd74389fcefae5fcddd8254715876ed50a01cc"
+    },
+    {
+      "index": 41,
+      "file": "hulk/r03_c10.safetensors",
+      "seed": 9365041,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "ee97faca62515cd6e42d66047d74a0f81e46dc6a1e93a5135f2aa23950a9a3be"
+    },
+    {
+      "index": 42,
+      "file": "hulk/r03_c11.safetensors",
+      "seed": 9365042,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "c115cc0736bf8da473a6849a9ab7c602156613a7dc48960b0259937db74a7726"
+    },
+    {
+      "index": 43,
+      "file": "hulk/r03_c12.safetensors",
+      "seed": 9365043,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "c9d1fc192b8882b1bb5c8d577284ef899cd56aa043a956ba63429cd3a5ab8447"
+    },
+    {
+      "index": 44,
+      "file": "hulk/r03_c13.safetensors",
+      "seed": 9365044,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "c6cadc7f685112e49db72bf5b87341bec176b6a55af1adc582ff1cdfb1b055b7"
+    },
+    {
+      "index": 45,
+      "file": "hulk/r03_c14.safetensors",
+      "seed": 9365045,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "3f676702eef057a41aca1f052d7e1a38f82962f97f0fd6ba77ea88de692aa55c"
+    },
+    {
+      "index": 46,
+      "file": "hulk/r03_c15.safetensors",
+      "seed": 9365046,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "e09fa4f59b18f8d86be673d98499ef2753c4a2908b48f45af613491de835124c"
+    },
+    {
+      "index": 47,
+      "file": "hulk/r03_c16.safetensors",
+      "seed": 9365047,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "5d1a272f50f93bb9cd6e1fff2804b4af72ee4d94162b686e6d16a58ccaaf6778"
+    },
+    {
+      "index": 48,
+      "file": "hulk/r04_c01.safetensors",
+      "seed": 9365048,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "72b7bdb3991e97d454be7c5a03a79524cd6a71e877a7ba02e6d2f113de69f6b5"
+    },
+    {
+      "index": 49,
+      "file": "hulk/r04_c02.safetensors",
+      "seed": 9365049,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "9ca5ddf474c9538faadd1c1ea2497ba7d7831a8921b4ecfc4f0189763a466e97"
+    },
+    {
+      "index": 50,
+      "file": "hulk/r04_c03.safetensors",
+      "seed": 9365050,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, cool steel-blue light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "bbfdf4d23b4347c1d153b406c577edb37797569b350c76cdc707c9b39c1608f4"
+    },
+    {
+      "index": 51,
+      "file": "hulk/r04_c04.safetensors",
+      "seed": 9365051,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, cool steel-blue light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "b70f4c25142abf10cdc6bd45dd01e9ce5c9946258837ca3d3eb036c745ccfb09"
+    },
+    {
+      "index": 52,
+      "file": "hulk/r04_c05.safetensors",
+      "seed": 9365052,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "86e87993062cb7743eb1f67d52d751e2c18b19adb4640477e07612cfb9213812"
+    },
+    {
+      "index": 53,
+      "file": "hulk/r04_c06.safetensors",
+      "seed": 9365053,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, cool steel-blue light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "4a5adabe47a03f437a1e440ff4723b23aae4719c69ef7b1588c6838d9aee134a"
+    },
+    {
+      "index": 54,
+      "file": "hulk/r04_c07.safetensors",
+      "seed": 9365054,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "95cd5ad4e61c1e2543f8856cc2af73f7b4c8ec97b3db59f372ec9e283403b5de"
+    },
+    {
+      "index": 55,
+      "file": "hulk/r04_c08.safetensors",
+      "seed": 9365055,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "863d44110ab1a188de045b5b648a77f6a50450ef241902a65d377afded411646"
+    },
+    {
+      "index": 56,
+      "file": "hulk/r04_c09.safetensors",
+      "seed": 9365056,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "ecd4b174666c2fbd9217f6662253ebdf67040393d8f06ca4439d2c2dae16a1ec"
+    },
+    {
+      "index": 57,
+      "file": "hulk/r04_c10.safetensors",
+      "seed": 9365057,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "685db3d6bc644fcec3a78ee4a933ca481e28ee6e4b009d5c440a65cbb00c10aa"
+    },
+    {
+      "index": 58,
+      "file": "hulk/r04_c11.safetensors",
+      "seed": 9365058,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, cool steel-blue light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "7bc2c8312b3d19d18cee76d4b159d4a20edaba52e3a87577d304575d4d1e9a86"
+    },
+    {
+      "index": 59,
+      "file": "hulk/r04_c12.safetensors",
+      "seed": 9365059,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, cool steel-blue light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "3880e0f78832162279354ad2ef128494fd112485c47ef1fedb9cb686128bba57"
+    },
+    {
+      "index": 60,
+      "file": "hulk/r04_c13.safetensors",
+      "seed": 9365060,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, cool steel-blue light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "65e1d96143b24ae4a5c0903487417b066eedc326769fe30e221a103b0643903f"
+    },
+    {
+      "index": 61,
+      "file": "hulk/r04_c14.safetensors",
+      "seed": 9365061,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "6bd74022ce6d0685f22dcc5b550e8ef12339606b94902665f0d0150fb5cce47e"
+    },
+    {
+      "index": 62,
+      "file": "hulk/r04_c15.safetensors",
+      "seed": 9365062,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "fb87694f77e89ea16bd47a3ac44f462dc0db90c15df78767d2080fc3951e12a2"
+    },
+    {
+      "index": 63,
+      "file": "hulk/r04_c16.safetensors",
+      "seed": 9365063,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "f8bb6d33aa7b6d6dc73777aac1994b46bfa14dd384bf9f901038840262ea890f"
+    },
+    {
+      "index": 64,
+      "file": "hulk/r05_c01.safetensors",
+      "seed": 9365064,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "5d385a6e75fe855e1952afa49d8aca8446056cdb733dc6b4625a9b30aeb7bff5"
+    },
+    {
+      "index": 65,
+      "file": "hulk/r05_c02.safetensors",
+      "seed": 9365065,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "dae048f43fe60952de9b253c7d2100b71af39905d4274d5375b2eab8fc80ec47"
+    },
+    {
+      "index": 66,
+      "file": "hulk/r05_c03.safetensors",
+      "seed": 9365066,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, cool steel-blue light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "c4baf21173e5174f877b1dff0e0ecccfb1bd831f6e45890427146aa7f295aa6c"
+    },
+    {
+      "index": 67,
+      "file": "hulk/r05_c04.safetensors",
+      "seed": 9365067,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "37ad3329c69c2f92598d38cc713b77cc45f1aaf0937d37d1c87cac8f0a981034"
+    },
+    {
+      "index": 68,
+      "file": "hulk/r05_c05.safetensors",
+      "seed": 9365068,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a firelit forge with copper pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "243587f49d19a2f586205dc6643ada3193e073d4e2e39ebc2fa8f92e68d4bf76"
+    },
+    {
+      "index": 69,
+      "file": "hulk/r05_c06.safetensors",
+      "seed": 9365069,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "a957eaabf49ef5b3b6956374971af99fd59febf75a549c5eda36c19bad3c7136"
+    },
+    {
+      "index": 70,
+      "file": "hulk/r05_c07.safetensors",
+      "seed": 9365070,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "c0bde1493929225aa8a914303f633faf80ab95bc663337cf4e47b0472ad7cca9"
+    },
+    {
+      "index": 71,
+      "file": "hulk/r05_c08.safetensors",
+      "seed": 9365071,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2f6bff04650ffefa7078493de8d7896f8f7631f335b51b3d606535dcb10ce57c"
+    },
+    {
+      "index": 72,
+      "file": "hulk/r05_c09.safetensors",
+      "seed": 9365072,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "44169291c84cf1be4d34650be3b71c8d61b7053dd2ef00f5111a0366c42f09e1"
+    },
+    {
+      "index": 73,
+      "file": "hulk/r05_c10.safetensors",
+      "seed": 9365073,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "9d06359f6104e525d3eb051b0f1d68294c01b0be2a094538928d54a3bd2a1f2a"
+    },
+    {
+      "index": 74,
+      "file": "hulk/r05_c11.safetensors",
+      "seed": 9365074,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "cfa62711ed889e89d1c98effed8aae410459b2612d48e27f1fadf232e53a1cbc"
+    },
+    {
+      "index": 75,
+      "file": "hulk/r05_c12.safetensors",
+      "seed": 9365075,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "600450cc3ac8033ae435649c1f150500cfd8e6287676d989d3e4f07c13a16a1d"
+    },
+    {
+      "index": 76,
+      "file": "hulk/r05_c13.safetensors",
+      "seed": 9365076,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "5eac1b43f9d25184b8f67950a2a8a6a6695f19cde22dd6096f8e698536db8020"
+    },
+    {
+      "index": 77,
+      "file": "hulk/r05_c14.safetensors",
+      "seed": 9365077,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "dc24a589255cf723646728025ca461b8160c215fca476dda9f017bf7edfd4143"
+    },
+    {
+      "index": 78,
+      "file": "hulk/r05_c15.safetensors",
+      "seed": 9365078,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "07791d295a4821297ab58e242b5c06e690db79abc0877b188f7c6e67b2b8ecdc"
+    },
+    {
+      "index": 79,
+      "file": "hulk/r05_c16.safetensors",
+      "seed": 9365079,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "d6c42b2218ffd415faff9d724e600f7aa574ed14128147fb4241363a1084729b"
+    },
+    {
+      "index": 80,
+      "file": "hulk/r06_c01.safetensors",
+      "seed": 9365080,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "50ba2a0261a5edef5afb1c1a688a7c04ff6acf3a505d23f2a9f05f18be24647f"
+    },
+    {
+      "index": 81,
+      "file": "hulk/r06_c02.safetensors",
+      "seed": 9365081,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "345e817e63f224c6919317649158d86d2fc659de924a46fe6336de8534770d74"
+    },
+    {
+      "index": 82,
+      "file": "hulk/r06_c03.safetensors",
+      "seed": 9365082,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "3aa715be543c19d42bf4cf69b30380925add02425c5af91d019748246fb6b885"
+    },
+    {
+      "index": 83,
+      "file": "hulk/r06_c04.safetensors",
+      "seed": 9365083,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "d7aefddab85900c8f17cdf28cb41e6dc6b29d8d9c7614999a3f50fa6cc8ae0a9"
+    },
+    {
+      "index": 84,
+      "file": "hulk/r06_c05.safetensors",
+      "seed": 9365084,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a firelit forge with copper pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "8336e0ed5a80c5a7749145fe3d3a3ff881e905ea17b53d0f3cad59ef1ce4399a"
+    },
+    {
+      "index": 85,
+      "file": "hulk/r06_c06.safetensors",
+      "seed": 9365085,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "d88d34cc2fcba8d55a27c8e55c86ffc7b09ed8077e8bac5e72d54bb0b59ea7f9"
+    },
+    {
+      "index": 86,
+      "file": "hulk/r06_c07.safetensors",
+      "seed": 9365086,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "8676d389caf21951b0c81c1bd50a6b7621264e6dbf813696d68edd975847e0ab"
+    },
+    {
+      "index": 87,
+      "file": "hulk/r06_c08.safetensors",
+      "seed": 9365087,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "3b7e8807998cd26d9e949a5dcb427c7deab7b994d6f4e517690a23920aa9c1b2"
+    },
+    {
+      "index": 88,
+      "file": "hulk/r06_c09.safetensors",
+      "seed": 9365088,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "5be400b4809dc600fbce8e2fe61b898a06647cda52e064910fca4df80667411c"
+    },
+    {
+      "index": 89,
+      "file": "hulk/r06_c10.safetensors",
+      "seed": 9365089,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "622fef26393c44e81a67a6dc95457b11d78082d0615bf59d20da84d565832157"
+    },
+    {
+      "index": 90,
+      "file": "hulk/r06_c11.safetensors",
+      "seed": 9365090,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "be8d4869b8ef45aca464cc949e75cace1aa23a01926877d391c521d17e452d94"
+    },
+    {
+      "index": 91,
+      "file": "hulk/r06_c12.safetensors",
+      "seed": 9365091,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a firelit forge with copper pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "d099f1c4b4b1ea88ed9ddd3abe0c348b5c41e15e9fe28873ccfdecb8178439e5"
+    },
+    {
+      "index": 92,
+      "file": "hulk/r06_c13.safetensors",
+      "seed": 9365092,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "82ac68b0834a16a91b878e47e6cd28ec9334b545ef1eed42aab6aac8d4d7cc15"
+    },
+    {
+      "index": 93,
+      "file": "hulk/r06_c14.safetensors",
+      "seed": 9365093,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "dfb05dc4c1fa36c637fbefb156b6915e1d8553dd1c60f62585764d2708b01314"
+    },
+    {
+      "index": 94,
+      "file": "hulk/r06_c15.safetensors",
+      "seed": 9365094,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "92d988d419cd4bb7c7184b2b6e7d0d50bc6fffdd01a836b86b2de6127b81108b"
+    },
+    {
+      "index": 95,
+      "file": "hulk/r06_c16.safetensors",
+      "seed": 9365095,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "87a08a24b1b34d85bb08d85453a2970d21abdd163c2a94ee5063133e782d1d5e"
+    },
+    {
+      "index": 96,
+      "file": "hulk/r07_c01.safetensors",
+      "seed": 9365096,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "0ccba187685682cab4b5058569cceb6e4c65f7ec40400cc8a3efe9601156591a"
+    },
+    {
+      "index": 97,
+      "file": "hulk/r07_c02.safetensors",
+      "seed": 9365097,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "ff0e07ae918e8853b6f8ec471940bd9bfa7a442736a28523b7af3b80a9aefff7"
+    },
+    {
+      "index": 98,
+      "file": "hulk/r07_c03.safetensors",
+      "seed": 9365098,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "f21ffe04759678873e20fffc4e70f22f8101bf0cb9e666dae6bfbe19a82ef13c"
+    },
+    {
+      "index": 99,
+      "file": "hulk/r07_c04.safetensors",
+      "seed": 9365099,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "d988394f6af3e505b2ae1170941fc33c95cf171f263b3cd575ab59f71fbd4beb"
+    },
+    {
+      "index": 100,
+      "file": "hulk/r07_c05.safetensors",
+      "seed": 9365100,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "4f4ed051610db673a7dec6fbbfe8dd11d72b77139a62e6fe25c66a753eec3409"
+    },
+    {
+      "index": 101,
+      "file": "hulk/r07_c06.safetensors",
+      "seed": 9365101,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "61fbf52b5b35f8fbb0070d1765830fccf92af83496da2b63b4cdfaea93383015"
+    },
+    {
+      "index": 102,
+      "file": "hulk/r07_c07.safetensors",
+      "seed": 9365102,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "1ed07256d04cfcb60bb59a01e5ff669b81b9ea0ca19a93938445e7994f4ba1dc"
+    },
+    {
+      "index": 103,
+      "file": "hulk/r07_c08.safetensors",
+      "seed": 9365103,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "5f8591a9f06e562a070447a91a6caee29d7e641b91d9cec0c13a1ca4868a283c"
+    },
+    {
+      "index": 104,
+      "file": "hulk/r07_c09.safetensors",
+      "seed": 9365104,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "4bf47d943d61c2f9468ef6ebf29c57ffee563861052707ce1bae5d4857dfeb52"
+    },
+    {
+      "index": 105,
+      "file": "hulk/r07_c10.safetensors",
+      "seed": 9365105,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "99fdb74e6f632e106205f85c64f437421a69978f44ffb74f6b85401ae8cc4b8a"
+    },
+    {
+      "index": 106,
+      "file": "hulk/r07_c11.safetensors",
+      "seed": 9365106,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "e4c9e6fbfa80d73621515013be5ed8ea24391dc56861e809e5d21c51648c15db"
+    },
+    {
+      "index": 107,
+      "file": "hulk/r07_c12.safetensors",
+      "seed": 9365107,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "5081068c8900645c44caa8c0859b28fb796257c996d3ee584d121426e0bf6cfd"
+    },
+    {
+      "index": 108,
+      "file": "hulk/r07_c13.safetensors",
+      "seed": 9365108,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a firelit forge with copper pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "8ad58f6e3d79b3f40ea45c1b7eb5235b9d6e7ad9bfefab7e5680c5b64d3a7466"
+    },
+    {
+      "index": 109,
+      "file": "hulk/r07_c14.safetensors",
+      "seed": 9365109,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "31565cc7baa38fccf40608ab5448b92630a001a40210976ee7c01f061f069aca"
+    },
+    {
+      "index": 110,
+      "file": "hulk/r07_c15.safetensors",
+      "seed": 9365110,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "81bbc89cfde978456298b8808774e073a01e8bd16e52dd7c9af86cfc46e49f47"
+    },
+    {
+      "index": 111,
+      "file": "hulk/r07_c16.safetensors",
+      "seed": 9365111,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2a9c51abafc39abae8fd1fba43ccac244b2a4c6555aaeb8f601a7b366b6721f3"
+    },
+    {
+      "index": 112,
+      "file": "hulk/r08_c01.safetensors",
+      "seed": 9365112,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "691aeb4b70d90a0ce29e1a98ea970dca1cb39f302c499189685f0b0a0d7499f7"
+    },
+    {
+      "index": 113,
+      "file": "hulk/r08_c02.safetensors",
+      "seed": 9365113,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "871a05cdea00152112975c7fa97cc2fd220f01ef14f801545e3dba58366d2179"
+    },
+    {
+      "index": 114,
+      "file": "hulk/r08_c03.safetensors",
+      "seed": 9365114,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "721566b5cc98ca1fe319cabca9102edd3b917f91663f9b76f44b78ed180b9b96"
+    },
+    {
+      "index": 115,
+      "file": "hulk/r08_c04.safetensors",
+      "seed": 9365115,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "3ae227e8e016d1ec3daca5bf37499ad45020a948a10a0ddbc7b34a891ac5762a"
+    },
+    {
+      "index": 116,
+      "file": "hulk/r08_c05.safetensors",
+      "seed": 9365116,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "64ced7d914308e43cb8853841f24212eb941acc3b9d94a0de404b972a4428090"
+    },
+    {
+      "index": 117,
+      "file": "hulk/r08_c06.safetensors",
+      "seed": 9365117,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "3623441d8d459a09e487d5581bb1b7a46f49d63bba24a18a997a0cab2ee08360"
+    },
+    {
+      "index": 118,
+      "file": "hulk/r08_c07.safetensors",
+      "seed": 9365118,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "fc7d0cbc0d6c04ee238b103ed5de679fbd2fbca74c667e723055b7c5459c6dbe"
+    },
+    {
+      "index": 119,
+      "file": "hulk/r08_c08.safetensors",
+      "seed": 9365119,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "495fd0de53616a52805707229d656340399f513b309c0fb6c365558ed8517ee6"
+    },
+    {
+      "index": 120,
+      "file": "hulk/r08_c09.safetensors",
+      "seed": 9365120,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "227b19fd7a43c440c21c3c8997e6b57ed70e95d6235b1a327e4ec0c5133d27fe"
+    },
+    {
+      "index": 121,
+      "file": "hulk/r08_c10.safetensors",
+      "seed": 9365121,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "919e19644ddb3ad1877cafe1988594881fc6dfbe2774c3158b9dc33ff3b47774"
+    },
+    {
+      "index": 122,
+      "file": "hulk/r08_c11.safetensors",
+      "seed": 9365122,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2236e4b64ad3685ff42bf407a4fa2c32acd1d23efc87125ba2d62e3a85cd242f"
+    },
+    {
+      "index": 123,
+      "file": "hulk/r08_c12.safetensors",
+      "seed": 9365123,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a firelit forge with copper pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "e0ef9dadd33ab4813b651becaf01339dfa5dd53ed58e3ab4285a2fa938641042"
+    },
+    {
+      "index": 124,
+      "file": "hulk/r08_c13.safetensors",
+      "seed": 9365124,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a firelit forge with copper pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "f62dbde18f40982ee2bd02d1fa76124682391e2dfe5c87aec3680b2fc8c63c3c"
+    },
+    {
+      "index": 125,
+      "file": "hulk/r08_c14.safetensors",
+      "seed": 9365125,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a firelit forge with copper pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "bf8bcc6b85aa670cc5e58fb10fc1d0f1c431202ae1242b3d80cd3d97739f3924"
+    },
+    {
+      "index": 126,
+      "file": "hulk/r08_c15.safetensors",
+      "seed": 9365126,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "7b7b7d8d6e7781aa4861571af99e4bc0f8de9f9db5d0094dda19b89575833dca"
+    },
+    {
+      "index": 127,
+      "file": "hulk/r08_c16.safetensors",
+      "seed": 9365127,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "d1131844e519c27d8fef44a9f209335f60b5f794192b23d253496867e6ab0f7d"
+    },
+    {
+      "index": 128,
+      "file": "hulk/r09_c01.safetensors",
+      "seed": 9365128,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "e193873ce853582e0f3d3fcdc4c6c6ae079987fe369d4f229d31affbedc1701c"
+    },
+    {
+      "index": 129,
+      "file": "hulk/r09_c02.safetensors",
+      "seed": 9365129,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "a5c6c5ac9ab7815b60b62b1249de141157b57656da89a94ffecc1239cb0b8952"
+    },
+    {
+      "index": 130,
+      "file": "hulk/r09_c03.safetensors",
+      "seed": 9365130,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "1a06810c81d915ef0ba9af4ad2b34dee1ff48577005db337ecaaaa6fe8372dcc"
+    },
+    {
+      "index": 131,
+      "file": "hulk/r09_c04.safetensors",
+      "seed": 9365131,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "fd2daa257e37e9198c2adb7d38d8b5eb5e61d2ac3b47aa41b5d0ac50d88b1a2f"
+    },
+    {
+      "index": 132,
+      "file": "hulk/r09_c05.safetensors",
+      "seed": 9365132,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "beb4d6201fe7585cc2e1e0f3c263a0e5ec09fca54d4f961295f0beef69f79dcc"
+    },
+    {
+      "index": 133,
+      "file": "hulk/r09_c06.safetensors",
+      "seed": 9365133,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "dced0d33ede1cf82c299898981f5e1c83b31c388a9b6b3bb642957fc6f4b5302"
+    },
+    {
+      "index": 134,
+      "file": "hulk/r09_c07.safetensors",
+      "seed": 9365134,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "3e3d663aba1ec2619c408e8d31070f054e00714e064d88e6760fa3b11be216e9"
+    },
+    {
+      "index": 135,
+      "file": "hulk/r09_c08.safetensors",
+      "seed": 9365135,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "736eca8f276fd937366b11ce3c5f1a4f101551ac26a1602e8b2859e75eb71ba0"
+    },
+    {
+      "index": 136,
+      "file": "hulk/r09_c09.safetensors",
+      "seed": 9365136,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "92ca6f19971ce782eefcc31569edf9a9b8a46aeea7125ec9da38bcd317bed997"
+    },
+    {
+      "index": 137,
+      "file": "hulk/r09_c10.safetensors",
+      "seed": 9365137,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2ec5ebe7d627046ff95a711e13bde27f4e451499dace841bc794ba18b431071f"
+    },
+    {
+      "index": 138,
+      "file": "hulk/r09_c11.safetensors",
+      "seed": 9365138,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "42ca99aab5282cca48f2ef8e486d039bd7b24f0a28523b1ae756ba1f20f05a3c"
+    },
+    {
+      "index": 139,
+      "file": "hulk/r09_c12.safetensors",
+      "seed": 9365139,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "599673b58ac4bfcd5ae4d8295a5342eac931dfe31e9716300d778922f28f643d"
+    },
+    {
+      "index": 140,
+      "file": "hulk/r09_c13.safetensors",
+      "seed": 9365140,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a firelit forge with copper pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "035873098b130020da9bca373c434a53fd050c7e9ea6126f5ebc169447e71043"
+    },
+    {
+      "index": 141,
+      "file": "hulk/r09_c14.safetensors",
+      "seed": 9365141,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "0cb91c730a3c4ab510b8c5b33e949f8f0e431befb2aed836487627db96fb8afa"
+    },
+    {
+      "index": 142,
+      "file": "hulk/r09_c15.safetensors",
+      "seed": 9365142,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "bcba8ea48c778295cfb3ebc511cbd468b2671e13ca802478c96b3c5815bd839e"
+    },
+    {
+      "index": 143,
+      "file": "hulk/r09_c16.safetensors",
+      "seed": 9365143,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "1cd14d648b80d80d73f7557207e22c0a06c2fe995b3c97e0084cb2ae41fc983b"
+    },
+    {
+      "index": 144,
+      "file": "hulk/r10_c01.safetensors",
+      "seed": 9365144,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "e575649f4e158ffe4889a82eb4f4747c0329b1e160e0924a85605c51641ad82b"
+    },
+    {
+      "index": 145,
+      "file": "hulk/r10_c02.safetensors",
+      "seed": 9365145,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "0d8aa5700dc3ae6fdd4bfdbecc69a649f022ca5324bfd2d3b76c82249a824d51"
+    },
+    {
+      "index": 146,
+      "file": "hulk/r10_c03.safetensors",
+      "seed": 9365146,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "3ad07f8598db9f1f73e9df5b509ddad258c4282f9618d2311e205119fc75966e"
+    },
+    {
+      "index": 147,
+      "file": "hulk/r10_c04.safetensors",
+      "seed": 9365147,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "25446c53ed2e91184b8bda15ca6811ba60b1aeac4dc64b1f4ff73e27c6367f02"
+    },
+    {
+      "index": 148,
+      "file": "hulk/r10_c05.safetensors",
+      "seed": 9365148,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "1e2515e0c99159c914fcf74718611ac1a1c07888bf046b91390911b88aaee299"
+    },
+    {
+      "index": 149,
+      "file": "hulk/r10_c06.safetensors",
+      "seed": 9365149,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "8956dfd979f2fcc9e89c48545c29b273554e7f4d24bbf3f33867649a75fe6d6c"
+    },
+    {
+      "index": 150,
+      "file": "hulk/r10_c07.safetensors",
+      "seed": 9365150,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "a4be9ec2c16dc28f8b7bd4328678283374aa410d540ce204441434ad484dd961"
+    },
+    {
+      "index": 151,
+      "file": "hulk/r10_c08.safetensors",
+      "seed": 9365151,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "8c5988df91fd869446a18ecee98ec34d2a11a3b6aad434beec244700c70afc88"
+    },
+    {
+      "index": 152,
+      "file": "hulk/r10_c09.safetensors",
+      "seed": 9365152,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "0d03574bcdc88dd85d0cffb612a8ae0bed63b3ac7164aa5ebcc9ab9b11ca0cda"
+    },
+    {
+      "index": 153,
+      "file": "hulk/r10_c10.safetensors",
+      "seed": 9365153,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "18f75b9e4990d742c33905a1e86c913abc05b1aa3dd09191e338c411aa73b0fe"
+    },
+    {
+      "index": 154,
+      "file": "hulk/r10_c11.safetensors",
+      "seed": 9365154,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "69fd69df2a15d29af7681e12de99f2a41441aca95ab179023ffbba4f06fd0a40"
+    },
+    {
+      "index": 155,
+      "file": "hulk/r10_c12.safetensors",
+      "seed": 9365155,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "c8bd467fb5cb66233e2a335cf4f1c64bf327ad82c9ec0760d299e17c2d74cf6e"
+    },
+    {
+      "index": 156,
+      "file": "hulk/r10_c13.safetensors",
+      "seed": 9365156,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "c1d048ef8a18385f0ff6c24fe8343bd00992eb9c5f8716a7db36d18cb258b19a"
+    },
+    {
+      "index": 157,
+      "file": "hulk/r10_c14.safetensors",
+      "seed": 9365157,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "10175066ac9d9d911b19c332b1914c92d97512da8e19e3d947b5e139801aacbe"
+    },
+    {
+      "index": 158,
+      "file": "hulk/r10_c15.safetensors",
+      "seed": 9365158,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "c4007ffcc7773a7c90b045aec043e637a8ffa7b1662d77b821734c8574a3a0e7"
+    },
+    {
+      "index": 159,
+      "file": "hulk/r10_c16.safetensors",
+      "seed": 9365159,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "896260a65745f1a0cf1043dba41024aa8ba35c61fa9c4b6aafe35f339e93c253"
+    },
+    {
+      "index": 160,
+      "file": "hulk/r11_c01.safetensors",
+      "seed": 9365160,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2b60be08b78dd0bcd401bee0af49786e4a88f06fe6b3898a813314cfc5e2f803"
+    },
+    {
+      "index": 161,
+      "file": "hulk/r11_c02.safetensors",
+      "seed": 9365161,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "5b124a2b5091490904b1f5fb94ae34907b8224c93b6f1ae22c2bff0fd91ab895"
+    },
+    {
+      "index": 162,
+      "file": "hulk/r11_c03.safetensors",
+      "seed": 9365162,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "16a21c34d6f8c215d9547d64333df16c231bcaa545aba5e881e0e2b87cebe801"
+    },
+    {
+      "index": 163,
+      "file": "hulk/r11_c04.safetensors",
+      "seed": 9365163,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "9153cc0fa07e9d22f3ffdc9e837396265ad4fb8eafae78448d728ed574ee6e63"
+    },
+    {
+      "index": 164,
+      "file": "hulk/r11_c05.safetensors",
+      "seed": 9365164,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "5b61d68d9208df540436dc0b856525261f37896b02ee9047fab90bbf708b91c0"
+    },
+    {
+      "index": 165,
+      "file": "hulk/r11_c06.safetensors",
+      "seed": 9365165,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "247b71ae3c02f5315cddf085dacf91f43f56f7e3c72d00d914d776a5d8731d8c"
+    },
+    {
+      "index": 166,
+      "file": "hulk/r11_c07.safetensors",
+      "seed": 9365166,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "4fbfcf3ff793ea0d072f2ca897c3db9a41e94c567c3037a11b673ad75c105875"
+    },
+    {
+      "index": 167,
+      "file": "hulk/r11_c08.safetensors",
+      "seed": 9365167,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "37b608bc7188f879c5d8e7d94cd082c36ca5a39ca0e43180319ab0c6c4116927"
+    },
+    {
+      "index": 168,
+      "file": "hulk/r11_c09.safetensors",
+      "seed": 9365168,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "0a558e03466098a49ac159064464d5fb9d3232a9d26436d3758f136b7327fe90"
+    },
+    {
+      "index": 169,
+      "file": "hulk/r11_c10.safetensors",
+      "seed": 9365169,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "5b92bece23d2e60729e9096bd6888f724da56a246c860b25edb8a14b870a7887"
+    },
+    {
+      "index": 170,
+      "file": "hulk/r11_c11.safetensors",
+      "seed": 9365170,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "a6fb33d5a16ccc5a115866ee4dd5dc114cbcaf0e2746d6c49c9f8258fd4e02da"
+    },
+    {
+      "index": 171,
+      "file": "hulk/r11_c12.safetensors",
+      "seed": 9365171,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a firelit forge with copper pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "cbb63b55cf82cc99cb90d23e108b18da3bc1a7b8bf1936dbdab575950dfbed29"
+    },
+    {
+      "index": 172,
+      "file": "hulk/r11_c13.safetensors",
+      "seed": 9365172,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "36eba3b24506eeb700ee91399e9113ff7fefc732c6675e5891bbd378995bc066"
+    },
+    {
+      "index": 173,
+      "file": "hulk/r11_c14.safetensors",
+      "seed": 9365173,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "b3675fcd4db38dfde7bde04a71a8cea6e360fd2ba3ee06b1662d3355eac7cbe9"
+    },
+    {
+      "index": 174,
+      "file": "hulk/r11_c15.safetensors",
+      "seed": 9365174,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "0067cf6d866ea9a83edaa31bef8898786cb6929b3f879963b53541b490e5c976"
+    },
+    {
+      "index": 175,
+      "file": "hulk/r11_c16.safetensors",
+      "seed": 9365175,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "19a4ce71787857747063b7ed60dea480db5fcb52b04b33753a72f5ed9182af8c"
+    },
+    {
+      "index": 176,
+      "file": "hulk/r12_c01.safetensors",
+      "seed": 9365176,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "afeee48da3c7a740742ef978d9fd0d3fc1d18e231dd3d116a9b73485eb1d8dcf"
+    },
+    {
+      "index": 177,
+      "file": "hulk/r12_c02.safetensors",
+      "seed": 9365177,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a firelit forge with copper pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "290474f4e2b8b2bedbe42cf90e4aa12e32813154286d2f23a24adb1ea652d0a3"
+    },
+    {
+      "index": 178,
+      "file": "hulk/r12_c03.safetensors",
+      "seed": 9365178,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "57bc6d3bb7bd6e62c6f40b28e61436f9cf9fa27b6f7f5dbffa4ebb5fd964eb25"
+    },
+    {
+      "index": 179,
+      "file": "hulk/r12_c04.safetensors",
+      "seed": 9365179,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "e00df9dc6d2c66b9cb32b88063d619b76bf709216fa16c8d411a5d780466388d"
+    },
+    {
+      "index": 180,
+      "file": "hulk/r12_c05.safetensors",
+      "seed": 9365180,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "ae49255b37e254febd39bcc96676b0e8e45f5aa012dc90931af6d36c830170fb"
+    },
+    {
+      "index": 181,
+      "file": "hulk/r12_c06.safetensors",
+      "seed": 9365181,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "c1bafced556482a18cc74f75a0628b6aab7672c71c3af5c93dd4b0dc82b860f1"
+    },
+    {
+      "index": 182,
+      "file": "hulk/r12_c07.safetensors",
+      "seed": 9365182,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "f58be06d3d350017a4cdfd24133996aba23620cc379ffa5d5d1d9cc7d28a6c9d"
+    },
+    {
+      "index": 183,
+      "file": "hulk/r12_c08.safetensors",
+      "seed": 9365183,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2da6073e1f3edc4acd9e7464854f9a5703743434d4cad72ab8f30fcc312f21d4"
+    },
+    {
+      "index": 184,
+      "file": "hulk/r12_c09.safetensors",
+      "seed": 9365184,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "0afbff945b9391fa27c0895cc4beaa1837688f0b376051908c30887d7f5895a4"
+    },
+    {
+      "index": 185,
+      "file": "hulk/r12_c10.safetensors",
+      "seed": 9365185,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "216ae48a28a6bb60a38cb4c13004f91f8ba776d050201f9e091dd58b1b8d9570"
+    },
+    {
+      "index": 186,
+      "file": "hulk/r12_c11.safetensors",
+      "seed": 9365186,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2b871653741076b78341893f640c6a9c95c34ee161a97181bb772b265d0d718f"
+    },
+    {
+      "index": 187,
+      "file": "hulk/r12_c12.safetensors",
+      "seed": 9365187,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "f95cbc209af72f6b6b534c9b2345adeef4037d6f228ee24ae801f105b9ef4317"
+    },
+    {
+      "index": 188,
+      "file": "hulk/r12_c13.safetensors",
+      "seed": 9365188,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "cb33de9dcb9e16850ba609135acdf0488de5093c8e3528fbc7dd64862c213b31"
+    },
+    {
+      "index": 189,
+      "file": "hulk/r12_c14.safetensors",
+      "seed": 9365189,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "be7d63184a2868aad1f183c2b150516d054a5458610d89ec1c1a7ff60021afd3"
+    },
+    {
+      "index": 190,
+      "file": "hulk/r12_c15.safetensors",
+      "seed": 9365190,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "91df5086580dc04c86ee3a1571531fe706089302e90c1c90f7ea408b43252563"
+    },
+    {
+      "index": 191,
+      "file": "hulk/r12_c16.safetensors",
+      "seed": 9365191,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "a813ea89c3212710352d123a9dd12e586e1a023175e9e7f6bbfdbf8bc89af989"
+    },
+    {
+      "index": 192,
+      "file": "hulk/r13_c01.safetensors",
+      "seed": 9365192,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "17a442da1284df3db3b7067b67367c5fee7bbd03afb4a46a8e827238ebb8b7e8"
+    },
+    {
+      "index": 193,
+      "file": "hulk/r13_c02.safetensors",
+      "seed": 9365193,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "0424ffa17c81795a788023339c2681d9dabe3770489a24be8de76a0ba5e1df6c"
+    },
+    {
+      "index": 194,
+      "file": "hulk/r13_c03.safetensors",
+      "seed": 9365194,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a firelit forge with copper pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "e37a4c558bcb6abb8e44c9c9c56b1b87674cac17e0cc9c94227352d75f7f3b00"
+    },
+    {
+      "index": 195,
+      "file": "hulk/r13_c04.safetensors",
+      "seed": 9365195,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "f80d19d242f822e4cd93cd1f1c6ec2c3abf8b5442eb99c100a34f0e98a7ac99b"
+    },
+    {
+      "index": 196,
+      "file": "hulk/r13_c05.safetensors",
+      "seed": 9365196,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "bff0444bd74f3dedecfeb80a9ede3c3a67d27f054f4881e749d6762d326b5a1f"
+    },
+    {
+      "index": 197,
+      "file": "hulk/r13_c06.safetensors",
+      "seed": 9365197,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "9dee2603e5b88de06694157f7b7ca2447049e1168f7544c3e79abbf96fd67f30"
+    },
+    {
+      "index": 198,
+      "file": "hulk/r13_c07.safetensors",
+      "seed": 9365198,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "88bc4e030bd3edc6f79a100572cb7f992934214da2b19e1ab4b105bf8048aeb4"
+    },
+    {
+      "index": 199,
+      "file": "hulk/r13_c08.safetensors",
+      "seed": 9365199,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "57a04fb4f027eefa5dde009c7c04b36f531b2d99af87b4df956f3fe21b18e9c2"
+    },
+    {
+      "index": 200,
+      "file": "hulk/r13_c09.safetensors",
+      "seed": 9365200,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2024c74b0c362ff39e4431c14d2d7e68addbe3e38c53e0d972962483f9af01a1"
+    },
+    {
+      "index": 201,
+      "file": "hulk/r13_c10.safetensors",
+      "seed": 9365201,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "fb0a7f3ef1366697791ed80b5f96bd4d5e2332f22594384d68e09a67b9c63f83"
+    },
+    {
+      "index": 202,
+      "file": "hulk/r13_c11.safetensors",
+      "seed": 9365202,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "8cfd93e1100ac368a3dc4b92dfcb3aa9ad091b225ba413c84882d534ace2c8ce"
+    },
+    {
+      "index": 203,
+      "file": "hulk/r13_c12.safetensors",
+      "seed": 9365203,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "917b35d40c9ef39f293403f6677f807fcc8afd1e4a2464bffd1d7aa6d8193e7d"
+    },
+    {
+      "index": 204,
+      "file": "hulk/r13_c13.safetensors",
+      "seed": 9365204,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "ceb7eacc8f16c118fe6249060d2159fbe68d98c6e8c998313ac278c87c99a4de"
+    },
+    {
+      "index": 205,
+      "file": "hulk/r13_c14.safetensors",
+      "seed": 9365205,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "3a815d2b2bd6577fffd8a492ddde9c8a3294b69950b471e8a0ca684c44674cb6"
+    },
+    {
+      "index": 206,
+      "file": "hulk/r13_c15.safetensors",
+      "seed": 9365206,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "cc392000f108bc52b87e4e2fede0b322cfc2cc8eb6193d2cdd306b8c66d0e62a"
+    },
+    {
+      "index": 207,
+      "file": "hulk/r13_c16.safetensors",
+      "seed": 9365207,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "438e11bb02793f58d6c4eea1801d55decc369da6ff0c5e9252c67d5c69002482"
+    },
+    {
+      "index": 208,
+      "file": "hulk/r14_c01.safetensors",
+      "seed": 9365208,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a firelit forge with copper pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "ee344bb1d1d228cf36d3fe420e87bd09f135cfe771f579644aa8b78a610b6133"
+    },
+    {
+      "index": 209,
+      "file": "hulk/r14_c02.safetensors",
+      "seed": 9365209,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a firelit forge with copper pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "86f1ba594ca70e0d413ccfc19b39c7866a8963339f0c7a759e56268974edbe53"
+    },
+    {
+      "index": 210,
+      "file": "hulk/r14_c03.safetensors",
+      "seed": 9365210,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a firelit forge with copper pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "a2c542d4edc0499ec086481dea68c9edabb078a4ed9a4ce3541607cbbfa7f9ee"
+    },
+    {
+      "index": 211,
+      "file": "hulk/r14_c04.safetensors",
+      "seed": 9365211,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a firelit forge with copper pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "266ab98e9a0f9db93e743da7e93ca12e6fbc40cd18e8c08ab1655d2a5653c1d7"
+    },
+    {
+      "index": 212,
+      "file": "hulk/r14_c05.safetensors",
+      "seed": 9365212,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "58799fa6445f6d061cedb1a7596d2fcebec88dbfa5a6342f16c2f2f832b1e420"
+    },
+    {
+      "index": 213,
+      "file": "hulk/r14_c06.safetensors",
+      "seed": 9365213,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "8e24b211139c3ca521860c36e5046b6796f854b6e2cf037fc4ed848fbdb8c27a"
+    },
+    {
+      "index": 214,
+      "file": "hulk/r14_c07.safetensors",
+      "seed": 9365214,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "ba14513ad8fb87521894e22820c3cb42b124a7ee1adf496a6e0f32f41dd233cc"
+    },
+    {
+      "index": 215,
+      "file": "hulk/r14_c08.safetensors",
+      "seed": 9365215,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "fbf091fc28ca27f7af149a2a5d7acd43adcd1dd3d4e4d3750dcebbdf655d9d19"
+    },
+    {
+      "index": 216,
+      "file": "hulk/r14_c09.safetensors",
+      "seed": 9365216,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "491b10cd528fc1f9d8302d26bbd38d0e6fa1028ccdc4226421c3919132f1541a"
+    },
+    {
+      "index": 217,
+      "file": "hulk/r14_c10.safetensors",
+      "seed": 9365217,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "aafabfcf8698215aa0a9fee7e88eb6f0663dea6ac88b7b67832e01808c1589a1"
+    },
+    {
+      "index": 218,
+      "file": "hulk/r14_c11.safetensors",
+      "seed": 9365218,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "530c526ec56e9c28b6097708b5fc409f85b83ca8f8393594ce5529b8897378d2"
+    },
+    {
+      "index": 219,
+      "file": "hulk/r14_c12.safetensors",
+      "seed": 9365219,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "0478c6f15b451648446e86555f0026d25262e8c5af82be97934f677ccef10c1a"
+    },
+    {
+      "index": 220,
+      "file": "hulk/r14_c13.safetensors",
+      "seed": 9365220,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "d1248e0b0e2761ee1bd1c3a8d3293d46857bfeb5aa551027bf07f60e6f9e4fe7"
+    },
+    {
+      "index": 221,
+      "file": "hulk/r14_c14.safetensors",
+      "seed": 9365221,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "be0972902392d7d58bdcd123a8ba8f870b372fee60c16b04d56ba3dfdcecef2e"
+    },
+    {
+      "index": 222,
+      "file": "hulk/r14_c15.safetensors",
+      "seed": 9365222,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "c709894a5b1539b64a443b56f886b3b910a1a7eebcce06070d280f54e2c67065"
+    },
+    {
+      "index": 223,
+      "file": "hulk/r14_c16.safetensors",
+      "seed": 9365223,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2e4fed853455b8e68003179c6be438d7c505f6f0c48e9211a46cc0480d62a588"
+    },
+    {
+      "index": 224,
+      "file": "hulk/r15_c01.safetensors",
+      "seed": 9365224,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a firelit forge with copper pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "fbff7207377e7e876e8115694b5a9c517a42566f880a374d5861e1079a17ed48"
+    },
+    {
+      "index": 225,
+      "file": "hulk/r15_c02.safetensors",
+      "seed": 9365225,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a firelit forge with copper pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "536af69baef677e5f261e175c0d4551ba6aa5124c084a05b3827d2c5385e64ce"
+    },
+    {
+      "index": 226,
+      "file": "hulk/r15_c03.safetensors",
+      "seed": 9365226,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a firelit forge with copper pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "787b03138b9741904a4263b63d48dcd19f74e7f1c086db07794d8902459f2083"
+    },
+    {
+      "index": 227,
+      "file": "hulk/r15_c04.safetensors",
+      "seed": 9365227,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "e336bc72dad0dae5562dba6c45068217a6dae758a567998f058c8f7121cd9b9d"
+    },
+    {
+      "index": 228,
+      "file": "hulk/r15_c05.safetensors",
+      "seed": 9365228,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, cool steel-blue light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "b408df132b7f6ec51defadc034e6194507d440b3207628a11523f8256d1f75a7"
+    },
+    {
+      "index": 229,
+      "file": "hulk/r15_c06.safetensors",
+      "seed": 9365229,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, cool steel-blue light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "7bef5210f99b8038de1ad51819b17b08de58bf729fbb4bc6f3ae24825ce6615a"
+    },
+    {
+      "index": 230,
+      "file": "hulk/r15_c07.safetensors",
+      "seed": 9365230,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2265e12b20f61e8149babcc2dede2d0f0e1842cf2b4e5bb2f26a902d81c7a532"
+    },
+    {
+      "index": 231,
+      "file": "hulk/r15_c08.safetensors",
+      "seed": 9365231,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "c608f1225926e2ea58fc8c06be1aa501a6535ecab174195a2aa3c5a61f9ea6d6"
+    },
+    {
+      "index": 232,
+      "file": "hulk/r15_c09.safetensors",
+      "seed": 9365232,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "a533cda628a6dede9b922196f18d8b51b497c21b75baffe84c442f208abadfa4"
+    },
+    {
+      "index": 233,
+      "file": "hulk/r15_c10.safetensors",
+      "seed": 9365233,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "c5bcf161dcb218e3fdb14ba9a231c9c62489c5293f0afb5a4b017c611bc8e7aa"
+    },
+    {
+      "index": 234,
+      "file": "hulk/r15_c11.safetensors",
+      "seed": 9365234,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2781e5737e8eda96bf5d84774f9069452975f6ca690c204baa22c11cac5215bb"
+    },
+    {
+      "index": 235,
+      "file": "hulk/r15_c12.safetensors",
+      "seed": 9365235,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "9a3c4949a4772f255cbafa8d86744a72293e4339f1751c1c35e9cff80c193777"
+    },
+    {
+      "index": 236,
+      "file": "hulk/r15_c13.safetensors",
+      "seed": 9365236,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "dcb565ae35e246251606ac155b58eca43c0e5cf586b3a12f98b39364b8711d38"
+    },
+    {
+      "index": 237,
+      "file": "hulk/r15_c14.safetensors",
+      "seed": 9365237,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "0989ef2b86a35e40fd235f71cb11369c6ac7f7b33771595aad54639a2a969bea"
+    },
+    {
+      "index": 238,
+      "file": "hulk/r15_c15.safetensors",
+      "seed": 9365238,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "12116caa301fe2dd3312e08efd6efec97ba64def75e19ef9400603d127b8384b"
+    },
+    {
+      "index": 239,
+      "file": "hulk/r15_c16.safetensors",
+      "seed": 9365239,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "806723088e6f33ea45de6baa3b32d202e980f17856e72e758c7fb1ca9b24c066"
+    },
+    {
+      "index": 240,
+      "file": "hulk/r16_c01.safetensors",
+      "seed": 9365240,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a firelit forge with copper pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "7d91aa8a6af079b67507b43fce91e261250c22ac98bafd80fba64bae5da67162"
+    },
+    {
+      "index": 241,
+      "file": "hulk/r16_c02.safetensors",
+      "seed": 9365241,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "76c64b024c76a31d525f32312d015d60c7177236544d0046d1016bc32d01c8d6"
+    },
+    {
+      "index": 242,
+      "file": "hulk/r16_c03.safetensors",
+      "seed": 9365242,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "68c84f1a76018a724e8e78a188b2074a83b63a1aeb1b7240e7658423b2f4d127"
+    },
+    {
+      "index": 243,
+      "file": "hulk/r16_c04.safetensors",
+      "seed": 9365243,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "855342f1fea8a9333f8d51f5e6d41e35d9f3a8dccb950f0db17a9d551c3a5c05"
+    },
+    {
+      "index": 244,
+      "file": "hulk/r16_c05.safetensors",
+      "seed": 9365244,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, cool steel-blue light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "bbf3a79e47bdf317148834e944d068750fa0a56a492beb8550583c6b8559de00"
+    },
+    {
+      "index": 245,
+      "file": "hulk/r16_c06.safetensors",
+      "seed": 9365245,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, cool steel-blue light",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "b6d3095de132e67ffc4692b9e98c700749a3aa3db228ca0e5d3059e8700aa4ab"
+    },
+    {
+      "index": 246,
+      "file": "hulk/r16_c07.safetensors",
+      "seed": 9365246,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir on a storm-blue bridge among stone arches, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "f22c254cb847be6a419a83768ded93243e43d29af8c33a30a96b33f5ff96de52"
+    },
+    {
+      "index": 247,
+      "file": "hulk/r16_c08.safetensors",
+      "seed": 9365247,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "8d86a0c87d92700a216cb481609edc500979179ee770b3a02ac72e5833f0ddf2"
+    },
+    {
+      "index": 248,
+      "file": "hulk/r16_c09.safetensors",
+      "seed": 9365248,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "288ff9d479447600f122afc55759bdfd2a4b67d44d20a1338c7f31ed63683e7a"
+    },
+    {
+      "index": 249,
+      "file": "hulk/r16_c10.safetensors",
+      "seed": 9365249,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "bca0325f725a04d0dd6e4767cefbb587f3c8f28207eb7f15aa60b8fe4b605692"
+    },
+    {
+      "index": 250,
+      "file": "hulk/r16_c11.safetensors",
+      "seed": 9365250,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "9c3d6ebe5de5315f680be5370f09632d3740ca308a513c04eaa2b13f884859cf"
+    },
+    {
+      "index": 251,
+      "file": "hulk/r16_c12.safetensors",
+      "seed": 9365251,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "05efb8ed518a996b6d905bb93542d93bf85c5caa86f7742b94debe4ee5d02363"
+    },
+    {
+      "index": 252,
+      "file": "hulk/r16_c13.safetensors",
+      "seed": 9365252,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "888017fc0da663869275a16f8de71843fa732bf88a0e1a4a4cd4731ddd4cc35d"
+    },
+    {
+      "index": 253,
+      "file": "hulk/r16_c14.safetensors",
+      "seed": 9365253,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "3f3181dbcbc3ba16b2e604dd36a107c19009ecd255dc86e34dd96e825d319a73"
+    },
+    {
+      "index": 254,
+      "file": "hulk/r16_c15.safetensors",
+      "seed": 9365254,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "4df8a28b821b90d72fabd95aa261570f185c4dfcb06f3f360586529558d59306"
+    },
+    {
+      "index": 255,
+      "file": "hulk/r16_c16.safetensors",
+      "seed": 9365255,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "450b5264b1e93b912991fe290214da91a96834f52cfaeb9aca30990c43ac0770"
+    }
+  ]
+}

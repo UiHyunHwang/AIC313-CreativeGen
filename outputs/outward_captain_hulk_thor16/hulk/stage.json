@@ -1,0 +1,2568 @@
+{
+  "subject": "hulk",
+  "leaf": "captain_america",
+  "target": "outward_hulk16/portraits/hulk_9363100.png",
+  "directory": "outward_captain_hulk_thor16",
+  "tiles": [
+    {
+      "index": 0,
+      "file": "hulk/r01_c01.safetensors",
+      "seed": 9494000,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "c5360597e467de827d358dd436416d57331c6114cf5d893802e3c38261c1537e"
+    },
+    {
+      "index": 1,
+      "file": "hulk/r01_c02.safetensors",
+      "seed": 9494001,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "6ef13ee8299fc4ac74f768f762472c1210f8f7434895cb423a3957159b4be278"
+    },
+    {
+      "index": 2,
+      "file": "hulk/r01_c03.safetensors",
+      "seed": 9494002,
+      "prompt": "Captain America in a blue helmet, waist-up, cool steel-blue light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "1e2b8a0465fd507fdb063dfb60eb8d46f6b65c48fc354ce57d1104ba36312db8"
+    },
+    {
+      "index": 3,
+      "file": "hulk/r01_c04.safetensors",
+      "seed": 9494003,
+      "prompt": "Captain America holding his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "ef4b2722095cbc7cdd2d5f533311b681b05b36dd09cabc40337a58c5e02cd8c6"
+    },
+    {
+      "index": 4,
+      "file": "hulk/r01_c05.safetensors",
+      "seed": 9494004,
+      "prompt": "Captain America running with his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "004c30992af728c94024b011bfce736bf78909bff2742a102e53bf14ba7dfea4"
+    },
+    {
+      "index": 5,
+      "file": "hulk/r01_c06.safetensors",
+      "seed": 9494005,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "03e85f14c6db984fc4e8b00327ad9454d847bfdb5ba43ebc85a5ddd94fd7578f"
+    },
+    {
+      "index": 6,
+      "file": "hulk/r01_c07.safetensors",
+      "seed": 9494006,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "414b810a183df031add6ce6de837faa1da5b4d64af32f056872fdda2e367e5bd"
+    },
+    {
+      "index": 7,
+      "file": "hulk/r01_c08.safetensors",
+      "seed": 9494007,
+      "prompt": "Captain America running with his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "f7b3268cad2a576c28422b809ae9dab528aa368f39d1395e2081235076cba35c"
+    },
+    {
+      "index": 8,
+      "file": "hulk/r01_c09.safetensors",
+      "seed": 9494008,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "13a4c9435a33b303204acb412c87558e4daf65ba17260fe86ff8d3d9b788465e"
+    },
+    {
+      "index": 9,
+      "file": "hulk/r01_c10.safetensors",
+      "seed": 9494009,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "d2198216edcc585ec8d6936586168fb0b00e00d41accca09b366e1da47b08385"
+    },
+    {
+      "index": 10,
+      "file": "hulk/r01_c11.safetensors",
+      "seed": 9494010,
+      "prompt": "Captain America running with his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2d9546bca5451e6ce852e4e1879859ff2869a74d31edf789e3461ed93b9bbf96"
+    },
+    {
+      "index": 11,
+      "file": "hulk/r01_c12.safetensors",
+      "seed": 9494011,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "734b97e9239907cd177fdb28754e2b304073d15d3fce4ac7045beec0b8abde34"
+    },
+    {
+      "index": 12,
+      "file": "hulk/r01_c13.safetensors",
+      "seed": 9494012,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "77e3a688dda2ec68a33c3f899a5fa2767eba3858317333e75c9bf6bdbc568f26"
+    },
+    {
+      "index": 13,
+      "file": "hulk/r01_c14.safetensors",
+      "seed": 9494013,
+      "prompt": "Captain America running with his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "408b3aca6244d0158f4952588b1199c9d1fb45b419a806e5d2bc48c74c015325"
+    },
+    {
+      "index": 14,
+      "file": "hulk/r01_c15.safetensors",
+      "seed": 9494014,
+      "prompt": "Captain America in a blue helmet, waist-up, cool steel-blue light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "f2caad5be98549edb9dcaf995a87b631c5284c8fab43476fe15a0d274dda5746"
+    },
+    {
+      "index": 15,
+      "file": "hulk/r01_c16.safetensors",
+      "seed": 9494015,
+      "prompt": "Captain America holding his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "96d67fc3f9cc1e119d02611bb756b913200e2e3c858be7f627eaf3a8ec2164a7"
+    },
+    {
+      "index": 16,
+      "file": "hulk/r02_c01.safetensors",
+      "seed": 9494016,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "590689f22a3f0aef6cf8bffd1db39ee8d76a662685610be9de54481f35d1416d"
+    },
+    {
+      "index": 17,
+      "file": "hulk/r02_c02.safetensors",
+      "seed": 9494017,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "406c1d084c6811d8aeac97a3b142664355582cdf2c62e35cb5138f615292cd38"
+    },
+    {
+      "index": 18,
+      "file": "hulk/r02_c03.safetensors",
+      "seed": 9494018,
+      "prompt": "Captain America running with his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "3e0b6eb6fb09e3a5a84f3345983423347f309000f476dff71dac6af4adab9c46"
+    },
+    {
+      "index": 19,
+      "file": "hulk/r02_c04.safetensors",
+      "seed": 9494019,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "77dd17c1d01e5ce938e856e8c2e8a04e84ee9aa0a8f1cc7f8e608b0989e9c257"
+    },
+    {
+      "index": 20,
+      "file": "hulk/r02_c05.safetensors",
+      "seed": 9494020,
+      "prompt": "Captain America holding his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2fb3e46ebb33a590b7897905ce12b57af6df4f192a0abb4030168f2af8a63b32"
+    },
+    {
+      "index": 21,
+      "file": "hulk/r02_c06.safetensors",
+      "seed": 9494021,
+      "prompt": "Captain America running with his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "9263ce6919152942b218d0d9607f1e1881034faaf074770aadb5be937898331d"
+    },
+    {
+      "index": 22,
+      "file": "hulk/r02_c07.safetensors",
+      "seed": 9494022,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "b1e123ced6590b9bcb1421cb9a6caa19b457c1492d3a2d5ffa1543b0f553d8ce"
+    },
+    {
+      "index": 23,
+      "file": "hulk/r02_c08.safetensors",
+      "seed": 9494023,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "5978bc411a3d81bbf626ca343d6d230495c470f6d402452355554c6c645f539a"
+    },
+    {
+      "index": 24,
+      "file": "hulk/r02_c09.safetensors",
+      "seed": 9494024,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "db79fa26615d10d88a0cd7e041fcdc1324b8b57240c1dcf8fe3c9c67015e41a3"
+    },
+    {
+      "index": 25,
+      "file": "hulk/r02_c10.safetensors",
+      "seed": 9494025,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "b7999f1086e63e85aa84a0a91d7862185281239d950eed0db06b70c0035ed7ed"
+    },
+    {
+      "index": 26,
+      "file": "hulk/r02_c11.safetensors",
+      "seed": 9494026,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "97b1f018ead425737d7ad7063045660bbfde7e852e3286c4b2593a79372b3afc"
+    },
+    {
+      "index": 27,
+      "file": "hulk/r02_c12.safetensors",
+      "seed": 9494027,
+      "prompt": "Captain America running with his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "006e1bf39ba061632d18d96df72b88d62e9e486938e64baad3b2feb7be209369"
+    },
+    {
+      "index": 28,
+      "file": "hulk/r02_c13.safetensors",
+      "seed": 9494028,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "b3a4808a9883032bbc3baef7ee60ae106a67232f48bbf030cca8f564a4b35a0f"
+    },
+    {
+      "index": 29,
+      "file": "hulk/r02_c14.safetensors",
+      "seed": 9494029,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "40e69819aaa2d34654cabcbc443297a08ed036da1235bdb9e2d18cb10dea93bd"
+    },
+    {
+      "index": 30,
+      "file": "hulk/r02_c15.safetensors",
+      "seed": 9494030,
+      "prompt": "Captain America running with his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "863c76b6c5976b2247443ba0a7bbf0ab7446c3d8c3fabd08afc8a70e4ba983b2"
+    },
+    {
+      "index": 31,
+      "file": "hulk/r02_c16.safetensors",
+      "seed": 9494031,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2ad2056f3d004ab2505bf9fb19e4349f71332c905a3f973e59e8535d5ffb5fd5"
+    },
+    {
+      "index": 32,
+      "file": "hulk/r03_c01.safetensors",
+      "seed": 9494032,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "26189b27fb591b33ea65f0a10ef83c6ecd44c81775928b4303d3edd1c756b6b0"
+    },
+    {
+      "index": 33,
+      "file": "hulk/r03_c02.safetensors",
+      "seed": 9494033,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "5044d9d7e6f96227cea46413520dfff482e02bf1a21dfc1f79077e58c06d9259"
+    },
+    {
+      "index": 34,
+      "file": "hulk/r03_c03.safetensors",
+      "seed": 9494034,
+      "prompt": "Captain America holding his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "04991296ec9b1e4e653d11eedeaa9a3228c7a1a8af392ebb984636a9c5a59172"
+    },
+    {
+      "index": 35,
+      "file": "hulk/r03_c04.safetensors",
+      "seed": 9494035,
+      "prompt": "Captain America running with his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "7046fe04fd477924b3a4b5eadc53775e95203989a5aa3e15ad14863299ef2b26"
+    },
+    {
+      "index": 36,
+      "file": "hulk/r03_c05.safetensors",
+      "seed": 9494036,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "c619987f7b72a3344e6da6c44c89e524469b1009b1cc1109131f0154bcb699ba"
+    },
+    {
+      "index": 37,
+      "file": "hulk/r03_c06.safetensors",
+      "seed": 9494037,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "8bce91066ac1cb4ad3a31b848949783537e881f9994b1e72d85d7a37ea04cf6a"
+    },
+    {
+      "index": 38,
+      "file": "hulk/r03_c07.safetensors",
+      "seed": 9494038,
+      "prompt": "Captain America running with his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2dc0416d8d49cd17b8f86a0a411d70a469e45f7058af66484024f7ae1dd19056"
+    },
+    {
+      "index": 39,
+      "file": "hulk/r03_c08.safetensors",
+      "seed": 9494039,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "d76ad0088afd350c722f61c56fbdbc6da54fa3686a0beb77a0bf1ab40443bb01"
+    },
+    {
+      "index": 40,
+      "file": "hulk/r03_c09.safetensors",
+      "seed": 9494040,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "d4ff2005e3fd44ebc35dfc861393db947398d26677e5338d734f4c2dd8c6d910"
+    },
+    {
+      "index": 41,
+      "file": "hulk/r03_c10.safetensors",
+      "seed": 9494041,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "b3ce6074c9bd2739b53daf3ca727608b7455bf523b7963058084d89ae1b37e87"
+    },
+    {
+      "index": 42,
+      "file": "hulk/r03_c11.safetensors",
+      "seed": 9494042,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "ba0449eef591e7beab481362a27f88c4bef0beeffecade7c545468e775a6b581"
+    },
+    {
+      "index": 43,
+      "file": "hulk/r03_c12.safetensors",
+      "seed": 9494043,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "a131b136af7510dbc6eba53132e1fa2a6e7a2c366770cf82ada26e516dea0f58"
+    },
+    {
+      "index": 44,
+      "file": "hulk/r03_c13.safetensors",
+      "seed": 9494044,
+      "prompt": "Captain America running with his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "9dc5406653ba77e404d0cf795286a08e46402037153876088ba338be4c903c1e"
+    },
+    {
+      "index": 45,
+      "file": "hulk/r03_c14.safetensors",
+      "seed": 9494045,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "853ec7a0e231ed0156fcb7eb96aacbd2fc904524490159f04ca2885c05fa827c"
+    },
+    {
+      "index": 46,
+      "file": "hulk/r03_c15.safetensors",
+      "seed": 9494046,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2debb104508dd8b86c4113714298bd36b04fcb232386790a590a72934dd003b1"
+    },
+    {
+      "index": 47,
+      "file": "hulk/r03_c16.safetensors",
+      "seed": 9494047,
+      "prompt": "Captain America running with his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "6f2995cceaba9c02abe5042816decb5c1b81296f6d198982c862b9c6f20ca636"
+    },
+    {
+      "index": 48,
+      "file": "hulk/r04_c01.safetensors",
+      "seed": 9494048,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "0778f4781a9a7eeea6f4268a3a5d7977cd24eae3e963dc0b19caae7cd27eef96"
+    },
+    {
+      "index": 49,
+      "file": "hulk/r04_c02.safetensors",
+      "seed": 9494049,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "c1419747d7f2dae8a01fe5dbe882297138d39baea36e95857ba19097525af5a5"
+    },
+    {
+      "index": 50,
+      "file": "hulk/r04_c03.safetensors",
+      "seed": 9494050,
+      "prompt": "Captain America in a blue helmet, waist-up, cool steel-blue light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "ff31fde9e88248f3b776a6e8cef52cf11fd359600244d6de51fa1c723cb0bcbb"
+    },
+    {
+      "index": 51,
+      "file": "hulk/r04_c04.safetensors",
+      "seed": 9494051,
+      "prompt": "Captain America holding his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "e04abe9f01604805bf94d285204f08dec59baf2da58697253238b2a22b6795e4"
+    },
+    {
+      "index": 52,
+      "file": "hulk/r04_c05.safetensors",
+      "seed": 9494052,
+      "prompt": "Captain America running with his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "a2f5de34a6515b3eeaade1d9a7dca9decc3a963ecb0777aeac2130699400d5f2"
+    },
+    {
+      "index": 53,
+      "file": "hulk/r04_c06.safetensors",
+      "seed": 9494053,
+      "prompt": "Captain America in a blue helmet, waist-up, cool steel-blue light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "0c0027e334a0ad2291e87d3cb643d8c48fa902f08b39283ad39da52846f2e014"
+    },
+    {
+      "index": 54,
+      "file": "hulk/r04_c07.safetensors",
+      "seed": 9494054,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "6224cfd9a6fa94f51b12c49311e8907aa5e4e6e880bf309fe047fe6aefbe120a"
+    },
+    {
+      "index": 55,
+      "file": "hulk/r04_c08.safetensors",
+      "seed": 9494055,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "a6864b28ed35679c7e19c6423f2d93cfaf88a55c6be13d93f7c3f21ac36f89df"
+    },
+    {
+      "index": 56,
+      "file": "hulk/r04_c09.safetensors",
+      "seed": 9494056,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "b66d8096bae6c4d5c35f07cfd2e9a1df4a04e36792b98f41b9a4474711ea627d"
+    },
+    {
+      "index": 57,
+      "file": "hulk/r04_c10.safetensors",
+      "seed": 9494057,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "be74ee1668a6040e8e38f71a189f898f36d3b754a24dbf80393d5067b0d38161"
+    },
+    {
+      "index": 58,
+      "file": "hulk/r04_c11.safetensors",
+      "seed": 9494058,
+      "prompt": "Captain America running with his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "210a98c97aa071d6ecb79297686e36a4ffea0e398b2c694b84c1a4ed03ddcbc3"
+    },
+    {
+      "index": 59,
+      "file": "hulk/r04_c12.safetensors",
+      "seed": 9494059,
+      "prompt": "Captain America in a blue helmet, waist-up, cool steel-blue light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "d1bde7ee93e5485a943dfe0c87e42ee63a012d90848eb2366cb8b7770f2bce05"
+    },
+    {
+      "index": 60,
+      "file": "hulk/r04_c13.safetensors",
+      "seed": 9494060,
+      "prompt": "Captain America holding his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "318a3f6dfd898ab5d9e2d39cbf6be449fb0bd56281af7a9436cac695d1c78c26"
+    },
+    {
+      "index": 61,
+      "file": "hulk/r04_c14.safetensors",
+      "seed": 9494061,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "e181a34d0be723c5fe954d84aeadb292937fed0191bcaf611232722c81fe80c5"
+    },
+    {
+      "index": 62,
+      "file": "hulk/r04_c15.safetensors",
+      "seed": 9494062,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "315226989f893014502c099425a1f103b8318b6fbdd95d88bae1e89080329d4e"
+    },
+    {
+      "index": 63,
+      "file": "hulk/r04_c16.safetensors",
+      "seed": 9494063,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "10ec1e94a35b61390f994b636acdf767e1ef4ef1dfac8790d8daf7909aa8a4d8"
+    },
+    {
+      "index": 64,
+      "file": "hulk/r05_c01.safetensors",
+      "seed": 9494064,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "1e3425b59e72823d8e2340909a69980a05a8a00e0431e69bc797f46678278a32"
+    },
+    {
+      "index": 65,
+      "file": "hulk/r05_c02.safetensors",
+      "seed": 9494065,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "157339bda3677b542ecdd119b8f7f5bf272af63e547b17a74d50617565e18ea3"
+    },
+    {
+      "index": 66,
+      "file": "hulk/r05_c03.safetensors",
+      "seed": 9494066,
+      "prompt": "Captain America running with his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "1fc709385611cd4a9f279cf26eeec2a3f724739c7400704969b7403273cc3f30"
+    },
+    {
+      "index": 67,
+      "file": "hulk/r05_c04.safetensors",
+      "seed": 9494067,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "50d5a841ed2b92c02767846ef2bcc79b0ebbe33bd46326f1390518057955eb03"
+    },
+    {
+      "index": 68,
+      "file": "hulk/r05_c05.safetensors",
+      "seed": 9494068,
+      "prompt": "Captain America bracing his shield inside an amber-lit engine hall, copper pipes and shadowed beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "9da13eb68bfb22b39fe6a3d29f05728bc8c354643550f5cb663d505cd4044f48"
+    },
+    {
+      "index": 69,
+      "file": "hulk/r05_c06.safetensors",
+      "seed": 9494069,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "979e913aaf3e005e0ec463eec0069202defb57efcc118eb64e49e750ae56e647"
+    },
+    {
+      "index": 70,
+      "file": "hulk/r05_c07.safetensors",
+      "seed": 9494070,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "70bf940e5ecd3aba60645488c3d78e458ca1706bf970eeda72bde1d55d5ac48e"
+    },
+    {
+      "index": 71,
+      "file": "hulk/r05_c08.safetensors",
+      "seed": 9494071,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "fd8e519b8a9e265a9c65b53f741e019d616e3f4573daa85a31ff7dfe3e4afd5e"
+    },
+    {
+      "index": 72,
+      "file": "hulk/r05_c09.safetensors",
+      "seed": 9494072,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "d37a5f5f9b845829a7b7b796753b6506ae652a9e36ccec6ea730a3cd4788ab8b"
+    },
+    {
+      "index": 73,
+      "file": "hulk/r05_c10.safetensors",
+      "seed": 9494073,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "d8d9ac8aba20e4231723a4f6c3d200c4a8a098b24a7e2f10cf7ee5a27a2dc690"
+    },
+    {
+      "index": 74,
+      "file": "hulk/r05_c11.safetensors",
+      "seed": 9494074,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "9f4a8ea2fefe93869d899f9ca05cbac1fe02c91174ef73392e6615e654741633"
+    },
+    {
+      "index": 75,
+      "file": "hulk/r05_c12.safetensors",
+      "seed": 9494075,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "a0433799a36429e06687cefd92aeb17f049f2e1388600fefbe5c83ce0107563d"
+    },
+    {
+      "index": 76,
+      "file": "hulk/r05_c13.safetensors",
+      "seed": 9494076,
+      "prompt": "Captain America in his blue helmet, waist-up on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "25bef63f20ba01565a0f2f06855d1a48a3ad5996fa5ad0fe5ccf2f91f552acac"
+    },
+    {
+      "index": 77,
+      "file": "hulk/r05_c14.safetensors",
+      "seed": 9494077,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "d0c7ce8837f24322c0ebfcacc3c9fa8ff617be3a0142b774ed311c5ad6a0b83d"
+    },
+    {
+      "index": 78,
+      "file": "hulk/r05_c15.safetensors",
+      "seed": 9494078,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "4664186d469e9d0468ee27e78cbf9e67fbc277892b5c664487e30f597bef2dc8"
+    },
+    {
+      "index": 79,
+      "file": "hulk/r05_c16.safetensors",
+      "seed": 9494079,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2f7b1de0625105f1c51097bfa26d80434128f6619eaf21ba5e2cefc092df9714"
+    },
+    {
+      "index": 80,
+      "file": "hulk/r06_c01.safetensors",
+      "seed": 9494080,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "8bc65ae7245f51dfb94de3e6b88f0dcdf5f1e072b11614b9c9922df2015b3821"
+    },
+    {
+      "index": 81,
+      "file": "hulk/r06_c02.safetensors",
+      "seed": 9494081,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "529858433b1abb32dec04a53f2f52d5271b01465069835f02c0ea94e20e07dfe"
+    },
+    {
+      "index": 82,
+      "file": "hulk/r06_c03.safetensors",
+      "seed": 9494082,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "0eb1dd78adebc6bda9d374bc38e2ec24b017106ccf66ba97d2ce6edc672b36c8"
+    },
+    {
+      "index": 83,
+      "file": "hulk/r06_c04.safetensors",
+      "seed": 9494083,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "f226416d37a11e6efcdc5963cc6aae50943113af08c938118970a2e7bb3f3286"
+    },
+    {
+      "index": 84,
+      "file": "hulk/r06_c05.safetensors",
+      "seed": 9494084,
+      "prompt": "Captain America in his blue helmet, waist-up inside an amber-lit engine hall, copper pipes and shadowed beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "96211d5b564142a66dbb831a7e8b6e203270987af30da63096424494c963dcea"
+    },
+    {
+      "index": 85,
+      "file": "hulk/r06_c06.safetensors",
+      "seed": 9494085,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "7287cb8658c70e15c7348480ddf54d40a6ba5ca261145fdbba1ac941d030922e"
+    },
+    {
+      "index": 86,
+      "file": "hulk/r06_c07.safetensors",
+      "seed": 9494086,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "31e058793d77ae85f2d6579916c61de946f2addfd06b4bdb32753b25d8d2e71a"
+    },
+    {
+      "index": 87,
+      "file": "hulk/r06_c08.safetensors",
+      "seed": 9494087,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "dc05dafe0c8fad80013a7af3742d599077bc199d593784738f4bc4a4ec01a512"
+    },
+    {
+      "index": 88,
+      "file": "hulk/r06_c09.safetensors",
+      "seed": 9494088,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "c5858a35231b9bcbc3275ba6ea84141efe7508d38ebfbff0353b3cd13da48406"
+    },
+    {
+      "index": 89,
+      "file": "hulk/r06_c10.safetensors",
+      "seed": 9494089,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "a41e4ab5181eb0c317547ed566f114fae1883aee1b8b114ce652e7603a498225"
+    },
+    {
+      "index": 90,
+      "file": "hulk/r06_c11.safetensors",
+      "seed": 9494090,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "8cbb5b3d66d00a35d3108c51074599018dc851af15760cb55f3f284ecceac3a4"
+    },
+    {
+      "index": 91,
+      "file": "hulk/r06_c12.safetensors",
+      "seed": 9494091,
+      "prompt": "Captain America bracing his shield inside an amber-lit engine hall, copper pipes and shadowed beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "59f6fb7322cd2d05aee1f5d7cedc66044920bfddd195277d5e344f57afc4988f"
+    },
+    {
+      "index": 92,
+      "file": "hulk/r06_c13.safetensors",
+      "seed": 9494092,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2a5c6332d3f2469dad4620bbe35bbfaea6114432cdc7e65ef818d892d8e97d3d"
+    },
+    {
+      "index": 93,
+      "file": "hulk/r06_c14.safetensors",
+      "seed": 9494093,
+      "prompt": "Captain America in a blue helmet, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "ddfd6cb1394fb3866c53bcbc6247fa7588b4ce4c6965fb04289465564632bc6b"
+    },
+    {
+      "index": 94,
+      "file": "hulk/r06_c15.safetensors",
+      "seed": 9494094,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "7f734965fb40f77d0e5705556d7172ffbba7ee4d9ebd7b10db95f62bab96399a"
+    },
+    {
+      "index": 95,
+      "file": "hulk/r06_c16.safetensors",
+      "seed": 9494095,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "e117e9416f839f90f3b3bc96055b22a8efdb0fbb4d6dd62fddbf7a3096fd6a22"
+    },
+    {
+      "index": 96,
+      "file": "hulk/r07_c01.safetensors",
+      "seed": 9494096,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "e077def350d9db3b975976278e9da5e63801cdd557636fca1c851d06d148366b"
+    },
+    {
+      "index": 97,
+      "file": "hulk/r07_c02.safetensors",
+      "seed": 9494097,
+      "prompt": "Captain America running with his shield, crimson reflected light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "93b308e795cef3db235d919dc3513a3cca99efc19e41a646abcd5bd4f2f5d2b3"
+    },
+    {
+      "index": 98,
+      "file": "hulk/r07_c03.safetensors",
+      "seed": 9494098,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "9f94bc66db7bdc4d09c2d931c2c9c07b6cbfda101a2605c61ededd43f3190fb6"
+    },
+    {
+      "index": 99,
+      "file": "hulk/r07_c04.safetensors",
+      "seed": 9494099,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "37102bb35d889f576ec2d7b70d015f553bee86e084ed43d6992a30548847736f"
+    },
+    {
+      "index": 100,
+      "file": "hulk/r07_c05.safetensors",
+      "seed": 9494100,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "45f44ddaf64279cd6ad3b61381c168d9ee2774fa79371ccee320b4c64eaaeeb7"
+    },
+    {
+      "index": 101,
+      "file": "hulk/r07_c06.safetensors",
+      "seed": 9494101,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "6b6f7542abea19a71bf878e5a73c2b0d77d2d8df4b93bfde436a0c707d0d64be"
+    },
+    {
+      "index": 102,
+      "file": "hulk/r07_c07.safetensors",
+      "seed": 9494102,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "5da61bfaa26b3bfadcc7b823b655c8adbc1e481642034a5c6b5cd380581ea159"
+    },
+    {
+      "index": 103,
+      "file": "hulk/r07_c08.safetensors",
+      "seed": 9494103,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "869585395efe4e64f646efdce106e4513126e9a7c44601c07f9475a271928091"
+    },
+    {
+      "index": 104,
+      "file": "hulk/r07_c09.safetensors",
+      "seed": 9494104,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "59a07f5d1b6de54b110a5322fe4d958138a9d9bf391d6a74eba7ca9c34452154"
+    },
+    {
+      "index": 105,
+      "file": "hulk/r07_c10.safetensors",
+      "seed": 9494105,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "81c6f6dae7a5dbaf5a3dd4e2d65edd728615f31ffde74dc6cee524d38b9ef79a"
+    },
+    {
+      "index": 106,
+      "file": "hulk/r07_c11.safetensors",
+      "seed": 9494106,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "ecab45c8078ad6e49e201d01adaa24b4d1ef15cdb6f219c11f1a4d11813f0677"
+    },
+    {
+      "index": 107,
+      "file": "hulk/r07_c12.safetensors",
+      "seed": 9494107,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "191ca1e23a12f4b3718203b00947a10eee05ab035e2da96ffc0fa08457b96924"
+    },
+    {
+      "index": 108,
+      "file": "hulk/r07_c13.safetensors",
+      "seed": 9494108,
+      "prompt": "Captain America bracing his shield inside an amber-lit engine hall, copper pipes and shadowed beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "a8389a41d12280a426f4f89d75c98117bc4b39aa5516b438033476c4a1613b50"
+    },
+    {
+      "index": 109,
+      "file": "hulk/r07_c14.safetensors",
+      "seed": 9494109,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "6248515433d99e921fcd6791303f86b1796460d828e14b03d0e6ed90ce41a48c"
+    },
+    {
+      "index": 110,
+      "file": "hulk/r07_c15.safetensors",
+      "seed": 9494110,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "861216b1b7ca3f1d407ea8ece101eadef592867c9efec5508bfd254bb2f717f3"
+    },
+    {
+      "index": 111,
+      "file": "hulk/r07_c16.safetensors",
+      "seed": 9494111,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "477467ce09fbea779238fc63e944091d25cd261265954853d61cc5425a4df32b"
+    },
+    {
+      "index": 112,
+      "file": "hulk/r08_c01.safetensors",
+      "seed": 9494112,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "60628586287b384c8a976c929e4ac1f347a3acee3ec68bec4196855c120596e7"
+    },
+    {
+      "index": 113,
+      "file": "hulk/r08_c02.safetensors",
+      "seed": 9494113,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "915580450570e41f77737ed01046ba4c2bde15d81658338d5f340ba5d8efc618"
+    },
+    {
+      "index": 114,
+      "file": "hulk/r08_c03.safetensors",
+      "seed": 9494114,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "83d80161cea66a1236fbd1c6aa582b677a934b77b1f5547f5d99165093719d1b"
+    },
+    {
+      "index": 115,
+      "file": "hulk/r08_c04.safetensors",
+      "seed": 9494115,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "de45051ff5c75be2d2f6bcf2a90ec2dc312e697f932f39e7b022fe7ad38be03d"
+    },
+    {
+      "index": 116,
+      "file": "hulk/r08_c05.safetensors",
+      "seed": 9494116,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "d780d9c01be5435cb854155a13cb3544590fe5a757a47809b8b781278fd68694"
+    },
+    {
+      "index": 117,
+      "file": "hulk/r08_c06.safetensors",
+      "seed": 9494117,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "5627685a7025822687c8ce7716ced4f8fd999b5d90471ce382a6efbd5477c214"
+    },
+    {
+      "index": 118,
+      "file": "hulk/r08_c07.safetensors",
+      "seed": 9494118,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "f0ef2b9505ad064cb627a3a8c50073613e20270fd19576b621d8db81fe6b66c1"
+    },
+    {
+      "index": 119,
+      "file": "hulk/r08_c08.safetensors",
+      "seed": 9494119,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "246766fe8b09c9b82a412b31a45e80df75cceb76b69070bafff482734c5e06c7"
+    },
+    {
+      "index": 120,
+      "file": "hulk/r08_c09.safetensors",
+      "seed": 9494120,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "98e8d66fd1c957314aa66cfa8b7318a8d0c2e6d21a7d1945e3affb527680dc86"
+    },
+    {
+      "index": 121,
+      "file": "hulk/r08_c10.safetensors",
+      "seed": 9494121,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "774f801dd0d2311324aadcc97ef11b4682b807c5da2bfb03ca6a673fe277bea0"
+    },
+    {
+      "index": 122,
+      "file": "hulk/r08_c11.safetensors",
+      "seed": 9494122,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "96d85dfa9af65d6f5678481b22063666ec16e6af670cf014d43831619fcc2519"
+    },
+    {
+      "index": 123,
+      "file": "hulk/r08_c12.safetensors",
+      "seed": 9494123,
+      "prompt": "Captain America running with his shield inside an amber-lit engine hall, copper pipes and shadowed beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "b4500fd227e42feea9152f875de7141e0c29b3bddc5e56b1fc3359fc74fe3b8c"
+    },
+    {
+      "index": 124,
+      "file": "hulk/r08_c13.safetensors",
+      "seed": 9494124,
+      "prompt": "Captain America in his blue helmet, waist-up inside an amber-lit engine hall, copper pipes and shadowed beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "f1623eebe279ff6b0762d1763e49ecaf3ff620600dd9dd11c567985ba2a175c9"
+    },
+    {
+      "index": 125,
+      "file": "hulk/r08_c14.safetensors",
+      "seed": 9494125,
+      "prompt": "Captain America bracing his shield inside an amber-lit engine hall, copper pipes and shadowed beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "3df85e3cac363b6d8e7d07183d06649a8321b69fa0035cb729198c282757c6cf"
+    },
+    {
+      "index": 126,
+      "file": "hulk/r08_c15.safetensors",
+      "seed": 9494126,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "0c7807f9df633bbb05c5d1c79c5d98461da40f7a1e3f28df0b4ab732ee9b167d"
+    },
+    {
+      "index": 127,
+      "file": "hulk/r08_c16.safetensors",
+      "seed": 9494127,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "5d15d63020bbd65ce70b15333002c30b36f36bf04845382c000f24767dc3b712"
+    },
+    {
+      "index": 128,
+      "file": "hulk/r09_c01.safetensors",
+      "seed": 9494128,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "24fe8905693a2e894eb2c26d7ff97a25a989827178ae87ce8c8f5c477d71f77d"
+    },
+    {
+      "index": 129,
+      "file": "hulk/r09_c02.safetensors",
+      "seed": 9494129,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "80ca3f61222dd4e8ff404a8b4ecfbd070f3b42c1c17565b6ef457b9b0899e12d"
+    },
+    {
+      "index": 130,
+      "file": "hulk/r09_c03.safetensors",
+      "seed": 9494130,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "284db1bd21fcd558de31ad91643350590480ebdc35a8583efa18dc01adabe395"
+    },
+    {
+      "index": 131,
+      "file": "hulk/r09_c04.safetensors",
+      "seed": 9494131,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "362de24207e1d73b3586c4bbdf7b40e1e019da2528a4f306ebefc0881893b205"
+    },
+    {
+      "index": 132,
+      "file": "hulk/r09_c05.safetensors",
+      "seed": 9494132,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "cbe38f55a89bd2eb7dd0656336811d47c7a5257747b2bee6ef516306bc044ae0"
+    },
+    {
+      "index": 133,
+      "file": "hulk/r09_c06.safetensors",
+      "seed": 9494133,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "9033ab74cc875501ef1b87dce78e20d1823a8f2b6e5c244c5a51b3dd623e6005"
+    },
+    {
+      "index": 134,
+      "file": "hulk/r09_c07.safetensors",
+      "seed": 9494134,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "e59cd3c63ef6377abb8034b58f1574d835e0b8482024e800bbea87938226a196"
+    },
+    {
+      "index": 135,
+      "file": "hulk/r09_c08.safetensors",
+      "seed": 9494135,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "da6d0e793ffd2b9bf42b0f2fa09a4d0bd222e6714d98ccb9cd1d7e41d0b1be9a"
+    },
+    {
+      "index": 136,
+      "file": "hulk/r09_c09.safetensors",
+      "seed": 9494136,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "9a2b06b554d2967b0845827b610dd996b67836d2fca2b4e5e464001433f61c5e"
+    },
+    {
+      "index": 137,
+      "file": "hulk/r09_c10.safetensors",
+      "seed": 9494137,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "9090584bbc5b3f876915dfbb5ff12a980463a32d06bc672cfecf0af64aeda9da"
+    },
+    {
+      "index": 138,
+      "file": "hulk/r09_c11.safetensors",
+      "seed": 9494138,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "cf820496361aed5c2a72c830794b1406317a6310c964c70630db12c21d5964d6"
+    },
+    {
+      "index": 139,
+      "file": "hulk/r09_c12.safetensors",
+      "seed": 9494139,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "5f7134260e8b9cc907c65e8df9b4b6bfcc566abe5f5b3c2e387f2cae90a2bd6d"
+    },
+    {
+      "index": 140,
+      "file": "hulk/r09_c13.safetensors",
+      "seed": 9494140,
+      "prompt": "Captain America running with his shield inside an amber-lit engine hall, copper pipes and shadowed beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "12b0dad20b40da841fa40a03202ec912b877b145b7bff28cbd4eade75ff634c3"
+    },
+    {
+      "index": 141,
+      "file": "hulk/r09_c14.safetensors",
+      "seed": 9494141,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "7eb50ff73721de87e4a92438ceb346da47e1363227fd9f738f288da99ec71a76"
+    },
+    {
+      "index": 142,
+      "file": "hulk/r09_c15.safetensors",
+      "seed": 9494142,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "50991b2a33a8261cfa77b0a16948b2e2aeb7cd7525101d8a3c5bc2d568ef90e7"
+    },
+    {
+      "index": 143,
+      "file": "hulk/r09_c16.safetensors",
+      "seed": 9494143,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "0e23014943953c646b8bec7a7c36670acb903e823bf1bcb6647d7541d8848c7a"
+    },
+    {
+      "index": 144,
+      "file": "hulk/r10_c01.safetensors",
+      "seed": 9494144,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "80b5d6848fffe95ac068b6e2825ca4c7adaab7e7304a3cf13662ab4c10c81774"
+    },
+    {
+      "index": 145,
+      "file": "hulk/r10_c02.safetensors",
+      "seed": 9494145,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "880c80db043b5a918956e6dd2d46e03b35575c1df54318b790cb0b5efca5710c"
+    },
+    {
+      "index": 146,
+      "file": "hulk/r10_c03.safetensors",
+      "seed": 9494146,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "dbee6d25d1344c3618396181402742b5605806eeb3a6b59f419448b9f93721e0"
+    },
+    {
+      "index": 147,
+      "file": "hulk/r10_c04.safetensors",
+      "seed": 9494147,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "d335ee5fc3cea096867971fa39ef02a9a9d3246e5d8d2fafee42b16980e426f3"
+    },
+    {
+      "index": 148,
+      "file": "hulk/r10_c05.safetensors",
+      "seed": 9494148,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "0670deb4f9de25c03abb0eca5c37156c20bce38acc45785dd98d788318c11b55"
+    },
+    {
+      "index": 149,
+      "file": "hulk/r10_c06.safetensors",
+      "seed": 9494149,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "dc303d950450f8c86dcf024b72dd682ce696545d8f2fd7b3b2a080660de2b4af"
+    },
+    {
+      "index": 150,
+      "file": "hulk/r10_c07.safetensors",
+      "seed": 9494150,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "0832d6a06610c06a828bf8042ca3845da632b26f69e2b9effa14ef0ef2018536"
+    },
+    {
+      "index": 151,
+      "file": "hulk/r10_c08.safetensors",
+      "seed": 9494151,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "5be74fba2562317c5986ab902d4b48fc55725dab18db595529dca440cb441cc2"
+    },
+    {
+      "index": 152,
+      "file": "hulk/r10_c09.safetensors",
+      "seed": 9494152,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "b46df4649756bc2b04a43dab7501897b3583a69fee2b022639ad5a5823315929"
+    },
+    {
+      "index": 153,
+      "file": "hulk/r10_c10.safetensors",
+      "seed": 9494153,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "66ef92ee23faef95afdf9dc548cc2df2884cfae61f5518345565c67c90f4b3d1"
+    },
+    {
+      "index": 154,
+      "file": "hulk/r10_c11.safetensors",
+      "seed": 9494154,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "9e6f8576cf1fc8fc40866e313b8af0488c4a16c757b83540cbe43b6bef8fc12a"
+    },
+    {
+      "index": 155,
+      "file": "hulk/r10_c12.safetensors",
+      "seed": 9494155,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "e3af2edd70b9489dd7dc5e287f7bde223af5627e1e8424b10a5b8a2b3ffa2fac"
+    },
+    {
+      "index": 156,
+      "file": "hulk/r10_c13.safetensors",
+      "seed": 9494156,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2fb8b174bff0b31fd9beee496c2885f52ae209a778aaa8066e00109d77369be3"
+    },
+    {
+      "index": 157,
+      "file": "hulk/r10_c14.safetensors",
+      "seed": 9494157,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "995aa62eae5c7c6e2286cf0d639fd32629e59052b2619335b6fe4297ac59ca0f"
+    },
+    {
+      "index": 158,
+      "file": "hulk/r10_c15.safetensors",
+      "seed": 9494158,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "8adbee34a521b11f18065299c10a60d817f98aea9cd8eea15dd7ce1d268eff4a"
+    },
+    {
+      "index": 159,
+      "file": "hulk/r10_c16.safetensors",
+      "seed": 9494159,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "db922438643a6a807f4e3b9811ce7863d543f1d9b21490cb62102bb290e32843"
+    },
+    {
+      "index": 160,
+      "file": "hulk/r11_c01.safetensors",
+      "seed": 9494160,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "94ccbeec721490d6eea2bdf193dd99656d516bf7479a1ec2a7abb376a6e6379f"
+    },
+    {
+      "index": 161,
+      "file": "hulk/r11_c02.safetensors",
+      "seed": 9494161,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "74fbcc84f8d6e7e5012edd79913ca364ad28e2538bc79afb24875b14f1b53d74"
+    },
+    {
+      "index": 162,
+      "file": "hulk/r11_c03.safetensors",
+      "seed": 9494162,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "e7315e4fe3d69a53ead9d916b667c9190632fd6ec0dd52c11460f6d19bbe763f"
+    },
+    {
+      "index": 163,
+      "file": "hulk/r11_c04.safetensors",
+      "seed": 9494163,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "06ed9a4814a363d28de452a97825dbb1f948432b3ca3c36f5f3d50a86eff7d00"
+    },
+    {
+      "index": 164,
+      "file": "hulk/r11_c05.safetensors",
+      "seed": 9494164,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "09830ca5230222a4672066d903d0dc792f4a3ec45014af15a10104d101c2d891"
+    },
+    {
+      "index": 165,
+      "file": "hulk/r11_c06.safetensors",
+      "seed": 9494165,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "e3d7af913825b41934dc73822bb0f08d74d292421c29dfdd68469bb8c50403f1"
+    },
+    {
+      "index": 166,
+      "file": "hulk/r11_c07.safetensors",
+      "seed": 9494166,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "e0f08456fcfa6266b91317844d53cb1a077073b414b3f81e10e75803ca398c29"
+    },
+    {
+      "index": 167,
+      "file": "hulk/r11_c08.safetensors",
+      "seed": 9494167,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "bd41a561b09df198291b512beb8cf908d59af441b27e8761a0e3fb4e03d14d6b"
+    },
+    {
+      "index": 168,
+      "file": "hulk/r11_c09.safetensors",
+      "seed": 9494168,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "cd11d347637cb45160da2cd3373a891f286a5a2ec2eaf8aeecb7b9c34ccac98e"
+    },
+    {
+      "index": 169,
+      "file": "hulk/r11_c10.safetensors",
+      "seed": 9494169,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "c4e4f0614c9ed5e84cb1957924d452757023c1d08d797310c4ee29d6fcc8aa1b"
+    },
+    {
+      "index": 170,
+      "file": "hulk/r11_c11.safetensors",
+      "seed": 9494170,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "695664271ad7b2dace754b871b7f53ced2644c9a460bf2764b66c6d24adb52c2"
+    },
+    {
+      "index": 171,
+      "file": "hulk/r11_c12.safetensors",
+      "seed": 9494171,
+      "prompt": "Captain America running with his shield inside an amber-lit engine hall, copper pipes and shadowed beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "9be98481ba608534d354cd69fdd360224d613236ebba749f120f5d16c252439b"
+    },
+    {
+      "index": 172,
+      "file": "hulk/r11_c13.safetensors",
+      "seed": 9494172,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "ac155a3144ea97b300c9b907f7a6b22b691ad7aa683d2dc6ccbaa5f715963ac4"
+    },
+    {
+      "index": 173,
+      "file": "hulk/r11_c14.safetensors",
+      "seed": 9494173,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "087d18e283a41cd04fece6020499ac89a6a1dc34d0bff679a6bbcf997e74c9f9"
+    },
+    {
+      "index": 174,
+      "file": "hulk/r11_c15.safetensors",
+      "seed": 9494174,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "e07767b4d053c316dfdcb0488fe004a802d28da9716927a825dd4009d17a5910"
+    },
+    {
+      "index": 175,
+      "file": "hulk/r11_c16.safetensors",
+      "seed": 9494175,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "8f3753d878e152d9f00c9655ac411f7173205d74587104cd422240fe9e1fac7e"
+    },
+    {
+      "index": 176,
+      "file": "hulk/r12_c01.safetensors",
+      "seed": 9494176,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2dc6c89da1b279254f8b237981718f8682dc34bed1d53b9d1dc3d99dc2bdab92"
+    },
+    {
+      "index": 177,
+      "file": "hulk/r12_c02.safetensors",
+      "seed": 9494177,
+      "prompt": "Captain America in his blue helmet, waist-up inside an amber-lit engine hall, copper pipes and shadowed beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "9f5d027c3106abe9371da13e05d47cbc15dbdc336d4ed15e183fb0b5d7016a4c"
+    },
+    {
+      "index": 178,
+      "file": "hulk/r12_c03.safetensors",
+      "seed": 9494178,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "ed412ba9b8ac3b49ebf0c2d6ebbfe1f923b52c006aa2fdf3f5c22553fe5327d9"
+    },
+    {
+      "index": 179,
+      "file": "hulk/r12_c04.safetensors",
+      "seed": 9494179,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "150345001050f3087973bcc1ee61317d738cffa7c4ade716d7c1d870131c3996"
+    },
+    {
+      "index": 180,
+      "file": "hulk/r12_c05.safetensors",
+      "seed": 9494180,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "eed1f91c72b272a35d78e03d7815828c834f4504130d3eb6d2634abd6ed2bd44"
+    },
+    {
+      "index": 181,
+      "file": "hulk/r12_c06.safetensors",
+      "seed": 9494181,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "442f6b40e4f97729211ca293e2caa5afeb92bb7ffce5130178576378cd9232f1"
+    },
+    {
+      "index": 182,
+      "file": "hulk/r12_c07.safetensors",
+      "seed": 9494182,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "e40cd6aaa2701ddee099cabb58d1e2b211c7a3905852ccf2d6579856e855442e"
+    },
+    {
+      "index": 183,
+      "file": "hulk/r12_c08.safetensors",
+      "seed": 9494183,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "00ee7b250be05a02ebf1f81b046cfae9e9953a86e9e5a1e8b6ffb80b922fb580"
+    },
+    {
+      "index": 184,
+      "file": "hulk/r12_c09.safetensors",
+      "seed": 9494184,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "f07b8b92f13f71094f5bcd7f074b96062b15e2b482684f9ef5d1282cca2fc701"
+    },
+    {
+      "index": 185,
+      "file": "hulk/r12_c10.safetensors",
+      "seed": 9494185,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "05204f09f7c1659bde87083502a323e543a0cdb49669b49ef31ab82b68888694"
+    },
+    {
+      "index": 186,
+      "file": "hulk/r12_c11.safetensors",
+      "seed": 9494186,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "79e4cac2f50c805663836eb583c496a363c2065e00d53706ac3cd1dc2a2f88b9"
+    },
+    {
+      "index": 187,
+      "file": "hulk/r12_c12.safetensors",
+      "seed": 9494187,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "78fc4604ff41ff0d5b7d1ee1e46711f22dea5b32bca652f284c7d8c9dd8bb7f7"
+    },
+    {
+      "index": 188,
+      "file": "hulk/r12_c13.safetensors",
+      "seed": 9494188,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "5d8f0f5e397f24e3e0a4d8e71a0437fdbed8fdb423e360dc5f77db91db8411cb"
+    },
+    {
+      "index": 189,
+      "file": "hulk/r12_c14.safetensors",
+      "seed": 9494189,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "d87888a18d9581bcad07dab807b8c0f5763b81dcc522794b949be7ad1e82c262"
+    },
+    {
+      "index": 190,
+      "file": "hulk/r12_c15.safetensors",
+      "seed": 9494190,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "a5ff53c10b285aca98fd093963588bee6079a3dd9fd8dbcb313c21c88dfac6a8"
+    },
+    {
+      "index": 191,
+      "file": "hulk/r12_c16.safetensors",
+      "seed": 9494191,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "66d7b1f515a6cafc0c93fe599dddfa5cac0cb38ac9b1272cafd8e6ba03be4116"
+    },
+    {
+      "index": 192,
+      "file": "hulk/r13_c01.safetensors",
+      "seed": 9494192,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "7d43a017e7a2362bdc891c52e25b02941fe5d873febba7daa0e5c7f97744fae4"
+    },
+    {
+      "index": 193,
+      "file": "hulk/r13_c02.safetensors",
+      "seed": 9494193,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "5b28125acdaeccd5e07617b752f7f018e217b17b2b8cd28a4b5f7f4f1bae8d60"
+    },
+    {
+      "index": 194,
+      "file": "hulk/r13_c03.safetensors",
+      "seed": 9494194,
+      "prompt": "Captain America in his blue helmet, waist-up inside an amber-lit engine hall, copper pipes and shadowed beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "a64996cf980a6e6458867138dfd0bafd0c9e5fd4c12d09ed46578c47c89b40a2"
+    },
+    {
+      "index": 195,
+      "file": "hulk/r13_c04.safetensors",
+      "seed": 9494195,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "0c9a3d5131d020286515094db468c0d6fa1c375df0c170a1109abb55616f1206"
+    },
+    {
+      "index": 196,
+      "file": "hulk/r13_c05.safetensors",
+      "seed": 9494196,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "21d6c25f5e7f48500f504c8db895750f237614b25094c53cbcc5b39ee07cdeb1"
+    },
+    {
+      "index": 197,
+      "file": "hulk/r13_c06.safetensors",
+      "seed": 9494197,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "bb7412bddc234480e722699df9111893dec7c8c892934ebd079e37284fcec257"
+    },
+    {
+      "index": 198,
+      "file": "hulk/r13_c07.safetensors",
+      "seed": 9494198,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2d3443995cb10b1e11bd96f53fe8d8a9c313cd4028ed8b5288dcbfc50b6dd489"
+    },
+    {
+      "index": 199,
+      "file": "hulk/r13_c08.safetensors",
+      "seed": 9494199,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "1fdb0c548b0f503e9fc10fa8ade42d41ae0a22fecdaf3c3f27edbd216bbbab65"
+    },
+    {
+      "index": 200,
+      "file": "hulk/r13_c09.safetensors",
+      "seed": 9494200,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "0158d1873f2d7a110c2537afe9537b455a1d47dcca2d45eccdb206d9e43f4c51"
+    },
+    {
+      "index": 201,
+      "file": "hulk/r13_c10.safetensors",
+      "seed": 9494201,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "c51a926fed73d5ba594c0f7ebac09de7d592605cc3c6236800658a48b4eadfd2"
+    },
+    {
+      "index": 202,
+      "file": "hulk/r13_c11.safetensors",
+      "seed": 9494202,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "4551b3c2b6944a6871216e5b0b1cc7f3a320b7b8067e54820ed9b6d86cedc76d"
+    },
+    {
+      "index": 203,
+      "file": "hulk/r13_c12.safetensors",
+      "seed": 9494203,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2e2b88aac497ee315b6013c7087305718493e9295c7f6c2f5b985bd78f5c3f4b"
+    },
+    {
+      "index": 204,
+      "file": "hulk/r13_c13.safetensors",
+      "seed": 9494204,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "b7523853579f665e9bb01d9fb50d005c8cebf640c1f6e9fb542ca9aadd45cff7"
+    },
+    {
+      "index": 205,
+      "file": "hulk/r13_c14.safetensors",
+      "seed": 9494205,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "09b632baf572f860192e87df526fc8dfe219557e3c27ee72f49e39a1f1f04efb"
+    },
+    {
+      "index": 206,
+      "file": "hulk/r13_c15.safetensors",
+      "seed": 9494206,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "f080051ca49b6586410ebeeef215581b35a0f4f0100f9d7e9f41f26017db320b"
+    },
+    {
+      "index": 207,
+      "file": "hulk/r13_c16.safetensors",
+      "seed": 9494207,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "8499fbb216748e9240ae207f8dd55a1e881c85b58ef3cc65a8db4815800e4d58"
+    },
+    {
+      "index": 208,
+      "file": "hulk/r14_c01.safetensors",
+      "seed": 9494208,
+      "prompt": "Captain America in his blue helmet, waist-up inside an amber-lit engine hall, copper pipes and shadowed beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "61d771f9918ed446dd46da2352e288b9667addc323e579d7ef786dad7551f495"
+    },
+    {
+      "index": 209,
+      "file": "hulk/r14_c02.safetensors",
+      "seed": 9494209,
+      "prompt": "Captain America bracing his shield inside an amber-lit engine hall, copper pipes and shadowed beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "eae8f01eafd5c96088dcd0a78b58afa8248977124b285b7bb0b4133d4c5ca1ea"
+    },
+    {
+      "index": 210,
+      "file": "hulk/r14_c03.safetensors",
+      "seed": 9494210,
+      "prompt": "Captain America running with his shield inside an amber-lit engine hall, copper pipes and shadowed beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "99c92b3e6fd6320edd130d8711fb449aa7b95b3e71815af5e28eefa87212a758"
+    },
+    {
+      "index": 211,
+      "file": "hulk/r14_c04.safetensors",
+      "seed": 9494211,
+      "prompt": "Captain America in his blue helmet, waist-up inside an amber-lit engine hall, copper pipes and shadowed beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "b36259011cb360f27d9710f5f7f2f4f4f98633dc7a9e5a7f763b52acdb8f1675"
+    },
+    {
+      "index": 212,
+      "file": "hulk/r14_c05.safetensors",
+      "seed": 9494212,
+      "prompt": "Captain America holding his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "08ef59f00c036b34741fb662045ec92635fa75d79bc1302f3f7ce29ab3792499"
+    },
+    {
+      "index": 213,
+      "file": "hulk/r14_c06.safetensors",
+      "seed": 9494213,
+      "prompt": "Captain America running with his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "3d857e05a632fdc9797c802306c1ba02af27be90d5121fd1aa069d71cdd7bedc"
+    },
+    {
+      "index": 214,
+      "file": "hulk/r14_c07.safetensors",
+      "seed": 9494214,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "22ee31513df111dc7c37d46c578e3d7f97022ac1091b8aef364dacdbc991266e"
+    },
+    {
+      "index": 215,
+      "file": "hulk/r14_c08.safetensors",
+      "seed": 9494215,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "214b70b3c6609bb169e952138ad83b5e2b19a80e20ab39da611c607a46ada42d"
+    },
+    {
+      "index": 216,
+      "file": "hulk/r14_c09.safetensors",
+      "seed": 9494216,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "7eed14855eea04c15cf8c1a62b983ebf9f98bad628865da0111aae866de523c4"
+    },
+    {
+      "index": 217,
+      "file": "hulk/r14_c10.safetensors",
+      "seed": 9494217,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "b1bfc619911cbb71ae06f783ca50c84f0565939691f3d0676e02f0f40c954e83"
+    },
+    {
+      "index": 218,
+      "file": "hulk/r14_c11.safetensors",
+      "seed": 9494218,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "ad50a87e9445f1b1c69bdec2ee21e62df8fcce9d2da2d990bee602266046a0be"
+    },
+    {
+      "index": 219,
+      "file": "hulk/r14_c12.safetensors",
+      "seed": 9494219,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2751bb42f8e42a4ffcde1d5a7d33d829d173b9bbafa1127ab139750e879002e0"
+    },
+    {
+      "index": 220,
+      "file": "hulk/r14_c13.safetensors",
+      "seed": 9494220,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "d6d5eb81c110dcfaad9e4757a32b04933e4b9ff759a374530a0cac30f8a451f9"
+    },
+    {
+      "index": 221,
+      "file": "hulk/r14_c14.safetensors",
+      "seed": 9494221,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "1310dc43bee7f61365c8c85d1c4c6d50bdcc3cc81b84fbae10e02b17ee6d927c"
+    },
+    {
+      "index": 222,
+      "file": "hulk/r14_c15.safetensors",
+      "seed": 9494222,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "1bcb2cb82c7872dff36011f0922f9ff09ed498a89c7d4265ea0f438e0db79e3f"
+    },
+    {
+      "index": 223,
+      "file": "hulk/r14_c16.safetensors",
+      "seed": 9494223,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "f86079f46843fcbcdf61ec8443e0cfefbdcec012a1f1ac30b37c9af7c634a9e7"
+    },
+    {
+      "index": 224,
+      "file": "hulk/r15_c01.safetensors",
+      "seed": 9494224,
+      "prompt": "Captain America running with his shield inside an amber-lit engine hall, copper pipes and shadowed beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "b87f9c504cfe4f9bf7958b2b81c76c5921fe67bc493e2ba90d51221fd5efe945"
+    },
+    {
+      "index": 225,
+      "file": "hulk/r15_c02.safetensors",
+      "seed": 9494225,
+      "prompt": "Captain America in his blue helmet, waist-up inside an amber-lit engine hall, copper pipes and shadowed beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "6125e812e1d4e40de3e07fdb02c23706cb7eff84ad31fc5d592160ff5317c5f2"
+    },
+    {
+      "index": 226,
+      "file": "hulk/r15_c03.safetensors",
+      "seed": 9494226,
+      "prompt": "Captain America bracing his shield inside an amber-lit engine hall, copper pipes and shadowed beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "ac47dc6e0be2067c77c3ec781d1ab9fec85a5bb01dd9a3c3c65f523435d39f4f"
+    },
+    {
+      "index": 227,
+      "file": "hulk/r15_c04.safetensors",
+      "seed": 9494227,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "2cc77d20cc903b0883a47a849d58a46f9be8d0a890274b397e3da814c047f097"
+    },
+    {
+      "index": 228,
+      "file": "hulk/r15_c05.safetensors",
+      "seed": 9494228,
+      "prompt": "Captain America in a blue helmet, waist-up, cool steel-blue light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "663b944ed0eb51912fa213e73e7440f5e8f4684f171dbaa02bdf595c788cf84e"
+    },
+    {
+      "index": 229,
+      "file": "hulk/r15_c06.safetensors",
+      "seed": 9494229,
+      "prompt": "Captain America holding his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "dc2092c3fca62ec51aaf1c14222db26b306aa956c7df7c0fef0af32cd0de20fc"
+    },
+    {
+      "index": 230,
+      "file": "hulk/r15_c07.safetensors",
+      "seed": 9494230,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "ede0aff4a62f50f113bb5b10939623f3e661216cd2de258c86562da22cee3242"
+    },
+    {
+      "index": 231,
+      "file": "hulk/r15_c08.safetensors",
+      "seed": 9494231,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "3371129f8ebb7aba53b4b844311aa44cad6860d6b439b83418146b582ae49fa2"
+    },
+    {
+      "index": 232,
+      "file": "hulk/r15_c09.safetensors",
+      "seed": 9494232,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "e30f8070785cbd5aed2441ad1e6e19c8629c89503e4182115d3c2d70a8138595"
+    },
+    {
+      "index": 233,
+      "file": "hulk/r15_c10.safetensors",
+      "seed": 9494233,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "331597f44e256c2bf59b4e8c1604a15699b9fb8bfae51c49d535475307e33864"
+    },
+    {
+      "index": 234,
+      "file": "hulk/r15_c11.safetensors",
+      "seed": 9494234,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "9f8072d40530084eb1abfd04c258f92c9aa7ea57e118ebbda2f69bb5660f82ad"
+    },
+    {
+      "index": 235,
+      "file": "hulk/r15_c12.safetensors",
+      "seed": 9494235,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "0eddbcd979374d4891e3c3b5a3989cf106d6d48b7385889f9616948e6fa2da2f"
+    },
+    {
+      "index": 236,
+      "file": "hulk/r15_c13.safetensors",
+      "seed": 9494236,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "45ff25984794c50416458dedd86733afab85511ffeadc52e8dbd54ac4701dcdc"
+    },
+    {
+      "index": 237,
+      "file": "hulk/r15_c14.safetensors",
+      "seed": 9494237,
+      "prompt": "Captain America in his blue helmet, waist-up in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "cbbbd175af42218d1a6cc62835ec04822e717dd8b2e620d59e868d35fabbacd5"
+    },
+    {
+      "index": 238,
+      "file": "hulk/r15_c15.safetensors",
+      "seed": 9494238,
+      "prompt": "Captain America holding his shield, crimson reflected light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "26b0c564207b9987dff7d7ce2503a9a723cb734e7cd6ed64ced247a3bd8bae56"
+    },
+    {
+      "index": 239,
+      "file": "hulk/r15_c16.safetensors",
+      "seed": 9494239,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "d1b8bd6d7ba15c1fd066ac78285abb00a400ee7002ebe37b5db7b67f8ca2c64f"
+    },
+    {
+      "index": 240,
+      "file": "hulk/r16_c01.safetensors",
+      "seed": 9494240,
+      "prompt": "Captain America bracing his shield inside an amber-lit engine hall, copper pipes and shadowed beams, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "10edc814e7744d019f2c20b0f73e4ec835d80c140a11300a99169774fe75d0f2"
+    },
+    {
+      "index": 241,
+      "file": "hulk/r16_c02.safetensors",
+      "seed": 9494241,
+      "prompt": "Captain America running with his shield, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "fa171c294ec55f26dd778c94bc4213c9f2f8aa85b7cc53748b05f95045a1e336"
+    },
+    {
+      "index": 242,
+      "file": "hulk/r16_c03.safetensors",
+      "seed": 9494242,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "8545ae5ce9bd7e3197ddd3bb06495c0ef818e8f0aa42ca85818f08b4eab04c50"
+    },
+    {
+      "index": 243,
+      "file": "hulk/r16_c04.safetensors",
+      "seed": 9494243,
+      "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "bf6e89cc2b2e060ef44c58f9bac8630ab0ee42e72a9697c6c98d7706d045d3f1"
+    },
+    {
+      "index": 244,
+      "file": "hulk/r16_c05.safetensors",
+      "seed": 9494244,
+      "prompt": "Captain America running with his shield, cool steel-blue light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "040759801f3f156df790b7cf000488d19fc6037008dc5dacd9ab1f4d39699f1e"
+    },
+    {
+      "index": 245,
+      "file": "hulk/r16_c06.safetensors",
+      "seed": 9494245,
+      "prompt": "Captain America in a blue helmet, waist-up, cool steel-blue light",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "a1294f0b70d6865b3449b9747bbf9da6cc424c5d03aa3f0164b37e0faa9cad4a"
+    },
+    {
+      "index": 246,
+      "file": "hulk/r16_c07.safetensors",
+      "seed": 9494246,
+      "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "f818206af15eeb69693195a242a12f1062c123989f51dd47c9dcc84febff4e29"
+    },
+    {
+      "index": 247,
+      "file": "hulk/r16_c08.safetensors",
+      "seed": 9494247,
+      "prompt": "Captain America running with his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "bdaffc21090f47917a9cfa21ebc41f55371f24148d62ad1be22d83b7b09db3d2"
+    },
+    {
+      "index": 248,
+      "file": "hulk/r16_c09.safetensors",
+      "seed": 9494248,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "e0ba7e065d6a87fbc66e45a78683a6d51991a3c35142f770dd50b00e2dfe6105"
+    },
+    {
+      "index": 249,
+      "file": "hulk/r16_c10.safetensors",
+      "seed": 9494249,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "d2ce00f6f75a74741445cfdfd37429a12ba2d6339f9952b23fc72da591e16158"
+    },
+    {
+      "index": 250,
+      "file": "hulk/r16_c11.safetensors",
+      "seed": 9494250,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "95f59b5f860680cc3e42af77d808a7a3a52c3816f30cb6b515ed0f9ba0898552"
+    },
+    {
+      "index": 251,
+      "file": "hulk/r16_c12.safetensors",
+      "seed": 9494251,
+      "prompt": "Captain America in a blue helmet, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "cbf2b4b3c11b0834f914fedec5bb7b13ed5dda8218d2ca0fd3cb9ca5885cbacf"
+    },
+    {
+      "index": 252,
+      "file": "hulk/r16_c13.safetensors",
+      "seed": 9494252,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "3566f82e6c9ab34468a1bcafa1aa50c5f9e4b97717b124ea92ed21d4d23eb102"
+    },
+    {
+      "index": 253,
+      "file": "hulk/r16_c14.safetensors",
+      "seed": 9494253,
+      "prompt": "Captain America running with his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "5584188cf5e8f94a0e471076f2d24afb1243442b8cd97198d3e8052f3dba37a2"
+    },
+    {
+      "index": 254,
+      "file": "hulk/r16_c15.safetensors",
+      "seed": 9494254,
+      "prompt": "Captain America in a blue helmet, waist-up, warm copper lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "d0ab0376208f4698e9e0499b9cb3dc913ab9f414d1dc895e5a1146d8a36b5595"
+    },
+    {
+      "index": 255,
+      "file": "hulk/r16_c16.safetensors",
+      "seed": 9494255,
+      "prompt": "Captain America holding his shield, muted neutral lighting",
+      "scene": false,
+      "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+      "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+      "sha256": "014ff09f04e8793fa900403d77edbab346118cf8de6e4025f569ae61b89fbb2b"
+    }
+  ]
+}

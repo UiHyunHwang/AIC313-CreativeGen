@@ -1,0 +1,4757 @@
+{
+  "eligible": 98,
+  "attempted": 181,
+  "before": {
+    "mean_below_zero": 50,
+    "either_below_zero": 98
+  },
+  "after": {
+    "mean_below_zero": 4,
+    "either_below_zero": 18
+  },
+  "selected": [
+    {
+      "index": 68,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100681,
+      "file": "samples/p0_n12_i068_s5100681",
+      "native": 0.04386499524116516,
+      "small": 0.006632581353187561,
+      "margin": 0.02524878829717636,
+      "error": 0.050163399428129196
+    },
+    {
+      "index": 109,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101090,
+      "file": "samples/p0_n12_i109_s5101090",
+      "native": 0.01574420928955078,
+      "small": -0.024371296167373657,
+      "margin": -0.004313543438911438,
+      "error": 0.05457516387104988
+    },
+    {
+      "index": 123,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101232,
+      "file": "samples/p0_n12_i123_s5101232",
+      "native": 0.03750729560852051,
+      "small": 0.016637831926345825,
+      "margin": 0.027072563767433167,
+      "error": 0.03954248130321503
+    },
+    {
+      "index": 82,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100820,
+      "file": "samples/p0_n12_i082_s5100820",
+      "native": 0.039994627237319946,
+      "small": 0.016150981187820435,
+      "margin": 0.02807280421257019,
+      "error": 0.02647058665752411
+    },
+    {
+      "index": 46,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100460,
+      "file": "samples/p0_n12_i046_s5100460",
+      "native": 0.03549659252166748,
+      "small": 0.030766665935516357,
+      "margin": 0.03313162922859192,
+      "error": 0.041421566158533096
+    },
+    {
+      "index": 57,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100571,
+      "file": "samples/p0_n12_i057_s5100571",
+      "native": 0.07457244396209717,
+      "small": 0.01752212643623352,
+      "margin": 0.046047285199165344,
+      "error": 0.04305555298924446
+    },
+    {
+      "index": 174,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101740,
+      "file": "samples/p0_n12_i174_s5101740",
+      "native": 0.041197776794433594,
+      "small": 0.03429245948791504,
+      "margin": 0.037745118141174316,
+      "error": 0.03848038986325264
+    },
+    {
+      "index": 158,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101581,
+      "file": "samples/p0_n12_i158_s5101581",
+      "native": 0.0429232120513916,
+      "small": 0.027163028717041016,
+      "margin": 0.03504312038421631,
+      "error": 0.02736928127706051
+    },
+    {
+      "index": 220,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5102201,
+      "file": "samples/p0_n12_i220_s5102201",
+      "native": 0.052459657192230225,
+      "small": 0.02881714701652527,
+      "margin": 0.04063840210437775,
+      "error": 0.052042484283447266
+    },
+    {
+      "index": 101,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101010,
+      "file": "samples/p0_n12_i101_s5101010",
+      "native": 0.04225420951843262,
+      "small": 0.016606777906417847,
+      "margin": 0.029430493712425232,
+      "error": 0.03619281202554703
+    },
+    {
+      "index": 169,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101690,
+      "file": "samples/p0_n12_i169_s5101690",
+      "native": 0.03878951072692871,
+      "small": 0.055033326148986816,
+      "margin": 0.046911418437957764,
+      "error": 0.03897058591246605
+    },
+    {
+      "index": 67,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100671,
+      "file": "samples/p0_n12_i067_s5100671",
+      "native": 0.028637290000915527,
+      "small": 0.031165391206741333,
+      "margin": 0.02990134060382843,
+      "error": 0.04468953609466553
+    },
+    {
+      "index": 154,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101542,
+      "file": "samples/p0_n12_i154_s5101542",
+      "native": 0.054955095052719116,
+      "small": 0.05765071511268616,
+      "margin": 0.05630290508270264,
+      "error": 0.04967319965362549
+    },
+    {
+      "index": 173,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101730,
+      "file": "samples/p0_n12_i173_s5101730",
+      "native": 0.053942739963531494,
+      "small": 0.050505220890045166,
+      "margin": 0.05222398042678833,
+      "error": 0.04665033146739006
+    },
+    {
+      "index": 152,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101521,
+      "file": "samples/p0_n12_i152_s5101521",
+      "native": 0.040329933166503906,
+      "small": 0.016897886991500854,
+      "margin": 0.02861391007900238,
+      "error": 0.03602940961718559
+    },
+    {
+      "index": 29,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100290,
+      "file": "samples/p0_n12_i029_s5100290",
+      "native": 0.01604965329170227,
+      "small": 0.02366289496421814,
+      "margin": 0.019856274127960205,
+      "error": 0.030310457572340965
+    },
+    {
+      "index": 43,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100432,
+      "file": "samples/p0_n12_i043_s5100432",
+      "native": 0.04268091917037964,
+      "small": -0.029604822397232056,
+      "margin": 0.0065380483865737915,
+      "error": 0.039624180644750595
+    },
+    {
+      "index": 171,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101710,
+      "file": "samples/p0_n12_i171_s5101710",
+      "native": 0.03635492920875549,
+      "small": 0.012977510690689087,
+      "margin": 0.02466621994972229,
+      "error": 0.06544117629528046
+    },
+    {
+      "index": 197,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101971,
+      "file": "samples/p0_n12_i197_s5101971",
+      "native": 0.05370575189590454,
+      "small": 0.047453612089157104,
+      "margin": 0.05057968199253082,
+      "error": 0.028594771400094032
+    },
+    {
+      "index": 214,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5102140,
+      "file": "samples/p0_n12_i214_s5102140",
+      "native": 0.05035337805747986,
+      "small": 0.04357233643531799,
+      "margin": 0.046962857246398926,
+      "error": 0.026062091812491417
+    },
+    {
+      "index": 40,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100401,
+      "file": "samples/p0_n12_i040_s5100401",
+      "native": 0.04573756456375122,
+      "small": 0.03411227464675903,
+      "margin": 0.03992491960525513,
+      "error": 0.04444444179534912
+    },
+    {
+      "index": 176,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101762,
+      "file": "samples/p0_n12_i176_s5101762",
+      "native": 0.040953874588012695,
+      "small": 0.04412609338760376,
+      "margin": 0.04253998398780823,
+      "error": 0.03562091290950775
+    },
+    {
+      "index": 121,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101210,
+      "file": "samples/p0_n12_i121_s5101210",
+      "native": 0.02620786428451538,
+      "small": 0.043908119201660156,
+      "margin": 0.03505799174308777,
+      "error": 0.050163399428129196
+    },
+    {
+      "index": 206,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5102061,
+      "file": "samples/p0_n12_i206_s5102061",
+      "native": 0.02435588836669922,
+      "small": 0.04269853234291077,
+      "margin": 0.03352721035480499,
+      "error": 0.04174836352467537
+    },
+    {
+      "index": 195,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101951,
+      "file": "samples/p0_n12_i195_s5101951",
+      "native": 0.03787115216255188,
+      "small": 0.0279541015625,
+      "margin": 0.03291262686252594,
+      "error": 0.025326797738671303
+    },
+    {
+      "index": 10,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100100,
+      "file": "samples/p0_n12_i010_s5100100",
+      "native": 0.02643895149230957,
+      "small": 0.02718275785446167,
+      "margin": 0.02681085467338562,
+      "error": 0.026797384023666382
+    },
+    {
+      "index": 156,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101560,
+      "file": "samples/p0_n12_i156_s5101560",
+      "native": 0.03693455457687378,
+      "small": 0.056208670139312744,
+      "margin": 0.04657161235809326,
+      "error": 0.07467319816350937
+    },
+    {
+      "index": 201,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5102011,
+      "file": "samples/p0_n12_i201_s5102011",
+      "native": 0.04803609848022461,
+      "small": 0.008826494216918945,
+      "margin": 0.028431296348571777,
+      "error": 0.03284313902258873
+    },
+    {
+      "index": 54,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100540,
+      "file": "samples/p0_n12_i054_s5100540",
+      "native": 0.03571152687072754,
+      "small": 0.048135221004486084,
+      "margin": 0.04192337393760681,
+      "error": 0.03325163200497627
+    },
+    {
+      "index": 107,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101071,
+      "file": "samples/p0_n12_i107_s5101071",
+      "native": 0.049876898527145386,
+      "small": 0.03979271650314331,
+      "margin": 0.04483480751514435,
+      "error": 0.06527777761220932
+    },
+    {
+      "index": 77,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100770,
+      "file": "samples/p0_n12_i077_s5100770",
+      "native": 0.027038872241973877,
+      "small": 0.03909823298454285,
+      "margin": 0.03306855261325836,
+      "error": 0.03325163200497627
+    },
+    {
+      "index": 172,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101720,
+      "file": "samples/p0_n12_i172_s5101720",
+      "native": 0.06071022152900696,
+      "small": 0.05482850968837738,
+      "margin": 0.05776936560869217,
+      "error": 0.047957513481378555
+    },
+    {
+      "index": 86,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100861,
+      "file": "samples/p0_n12_i086_s5100861",
+      "native": 0.03531423211097717,
+      "small": 0.022600501775741577,
+      "margin": 0.028957366943359375,
+      "error": 0.04395424947142601
+    },
+    {
+      "index": 148,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101482,
+      "file": "samples/p0_n12_i148_s5101482",
+      "native": 0.017851322889328003,
+      "small": 0.03672155737876892,
+      "margin": 0.027286440134048462,
+      "error": 0.06952614337205887
+    },
+    {
+      "index": 249,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5102490,
+      "file": "samples/p0_n12_i249_s5102490",
+      "native": 0.025039881467819214,
+      "small": 0.01829621195793152,
+      "margin": 0.021668046712875366,
+      "error": 0.05694444477558136
+    },
+    {
+      "index": 125,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101251,
+      "file": "samples/p0_n12_i125_s5101251",
+      "native": 0.0431477427482605,
+      "small": -0.01573169231414795,
+      "margin": 0.013708025217056274,
+      "error": 0.04264706000685692
+    },
+    {
+      "index": 211,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5102112,
+      "file": "samples/p0_n12_i211_s5102112",
+      "native": 0.0887785255908966,
+      "small": -0.009004652500152588,
+      "margin": 0.03988693654537201,
+      "error": 0.04591503366827965
+    },
+    {
+      "index": 71,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100711,
+      "file": "samples/p0_n12_i071_s5100711",
+      "native": 0.028372347354888916,
+      "small": 0.033180803060531616,
+      "margin": 0.030776575207710266,
+      "error": 0.03660130500793457
+    },
+    {
+      "index": 94,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100940,
+      "file": "samples/p0_n12_i094_s5100940",
+      "native": 0.05207732319831848,
+      "small": 0.053907573223114014,
+      "margin": 0.05299244821071625,
+      "error": 0.03202614560723305
+    },
+    {
+      "index": 22,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100220,
+      "file": "samples/p0_n12_i022_s5100220",
+      "native": 0.05641859769821167,
+      "small": 0.0379771888256073,
+      "margin": 0.047197893261909485,
+      "error": 0.049754898995161057
+    },
+    {
+      "index": 223,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5102231,
+      "file": "samples/p0_n12_i223_s5102231",
+      "native": 0.014627188444137573,
+      "small": 0.03978726267814636,
+      "margin": 0.027207225561141968,
+      "error": 0.04665033146739006
+    },
+    {
+      "index": 151,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101510,
+      "file": "samples/p0_n12_i151_s5101510",
+      "native": 0.048296988010406494,
+      "small": 0.04380282759666443,
+      "margin": 0.04604990780353546,
+      "error": 0.04125817120075226
+    },
+    {
+      "index": 182,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101820,
+      "file": "samples/p0_n12_i182_s5101820",
+      "native": 0.03959605097770691,
+      "small": 0.02068471908569336,
+      "margin": 0.030140385031700134,
+      "error": 0.051225487142801285
+    },
+    {
+      "index": 96,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100960,
+      "file": "samples/p0_n12_i096_s5100960",
+      "native": 0.02565571665763855,
+      "small": 0.024384349584579468,
+      "margin": 0.02502003312110901,
+      "error": 0.03562091290950775
+    },
+    {
+      "index": 52,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100520,
+      "file": "samples/p0_n12_i052_s5100520",
+      "native": 0.02466323971748352,
+      "small": -0.0033829808235168457,
+      "margin": 0.010640129446983337,
+      "error": 0.033578429371118546
+    },
+    {
+      "index": 74,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100742,
+      "file": "samples/p0_n12_i074_s5100742",
+      "native": 0.05439244210720062,
+      "small": -0.0025804340839385986,
+      "margin": 0.025906004011631012,
+      "error": 0.039133984595537186
+    },
+    {
+      "index": 93,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100931,
+      "file": "samples/p0_n12_i093_s5100931",
+      "native": 0.06121966242790222,
+      "small": 0.02708779275417328,
+      "margin": 0.04415372759103775,
+      "error": 0.04852941632270813
+    },
+    {
+      "index": 179,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101792,
+      "file": "samples/p0_n12_i179_s5101792",
+      "native": 0.05451539158821106,
+      "small": 0.023543283343315125,
+      "margin": 0.03902933746576309,
+      "error": 0.04133987054228783
+    },
+    {
+      "index": 116,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101160,
+      "file": "samples/p0_n12_i116_s5101160",
+      "native": 0.04267069697380066,
+      "small": 0.04223448038101196,
+      "margin": 0.04245258867740631,
+      "error": 0.045915037393569946
+    },
+    {
+      "index": 225,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5102250,
+      "file": "samples/p0_n12_i225_s5102250",
+      "native": 0.07626268267631531,
+      "small": 0.05208809673786163,
+      "margin": 0.06417538970708847,
+      "error": 0.05326797440648079
+    },
+    {
+      "index": 110,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101100,
+      "file": "samples/p0_n12_i110_s5101100",
+      "native": 0.04399615526199341,
+      "small": 0.03315708041191101,
+      "margin": 0.03857661783695221,
+      "error": 0.03300653398036957
+    },
+    {
+      "index": 83,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100830,
+      "file": "samples/p0_n12_i083_s5100830",
+      "native": 0.04462650418281555,
+      "small": 0.0455927848815918,
+      "margin": 0.045109644532203674,
+      "error": 0.050653595477342606
+    },
+    {
+      "index": 41,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100412,
+      "file": "samples/p0_n12_i041_s5100412",
+      "native": 0.04950600862503052,
+      "small": 0.01883333921432495,
+      "margin": 0.034169673919677734,
+      "error": 0.05833333730697632
+    },
+    {
+      "index": 229,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5102292,
+      "file": "samples/p0_n12_i229_s5102292",
+      "native": 0.05148455500602722,
+      "small": 0.029221385717391968,
+      "margin": 0.040352970361709595,
+      "error": 0.029738565906882286
+    },
+    {
+      "index": 37,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100370,
+      "file": "samples/p0_n12_i037_s5100370",
+      "native": 0.04349079728126526,
+      "small": 0.021954655647277832,
+      "margin": 0.032722726464271545,
+      "error": 0.04820261523127556
+    },
+    {
+      "index": 137,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101370,
+      "file": "samples/p0_n12_i137_s5101370",
+      "native": 0.035699546337127686,
+      "small": 0.03985503315925598,
+      "margin": 0.037777289748191833,
+      "error": 0.0540032684803009
+    },
+    {
+      "index": 26,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100260,
+      "file": "samples/p0_n12_i026_s5100260",
+      "native": 0.05950826406478882,
+      "small": 0.044093310832977295,
+      "margin": 0.05180078744888306,
+      "error": 0.03741830214858055
+    },
+    {
+      "index": 131,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101310,
+      "file": "samples/p0_n12_i131_s5101310",
+      "native": 0.036784619092941284,
+      "small": 0.0297563374042511,
+      "margin": 0.03327047824859619,
+      "error": 0.04411764815449715
+    },
+    {
+      "index": 3,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100031,
+      "file": "samples/p0_n12_i003_s5100031",
+      "native": 0.033993422985076904,
+      "small": 0.021099328994750977,
+      "margin": 0.02754637598991394,
+      "error": 0.05514706298708916
+    },
+    {
+      "index": 108,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101082,
+      "file": "samples/p0_n12_i108_s5101082",
+      "native": 0.04223981499671936,
+      "small": 0.0261533260345459,
+      "margin": 0.03419657051563263,
+      "error": 0.07704249024391174
+    },
+    {
+      "index": 186,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101860,
+      "file": "samples/p0_n12_i186_s5101860",
+      "native": 0.026278585195541382,
+      "small": 0.0359150767326355,
+      "margin": 0.03109683096408844,
+      "error": 0.048774510622024536
+    },
+    {
+      "index": 81,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100810,
+      "file": "samples/p0_n12_i081_s5100810",
+      "native": 0.04635500907897949,
+      "small": 0.033070921897888184,
+      "margin": 0.03971296548843384,
+      "error": 0.03578430786728859
+    },
+    {
+      "index": 139,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101390,
+      "file": "samples/p0_n12_i139_s5101390",
+      "native": 0.05546802282333374,
+      "small": 0.014425992965698242,
+      "margin": 0.03494700789451599,
+      "error": 0.03970588371157646
+    },
+    {
+      "index": 48,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100480,
+      "file": "samples/p0_n12_i048_s5100480",
+      "native": 0.012504249811172485,
+      "small": 0.03327009081840515,
+      "margin": 0.02288717031478882,
+      "error": 0.050245095044374466
+    },
+    {
+      "index": 122,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101220,
+      "file": "samples/p0_n12_i122_s5101220",
+      "native": 0.027319669723510742,
+      "small": 0.0370652973651886,
+      "margin": 0.03219248354434967,
+      "error": 0.061274509876966476
+    },
+    {
+      "index": 30,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100300,
+      "file": "samples/p0_n12_i030_s5100300",
+      "native": 0.02999711036682129,
+      "small": 0.029537200927734375,
+      "margin": 0.029767155647277832,
+      "error": 0.054493460804224014
+    },
+    {
+      "index": 104,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101040,
+      "file": "samples/p0_n12_i104_s5101040",
+      "native": 0.03256496787071228,
+      "small": 0.014298617839813232,
+      "margin": 0.023431792855262756,
+      "error": 0.031209150329232216
+    },
+    {
+      "index": 63,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100630,
+      "file": "samples/p0_n12_i063_s5100630",
+      "native": 0.0542808473110199,
+      "small": -0.01929783821105957,
+      "margin": 0.017491504549980164,
+      "error": 0.03897058963775635
+    },
+    {
+      "index": 23,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100230,
+      "file": "samples/p0_n12_i023_s5100230",
+      "native": 0.05555301904678345,
+      "small": 0.016358941793441772,
+      "margin": 0.03595598042011261,
+      "error": 0.037254899740219116
+    },
+    {
+      "index": 21,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100212,
+      "file": "samples/p0_n12_i021_s5100212",
+      "native": 0.03850024938583374,
+      "small": 0.031046569347381592,
+      "margin": 0.034773409366607666,
+      "error": 0.03766339644789696
+    },
+    {
+      "index": 62,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100620,
+      "file": "samples/p0_n12_i062_s5100620",
+      "native": 0.046472758054733276,
+      "small": 0.04729098081588745,
+      "margin": 0.046881869435310364,
+      "error": 0.029820257797837257
+    },
+    {
+      "index": 235,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5102350,
+      "file": "samples/p0_n12_i235_s5102350",
+      "native": 0.04963219165802002,
+      "small": 0.046769142150878906,
+      "margin": 0.04820066690444946,
+      "error": 0.061846405267715454
+    },
+    {
+      "index": 141,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101410,
+      "file": "samples/p0_n12_i141_s5101410",
+      "native": 0.01837456226348877,
+      "small": 0.026022493839263916,
+      "margin": 0.022198528051376343,
+      "error": 0.047467321157455444
+    },
+    {
+      "index": 15,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100150,
+      "file": "samples/p0_n12_i015_s5100150",
+      "native": 0.01323401927947998,
+      "small": 0.023630529642105103,
+      "margin": 0.01843227446079254,
+      "error": 0.010784313082695007
+    },
+    {
+      "index": 221,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5102211,
+      "file": "samples/p0_n12_i221_s5102211",
+      "native": 0.03797769546508789,
+      "small": 0.031918272376060486,
+      "margin": 0.03494798392057419,
+      "error": 0.03741830214858055
+    },
+    {
+      "index": 164,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101640,
+      "file": "samples/p0_n12_i164_s5101640",
+      "native": 0.06289881467819214,
+      "small": 0.05022144317626953,
+      "margin": 0.056560128927230835,
+      "error": 0.03366013243794441
+    },
+    {
+      "index": 53,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100530,
+      "file": "samples/p0_n12_i053_s5100530",
+      "native": 0.03268539905548096,
+      "small": 0.04341781139373779,
+      "margin": 0.038051605224609375,
+      "error": 0.048366013914346695
+    },
+    {
+      "index": 39,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100390,
+      "file": "samples/p0_n12_i039_s5100390",
+      "native": 0.04236912727355957,
+      "small": 0.032068610191345215,
+      "margin": 0.03721886873245239,
+      "error": 0.028349673375487328
+    },
+    {
+      "index": 66,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100661,
+      "file": "samples/p0_n12_i066_s5100661",
+      "native": 0.047806620597839355,
+      "small": 0.03737016022205353,
+      "margin": 0.04258839040994644,
+      "error": 0.0468137226998806
+    },
+    {
+      "index": 218,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5102181,
+      "file": "samples/p0_n12_i218_s5102181",
+      "native": 0.05675807595252991,
+      "small": 0.04055279493331909,
+      "margin": 0.0486554354429245,
+      "error": 0.049754898995161057
+    },
+    {
+      "index": 113,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101131,
+      "file": "samples/p0_n12_i113_s5101131",
+      "native": 0.037797629833221436,
+      "small": 0.019919008016586304,
+      "margin": 0.02885831892490387,
+      "error": 0.027450978755950928
+    },
+    {
+      "index": 241,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5102411,
+      "file": "samples/p0_n12_i241_s5102411",
+      "native": 0.04049602150917053,
+      "small": 0.017469316720962524,
+      "margin": 0.02898266911506653,
+      "error": 0.03366013243794441
+    },
+    {
+      "index": 51,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100511,
+      "file": "samples/p0_n12_i051_s5100511",
+      "native": 0.08629442751407623,
+      "small": 0.005241483449935913,
+      "margin": 0.04576795548200607,
+      "error": 0.04207516089081764
+    },
+    {
+      "index": 187,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101870,
+      "file": "samples/p0_n12_i187_s5101870",
+      "native": 0.07215321063995361,
+      "small": 0.015723779797554016,
+      "margin": 0.043938495218753815,
+      "error": 0.06707516312599182
+    },
+    {
+      "index": 17,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100171,
+      "file": "samples/p0_n12_i017_s5100171",
+      "native": 0.03397166728973389,
+      "small": 0.030238091945648193,
+      "margin": 0.03210487961769104,
+      "error": 0.03594771400094032
+    },
+    {
+      "index": 25,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100251,
+      "file": "samples/p0_n12_i025_s5100251",
+      "native": 0.05238950252532959,
+      "small": 0.04857942461967468,
+      "margin": 0.050484463572502136,
+      "error": 0.06895425170660019
+    },
+    {
+      "index": 2,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100021,
+      "file": "samples/p0_n12_i002_s5100021",
+      "native": 0.07693293690681458,
+      "small": 0.048471033573150635,
+      "margin": 0.0627019852399826,
+      "error": 0.017892155796289444
+    }
+  ],
+  "attempts": [
+    {
+      "index": 68,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100680,
+      "file": "samples/p0_n12_i068_s5100680",
+      "native": 0.013943880796432495,
+      "small": 0.010816633701324463,
+      "margin": 0.012380257248878479,
+      "error": 0.05784313753247261
+    },
+    {
+      "index": 68,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100681,
+      "file": "samples/p0_n12_i068_s5100681",
+      "native": 0.04386499524116516,
+      "small": 0.006632581353187561,
+      "margin": 0.02524878829717636,
+      "error": 0.050163399428129196
+    },
+    {
+      "index": 68,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100682,
+      "file": "samples/p0_n12_i068_s5100682",
+      "native": 0.01866486668586731,
+      "small": 0.018063783645629883,
+      "margin": 0.018364325165748596,
+      "error": 0.04738561809062958
+    },
+    {
+      "index": 109,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101090,
+      "file": "samples/p0_n12_i109_s5101090",
+      "native": 0.01574420928955078,
+      "small": -0.024371296167373657,
+      "margin": -0.004313543438911438,
+      "error": 0.05457516387104988
+    },
+    {
+      "index": 109,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101091,
+      "file": "samples/p0_n12_i109_s5101091",
+      "native": 0.03045034408569336,
+      "small": -0.07445451617240906,
+      "margin": -0.02200208604335785,
+      "error": 0.07401961088180542
+    },
+    {
+      "index": 109,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101092,
+      "file": "samples/p0_n12_i109_s5101092",
+      "native": 0.013439595699310303,
+      "small": -0.04341310262680054,
+      "margin": -0.014986753463745117,
+      "error": 0.076633982360363
+    },
+    {
+      "index": 123,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101230,
+      "file": "samples/p0_n12_i123_s5101230",
+      "native": 0.04065778851509094,
+      "small": -0.039556488394737244,
+      "margin": 0.0005506500601768494,
+      "error": 0.04983660206198692
+    },
+    {
+      "index": 123,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101231,
+      "file": "samples/p0_n12_i123_s5101231",
+      "native": 0.04977975785732269,
+      "small": 0.009693145751953125,
+      "margin": 0.02973645180463791,
+      "error": 0.05800653621554375
+    },
+    {
+      "index": 123,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101232,
+      "file": "samples/p0_n12_i123_s5101232",
+      "native": 0.03750729560852051,
+      "small": 0.016637831926345825,
+      "margin": 0.027072563767433167,
+      "error": 0.03954248130321503
+    },
+    {
+      "index": 82,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100820,
+      "file": "samples/p0_n12_i082_s5100820",
+      "native": 0.039994627237319946,
+      "small": 0.016150981187820435,
+      "margin": 0.02807280421257019,
+      "error": 0.02647058665752411
+    },
+    {
+      "index": 46,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100460,
+      "file": "samples/p0_n12_i046_s5100460",
+      "native": 0.03549659252166748,
+      "small": 0.030766665935516357,
+      "margin": 0.03313162922859192,
+      "error": 0.041421566158533096
+    },
+    {
+      "index": 57,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100570,
+      "file": "samples/p0_n12_i057_s5100570",
+      "native": 0.02635475993156433,
+      "small": -0.02151048183441162,
+      "margin": 0.002422139048576355,
+      "error": 0.04354575276374817
+    },
+    {
+      "index": 57,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100571,
+      "file": "samples/p0_n12_i057_s5100571",
+      "native": 0.07457244396209717,
+      "small": 0.01752212643623352,
+      "margin": 0.046047285199165344,
+      "error": 0.04305555298924446
+    },
+    {
+      "index": 174,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101740,
+      "file": "samples/p0_n12_i174_s5101740",
+      "native": 0.041197776794433594,
+      "small": 0.03429245948791504,
+      "margin": 0.037745118141174316,
+      "error": 0.03848038986325264
+    },
+    {
+      "index": 158,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101580,
+      "file": "samples/p0_n12_i158_s5101580",
+      "native": 0.031132400035858154,
+      "small": 0.025348186492919922,
+      "margin": 0.028240293264389038,
+      "error": 0.0589052252471447
+    },
+    {
+      "index": 158,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101581,
+      "file": "samples/p0_n12_i158_s5101581",
+      "native": 0.0429232120513916,
+      "small": 0.027163028717041016,
+      "margin": 0.03504312038421631,
+      "error": 0.02736928127706051
+    },
+    {
+      "index": 220,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5102200,
+      "file": "samples/p0_n12_i220_s5102200",
+      "native": 0.05478256940841675,
+      "small": 0.031457096338272095,
+      "margin": 0.04311983287334442,
+      "error": 0.07017973810434341
+    },
+    {
+      "index": 220,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5102201,
+      "file": "samples/p0_n12_i220_s5102201",
+      "native": 0.052459657192230225,
+      "small": 0.02881714701652527,
+      "margin": 0.04063840210437775,
+      "error": 0.052042484283447266
+    },
+    {
+      "index": 101,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101010,
+      "file": "samples/p0_n12_i101_s5101010",
+      "native": 0.04225420951843262,
+      "small": 0.016606777906417847,
+      "margin": 0.029430493712425232,
+      "error": 0.03619281202554703
+    },
+    {
+      "index": 169,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101690,
+      "file": "samples/p0_n12_i169_s5101690",
+      "native": 0.03878951072692871,
+      "small": 0.055033326148986816,
+      "margin": 0.046911418437957764,
+      "error": 0.03897058591246605
+    },
+    {
+      "index": 67,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100670,
+      "file": "samples/p0_n12_i067_s5100670",
+      "native": 0.027709245681762695,
+      "small": -0.03766387701034546,
+      "margin": -0.004977315664291382,
+      "error": 0.06388888508081436
+    },
+    {
+      "index": 67,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100671,
+      "file": "samples/p0_n12_i067_s5100671",
+      "native": 0.028637290000915527,
+      "small": 0.031165391206741333,
+      "margin": 0.02990134060382843,
+      "error": 0.04468953609466553
+    },
+    {
+      "index": 154,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101540,
+      "file": "samples/p0_n12_i154_s5101540",
+      "native": 0.06554928421974182,
+      "small": -0.028217673301696777,
+      "margin": 0.018665805459022522,
+      "error": 0.04583333060145378
+    },
+    {
+      "index": 154,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101541,
+      "file": "samples/p0_n12_i154_s5101541",
+      "native": 0.011384457349777222,
+      "small": 0.005657970905303955,
+      "margin": 0.008521214127540588,
+      "error": 0.0380718931555748
+    },
+    {
+      "index": 154,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101542,
+      "file": "samples/p0_n12_i154_s5101542",
+      "native": 0.054955095052719116,
+      "small": 0.05765071511268616,
+      "margin": 0.05630290508270264,
+      "error": 0.04967319965362549
+    },
+    {
+      "index": 173,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101730,
+      "file": "samples/p0_n12_i173_s5101730",
+      "native": 0.053942739963531494,
+      "small": 0.050505220890045166,
+      "margin": 0.05222398042678833,
+      "error": 0.04665033146739006
+    },
+    {
+      "index": 152,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101520,
+      "file": "samples/p0_n12_i152_s5101520",
+      "native": 0.01412251591682434,
+      "small": 0.0017617344856262207,
+      "margin": 0.00794212520122528,
+      "error": 0.01895424909889698
+    },
+    {
+      "index": 152,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101521,
+      "file": "samples/p0_n12_i152_s5101521",
+      "native": 0.040329933166503906,
+      "small": 0.016897886991500854,
+      "margin": 0.02861391007900238,
+      "error": 0.03602940961718559
+    },
+    {
+      "index": 29,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100290,
+      "file": "samples/p0_n12_i029_s5100290",
+      "native": 0.01604965329170227,
+      "small": 0.02366289496421814,
+      "margin": 0.019856274127960205,
+      "error": 0.030310457572340965
+    },
+    {
+      "index": 43,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100430,
+      "file": "samples/p0_n12_i043_s5100430",
+      "native": -0.007430404424667358,
+      "small": -0.06674143671989441,
+      "margin": -0.037085920572280884,
+      "error": 0.05571894720196724
+    },
+    {
+      "index": 43,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100431,
+      "file": "samples/p0_n12_i043_s5100431",
+      "native": 0.02008780837059021,
+      "small": -0.04573369026184082,
+      "margin": -0.012822940945625305,
+      "error": 0.040032681077718735
+    },
+    {
+      "index": 43,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100432,
+      "file": "samples/p0_n12_i043_s5100432",
+      "native": 0.04268091917037964,
+      "small": -0.029604822397232056,
+      "margin": 0.0065380483865737915,
+      "error": 0.039624180644750595
+    },
+    {
+      "index": 171,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101710,
+      "file": "samples/p0_n12_i171_s5101710",
+      "native": 0.03635492920875549,
+      "small": 0.012977510690689087,
+      "margin": 0.02466621994972229,
+      "error": 0.06544117629528046
+    },
+    {
+      "index": 197,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101970,
+      "file": "samples/p0_n12_i197_s5101970",
+      "native": 0.04469302296638489,
+      "small": 0.007286101579666138,
+      "margin": 0.025989562273025513,
+      "error": 0.03415032848715782
+    },
+    {
+      "index": 197,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101971,
+      "file": "samples/p0_n12_i197_s5101971",
+      "native": 0.05370575189590454,
+      "small": 0.047453612089157104,
+      "margin": 0.05057968199253082,
+      "error": 0.028594771400094032
+    },
+    {
+      "index": 214,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5102140,
+      "file": "samples/p0_n12_i214_s5102140",
+      "native": 0.05035337805747986,
+      "small": 0.04357233643531799,
+      "margin": 0.046962857246398926,
+      "error": 0.026062091812491417
+    },
+    {
+      "index": 40,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100400,
+      "file": "samples/p0_n12_i040_s5100400",
+      "native": 0.06003063917160034,
+      "small": 0.05634087324142456,
+      "margin": 0.05818575620651245,
+      "error": 0.05825163051486015
+    },
+    {
+      "index": 40,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100401,
+      "file": "samples/p0_n12_i040_s5100401",
+      "native": 0.04573756456375122,
+      "small": 0.03411227464675903,
+      "margin": 0.03992491960525513,
+      "error": 0.04444444179534912
+    },
+    {
+      "index": 217,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5102170,
+      "file": "samples/p0_n12_i217_s5102170",
+      "native": 0.03623396158218384,
+      "small": -0.06536829471588135,
+      "margin": -0.014567166566848755,
+      "error": 0.01944444514811039
+    },
+    {
+      "index": 217,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5102171,
+      "file": "samples/p0_n12_i217_s5102171",
+      "native": 0.03911411762237549,
+      "small": -0.04021941125392914,
+      "margin": -0.000552646815776825,
+      "error": 0.027450980618596077
+    },
+    {
+      "index": 217,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5102172,
+      "file": "samples/p0_n12_i217_s5102172",
+      "native": 0.019703179597854614,
+      "small": -0.0004337131977081299,
+      "margin": 0.009634733200073242,
+      "error": 0.05588235333561897
+    },
+    {
+      "index": 176,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101760,
+      "file": "samples/p0_n12_i176_s5101760",
+      "native": 0.0547519326210022,
+      "small": -0.01879267394542694,
+      "margin": 0.017979629337787628,
+      "error": 0.04583333060145378
+    },
+    {
+      "index": 176,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101761,
+      "file": "samples/p0_n12_i176_s5101761",
+      "native": 0.05586075782775879,
+      "small": -0.01884378492832184,
+      "margin": 0.018508486449718475,
+      "error": 0.033088233321905136
+    },
+    {
+      "index": 176,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101762,
+      "file": "samples/p0_n12_i176_s5101762",
+      "native": 0.040953874588012695,
+      "small": 0.04412609338760376,
+      "margin": 0.04253998398780823,
+      "error": 0.03562091290950775
+    },
+    {
+      "index": 121,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101210,
+      "file": "samples/p0_n12_i121_s5101210",
+      "native": 0.02620786428451538,
+      "small": 0.043908119201660156,
+      "margin": 0.03505799174308777,
+      "error": 0.050163399428129196
+    },
+    {
+      "index": 206,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5102060,
+      "file": "samples/p0_n12_i206_s5102060",
+      "native": 0.015115082263946533,
+      "small": -0.016167163848876953,
+      "margin": -0.00052604079246521,
+      "error": 0.029983660206198692
+    },
+    {
+      "index": 206,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5102061,
+      "file": "samples/p0_n12_i206_s5102061",
+      "native": 0.02435588836669922,
+      "small": 0.04269853234291077,
+      "margin": 0.03352721035480499,
+      "error": 0.04174836352467537
+    },
+    {
+      "index": 195,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101950,
+      "file": "samples/p0_n12_i195_s5101950",
+      "native": 0.042619943618774414,
+      "small": -0.008521556854248047,
+      "margin": 0.017049193382263184,
+      "error": 0.02818627655506134
+    },
+    {
+      "index": 195,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101951,
+      "file": "samples/p0_n12_i195_s5101951",
+      "native": 0.03787115216255188,
+      "small": 0.0279541015625,
+      "margin": 0.03291262686252594,
+      "error": 0.025326797738671303
+    },
+    {
+      "index": 10,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100100,
+      "file": "samples/p0_n12_i010_s5100100",
+      "native": 0.02643895149230957,
+      "small": 0.02718275785446167,
+      "margin": 0.02681085467338562,
+      "error": 0.026797384023666382
+    },
+    {
+      "index": 156,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101560,
+      "file": "samples/p0_n12_i156_s5101560",
+      "native": 0.03693455457687378,
+      "small": 0.056208670139312744,
+      "margin": 0.04657161235809326,
+      "error": 0.07467319816350937
+    },
+    {
+      "index": 97,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100970,
+      "file": "samples/p0_n12_i097_s5100970",
+      "native": 0.029709339141845703,
+      "small": -0.027876093983650208,
+      "margin": 0.0009166225790977478,
+      "error": 0.035457514226436615
+    },
+    {
+      "index": 97,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100971,
+      "file": "samples/p0_n12_i097_s5100971",
+      "native": 0.02722373604774475,
+      "small": -0.0325617790222168,
+      "margin": -0.002669021487236023,
+      "error": 0.03259803727269173
+    },
+    {
+      "index": 97,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100972,
+      "file": "samples/p0_n12_i097_s5100972",
+      "native": 0.029470741748809814,
+      "small": -0.02583785355091095,
+      "margin": 0.0018164440989494324,
+      "error": 0.03415032476186752
+    },
+    {
+      "index": 201,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5102010,
+      "file": "samples/p0_n12_i201_s5102010",
+      "native": 0.05871850252151489,
+      "small": -0.03459066152572632,
+      "margin": 0.012063920497894287,
+      "error": 0.031699344515800476
+    },
+    {
+      "index": 201,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5102011,
+      "file": "samples/p0_n12_i201_s5102011",
+      "native": 0.04803609848022461,
+      "small": 0.008826494216918945,
+      "margin": 0.028431296348571777,
+      "error": 0.03284313902258873
+    },
+    {
+      "index": 201,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5102012,
+      "file": "samples/p0_n12_i201_s5102012",
+      "native": 0.04411810636520386,
+      "small": -0.0570402592420578,
+      "margin": -0.0064610764384269714,
+      "error": 0.04444444552063942
+    },
+    {
+      "index": 54,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100540,
+      "file": "samples/p0_n12_i054_s5100540",
+      "native": 0.03571152687072754,
+      "small": 0.048135221004486084,
+      "margin": 0.04192337393760681,
+      "error": 0.03325163200497627
+    },
+    {
+      "index": 107,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101070,
+      "file": "samples/p0_n12_i107_s5101070",
+      "native": 0.014808505773544312,
+      "small": -0.025557562708854675,
+      "margin": -0.005374528467655182,
+      "error": 0.04632353410124779
+    },
+    {
+      "index": 107,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101071,
+      "file": "samples/p0_n12_i107_s5101071",
+      "native": 0.049876898527145386,
+      "small": 0.03979271650314331,
+      "margin": 0.04483480751514435,
+      "error": 0.06527777761220932
+    },
+    {
+      "index": 77,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100770,
+      "file": "samples/p0_n12_i077_s5100770",
+      "native": 0.027038872241973877,
+      "small": 0.03909823298454285,
+      "margin": 0.03306855261325836,
+      "error": 0.03325163200497627
+    },
+    {
+      "index": 172,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101720,
+      "file": "samples/p0_n12_i172_s5101720",
+      "native": 0.06071022152900696,
+      "small": 0.05482850968837738,
+      "margin": 0.05776936560869217,
+      "error": 0.047957513481378555
+    },
+    {
+      "index": 86,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100860,
+      "file": "samples/p0_n12_i086_s5100860",
+      "native": 0.06209036707878113,
+      "small": -0.01708647608757019,
+      "margin": 0.02250194549560547,
+      "error": 0.05906863138079643
+    },
+    {
+      "index": 86,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100861,
+      "file": "samples/p0_n12_i086_s5100861",
+      "native": 0.03531423211097717,
+      "small": 0.022600501775741577,
+      "margin": 0.028957366943359375,
+      "error": 0.04395424947142601
+    },
+    {
+      "index": 148,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101480,
+      "file": "samples/p0_n12_i148_s5101480",
+      "native": 0.036182522773742676,
+      "small": -0.04341454803943634,
+      "margin": -0.0036160126328468323,
+      "error": 0.052941177040338516
+    },
+    {
+      "index": 148,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101481,
+      "file": "samples/p0_n12_i148_s5101481",
+      "native": 0.02657565474510193,
+      "small": -0.010334208607673645,
+      "margin": 0.008120723068714142,
+      "error": 0.059395432472229004
+    },
+    {
+      "index": 148,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101482,
+      "file": "samples/p0_n12_i148_s5101482",
+      "native": 0.017851322889328003,
+      "small": 0.03672155737876892,
+      "margin": 0.027286440134048462,
+      "error": 0.06952614337205887
+    },
+    {
+      "index": 249,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5102490,
+      "file": "samples/p0_n12_i249_s5102490",
+      "native": 0.025039881467819214,
+      "small": 0.01829621195793152,
+      "margin": 0.021668046712875366,
+      "error": 0.05694444477558136
+    },
+    {
+      "index": 125,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101250,
+      "file": "samples/p0_n12_i125_s5101250",
+      "native": 0.0010288655757904053,
+      "small": -0.06672173738479614,
+      "margin": -0.03284643590450287,
+      "error": 0.04844771325588226
+    },
+    {
+      "index": 125,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101251,
+      "file": "samples/p0_n12_i125_s5101251",
+      "native": 0.0431477427482605,
+      "small": -0.01573169231414795,
+      "margin": 0.013708025217056274,
+      "error": 0.04264706000685692
+    },
+    {
+      "index": 125,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101252,
+      "file": "samples/p0_n12_i125_s5101252",
+      "native": 0.06218832731246948,
+      "small": 0.027604565024375916,
+      "margin": 0.0448964461684227,
+      "error": 0.07042483240365982
+    },
+    {
+      "index": 211,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5102110,
+      "file": "samples/p0_n12_i211_s5102110",
+      "native": 0.07136309146881104,
+      "small": -0.01200917363166809,
+      "margin": 0.029676958918571472,
+      "error": 0.036764707416296005
+    },
+    {
+      "index": 211,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5102111,
+      "file": "samples/p0_n12_i211_s5102111",
+      "native": 0.049763619899749756,
+      "small": -0.002216637134552002,
+      "margin": 0.023773491382598877,
+      "error": 0.05326797068119049
+    },
+    {
+      "index": 211,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5102112,
+      "file": "samples/p0_n12_i211_s5102112",
+      "native": 0.0887785255908966,
+      "small": -0.009004652500152588,
+      "margin": 0.03988693654537201,
+      "error": 0.04591503366827965
+    },
+    {
+      "index": 71,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100710,
+      "file": "samples/p0_n12_i071_s5100710",
+      "native": 0.02297350764274597,
+      "small": 0.0058123767375946045,
+      "margin": 0.014392942190170288,
+      "error": 0.030718958005309105
+    },
+    {
+      "index": 71,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100711,
+      "file": "samples/p0_n12_i071_s5100711",
+      "native": 0.028372347354888916,
+      "small": 0.033180803060531616,
+      "margin": 0.030776575207710266,
+      "error": 0.03660130500793457
+    },
+    {
+      "index": 94,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100940,
+      "file": "samples/p0_n12_i094_s5100940",
+      "native": 0.05207732319831848,
+      "small": 0.053907573223114014,
+      "margin": 0.05299244821071625,
+      "error": 0.03202614560723305
+    },
+    {
+      "index": 22,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100220,
+      "file": "samples/p0_n12_i022_s5100220",
+      "native": 0.05641859769821167,
+      "small": 0.0379771888256073,
+      "margin": 0.047197893261909485,
+      "error": 0.049754898995161057
+    },
+    {
+      "index": 223,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5102230,
+      "file": "samples/p0_n12_i223_s5102230",
+      "native": 0.0547051727771759,
+      "small": -0.015650689601898193,
+      "margin": 0.019527241587638855,
+      "error": 0.03709150478243828
+    },
+    {
+      "index": 223,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5102231,
+      "file": "samples/p0_n12_i223_s5102231",
+      "native": 0.014627188444137573,
+      "small": 0.03978726267814636,
+      "margin": 0.027207225561141968,
+      "error": 0.04665033146739006
+    },
+    {
+      "index": 100,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101000,
+      "file": "samples/p0_n12_i100_s5101000",
+      "native": 0.043485626578330994,
+      "small": -0.030857548117637634,
+      "margin": 0.00631403923034668,
+      "error": 0.06576797366142273
+    },
+    {
+      "index": 100,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101001,
+      "file": "samples/p0_n12_i100_s5101001",
+      "native": 0.011605888605117798,
+      "small": -0.03158813714981079,
+      "margin": -0.009991124272346497,
+      "error": 0.04624183103442192
+    },
+    {
+      "index": 100,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101002,
+      "file": "samples/p0_n12_i100_s5101002",
+      "native": 0.01659482717514038,
+      "small": -0.03811049461364746,
+      "margin": -0.01075783371925354,
+      "error": 0.0470588244497776
+    },
+    {
+      "index": 151,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101510,
+      "file": "samples/p0_n12_i151_s5101510",
+      "native": 0.048296988010406494,
+      "small": 0.04380282759666443,
+      "margin": 0.04604990780353546,
+      "error": 0.04125817120075226
+    },
+    {
+      "index": 182,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101820,
+      "file": "samples/p0_n12_i182_s5101820",
+      "native": 0.03959605097770691,
+      "small": 0.02068471908569336,
+      "margin": 0.030140385031700134,
+      "error": 0.051225487142801285
+    },
+    {
+      "index": 96,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100960,
+      "file": "samples/p0_n12_i096_s5100960",
+      "native": 0.02565571665763855,
+      "small": 0.024384349584579468,
+      "margin": 0.02502003312110901,
+      "error": 0.03562091290950775
+    },
+    {
+      "index": 52,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100520,
+      "file": "samples/p0_n12_i052_s5100520",
+      "native": 0.02466323971748352,
+      "small": -0.0033829808235168457,
+      "margin": 0.010640129446983337,
+      "error": 0.033578429371118546
+    },
+    {
+      "index": 52,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100521,
+      "file": "samples/p0_n12_i052_s5100521",
+      "native": 0.012180179357528687,
+      "small": 0.0061187744140625,
+      "margin": 0.009149476885795593,
+      "error": 0.05130718648433685
+    },
+    {
+      "index": 52,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100522,
+      "file": "samples/p0_n12_i052_s5100522",
+      "native": 0.03231605887413025,
+      "small": -0.04584306478500366,
+      "margin": -0.0067635029554367065,
+      "error": 0.05138888955116272
+    },
+    {
+      "index": 74,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100740,
+      "file": "samples/p0_n12_i074_s5100740",
+      "native": 0.05411556363105774,
+      "small": -0.010486811399459839,
+      "margin": 0.02181437611579895,
+      "error": 0.038643792271614075
+    },
+    {
+      "index": 74,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100741,
+      "file": "samples/p0_n12_i074_s5100741",
+      "native": 0.04050907492637634,
+      "small": 0.008474677801132202,
+      "margin": 0.024491876363754272,
+      "error": 0.06299019604921341
+    },
+    {
+      "index": 74,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100742,
+      "file": "samples/p0_n12_i074_s5100742",
+      "native": 0.05439244210720062,
+      "small": -0.0025804340839385986,
+      "margin": 0.025906004011631012,
+      "error": 0.039133984595537186
+    },
+    {
+      "index": 93,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100930,
+      "file": "samples/p0_n12_i093_s5100930",
+      "native": 0.05808451771736145,
+      "small": -0.012216687202453613,
+      "margin": 0.02293391525745392,
+      "error": 0.05155228450894356
+    },
+    {
+      "index": 93,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100931,
+      "file": "samples/p0_n12_i093_s5100931",
+      "native": 0.06121966242790222,
+      "small": 0.02708779275417328,
+      "margin": 0.04415372759103775,
+      "error": 0.04852941632270813
+    },
+    {
+      "index": 179,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101790,
+      "file": "samples/p0_n12_i179_s5101790",
+      "native": 0.04140147566795349,
+      "small": -0.019539088010787964,
+      "margin": 0.010931193828582764,
+      "error": 0.05931372940540314
+    },
+    {
+      "index": 179,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101791,
+      "file": "samples/p0_n12_i179_s5101791",
+      "native": 0.04222989082336426,
+      "small": -0.008332580327987671,
+      "margin": 0.016948655247688293,
+      "error": 0.0434640534222126
+    },
+    {
+      "index": 179,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101792,
+      "file": "samples/p0_n12_i179_s5101792",
+      "native": 0.05451539158821106,
+      "small": 0.023543283343315125,
+      "margin": 0.03902933746576309,
+      "error": 0.04133987054228783
+    },
+    {
+      "index": 116,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101160,
+      "file": "samples/p0_n12_i116_s5101160",
+      "native": 0.04267069697380066,
+      "small": 0.04223448038101196,
+      "margin": 0.04245258867740631,
+      "error": 0.045915037393569946
+    },
+    {
+      "index": 225,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5102250,
+      "file": "samples/p0_n12_i225_s5102250",
+      "native": 0.07626268267631531,
+      "small": 0.05208809673786163,
+      "margin": 0.06417538970708847,
+      "error": 0.05326797440648079
+    },
+    {
+      "index": 110,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101100,
+      "file": "samples/p0_n12_i110_s5101100",
+      "native": 0.04399615526199341,
+      "small": 0.03315708041191101,
+      "margin": 0.03857661783695221,
+      "error": 0.03300653398036957
+    },
+    {
+      "index": 83,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100830,
+      "file": "samples/p0_n12_i083_s5100830",
+      "native": 0.04462650418281555,
+      "small": 0.0455927848815918,
+      "margin": 0.045109644532203674,
+      "error": 0.050653595477342606
+    },
+    {
+      "index": 227,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5102270,
+      "file": "samples/p0_n12_i227_s5102270",
+      "native": 0.05654919147491455,
+      "small": -0.034093499183654785,
+      "margin": 0.011227846145629883,
+      "error": 0.04959150031208992
+    },
+    {
+      "index": 227,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5102271,
+      "file": "samples/p0_n12_i227_s5102271",
+      "native": 0.05612140893936157,
+      "small": -0.05611106753349304,
+      "margin": 5.170702934265137e-06,
+      "error": 0.04542483761906624
+    },
+    {
+      "index": 227,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5102272,
+      "file": "samples/p0_n12_i227_s5102272",
+      "native": 0.06475511193275452,
+      "small": -0.033247873187065125,
+      "margin": 0.015753619372844696,
+      "error": 0.0380718894302845
+    },
+    {
+      "index": 41,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100410,
+      "file": "samples/p0_n12_i041_s5100410",
+      "native": 0.02640274167060852,
+      "small": -0.014864355325698853,
+      "margin": 0.005769193172454834,
+      "error": 0.07540849596261978
+    },
+    {
+      "index": 41,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100411,
+      "file": "samples/p0_n12_i041_s5100411",
+      "native": -0.0025008022785186768,
+      "small": -0.042567700147628784,
+      "margin": -0.02253425121307373,
+      "error": 0.06290849298238754
+    },
+    {
+      "index": 41,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100412,
+      "file": "samples/p0_n12_i041_s5100412",
+      "native": 0.04950600862503052,
+      "small": 0.01883333921432495,
+      "margin": 0.034169673919677734,
+      "error": 0.05833333730697632
+    },
+    {
+      "index": 229,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5102290,
+      "file": "samples/p0_n12_i229_s5102290",
+      "native": 0.06018191576004028,
+      "small": -0.029296457767486572,
+      "margin": 0.015442728996276855,
+      "error": 0.03750000149011612
+    },
+    {
+      "index": 229,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5102291,
+      "file": "samples/p0_n12_i229_s5102291",
+      "native": 0.04458099603652954,
+      "small": 0.023524373769760132,
+      "margin": 0.034052684903144836,
+      "error": 0.07598040252923965
+    },
+    {
+      "index": 229,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5102292,
+      "file": "samples/p0_n12_i229_s5102292",
+      "native": 0.05148455500602722,
+      "small": 0.029221385717391968,
+      "margin": 0.040352970361709595,
+      "error": 0.029738565906882286
+    },
+    {
+      "index": 37,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100370,
+      "file": "samples/p0_n12_i037_s5100370",
+      "native": 0.04349079728126526,
+      "small": 0.021954655647277832,
+      "margin": 0.032722726464271545,
+      "error": 0.04820261523127556
+    },
+    {
+      "index": 137,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101370,
+      "file": "samples/p0_n12_i137_s5101370",
+      "native": 0.035699546337127686,
+      "small": 0.03985503315925598,
+      "margin": 0.037777289748191833,
+      "error": 0.0540032684803009
+    },
+    {
+      "index": 26,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100260,
+      "file": "samples/p0_n12_i026_s5100260",
+      "native": 0.05950826406478882,
+      "small": 0.044093310832977295,
+      "margin": 0.05180078744888306,
+      "error": 0.03741830214858055
+    },
+    {
+      "index": 131,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101310,
+      "file": "samples/p0_n12_i131_s5101310",
+      "native": 0.036784619092941284,
+      "small": 0.0297563374042511,
+      "margin": 0.03327047824859619,
+      "error": 0.04411764815449715
+    },
+    {
+      "index": 3,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100030,
+      "file": "samples/p0_n12_i003_s5100030",
+      "native": 0.060232847929000854,
+      "small": 0.05138564109802246,
+      "margin": 0.05580924451351166,
+      "error": 0.06421568244695663
+    },
+    {
+      "index": 3,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100031,
+      "file": "samples/p0_n12_i003_s5100031",
+      "native": 0.033993422985076904,
+      "small": 0.021099328994750977,
+      "margin": 0.02754637598991394,
+      "error": 0.05514706298708916
+    },
+    {
+      "index": 108,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101080,
+      "file": "samples/p0_n12_i108_s5101080",
+      "native": 0.03452187776565552,
+      "small": -0.02814158797264099,
+      "margin": 0.003190144896507263,
+      "error": 0.05980392172932625
+    },
+    {
+      "index": 108,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101081,
+      "file": "samples/p0_n12_i108_s5101081",
+      "native": 0.03029048442840576,
+      "small": -0.022402465343475342,
+      "margin": 0.00394400954246521,
+      "error": 0.06544118374586105
+    },
+    {
+      "index": 108,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101082,
+      "file": "samples/p0_n12_i108_s5101082",
+      "native": 0.04223981499671936,
+      "small": 0.0261533260345459,
+      "margin": 0.03419657051563263,
+      "error": 0.07704249024391174
+    },
+    {
+      "index": 186,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101860,
+      "file": "samples/p0_n12_i186_s5101860",
+      "native": 0.026278585195541382,
+      "small": 0.0359150767326355,
+      "margin": 0.03109683096408844,
+      "error": 0.048774510622024536
+    },
+    {
+      "index": 81,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100810,
+      "file": "samples/p0_n12_i081_s5100810",
+      "native": 0.04635500907897949,
+      "small": 0.033070921897888184,
+      "margin": 0.03971296548843384,
+      "error": 0.03578430786728859
+    },
+    {
+      "index": 139,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101390,
+      "file": "samples/p0_n12_i139_s5101390",
+      "native": 0.05546802282333374,
+      "small": 0.014425992965698242,
+      "margin": 0.03494700789451599,
+      "error": 0.03970588371157646
+    },
+    {
+      "index": 48,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100480,
+      "file": "samples/p0_n12_i048_s5100480",
+      "native": 0.012504249811172485,
+      "small": 0.03327009081840515,
+      "margin": 0.02288717031478882,
+      "error": 0.050245095044374466
+    },
+    {
+      "index": 122,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101220,
+      "file": "samples/p0_n12_i122_s5101220",
+      "native": 0.027319669723510742,
+      "small": 0.0370652973651886,
+      "margin": 0.03219248354434967,
+      "error": 0.061274509876966476
+    },
+    {
+      "index": 30,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100300,
+      "file": "samples/p0_n12_i030_s5100300",
+      "native": 0.02999711036682129,
+      "small": 0.029537200927734375,
+      "margin": 0.029767155647277832,
+      "error": 0.054493460804224014
+    },
+    {
+      "index": 104,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101040,
+      "file": "samples/p0_n12_i104_s5101040",
+      "native": 0.03256496787071228,
+      "small": 0.014298617839813232,
+      "margin": 0.023431792855262756,
+      "error": 0.031209150329232216
+    },
+    {
+      "index": 63,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100630,
+      "file": "samples/p0_n12_i063_s5100630",
+      "native": 0.0542808473110199,
+      "small": -0.01929783821105957,
+      "margin": 0.017491504549980164,
+      "error": 0.03897058963775635
+    },
+    {
+      "index": 63,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100631,
+      "file": "samples/p0_n12_i063_s5100631",
+      "native": 0.04832504689693451,
+      "small": -0.045957088470458984,
+      "margin": 0.0011839792132377625,
+      "error": 0.04297385737299919
+    },
+    {
+      "index": 63,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100632,
+      "file": "samples/p0_n12_i063_s5100632",
+      "native": 0.026776283979415894,
+      "small": -0.03375759720802307,
+      "margin": -0.003490656614303589,
+      "error": 0.04754902049899101
+    },
+    {
+      "index": 23,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100230,
+      "file": "samples/p0_n12_i023_s5100230",
+      "native": 0.05555301904678345,
+      "small": 0.016358941793441772,
+      "margin": 0.03595598042011261,
+      "error": 0.037254899740219116
+    },
+    {
+      "index": 21,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100210,
+      "file": "samples/p0_n12_i021_s5100210",
+      "native": 0.022494256496429443,
+      "small": -0.04592379927635193,
+      "margin": -0.011714771389961243,
+      "error": 0.03439542278647423
+    },
+    {
+      "index": 21,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100211,
+      "file": "samples/p0_n12_i021_s5100211",
+      "native": 0.04190492630004883,
+      "small": -0.027193665504455566,
+      "margin": 0.007355630397796631,
+      "error": 0.04044117406010628
+    },
+    {
+      "index": 21,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100212,
+      "file": "samples/p0_n12_i021_s5100212",
+      "native": 0.03850024938583374,
+      "small": 0.031046569347381592,
+      "margin": 0.034773409366607666,
+      "error": 0.03766339644789696
+    },
+    {
+      "index": 62,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100620,
+      "file": "samples/p0_n12_i062_s5100620",
+      "native": 0.046472758054733276,
+      "small": 0.04729098081588745,
+      "margin": 0.046881869435310364,
+      "error": 0.029820257797837257
+    },
+    {
+      "index": 235,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5102350,
+      "file": "samples/p0_n12_i235_s5102350",
+      "native": 0.04963219165802002,
+      "small": 0.046769142150878906,
+      "margin": 0.04820066690444946,
+      "error": 0.061846405267715454
+    },
+    {
+      "index": 252,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5102520,
+      "file": "samples/p0_n12_i252_s5102520",
+      "native": 0.03950333595275879,
+      "small": -0.019083172082901,
+      "margin": 0.010210081934928894,
+      "error": 0.03153594955801964
+    },
+    {
+      "index": 252,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5102521,
+      "file": "samples/p0_n12_i252_s5102521",
+      "native": 0.055522769689559937,
+      "small": -0.027034729719161987,
+      "margin": 0.014244019985198975,
+      "error": 0.025326797738671303
+    },
+    {
+      "index": 252,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5102522,
+      "file": "samples/p0_n12_i252_s5102522",
+      "native": 0.05878064036369324,
+      "small": -0.015583634376525879,
+      "margin": 0.02159850299358368,
+      "error": 0.04583333432674408
+    },
+    {
+      "index": 141,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101410,
+      "file": "samples/p0_n12_i141_s5101410",
+      "native": 0.01837456226348877,
+      "small": 0.026022493839263916,
+      "margin": 0.022198528051376343,
+      "error": 0.047467321157455444
+    },
+    {
+      "index": 15,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100150,
+      "file": "samples/p0_n12_i015_s5100150",
+      "native": 0.01323401927947998,
+      "small": 0.023630529642105103,
+      "margin": 0.01843227446079254,
+      "error": 0.010784313082695007
+    },
+    {
+      "index": 221,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5102210,
+      "file": "samples/p0_n12_i221_s5102210",
+      "native": 0.05188527703285217,
+      "small": -0.011274278163909912,
+      "margin": 0.02030549943447113,
+      "error": 0.02736928127706051
+    },
+    {
+      "index": 221,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5102211,
+      "file": "samples/p0_n12_i221_s5102211",
+      "native": 0.03797769546508789,
+      "small": 0.031918272376060486,
+      "margin": 0.03494798392057419,
+      "error": 0.03741830214858055
+    },
+    {
+      "index": 164,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101640,
+      "file": "samples/p0_n12_i164_s5101640",
+      "native": 0.06289881467819214,
+      "small": 0.05022144317626953,
+      "margin": 0.056560128927230835,
+      "error": 0.03366013243794441
+    },
+    {
+      "index": 53,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100530,
+      "file": "samples/p0_n12_i053_s5100530",
+      "native": 0.03268539905548096,
+      "small": 0.04341781139373779,
+      "margin": 0.038051605224609375,
+      "error": 0.048366013914346695
+    },
+    {
+      "index": 39,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100390,
+      "file": "samples/p0_n12_i039_s5100390",
+      "native": 0.04236912727355957,
+      "small": 0.032068610191345215,
+      "margin": 0.03721886873245239,
+      "error": 0.028349673375487328
+    },
+    {
+      "index": 66,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100660,
+      "file": "samples/p0_n12_i066_s5100660",
+      "native": 0.037597447633743286,
+      "small": -0.01870664954185486,
+      "margin": 0.009445399045944214,
+      "error": 0.046977121382951736
+    },
+    {
+      "index": 66,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100661,
+      "file": "samples/p0_n12_i066_s5100661",
+      "native": 0.047806620597839355,
+      "small": 0.03737016022205353,
+      "margin": 0.04258839040994644,
+      "error": 0.0468137226998806
+    },
+    {
+      "index": 218,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5102180,
+      "file": "samples/p0_n12_i218_s5102180",
+      "native": 0.02240946888923645,
+      "small": 0.020765215158462524,
+      "margin": 0.021587342023849487,
+      "error": 0.03741830214858055
+    },
+    {
+      "index": 218,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5102181,
+      "file": "samples/p0_n12_i218_s5102181",
+      "native": 0.05675807595252991,
+      "small": 0.04055279493331909,
+      "margin": 0.0486554354429245,
+      "error": 0.049754898995161057
+    },
+    {
+      "index": 113,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101130,
+      "file": "samples/p0_n12_i113_s5101130",
+      "native": 0.012831896543502808,
+      "small": -0.0601172149181366,
+      "margin": -0.023642659187316895,
+      "error": 0.03700980171561241
+    },
+    {
+      "index": 113,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101131,
+      "file": "samples/p0_n12_i113_s5101131",
+      "native": 0.037797629833221436,
+      "small": 0.019919008016586304,
+      "margin": 0.02885831892490387,
+      "error": 0.027450978755950928
+    },
+    {
+      "index": 241,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5102410,
+      "file": "samples/p0_n12_i241_s5102410",
+      "native": 0.04524490237236023,
+      "small": -0.002708539366722107,
+      "margin": 0.02126818150281906,
+      "error": 0.04485294222831726
+    },
+    {
+      "index": 241,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5102411,
+      "file": "samples/p0_n12_i241_s5102411",
+      "native": 0.04049602150917053,
+      "small": 0.017469316720962524,
+      "margin": 0.02898266911506653,
+      "error": 0.03366013243794441
+    },
+    {
+      "index": 51,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100510,
+      "file": "samples/p0_n12_i051_s5100510",
+      "native": 0.03463885188102722,
+      "small": -0.03283706307411194,
+      "margin": 0.0009008944034576416,
+      "error": 0.05457516387104988
+    },
+    {
+      "index": 51,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100511,
+      "file": "samples/p0_n12_i051_s5100511",
+      "native": 0.08629442751407623,
+      "small": 0.005241483449935913,
+      "margin": 0.04576795548200607,
+      "error": 0.04207516089081764
+    },
+    {
+      "index": 51,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100512,
+      "file": "samples/p0_n12_i051_s5100512",
+      "native": 0.03053942322731018,
+      "small": 0.01603272557258606,
+      "margin": 0.02328607439994812,
+      "error": 0.04084967449307442
+    },
+    {
+      "index": 187,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101870,
+      "file": "samples/p0_n12_i187_s5101870",
+      "native": 0.07215321063995361,
+      "small": 0.015723779797554016,
+      "margin": 0.043938495218753815,
+      "error": 0.06707516312599182
+    },
+    {
+      "index": 17,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100170,
+      "file": "samples/p0_n12_i017_s5100170",
+      "native": 0.01448109745979309,
+      "small": -0.06296657025814056,
+      "margin": -0.024242736399173737,
+      "error": 0.03415032476186752
+    },
+    {
+      "index": 17,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100171,
+      "file": "samples/p0_n12_i017_s5100171",
+      "native": 0.03397166728973389,
+      "small": 0.030238091945648193,
+      "margin": 0.03210487961769104,
+      "error": 0.03594771400094032
+    },
+    {
+      "index": 25,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100250,
+      "file": "samples/p0_n12_i025_s5100250",
+      "native": 0.04406028985977173,
+      "small": 0.002948939800262451,
+      "margin": 0.02350461483001709,
+      "error": 0.0558006577193737
+    },
+    {
+      "index": 25,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100251,
+      "file": "samples/p0_n12_i025_s5100251",
+      "native": 0.05238950252532959,
+      "small": 0.04857942461967468,
+      "margin": 0.050484463572502136,
+      "error": 0.06895425170660019
+    },
+    {
+      "index": 247,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5102470,
+      "file": "samples/p0_n12_i247_s5102470",
+      "native": 0.019058048725128174,
+      "small": -0.04741322994232178,
+      "margin": -0.014177590608596802,
+      "error": 0.05122549459338188
+    },
+    {
+      "index": 247,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5102471,
+      "file": "samples/p0_n12_i247_s5102471",
+      "native": 0.05093547701835632,
+      "small": -0.02189667522907257,
+      "margin": 0.014519400894641876,
+      "error": 0.037336599081754684
+    },
+    {
+      "index": 247,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5102472,
+      "file": "samples/p0_n12_i247_s5102472",
+      "native": 0.019228190183639526,
+      "small": 0.014746546745300293,
+      "margin": 0.01698736846446991,
+      "error": 0.03872549161314964
+    },
+    {
+      "index": 149,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101490,
+      "file": "samples/p0_n12_i149_s5101490",
+      "native": 0.05262807011604309,
+      "small": 0.0005560517311096191,
+      "margin": 0.026592060923576355,
+      "error": 0.05032679811120033
+    },
+    {
+      "index": 149,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101491,
+      "file": "samples/p0_n12_i149_s5101491",
+      "native": 0.054300710558891296,
+      "small": -0.04076647758483887,
+      "margin": 0.006767116487026215,
+      "error": 0.03937908634543419
+    },
+    {
+      "index": 149,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101492,
+      "file": "samples/p0_n12_i149_s5101492",
+      "native": 0.03937840461730957,
+      "small": -0.015292689204216003,
+      "margin": 0.012042857706546783,
+      "error": 0.042320262640714645
+    },
+    {
+      "index": 130,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101300,
+      "file": "samples/p0_n12_i130_s5101300",
+      "native": 0.02506089210510254,
+      "small": 0.0033478140830993652,
+      "margin": 0.014204353094100952,
+      "error": 0.04199346527457237
+    },
+    {
+      "index": 130,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101301,
+      "file": "samples/p0_n12_i130_s5101301",
+      "native": 0.024382710456848145,
+      "small": -0.03134559094905853,
+      "margin": -0.003481440246105194,
+      "error": 0.03995097801089287
+    },
+    {
+      "index": 130,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101302,
+      "file": "samples/p0_n12_i130_s5101302",
+      "native": 0.04707518219947815,
+      "small": -0.03732798993587494,
+      "margin": 0.004873596131801605,
+      "error": 0.04215686023235321
+    },
+    {
+      "index": 165,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101650,
+      "file": "samples/p0_n12_i165_s5101650",
+      "native": 0.0398617684841156,
+      "small": 0.006146550178527832,
+      "margin": 0.023004159331321716,
+      "error": 0.06454247981309891
+    },
+    {
+      "index": 165,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101651,
+      "file": "samples/p0_n12_i165_s5101651",
+      "native": 0.04289618134498596,
+      "small": -0.042345672845840454,
+      "margin": 0.0002752542495727539,
+      "error": 0.04983660578727722
+    },
+    {
+      "index": 165,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101652,
+      "file": "samples/p0_n12_i165_s5101652",
+      "native": 0.024396777153015137,
+      "small": -0.021051764488220215,
+      "margin": 0.001672506332397461,
+      "error": 0.06601307541131973
+    },
+    {
+      "index": 2,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100020,
+      "file": "samples/p0_n12_i002_s5100020",
+      "native": 0.018189847469329834,
+      "small": 0.040685415267944336,
+      "margin": 0.029437631368637085,
+      "error": 0.031699348241090775
+    },
+    {
+      "index": 2,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100021,
+      "file": "samples/p0_n12_i002_s5100021",
+      "native": 0.07693293690681458,
+      "small": 0.048471033573150635,
+      "margin": 0.0627019852399826,
+      "error": 0.017892155796289444
+    },
+    {
+      "index": 60,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5100600,
+      "file": "samples/p0_n12_i060_s5100600",
+      "native": 0.010763809084892273,
+      "small": -0.018995732069015503,
+      "margin": -0.004115961492061615,
+      "error": 0.04575163125991821
+    },
+    {
+      "index": 60,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5100601,
+      "file": "samples/p0_n12_i060_s5100601",
+      "native": 0.036830753087997437,
+      "small": -0.019745558500289917,
+      "margin": 0.00854259729385376,
+      "error": 0.05122549459338188
+    },
+    {
+      "index": 60,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5100602,
+      "file": "samples/p0_n12_i060_s5100602",
+      "native": -0.008433699607849121,
+      "small": 0.021766215562820435,
+      "margin": 0.006666257977485657,
+      "error": 0.04362745210528374
+    },
+    {
+      "index": 188,
+      "prompt": "Spider-Man swinging in his red and blue suit",
+      "steps": 12,
+      "seed": 5101880,
+      "file": "samples/p0_n12_i188_s5101880",
+      "native": 0.03511473536491394,
+      "small": -0.038518697023391724,
+      "margin": -0.0017019808292388916,
+      "error": 0.047303926199674606
+    },
+    {
+      "index": 188,
+      "prompt": "Spider-Man in his red webbed suit, waist-up action pose",
+      "steps": 12,
+      "seed": 5101881,
+      "file": "samples/p0_n12_i188_s5101881",
+      "native": 0.008501797914505005,
+      "small": -0.016774475574493408,
+      "margin": -0.004136338829994202,
+      "error": 0.05457516014575958
+    },
+    {
+      "index": 188,
+      "prompt": "Spider-Man crouching, red mask and white eyes",
+      "steps": 12,
+      "seed": 5101882,
+      "file": "samples/p0_n12_i188_s5101882",
+      "native": 0.05142733454704285,
+      "small": -0.03537827730178833,
+      "margin": 0.008024528622627258,
+      "error": 0.03374182805418968
+    }
+  ],
+  "baseline": [
+    {
+      "index": 117,
+      "native": 0.050865501165390015,
+      "small": 0.04889056086540222,
+      "margin": 0.04987803101539612,
+      "error": 0.04215686395764351
+    },
+    {
+      "index": 49,
+      "native": 0.03776270151138306,
+      "small": 0.04323786497116089,
+      "margin": 0.04050028324127197,
+      "error": 0.03513072058558464
+    },
+    {
+      "index": 68,
+      "native": -0.05910526216030121,
+      "small": -0.0686265230178833,
+      "margin": -0.06386589258909225,
+      "error": 0.039052288979291916
+    },
+    {
+      "index": 145,
+      "native": 0.03564372658729553,
+      "small": 0.041926443576812744,
+      "margin": 0.03878508508205414,
+      "error": 0.024264706298708916
+    },
+    {
+      "index": 192,
+      "native": 0.06886559724807739,
+      "small": 0.027656614780426025,
+      "margin": 0.04826110601425171,
+      "error": 0.041421566158533096
+    },
+    {
+      "index": 118,
+      "native": 0.06213754415512085,
+      "small": 0.02788981795310974,
+      "margin": 0.045013681054115295,
+      "error": 0.07410130649805069
+    },
+    {
+      "index": 12,
+      "native": 0.067410409450531,
+      "small": 0.0029396414756774902,
+      "margin": 0.03517502546310425,
+      "error": 0.04289215803146362
+    },
+    {
+      "index": 236,
+      "native": 0.058434486389160156,
+      "small": 0.03154119849205017,
+      "margin": 0.044987842440605164,
+      "error": 0.0555555559694767
+    },
+    {
+      "index": 0,
+      "native": 0.04973936080932617,
+      "small": 0.04882219433784485,
+      "margin": 0.04928077757358551,
+      "error": 0.022222226485610008
+    },
+    {
+      "index": 31,
+      "native": 0.04714953899383545,
+      "small": 0.04018715023994446,
+      "margin": 0.043668344616889954,
+      "error": 0.02818627655506134
+    },
+    {
+      "index": 109,
+      "native": -0.025032341480255127,
+      "small": -0.0760856568813324,
+      "margin": -0.05055899918079376,
+      "error": 0.054330065846443176
+    },
+    {
+      "index": 160,
+      "native": 0.05778840184211731,
+      "small": 0.0439378023147583,
+      "margin": 0.050863102078437805,
+      "error": 0.029656866565346718
+    },
+    {
+      "index": 114,
+      "native": 0.06722727417945862,
+      "small": 0.004379242658615112,
+      "margin": 0.035803258419036865,
+      "error": 0.026307187974452972
+    },
+    {
+      "index": 120,
+      "native": 0.04790443181991577,
+      "small": 0.056338101625442505,
+      "margin": 0.05212126672267914,
+      "error": 0.025245094671845436
+    },
+    {
+      "index": 42,
+      "native": 0.055738210678100586,
+      "small": 0.03639042377471924,
+      "margin": 0.04606431722640991,
+      "error": 0.060457516461610794
+    },
+    {
+      "index": 213,
+      "native": 0.05076298117637634,
+      "small": 0.0157487690448761,
+      "margin": 0.03325587511062622,
+      "error": 0.03897058963775635
+    },
+    {
+      "index": 85,
+      "native": 0.0967397689819336,
+      "small": 0.03650170564651489,
+      "margin": 0.06662073731422424,
+      "error": 0.06397058814764023
+    },
+    {
+      "index": 108,
+      "native": 0.026234284043312073,
+      "small": -0.017512112855911255,
+      "margin": 0.004361085593700409,
+      "error": 0.07116013020277023
+    },
+    {
+      "index": 163,
+      "native": 0.06737372279167175,
+      "small": 0.02753441035747528,
+      "margin": 0.04745406657457352,
+      "error": 0.0522058866918087
+    },
+    {
+      "index": 132,
+      "native": 0.05101412534713745,
+      "small": 0.03237065672874451,
+      "margin": 0.04169239103794098,
+      "error": 0.05931372940540314
+    },
+    {
+      "index": 165,
+      "native": 0.07200860977172852,
+      "small": -0.015846163034439087,
+      "margin": 0.028081223368644714,
+      "error": 0.052205879241228104
+    },
+    {
+      "index": 137,
+      "native": 0.04631349444389343,
+      "small": -0.037962719798088074,
+      "margin": 0.0041753873229026794,
+      "error": 0.044199347496032715
+    },
+    {
+      "index": 5,
+      "native": 0.019639939069747925,
+      "small": 0.024166852235794067,
+      "margin": 0.021903395652770996,
+      "error": 0.0416666679084301
+    },
+    {
+      "index": 98,
+      "native": 0.06551873683929443,
+      "small": 0.055392831563949585,
+      "margin": 0.06045578420162201,
+      "error": 0.039624184370040894
+    },
+    {
+      "index": 30,
+      "native": 0.046203047037124634,
+      "small": -0.033042967319488525,
+      "margin": 0.006580039858818054,
+      "error": 0.0362745076417923
+    },
+    {
+      "index": 181,
+      "native": 0.043777674436569214,
+      "small": 0.06398054957389832,
+      "margin": 0.053879112005233765,
+      "error": 0.059395428746938705
+    },
+    {
+      "index": 147,
+      "native": 0.06746546924114227,
+      "small": 0.011976569890975952,
+      "margin": 0.03972101956605911,
+      "error": 0.0591503269970417
+    },
+    {
+      "index": 69,
+      "native": 0.06996029615402222,
+      "small": 0.03415088355541229,
+      "margin": 0.052055589854717255,
+      "error": 0.058905232697725296
+    },
+    {
+      "index": 159,
+      "native": 0.054112762212753296,
+      "small": 0.04445865750312805,
+      "margin": 0.049285709857940674,
+      "error": 0.034885622560977936
+    },
+    {
+      "index": 247,
+      "native": 0.057758331298828125,
+      "small": -0.007192492485046387,
+      "margin": 0.02528291940689087,
+      "error": 0.05122549459338188
+    },
+    {
+      "index": 196,
+      "native": 0.06603705883026123,
+      "small": 0.04874935746192932,
+      "margin": 0.057393208146095276,
+      "error": 0.04754902049899101
+    },
+    {
+      "index": 166,
+      "native": 0.05491900444030762,
+      "small": 0.04333917796611786,
+      "margin": 0.04912909120321274,
+      "error": 0.04305555298924446
+    },
+    {
+      "index": 75,
+      "native": 0.03494161367416382,
+      "small": 0.04586741328239441,
+      "margin": 0.040404513478279114,
+      "error": 0.0640522912144661
+    },
+    {
+      "index": 237,
+      "native": 0.06801226735115051,
+      "small": 0.0215025395154953,
+      "margin": 0.044757403433322906,
+      "error": 0.04436274245381355
+    },
+    {
+      "index": 215,
+      "native": 0.03586471080780029,
+      "small": 0.04038417339324951,
+      "margin": 0.0381244421005249,
+      "error": 0.022303922101855278
+    },
+    {
+      "index": 61,
+      "native": 0.03472578525543213,
+      "small": 0.0541938841342926,
+      "margin": 0.044459834694862366,
+      "error": 0.042320262640714645
+    },
+    {
+      "index": 72,
+      "native": 0.05934154987335205,
+      "small": 0.029126763343811035,
+      "margin": 0.04423415660858154,
+      "error": 0.03251633793115616
+    },
+    {
+      "index": 188,
+      "native": 0.08571650087833405,
+      "small": -0.00693453848361969,
+      "margin": 0.03939098119735718,
+      "error": 0.032924834638834
+    },
+    {
+      "index": 216,
+      "native": 0.06557631492614746,
+      "small": 0.05704718828201294,
+      "margin": 0.0613117516040802,
+      "error": 0.028594771400094032
+    },
+    {
+      "index": 134,
+      "native": 0.05789154767990112,
+      "small": 0.049915581941604614,
+      "margin": 0.05390356481075287,
+      "error": 0.05816993489861488
+    },
+    {
+      "index": 185,
+      "native": 0.055930644273757935,
+      "small": 0.01390695571899414,
+      "margin": 0.03491879999637604,
+      "error": 0.05972222611308098
+    },
+    {
+      "index": 24,
+      "native": 0.07791879773139954,
+      "small": 0.03335128724575043,
+      "margin": 0.05563504248857498,
+      "error": 0.043709155172109604
+    },
+    {
+      "index": 47,
+      "native": 0.05056595802307129,
+      "small": 0.04686221480369568,
+      "margin": 0.048714086413383484,
+      "error": 0.052532684057950974
+    },
+    {
+      "index": 106,
+      "native": 0.039685189723968506,
+      "small": 0.027487754821777344,
+      "margin": 0.033586472272872925,
+      "error": 0.06642156839370728
+    },
+    {
+      "index": 242,
+      "native": 0.07578060030937195,
+      "small": 0.056925952434539795,
+      "margin": 0.06635327637195587,
+      "error": 0.043300654739141464
+    },
+    {
+      "index": 248,
+      "native": 0.0637713074684143,
+      "small": 0.033955901861190796,
+      "margin": 0.04886360466480255,
+      "error": 0.04991829767823219
+    },
+    {
+      "index": 119,
+      "native": 0.05019542574882507,
+      "small": 0.04361268877983093,
+      "margin": 0.046904057264328,
+      "error": 0.039052288979291916
+    },
+    {
+      "index": 184,
+      "native": 0.04849123954772949,
+      "small": 0.015984967350959778,
+      "margin": 0.032238103449344635,
+      "error": 0.03888888657093048
+    },
+    {
+      "index": 60,
+      "native": 0.07287061214447021,
+      "small": -0.0073411911725997925,
+      "margin": 0.03276471048593521,
+      "error": 0.05147058889269829
+    },
+    {
+      "index": 56,
+      "native": 0.038247138261795044,
+      "small": 0.04089358448982239,
+      "margin": 0.039570361375808716,
+      "error": 0.03218954801559448
+    },
+    {
+      "index": 124,
+      "native": 0.0556674599647522,
+      "small": 0.01452675461769104,
+      "margin": 0.03509710729122162,
+      "error": 0.05563725531101227
+    },
+    {
+      "index": 212,
+      "native": 0.03234302997589111,
+      "small": 0.033238381147384644,
+      "margin": 0.03279070556163788,
+      "error": 0.029901964589953423
+    },
+    {
+      "index": 59,
+      "native": 0.07081648707389832,
+      "small": 0.005370244383811951,
+      "margin": 0.03809336572885513,
+      "error": 0.03529411554336548
+    },
+    {
+      "index": 43,
+      "native": 0.0440821647644043,
+      "small": -0.06597985327243805,
+      "margin": -0.010948844254016876,
+      "error": 0.04117646813392639
+    },
+    {
+      "index": 105,
+      "native": 0.059773147106170654,
+      "small": 0.04321911931037903,
+      "margin": 0.05149613320827484,
+      "error": 0.04534313455224037
+    },
+    {
+      "index": 239,
+      "native": 0.058809757232666016,
+      "small": 0.04102781414985657,
+      "margin": 0.04991878569126129,
+      "error": 0.0434640534222126
+    },
+    {
+      "index": 221,
+      "native": 0.02354159951210022,
+      "small": -0.0020273923873901367,
+      "margin": 0.010757103562355042,
+      "error": 0.02818627469241619
+    },
+    {
+      "index": 80,
+      "native": 0.04853716492652893,
+      "small": 0.03487345576286316,
+      "margin": 0.041705310344696045,
+      "error": 0.036437906324863434
+    },
+    {
+      "index": 255,
+      "native": 0.03334486484527588,
+      "small": 0.035002321004867554,
+      "margin": 0.034173592925071716,
+      "error": 0.021977124735713005
+    },
+    {
+      "index": 90,
+      "native": 0.07903468608856201,
+      "small": 0.008252352476119995,
+      "margin": 0.043643519282341,
+      "error": 0.05122549459338188
+    },
+    {
+      "index": 167,
+      "native": 0.056033313274383545,
+      "small": 0.02735498547554016,
+      "margin": 0.04169414937496185,
+      "error": 0.05686274170875549
+    },
+    {
+      "index": 130,
+      "native": 0.06969782710075378,
+      "small": -0.01717507839202881,
+      "margin": 0.026261374354362488,
+      "error": 0.02965686284005642
+    },
+    {
+      "index": 246,
+      "native": 0.06926271319389343,
+      "small": 0.046163126826286316,
+      "margin": 0.057712920010089874,
+      "error": 0.06756535917520523
+    },
+    {
+      "index": 4,
+      "native": 0.02657681703567505,
+      "small": 0.032167404890060425,
+      "margin": 0.029372110962867737,
+      "error": 0.033088237047195435
+    },
+    {
+      "index": 123,
+      "native": -0.004280716180801392,
+      "small": -0.033385008573532104,
+      "margin": -0.018832862377166748,
+      "error": 0.02647058665752411
+    },
+    {
+      "index": 82,
+      "native": -0.0013813227415084839,
+      "small": -0.0347091406583786,
+      "margin": -0.018045231699943542,
+      "error": 0.03382353112101555
+    },
+    {
+      "index": 46,
+      "native": 0.019397318363189697,
+      "small": -0.05322505533695221,
+      "margin": -0.016913868486881256,
+      "error": 0.023774510249495506
+    },
+    {
+      "index": 57,
+      "native": 0.03852283954620361,
+      "small": -0.07076829671859741,
+      "margin": -0.0161227285861969,
+      "error": 0.04044117406010628
+    },
+    {
+      "index": 174,
+      "native": 0.027837097644805908,
+      "small": -0.0595167875289917,
+      "margin": -0.015839844942092896,
+      "error": 0.023366013541817665
+    },
+    {
+      "index": 158,
+      "native": 0.009956568479537964,
+      "small": -0.03996603190898895,
+      "margin": -0.015004731714725494,
+      "error": 0.01674836501479149
+    },
+    {
+      "index": 220,
+      "native": -0.001175999641418457,
+      "small": -0.028216183185577393,
+      "margin": -0.014696091413497925,
+      "error": 0.024346405640244484
+    },
+    {
+      "index": 101,
+      "native": 0.03623199462890625,
+      "small": -0.06429238617420197,
+      "margin": -0.014030195772647858,
+      "error": 0.04673202708363533
+    },
+    {
+      "index": 169,
+      "native": 0.03352358937263489,
+      "small": -0.06004957854747772,
+      "margin": -0.013262994587421417,
+      "error": 0.048856209963560104
+    },
+    {
+      "index": 67,
+      "native": 0.015191584825515747,
+      "small": -0.04050414264202118,
+      "margin": -0.012656278908252716,
+      "error": 0.04493464156985283
+    },
+    {
+      "index": 154,
+      "native": 0.014787018299102783,
+      "small": -0.040044888854026794,
+      "margin": -0.012628935277462006,
+      "error": 0.06241830065846443
+    },
+    {
+      "index": 173,
+      "native": 0.013412892818450928,
+      "small": -0.0385899543762207,
+      "margin": -0.012588530778884888,
+      "error": 0.023774510249495506
+    },
+    {
+      "index": 152,
+      "native": -0.00534212589263916,
+      "small": -0.018315091729164124,
+      "margin": -0.011828608810901642,
+      "error": 0.026225492358207703
+    },
+    {
+      "index": 29,
+      "native": 0.006232112646102905,
+      "small": -0.028315916657447815,
+      "margin": -0.011041902005672455,
+      "error": 0.025735294446349144
+    },
+    {
+      "index": 171,
+      "native": 0.021831542253494263,
+      "small": -0.04206062853336334,
+      "margin": -0.01011454313993454,
+      "error": 0.06233660504221916
+    },
+    {
+      "index": 197,
+      "native": 0.026758193969726562,
+      "small": -0.046710312366485596,
+      "margin": -0.009976059198379517,
+      "error": 0.02598039247095585
+    },
+    {
+      "index": 214,
+      "native": 0.023144006729125977,
+      "small": -0.04227384924888611,
+      "margin": -0.009564921259880066,
+      "error": 0.022058824077248573
+    },
+    {
+      "index": 40,
+      "native": 0.021005988121032715,
+      "small": -0.03979867696762085,
+      "margin": -0.009396344423294067,
+      "error": 0.021486928686499596
+    },
+    {
+      "index": 217,
+      "native": 0.020263254642486572,
+      "small": -0.038766130805015564,
+      "margin": -0.009251438081264496,
+      "error": 0.01666666753590107
+    },
+    {
+      "index": 176,
+      "native": 0.026386886835098267,
+      "small": -0.04440411925315857,
+      "margin": -0.009008616209030151,
+      "error": 0.02132352627813816
+    },
+    {
+      "index": 121,
+      "native": 0.008002638816833496,
+      "small": -0.02599869668483734,
+      "margin": -0.008998028934001923,
+      "error": 0.03700980544090271
+    },
+    {
+      "index": 206,
+      "native": 0.03324761986732483,
+      "small": -0.05122894048690796,
+      "margin": -0.008990660309791565,
+      "error": 0.025490200147032738
+    },
+    {
+      "index": 195,
+      "native": -0.0011269450187683105,
+      "small": -0.016683906316757202,
+      "margin": -0.008905425667762756,
+      "error": 0.02687908709049225
+    },
+    {
+      "index": 10,
+      "native": 0.015890896320343018,
+      "small": -0.03358563780784607,
+      "margin": -0.008847370743751526,
+      "error": 0.015196077525615692
+    },
+    {
+      "index": 156,
+      "native": -0.01390749216079712,
+      "small": -0.0025332272052764893,
+      "margin": -0.008220359683036804,
+      "error": 0.04550653696060181
+    },
+    {
+      "index": 97,
+      "native": 0.007030457258224487,
+      "small": -0.023344039916992188,
+      "margin": -0.00815679132938385,
+      "error": 0.028022876009345055
+    },
+    {
+      "index": 201,
+      "native": 0.0034521818161010742,
+      "small": -0.019023075699806213,
+      "margin": -0.00778544694185257,
+      "error": 0.043218955397605896
+    },
+    {
+      "index": 54,
+      "native": 0.02151644229888916,
+      "small": -0.034629419445991516,
+      "margin": -0.006556488573551178,
+      "error": 0.01944444328546524
+    },
+    {
+      "index": 107,
+      "native": 0.02044922113418579,
+      "small": -0.03319612145423889,
+      "margin": -0.00637345016002655,
+      "error": 0.041911762207746506
+    },
+    {
+      "index": 77,
+      "native": 0.025557339191436768,
+      "small": -0.03824649751186371,
+      "margin": -0.0063445791602134705,
+      "error": 0.03178104758262634
+    },
+    {
+      "index": 172,
+      "native": 0.011862725019454956,
+      "small": -0.023806899785995483,
+      "margin": -0.005972087383270264,
+      "error": 0.03153594583272934
+    },
+    {
+      "index": 86,
+      "native": 0.03278088569641113,
+      "small": -0.04333822429180145,
+      "margin": -0.00527866929769516,
+      "error": 0.036846403032541275
+    },
+    {
+      "index": 148,
+      "native": 0.0075991153717041016,
+      "small": -0.018122747540473938,
+      "margin": -0.005261816084384918,
+      "error": 0.07034314423799515
+    },
+    {
+      "index": 249,
+      "native": -0.004289314150810242,
+      "small": -0.004988431930541992,
+      "margin": -0.004638873040676117,
+      "error": 0.05539215728640556
+    },
+    {
+      "index": 125,
+      "native": 0.012474656105041504,
+      "small": -0.021443501114845276,
+      "margin": -0.004484422504901886,
+      "error": 0.038562092930078506
+    },
+    {
+      "index": 211,
+      "native": 0.030280381441116333,
+      "small": -0.03866392374038696,
+      "margin": -0.004191771149635315,
+      "error": 0.03529411926865578
+    },
+    {
+      "index": 71,
+      "native": -7.227063179016113e-05,
+      "small": -0.007497191429138184,
+      "margin": -0.0037847310304641724,
+      "error": 0.01895424909889698
+    },
+    {
+      "index": 94,
+      "native": 0.020532727241516113,
+      "small": -0.027239114046096802,
+      "margin": -0.0033531934022903442,
+      "error": 0.026552289724349976
+    },
+    {
+      "index": 22,
+      "native": 0.010284066200256348,
+      "small": -0.01694689691066742,
+      "margin": -0.003331415355205536,
+      "error": 0.03733660280704498
+    },
+    {
+      "index": 223,
+      "native": -0.0011797845363616943,
+      "small": -0.005183607339859009,
+      "margin": -0.0031816959381103516,
+      "error": 0.03545751795172691
+    },
+    {
+      "index": 100,
+      "native": 0.012100368738174438,
+      "small": -0.017947033047676086,
+      "margin": -0.002923332154750824,
+      "error": 0.0383169949054718
+    },
+    {
+      "index": 151,
+      "native": 0.014831066131591797,
+      "small": -0.019572466611862183,
+      "margin": -0.002370700240135193,
+      "error": 0.02957516349852085
+    },
+    {
+      "index": 182,
+      "native": 0.025506258010864258,
+      "small": -0.02937735617160797,
+      "margin": -0.0019355490803718567,
+      "error": 0.03750000149011612
+    },
+    {
+      "index": 96,
+      "native": 0.024900227785110474,
+      "small": -0.028632506728172302,
+      "margin": -0.0018661394715309143,
+      "error": 0.03161764517426491
+    },
+    {
+      "index": 52,
+      "native": 0.022361785173416138,
+      "small": -0.025270521640777588,
+      "margin": -0.001454368233680725,
+      "error": 0.0401143804192543
+    },
+    {
+      "index": 74,
+      "native": 0.02522626519203186,
+      "small": -0.027682974934577942,
+      "margin": -0.0012283548712730408,
+      "error": 0.03406862914562225
+    },
+    {
+      "index": 93,
+      "native": 0.024494215846061707,
+      "small": -0.02587205171585083,
+      "margin": -0.0006889179348945618,
+      "error": 0.032107844948768616
+    },
+    {
+      "index": 179,
+      "native": 0.03131461143493652,
+      "small": -0.030855342745780945,
+      "margin": 0.0002296343445777893,
+      "error": 0.030800653621554375
+    },
+    {
+      "index": 116,
+      "native": 0.031599998474121094,
+      "small": -0.031125128269195557,
+      "margin": 0.00023743510246276855,
+      "error": 0.037336599081754684
+    },
+    {
+      "index": 225,
+      "native": 0.033311158418655396,
+      "small": -0.032734215259552,
+      "margin": 0.0002884715795516968,
+      "error": 0.04150326922535896
+    },
+    {
+      "index": 110,
+      "native": 0.04243963956832886,
+      "small": -0.04124850034713745,
+      "margin": 0.0005955696105957031,
+      "error": 0.022058824077248573
+    },
+    {
+      "index": 83,
+      "native": 0.05318473279476166,
+      "small": -0.048514485359191895,
+      "margin": 0.0023351237177848816,
+      "error": 0.05604575201869011
+    },
+    {
+      "index": 227,
+      "native": 0.03847867250442505,
+      "small": -0.03277267515659332,
+      "margin": 0.002852998673915863,
+      "error": 0.0625
+    },
+    {
+      "index": 41,
+      "native": 0.03168302774429321,
+      "small": -0.023622676730155945,
+      "margin": 0.004030175507068634,
+      "error": 0.04207516089081764
+    },
+    {
+      "index": 229,
+      "native": 0.04446941614151001,
+      "small": -0.03636045753955841,
+      "margin": 0.0040544793009757996,
+      "error": 0.040441181510686874
+    },
+    {
+      "index": 37,
+      "native": 0.040138646960258484,
+      "small": -0.03182178735733032,
+      "margin": 0.004158429801464081,
+      "error": 0.04215686395764351
+    },
+    {
+      "index": 26,
+      "native": 0.01389417052268982,
+      "small": -0.00545346736907959,
+      "margin": 0.004220351576805115,
+      "error": 0.032271239906549454
+    },
+    {
+      "index": 131,
+      "native": 0.01571124792098999,
+      "small": -0.007193922996520996,
+      "margin": 0.004258662462234497,
+      "error": 0.05122549459338188
+    },
+    {
+      "index": 3,
+      "native": 0.039915889501571655,
+      "small": -0.03138527274131775,
+      "margin": 0.004265308380126953,
+      "error": 0.026633987203240395
+    },
+    {
+      "index": 186,
+      "native": 0.049431443214416504,
+      "small": -0.040453046560287476,
+      "margin": 0.004489198327064514,
+      "error": 0.059967320412397385
+    },
+    {
+      "index": 81,
+      "native": 0.020029455423355103,
+      "small": -0.010928437113761902,
+      "margin": 0.0045505091547966,
+      "error": 0.024264708161354065
+    },
+    {
+      "index": 139,
+      "native": 0.04320816695690155,
+      "small": -0.03389647603034973,
+      "margin": 0.004655845463275909,
+      "error": 0.05326797440648079
+    },
+    {
+      "index": 48,
+      "native": 0.012156188488006592,
+      "small": -0.001888185739517212,
+      "margin": 0.00513400137424469,
+      "error": 0.02638889104127884
+    },
+    {
+      "index": 122,
+      "native": 0.01867493987083435,
+      "small": -0.006618410348892212,
+      "margin": 0.006028264760971069,
+      "error": 0.05081699416041374
+    },
+    {
+      "index": 76,
+      "native": 0.012080103158950806,
+      "small": 0.0013001114130020142,
+      "margin": 0.00669010728597641,
+      "error": 0.04763071611523628
+    },
+    {
+      "index": 104,
+      "native": 0.03475922346115112,
+      "small": -0.021183550357818604,
+      "margin": 0.00678783655166626,
+      "error": 0.0313725508749485
+    },
+    {
+      "index": 63,
+      "native": 0.04339158535003662,
+      "small": -0.029809236526489258,
+      "margin": 0.006791174411773682,
+      "error": 0.03202614188194275
+    },
+    {
+      "index": 33,
+      "native": 0.004890710115432739,
+      "small": 0.00883975625038147,
+      "margin": 0.0068652331829071045,
+      "error": 0.03888889029622078
+    },
+    {
+      "index": 23,
+      "native": 0.06215465068817139,
+      "small": -0.04742768406867981,
+      "margin": 0.007363483309745789,
+      "error": 0.031699344515800476
+    },
+    {
+      "index": 21,
+      "native": 0.04947879910469055,
+      "small": -0.03419211506843567,
+      "margin": 0.007643342018127441,
+      "error": 0.04019607976078987
+    },
+    {
+      "index": 62,
+      "native": 0.019763648509979248,
+      "small": -0.004271119832992554,
+      "margin": 0.007746264338493347,
+      "error": 0.035049017518758774
+    },
+    {
+      "index": 235,
+      "native": 0.04808071255683899,
+      "small": -0.029867887496948242,
+      "margin": 0.009106412529945374,
+      "error": 0.048937905579805374
+    },
+    {
+      "index": 252,
+      "native": 0.03437262773513794,
+      "small": -0.01596127450466156,
+      "margin": 0.00920567661523819,
+      "error": 0.02589869312942028
+    },
+    {
+      "index": 141,
+      "native": 0.0597861111164093,
+      "small": -0.03994429111480713,
+      "margin": 0.009920910000801086,
+      "error": 0.025816993787884712
+    },
+    {
+      "index": 15,
+      "native": -0.005589157342910767,
+      "small": 0.02596670389175415,
+      "margin": 0.010188773274421692,
+      "error": 0.02557189203798771
+    },
+    {
+      "index": 150,
+      "native": 0.009756416082382202,
+      "small": 0.01256956160068512,
+      "margin": 0.011162988841533661,
+      "error": 0.050735294818878174
+    },
+    {
+      "index": 133,
+      "native": 0.020954906940460205,
+      "small": 0.0018614232540130615,
+      "margin": 0.011408165097236633,
+      "error": 0.03717320039868355
+    },
+    {
+      "index": 164,
+      "native": 0.03868234157562256,
+      "small": -0.015099287033081055,
+      "margin": 0.011791527271270752,
+      "error": 0.04109476879239082
+    },
+    {
+      "index": 9,
+      "native": 0.011734306812286377,
+      "small": 0.013940364122390747,
+      "margin": 0.012837335467338562,
+      "error": 0.02042483538389206
+    },
+    {
+      "index": 170,
+      "native": 0.012765288352966309,
+      "small": 0.013582855463027954,
+      "margin": 0.013174071907997131,
+      "error": 0.04665033146739006
+    },
+    {
+      "index": 28,
+      "native": 0.002201974391937256,
+      "small": 0.02477923035621643,
+      "margin": 0.013490602374076843,
+      "error": 0.037745099514722824
+    },
+    {
+      "index": 53,
+      "native": 0.04964032769203186,
+      "small": -0.0217762291431427,
+      "margin": 0.01393204927444458,
+      "error": 0.05081699416041374
+    },
+    {
+      "index": 39,
+      "native": 0.03437355160713196,
+      "small": -0.004150122404098511,
+      "margin": 0.015111714601516724,
+      "error": 0.038235291838645935
+    },
+    {
+      "index": 232,
+      "native": 0.023504048585891724,
+      "small": 0.007068932056427002,
+      "margin": 0.015286490321159363,
+      "error": 0.04583333060145378
+    },
+    {
+      "index": 66,
+      "native": 0.043614089488983154,
+      "small": -0.011771425604820251,
+      "margin": 0.01592133194208145,
+      "error": 0.025163399055600166
+    },
+    {
+      "index": 218,
+      "native": 0.06310808658599854,
+      "small": -0.03119899332523346,
+      "margin": 0.015954546630382538,
+      "error": 0.0347222238779068
+    },
+    {
+      "index": 6,
+      "native": 0.004912912845611572,
+      "small": 0.028454065322875977,
+      "margin": 0.016683489084243774,
+      "error": 0.03300653398036957
+    },
+    {
+      "index": 38,
+      "native": 0.028701603412628174,
+      "small": 0.0050773024559021,
+      "margin": 0.016889452934265137,
+      "error": 0.02450980246067047
+    },
+    {
+      "index": 8,
+      "native": 0.015645980834960938,
+      "small": 0.018697470426559448,
+      "margin": 0.017171725630760193,
+      "error": 0.020669933408498764
+    },
+    {
+      "index": 231,
+      "native": 0.016961276531219482,
+      "small": 0.01758188009262085,
+      "margin": 0.017271578311920166,
+      "error": 0.0365196093916893
+    },
+    {
+      "index": 144,
+      "native": 0.015343666076660156,
+      "small": 0.02023562788963318,
+      "margin": 0.017789646983146667,
+      "error": 0.028513068333268166
+    },
+    {
+      "index": 136,
+      "native": 0.011767774820327759,
+      "small": 0.024184614419937134,
+      "margin": 0.017976194620132446,
+      "error": 0.024346403777599335
+    },
+    {
+      "index": 153,
+      "native": 0.02057468891143799,
+      "small": 0.01542055606842041,
+      "margin": 0.0179976224899292,
+      "error": 0.04387255012989044
+    },
+    {
+      "index": 204,
+      "native": 0.021654784679412842,
+      "small": 0.014566481113433838,
+      "margin": 0.01811063289642334,
+      "error": 0.03186274692416191
+    },
+    {
+      "index": 113,
+      "native": 0.05073907971382141,
+      "small": -0.014101296663284302,
+      "margin": 0.018318891525268555,
+      "error": 0.032271239906549454
+    },
+    {
+      "index": 241,
+      "native": 0.04552236199378967,
+      "small": -0.008878782391548157,
+      "margin": 0.018321789801120758,
+      "error": 0.053431373089551926
+    },
+    {
+      "index": 51,
+      "native": 0.06082940101623535,
+      "small": -0.020078212022781372,
+      "margin": 0.02037559449672699,
+      "error": 0.045179739594459534
+    },
+    {
+      "index": 187,
+      "native": 0.04406675696372986,
+      "small": -0.002927422523498535,
+      "margin": 0.02056966722011566,
+      "error": 0.04199346527457237
+    },
+    {
+      "index": 205,
+      "native": 0.02514132857322693,
+      "small": 0.016827523708343506,
+      "margin": 0.020984426140785217,
+      "error": 0.025081699714064598
+    },
+    {
+      "index": 243,
+      "native": 0.043157100677490234,
+      "small": 0.0003737807273864746,
+      "margin": 0.021765440702438354,
+      "error": 0.052124183624982834
+    },
+    {
+      "index": 89,
+      "native": 0.041071534156799316,
+      "small": 0.002794116735458374,
+      "margin": 0.021932825446128845,
+      "error": 0.032271239906549454
+    },
+    {
+      "index": 16,
+      "native": 0.0354427695274353,
+      "small": 0.009464263916015625,
+      "margin": 0.022453516721725464,
+      "error": 0.029820261523127556
+    },
+    {
+      "index": 17,
+      "native": 0.04708266258239746,
+      "small": -0.0013510286808013916,
+      "margin": 0.022865816950798035,
+      "error": 0.01617647148668766
+    },
+    {
+      "index": 210,
+      "native": 0.030511140823364258,
+      "small": 0.015567123889923096,
+      "margin": 0.023039132356643677,
+      "error": 0.026062091812491417
+    },
+    {
+      "index": 11,
+      "native": 0.01877284049987793,
+      "small": 0.02781444787979126,
+      "margin": 0.023293644189834595,
+      "error": 0.020588237792253494
+    },
+    {
+      "index": 233,
+      "native": 0.04433798789978027,
+      "small": 0.004369765520095825,
+      "margin": 0.02435387670993805,
+      "error": 0.03235293924808502
+    },
+    {
+      "index": 25,
+      "native": 0.05801635980606079,
+      "small": -0.008482381701469421,
+      "margin": 0.024766989052295685,
+      "error": 0.04019607976078987
+    },
+    {
+      "index": 44,
+      "native": 0.031096220016479492,
+      "small": 0.0191991925239563,
+      "margin": 0.025147706270217896,
+      "error": 0.041013073176145554
+    },
+    {
+      "index": 198,
+      "native": 0.03562071919441223,
+      "small": 0.015008807182312012,
+      "margin": 0.02531476318836212,
+      "error": 0.049346406012773514
+    },
+    {
+      "index": 149,
+      "native": 0.05089300870895386,
+      "small": -0.00020051002502441406,
+      "margin": 0.02534624934196472,
+      "error": 0.038235291838645935
+    },
+    {
+      "index": 209,
+      "native": 0.018745005130767822,
+      "small": 0.03251776099205017,
+      "margin": 0.025631383061408997,
+      "error": 0.05825163051486015
+    },
+    {
+      "index": 36,
+      "native": 0.01926666498184204,
+      "small": 0.03214144706726074,
+      "margin": 0.02570405602455139,
+      "error": 0.044607844203710556
+    },
+    {
+      "index": 168,
+      "native": 0.02792137861251831,
+      "small": 0.023921459913253784,
+      "margin": 0.025921419262886047,
+      "error": 0.03741830214858055
+    },
+    {
+      "index": 103,
+      "native": 0.03613656759262085,
+      "small": 0.015828490257263184,
+      "margin": 0.025982528924942017,
+      "error": 0.03341503441333771
+    },
+    {
+      "index": 95,
+      "native": 0.028936684131622314,
+      "small": 0.025851398706436157,
+      "margin": 0.027394041419029236,
+      "error": 0.0217320267111063
+    },
+    {
+      "index": 102,
+      "native": 0.03169518709182739,
+      "small": 0.023174047470092773,
+      "margin": 0.027434617280960083,
+      "error": 0.04223856329917908
+    },
+    {
+      "index": 13,
+      "native": 0.02550789713859558,
+      "small": 0.02992868423461914,
+      "margin": 0.02771829068660736,
+      "error": 0.04828431084752083
+    },
+    {
+      "index": 240,
+      "native": 0.029666155576705933,
+      "small": 0.026304662227630615,
+      "margin": 0.027985408902168274,
+      "error": 0.03325163200497627
+    },
+    {
+      "index": 135,
+      "native": 0.03359872102737427,
+      "small": 0.022548645734786987,
+      "margin": 0.028073683381080627,
+      "error": 0.03521241620182991
+    },
+    {
+      "index": 194,
+      "native": 0.0295240581035614,
+      "small": 0.02707892656326294,
+      "margin": 0.02830149233341217,
+      "error": 0.022303922101855278
+    },
+    {
+      "index": 191,
+      "native": 0.04080277681350708,
+      "small": 0.015876352787017822,
+      "margin": 0.02833956480026245,
+      "error": 0.02638888917863369
+    },
+    {
+      "index": 79,
+      "native": 0.03466346859931946,
+      "small": 0.022191494703292847,
+      "margin": 0.028427481651306152,
+      "error": 0.030637254938483238
+    },
+    {
+      "index": 88,
+      "native": 0.037704676389694214,
+      "small": 0.019248053431510925,
+      "margin": 0.02847636491060257,
+      "error": 0.046650324016809464
+    },
+    {
+      "index": 111,
+      "native": 0.03585958480834961,
+      "small": 0.021529942750930786,
+      "margin": 0.028694763779640198,
+      "error": 0.03766339644789696
+    },
+    {
+      "index": 129,
+      "native": 0.031509339809417725,
+      "small": 0.026476919651031494,
+      "margin": 0.02899312973022461,
+      "error": 0.0362745076417923
+    },
+    {
+      "index": 14,
+      "native": 0.032491534948349,
+      "small": 0.02620658278465271,
+      "margin": 0.029349058866500854,
+      "error": 0.03758170083165169
+    },
+    {
+      "index": 55,
+      "native": 0.04014793038368225,
+      "small": 0.01916550099849701,
+      "margin": 0.02965671569108963,
+      "error": 0.03259803727269173
+    },
+    {
+      "index": 200,
+      "native": 0.0341530442237854,
+      "small": 0.02585989236831665,
+      "margin": 0.030006468296051025,
+      "error": 0.031699344515800476
+    },
+    {
+      "index": 245,
+      "native": 0.05407923460006714,
+      "small": 0.006187215447425842,
+      "margin": 0.03013322502374649,
+      "error": 0.04763071611523628
+    },
+    {
+      "index": 1,
+      "native": 0.030144989490509033,
+      "small": 0.03030174970626831,
+      "margin": 0.030223369598388672,
+      "error": 0.04370914772152901
+    },
+    {
+      "index": 190,
+      "native": 0.03020361065864563,
+      "small": 0.03101414442062378,
+      "margin": 0.030608877539634705,
+      "error": 0.02826797403395176
+    },
+    {
+      "index": 138,
+      "native": 0.04072442650794983,
+      "small": 0.020502805709838867,
+      "margin": 0.030613616108894348,
+      "error": 0.03374183177947998
+    },
+    {
+      "index": 2,
+      "native": 0.06740587949752808,
+      "small": -0.0061270445585250854,
+      "margin": 0.030639417469501495,
+      "error": 0.017810458317399025
+    },
+    {
+      "index": 45,
+      "native": 0.04032248258590698,
+      "small": 0.021406322717666626,
+      "margin": 0.030864402651786804,
+      "error": 0.030228756368160248
+    },
+    {
+      "index": 64,
+      "native": 0.02417716383934021,
+      "small": 0.03760713338851929,
+      "margin": 0.03089214861392975,
+      "error": 0.026307187974452972
+    },
+    {
+      "index": 228,
+      "native": 0.042441725730895996,
+      "small": 0.02082863450050354,
+      "margin": 0.03163518011569977,
+      "error": 0.05057189241051674
+    },
+    {
+      "index": 161,
+      "native": 0.04395580291748047,
+      "small": 0.01949101686477661,
+      "margin": 0.03172340989112854,
+      "error": 0.016503266990184784
+    },
+    {
+      "index": 208,
+      "native": 0.031045496463775635,
+      "small": 0.03262019157409668,
+      "margin": 0.03183284401893616,
+      "error": 0.03799019753932953
+    },
+    {
+      "index": 162,
+      "native": 0.040180712938308716,
+      "small": 0.024754047393798828,
+      "margin": 0.03246738016605377,
+      "error": 0.036519605666399
+    },
+    {
+      "index": 199,
+      "native": 0.02708590030670166,
+      "small": 0.03785884380340576,
+      "margin": 0.03247237205505371,
+      "error": 0.022549018263816833
+    },
+    {
+      "index": 7,
+      "native": 0.04404565691947937,
+      "small": 0.02194717526435852,
+      "margin": 0.032996416091918945,
+      "error": 0.03259803727269173
+    },
+    {
+      "index": 87,
+      "native": 0.06082722544670105,
+      "small": 0.005357682704925537,
+      "margin": 0.03309245407581329,
+      "error": 0.03946078196167946
+    },
+    {
+      "index": 78,
+      "native": 0.039342790842056274,
+      "small": 0.027404069900512695,
+      "margin": 0.033373430371284485,
+      "error": 0.0416666641831398
+    },
+    {
+      "index": 99,
+      "native": 0.021754354238510132,
+      "small": 0.04516148567199707,
+      "margin": 0.0334579199552536,
+      "error": 0.058578431606292725
+    },
+    {
+      "index": 219,
+      "native": 0.03535458445549011,
+      "small": 0.031585365533828735,
+      "margin": 0.033469974994659424,
+      "error": 0.027124181389808655
+    },
+    {
+      "index": 207,
+      "native": 0.0526772141456604,
+      "small": 0.014379233121871948,
+      "margin": 0.033528223633766174,
+      "error": 0.03423202410340309
+    },
+    {
+      "index": 189,
+      "native": 0.031153559684753418,
+      "small": 0.037165939807891846,
+      "margin": 0.03415974974632263,
+      "error": 0.02401960827410221
+    },
+    {
+      "index": 73,
+      "native": 0.027819126844406128,
+      "small": 0.04070231318473816,
+      "margin": 0.034260720014572144,
+      "error": 0.0486111082136631
+    },
+    {
+      "index": 226,
+      "native": 0.045920491218566895,
+      "small": 0.02316334843635559,
+      "margin": 0.03454191982746124,
+      "error": 0.05236927792429924
+    },
+    {
+      "index": 65,
+      "native": 0.05229687690734863,
+      "small": 0.01748695969581604,
+      "margin": 0.034891918301582336,
+      "error": 0.03349673002958298
+    },
+    {
+      "index": 70,
+      "native": 0.048533856868743896,
+      "small": 0.02289554476737976,
+      "margin": 0.03571470081806183,
+      "error": 0.02728758007287979
+    },
+    {
+      "index": 253,
+      "native": 0.042997896671295166,
+      "small": 0.02946263551712036,
+      "margin": 0.036230266094207764,
+      "error": 0.03929738700389862
+    },
+    {
+      "index": 222,
+      "native": 0.04570448398590088,
+      "small": 0.027329206466674805,
+      "margin": 0.03651684522628784,
+      "error": 0.024428104981780052
+    },
+    {
+      "index": 251,
+      "native": 0.025609642267227173,
+      "small": 0.047843530774116516,
+      "margin": 0.036726586520671844,
+      "error": 0.07867646962404251
+    },
+    {
+      "index": 234,
+      "native": 0.058136701583862305,
+      "small": 0.016224533319473267,
+      "margin": 0.037180617451667786,
+      "error": 0.06674836575984955
+    },
+    {
+      "index": 193,
+      "native": 0.037335216999053955,
+      "small": 0.03769758343696594,
+      "margin": 0.03751640021800995,
+      "error": 0.03390522673726082
+    },
+    {
+      "index": 224,
+      "native": 0.030872970819473267,
+      "small": 0.04457613825798035,
+      "margin": 0.03772455453872681,
+      "error": 0.03668300807476044
+    },
+    {
+      "index": 91,
+      "native": 0.04346984624862671,
+      "small": 0.03255057334899902,
+      "margin": 0.038010209798812866,
+      "error": 0.04583333432674408
+    },
+    {
+      "index": 84,
+      "native": 0.0376763641834259,
+      "small": 0.03848534822463989,
+      "margin": 0.0380808562040329,
+      "error": 0.05653594806790352
+    },
+    {
+      "index": 115,
+      "native": 0.036944836378097534,
+      "small": 0.0393795371055603,
+      "margin": 0.03816218674182892,
+      "error": 0.04591503366827965
+    },
+    {
+      "index": 178,
+      "native": 0.039684832096099854,
+      "small": 0.03666415810585022,
+      "margin": 0.03817449510097504,
+      "error": 0.028022879734635353
+    },
+    {
+      "index": 177,
+      "native": 0.043633460998535156,
+      "small": 0.032934337854385376,
+      "margin": 0.038283899426460266,
+      "error": 0.03700980171561241
+    },
+    {
+      "index": 157,
+      "native": 0.04165452718734741,
+      "small": 0.03545960783958435,
+      "margin": 0.03855706751346588,
+      "error": 0.02459149993956089
+    },
+    {
+      "index": 142,
+      "native": 0.03188171982765198,
+      "small": 0.045758843421936035,
+      "margin": 0.038820281624794006,
+      "error": 0.031781043857336044
+    },
+    {
+      "index": 58,
+      "native": 0.04382365942001343,
+      "small": 0.03398942947387695,
+      "margin": 0.03890654444694519,
+      "error": 0.042401958256959915
+    },
+    {
+      "index": 175,
+      "native": 0.043766945600509644,
+      "small": 0.03441902995109558,
+      "margin": 0.03909298777580261,
+      "error": 0.025653595104813576
+    },
+    {
+      "index": 180,
+      "native": 0.040211379528045654,
+      "small": 0.038600146770477295,
+      "margin": 0.039405763149261475,
+      "error": 0.0519607849419117
+    },
+    {
+      "index": 202,
+      "native": 0.04893916845321655,
+      "small": 0.029894649982452393,
+      "margin": 0.03941690921783447,
+      "error": 0.033088237047195435
+    },
+    {
+      "index": 27,
+      "native": 0.03902384638786316,
+      "small": 0.04055467247962952,
+      "margin": 0.03978925943374634,
+      "error": 0.029983660206198692
+    },
+    {
+      "index": 128,
+      "native": 0.04944774508476257,
+      "small": 0.03022634983062744,
+      "margin": 0.03983704745769501,
+      "error": 0.030228756368160248
+    },
+    {
+      "index": 19,
+      "native": 0.048070043325424194,
+      "small": 0.0328216552734375,
+      "margin": 0.04044584929943085,
+      "error": 0.03480392321944237
+    },
+    {
+      "index": 112,
+      "native": 0.03723558783531189,
+      "small": 0.04695066809654236,
+      "margin": 0.042093127965927124,
+      "error": 0.039052288979291916
+    },
+    {
+      "index": 143,
+      "native": 0.029710114002227783,
+      "small": 0.05717825889587402,
+      "margin": 0.0434441864490509,
+      "error": 0.03276143595576286
+    },
+    {
+      "index": 35,
+      "native": 0.04766091704368591,
+      "small": 0.0409618616104126,
+      "margin": 0.044311389327049255,
+      "error": 0.03276143968105316
+    },
+    {
+      "index": 92,
+      "native": 0.02547881007194519,
+      "small": 0.06368282437324524,
+      "margin": 0.044580817222595215,
+      "error": 0.05449346825480461
+    },
+    {
+      "index": 50,
+      "native": 0.04714012145996094,
+      "small": 0.042884618043899536,
+      "margin": 0.04501236975193024,
+      "error": 0.03349673002958298
+    },
+    {
+      "index": 183,
+      "native": 0.05124768614768982,
+      "small": 0.04057794809341431,
+      "margin": 0.04591281712055206,
+      "error": 0.036846403032541275
+    },
+    {
+      "index": 20,
+      "native": 0.05673643946647644,
+      "small": 0.0354173481464386,
+      "margin": 0.04607689380645752,
+      "error": 0.02728758193552494
+    },
+    {
+      "index": 203,
+      "native": 0.053810298442840576,
+      "small": 0.03941282629966736,
+      "margin": 0.04661156237125397,
+      "error": 0.05947712063789368
+    },
+    {
+      "index": 127,
+      "native": 0.0468866229057312,
+      "small": 0.04670000076293945,
+      "margin": 0.04679331183433533,
+      "error": 0.03235294297337532
+    },
+    {
+      "index": 146,
+      "native": 0.04575362801551819,
+      "small": 0.047894954681396484,
+      "margin": 0.046824291348457336,
+      "error": 0.03521241620182991
+    },
+    {
+      "index": 244,
+      "native": 0.061082661151885986,
+      "small": 0.03349807858467102,
+      "margin": 0.0472903698682785,
+      "error": 0.0555555522441864
+    },
+    {
+      "index": 34,
+      "native": 0.05024236440658569,
+      "small": 0.04644292593002319,
+      "margin": 0.04834264516830444,
+      "error": 0.02965686284005642
+    },
+    {
+      "index": 230,
+      "native": 0.06018120050430298,
+      "small": 0.03806138038635254,
+      "margin": 0.04912129044532776,
+      "error": 0.02965686284005642
+    },
+    {
+      "index": 155,
+      "native": 0.04794737696647644,
+      "small": 0.052155718207359314,
+      "margin": 0.05005154758691788,
+      "error": 0.03897058963775635
+    },
+    {
+      "index": 18,
+      "native": 0.06167125701904297,
+      "small": 0.03983879089355469,
+      "margin": 0.05075502395629883,
+      "error": 0.05743463709950447
+    },
+    {
+      "index": 32,
+      "native": 0.05838608741760254,
+      "small": 0.0439457893371582,
+      "margin": 0.05116593837738037,
+      "error": 0.031290847808122635
+    },
+    {
+      "index": 250,
+      "native": 0.059023767709732056,
+      "small": 0.04344639182090759,
+      "margin": 0.051235079765319824,
+      "error": 0.05089869722723961
+    },
+    {
+      "index": 238,
+      "native": 0.04279276728630066,
+      "small": 0.060458242893218994,
+      "margin": 0.05162550508975983,
+      "error": 0.040522877126932144
+    },
+    {
+      "index": 126,
+      "native": 0.05178627371788025,
+      "small": 0.05326271057128906,
+      "margin": 0.052524492144584656,
+      "error": 0.03104574978351593
+    },
+    {
+      "index": 140,
+      "native": 0.042642176151275635,
+      "small": 0.0639716386795044,
+      "margin": 0.053306907415390015,
+      "error": 0.06380718946456909
+    }
+  ],
+  "prompts": [
+    "Spider-Man in his red webbed suit, waist-up action pose",
+    "Spider-Man crouching, red mask and white eyes",
+    "Spider-Man swinging in his red and blue suit"
+  ],
+  "peak_reserved_gib": 10.8359375
+}

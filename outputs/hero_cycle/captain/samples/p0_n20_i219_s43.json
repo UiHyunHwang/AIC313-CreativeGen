@@ -1,0 +1,12 @@
+{
+  "index": 219,
+  "prompt": "captain america",
+  "steps": 20,
+  "seed": 43,
+  "file": "captain/samples/p0_n20_i219_s43",
+  "clip": 0.06622134149074554,
+  "full_clip": 0.06278657913208008,
+  "small_clip": 0.06965610384941101,
+  "rgb_mae": 0.03259803727269173,
+  "score": 0.059701734036207196
+}

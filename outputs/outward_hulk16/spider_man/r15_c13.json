@@ -1,0 +1,10 @@
+{
+  "index": 236,
+  "file": "spider_man/r15_c13.safetensors",
+  "seed": 9364236,
+  "prompt": "Marvel's Hulk in torn purple trousers, crouching with his knuckles on the ground, crimson reflected light",
+  "scene": false,
+  "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+  "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+  "sha256": "a936b17074d4cb4b9eaf3a27338fb24e26c11e53e278b51e14564608bd0a5fa5"
+}

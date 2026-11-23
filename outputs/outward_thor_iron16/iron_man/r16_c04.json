@@ -1,0 +1,9 @@
+{
+  "index": 243,
+  "file": "iron_man/r16_c04.safetensors",
+  "seed": 9131243,
+  "prompt": "Spider-Man in his red and blue suit, leaning against a railing in a narrow red-brick passage, warm light bouncing from the walls, cinematic still, directional light and deep shadows",
+  "parent": "003c5fd497483f158cd4edd6ec4654ad1a14359e9f4de4f14aacbf3d2bf4df7e",
+  "generator": "898914fe919d26333d315263ced16de56f5e568fdf5fbcef0a061e73937126e9",
+  "sha256": "993f9427c391b461677a197b8e15530361234c4044996f47ead612fb842e9daf"
+}

@@ -1,0 +1,70 @@
+{
+  "heroes": [
+    "spider_man",
+    "iron_man",
+    "captain_america",
+    "thor"
+  ],
+  "selected": [
+    "outward_palette16/opening.png",
+    "outward_palette16/targets/iron_man_3.png",
+    "outward_palette16/targets/captain_america_2.png",
+    "outward_thor16/portraits/thor_9253101.png"
+  ],
+  "hashes": [
+    "197cb30b6b3dc5ad0d3d5b1a814070baf25e900bed07d04b68e036c6a0a30c7d",
+    "12debedb54e4e5f824652e190356519c1dc192f4428a6ae629d155cdad90fff2",
+    "bc1a9bb9f4f3cc87cc423578923082e00c3814cb8165ceddcecf08bfa2732b5d",
+    "c0de956cdc1d4a0bfaf78c41a1bce3395728f6caba5418d94a6cda31c6b0a614"
+  ],
+  "latent_hashes": [
+    "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+    "2bb3220cf2507030c8d37517eea1ca53db19d52090192ae87e83ff3f2e05fdf8",
+    "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+    "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b"
+  ],
+  "candidates": [
+    {
+      "seed": 9253100,
+      "file": "outward_thor16/portraits/thor_9253100.png",
+      "costs": [
+        0.040048010647296906,
+        0.0560532882809639,
+        0.027660085610057755
+      ],
+      "score": 0.12376138453831856
+    },
+    {
+      "seed": 9253101,
+      "file": "outward_thor16/portraits/thor_9253101.png",
+      "costs": [
+        0.04459846392273903,
+        0.036377184092998505,
+        0.03034589280825378
+      ],
+      "score": 0.11132154082399132
+    },
+    {
+      "seed": 9253102,
+      "file": "outward_thor16/portraits/thor_9253102.png",
+      "costs": [
+        0.049311842769384384,
+        0.03436228632926941,
+        0.029204035298922924
+      ],
+      "score": 0.11287816439757672
+    },
+    {
+      "seed": 9253103,
+      "file": "outward_thor16/portraits/thor_9253103.png",
+      "costs": [
+        0.03736106678843498,
+        0.05055665224790573,
+        0.02764560333623446
+      ],
+      "score": 0.11556332237257518
+    }
+  ],
+  "seed": 9253101,
+  "prompt": "Thor, the Marvel god of thunder, a close cinematic portrait of a battle-worn blond bearded warrior with long golden hair and a deep crimson cape over dark silver Asgardian armor, Mjolnir beside his shoulder, storm-blue stone arches and warm copper rim light."
+}

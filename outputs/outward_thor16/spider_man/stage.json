@@ -1,0 +1,2568 @@
+{
+  "subject": "spider_man",
+  "leaf": "thor",
+  "target": "outward_palette16/opening.png",
+  "directory": "outward_thor16",
+  "tiles": [
+    {
+      "index": 0,
+      "file": "spider_man/r01_c01.png",
+      "seed": 9254000,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "4cddc4e2c52a298fc6710ab3631155deb64d8620a60ff1c98f53968ddd3e09ec"
+    },
+    {
+      "index": 1,
+      "file": "spider_man/r01_c02.png",
+      "seed": 9254001,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "840bdc50554b457eb00672afb170f3b94a3ca426f5168e1e7f158193291576de"
+    },
+    {
+      "index": 2,
+      "file": "spider_man/r01_c03.png",
+      "seed": 9254002,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "56230767b1b35fb32e88099b17df1b65bb221fb385b29454498b8f7d7767e126"
+    },
+    {
+      "index": 3,
+      "file": "spider_man/r01_c04.png",
+      "seed": 9254003,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5783f25eacb3606760db7139e5b18d9dcaeae5dcf72860bf641f87a482b27810"
+    },
+    {
+      "index": 4,
+      "file": "spider_man/r01_c05.png",
+      "seed": 9254004,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "98ac94b4678f43d5be108634951ca411f118ee777e0436e17d09453f0431f835"
+    },
+    {
+      "index": 5,
+      "file": "spider_man/r01_c06.png",
+      "seed": 9254005,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "341bede17f9d58a1f549394f9f133c1a39aea3fcade7ecf35dc8bc063189f59b"
+    },
+    {
+      "index": 6,
+      "file": "spider_man/r01_c07.png",
+      "seed": 9254006,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "58d1c1afb7bc2bfaeeb86b0f0e3c42982856631fd66f839c4fb20cfde658fd8c"
+    },
+    {
+      "index": 7,
+      "file": "spider_man/r01_c08.png",
+      "seed": 9254007,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "e4fd9e30d8e611993a0b94ee6362200066744eb8fdf8b0595505d754e0474bf5"
+    },
+    {
+      "index": 8,
+      "file": "spider_man/r01_c09.png",
+      "seed": 9254008,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "7c649dbf509bafa7f59bd82a928b55d306306216a5d7b9be2336a0587fa2c228"
+    },
+    {
+      "index": 9,
+      "file": "spider_man/r01_c10.png",
+      "seed": 9254009,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "2d5403eb4271df37a1a0db285dfd3bcda9929597f288caf25dc42f6ba03e6a21"
+    },
+    {
+      "index": 10,
+      "file": "spider_man/r01_c11.png",
+      "seed": 9254010,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "e14cca7b8351ca921d0fef5d950910251c3258d33cd14ce39e20256be719f080"
+    },
+    {
+      "index": 11,
+      "file": "spider_man/r01_c12.png",
+      "seed": 9254011,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "a3a89c3f3e91f2d15384ecdd5d371ca498f00aca17f6edfef8b031c4563860f2"
+    },
+    {
+      "index": 12,
+      "file": "spider_man/r01_c13.png",
+      "seed": 9254012,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "32df06e5631de04463fd48457513cf73f06217701cc07b0448a1836655d576d7"
+    },
+    {
+      "index": 13,
+      "file": "spider_man/r01_c14.png",
+      "seed": 9254013,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "e33b34d53257a5e2707bf2c423d1de1f1885b5d2b7267146553da069d05d1985"
+    },
+    {
+      "index": 14,
+      "file": "spider_man/r01_c15.png",
+      "seed": 9254014,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "2e0065e8f24bd56d1e1d0b0db1379d2dadf40325ab3adcfbd449fcf708258506"
+    },
+    {
+      "index": 15,
+      "file": "spider_man/r01_c16.png",
+      "seed": 9254015,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d0edf327f3234b3b4d1d863ce6aeb48699b5d4440d38cdf20d88efe45ec8a15c"
+    },
+    {
+      "index": 16,
+      "file": "spider_man/r02_c01.png",
+      "seed": 9254016,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "a3301c4fc5c7a1523a3f975665a5b43af4e2ae52c66668ee8f1c21f2449ba27a"
+    },
+    {
+      "index": 17,
+      "file": "spider_man/r02_c02.png",
+      "seed": 9254017,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "8e77a873534390c67cfd1e6a1cac9fe372926516dc85b06d2a0343599e776ac3"
+    },
+    {
+      "index": 18,
+      "file": "spider_man/r02_c03.png",
+      "seed": 9254018,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "32121744cf2d66f2f2b81eef5b63464d8a73ec4aa3b8689c78992f104cb2ceb5"
+    },
+    {
+      "index": 19,
+      "file": "spider_man/r02_c04.png",
+      "seed": 9254019,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "31709bc41133c509088dc0a5fbe7cea49d1764c567fa007dcff1e8d96d4944c3"
+    },
+    {
+      "index": 20,
+      "file": "spider_man/r02_c05.png",
+      "seed": 9254020,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "77be0500a21ac5662e215db4b11d5ace3895070eeeb20ec0fac7810840b4a58b"
+    },
+    {
+      "index": 21,
+      "file": "spider_man/r02_c06.png",
+      "seed": 9254021,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "7811f0a8dde80f585a81f84fe75af05a40078a6c2fc7bf69d1ab12572dd3a1c8"
+    },
+    {
+      "index": 22,
+      "file": "spider_man/r02_c07.png",
+      "seed": 9254022,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "7515691abee302451ad5ece3f3817a008ba4b12ff0b15b564af4f56e96a4172b"
+    },
+    {
+      "index": 23,
+      "file": "spider_man/r02_c08.png",
+      "seed": 9254023,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "7dc1183f2b961cd88df8fd096b8e6792a258baa58cb221112518ff579c4d9b4c"
+    },
+    {
+      "index": 24,
+      "file": "spider_man/r02_c09.png",
+      "seed": 9254024,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "bb3c6c4fa360963f7ee3873eb61896bec6f3a5e2757a0775b79028afc6494ec6"
+    },
+    {
+      "index": 25,
+      "file": "spider_man/r02_c10.png",
+      "seed": 9254025,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "c4912b90a65ac5e5eb11f6ab0e442c7eeb8b761de6862f8f771bb3c70f18f87b"
+    },
+    {
+      "index": 26,
+      "file": "spider_man/r02_c11.png",
+      "seed": 9254026,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "976ded5aa75c22f40d5ba0dcf10c57c070ef0f1263ad2aa8fd66c4a69a3df3b6"
+    },
+    {
+      "index": 27,
+      "file": "spider_man/r02_c12.png",
+      "seed": 9254027,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f02fa974186c7e12d37ad9c16206d21007e607b81cfe514b7210aa020198e4f9"
+    },
+    {
+      "index": 28,
+      "file": "spider_man/r02_c13.png",
+      "seed": 9254028,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "0d6f3afb8852b1dd97c0e579d43d3e65ee499cdf232c4c7b510b5abd82af2e82"
+    },
+    {
+      "index": 29,
+      "file": "spider_man/r02_c14.png",
+      "seed": 9254029,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "6f221581dde1c7b8603d1da3e036f43a8a998cba6a6013777586f4be63244354"
+    },
+    {
+      "index": 30,
+      "file": "spider_man/r02_c15.png",
+      "seed": 9254030,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "6dafeeb453a84848147312689fc6b7b87d27036363d2e3b70ddaf4eb44972cf0"
+    },
+    {
+      "index": 31,
+      "file": "spider_man/r02_c16.png",
+      "seed": 9254031,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "8a00d87abb4e23b8b2c675874f19576468ca441126648a3b1cc295f6d2008ac6"
+    },
+    {
+      "index": 32,
+      "file": "spider_man/r03_c01.png",
+      "seed": 9254032,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5e261e7fc8028727307a75ba5dcb38fcc03a68dc29c0a865d25b6ea083efaca9"
+    },
+    {
+      "index": 33,
+      "file": "spider_man/r03_c02.png",
+      "seed": 9254033,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "8b87e565958fa77c32a4d7c0d5c1843ab8f24945946f4dd372e8e792ce050003"
+    },
+    {
+      "index": 34,
+      "file": "spider_man/r03_c03.png",
+      "seed": 9254034,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "6db711b2cbae9c29a8ee363bbce6325acc33a022ac111d46b9b7618c9296740e"
+    },
+    {
+      "index": 35,
+      "file": "spider_man/r03_c04.png",
+      "seed": 9254035,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "1bdeb8148a66cc710608127c593916da4b9317cd7c7ffe069c6440265c74cfc4"
+    },
+    {
+      "index": 36,
+      "file": "spider_man/r03_c05.png",
+      "seed": 9254036,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "69866a39db52b1c18b3e301760678f5447884f03a4084a16b77ddd840272d526"
+    },
+    {
+      "index": 37,
+      "file": "spider_man/r03_c06.png",
+      "seed": 9254037,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "176229b19e65b3c2570e763c4658d8a794561c93cbee92cafbf96b847e268378"
+    },
+    {
+      "index": 38,
+      "file": "spider_man/r03_c07.png",
+      "seed": 9254038,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair between crimson banners on a fortress stair, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "eb6d42459ed1047a1071090a7a3392628eab4598d824703a37319b6d542006cb"
+    },
+    {
+      "index": 39,
+      "file": "spider_man/r03_c08.png",
+      "seed": 9254039,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "b7c30d135930543cb1c0c21a97e22a169e58f8df9454c904e456282670e270e3"
+    },
+    {
+      "index": 40,
+      "file": "spider_man/r03_c09.png",
+      "seed": 9254040,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "4d39fcfd1fd4cf24e374a1211c334f5e13e31a530107cebf04f0be1af53b3d46"
+    },
+    {
+      "index": 41,
+      "file": "spider_man/r03_c10.png",
+      "seed": 9254041,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "4cb3db9790c1b4212c5aeb0d7b022e8f82d249dc40e74fb8f35b3f92b3b099fc"
+    },
+    {
+      "index": 42,
+      "file": "spider_man/r03_c11.png",
+      "seed": 9254042,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "819389d569c191cbf7351a508f6a9875ff8ed57bcbb2972c1dd8b66516956057"
+    },
+    {
+      "index": 43,
+      "file": "spider_man/r03_c12.png",
+      "seed": 9254043,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "7ec495322ee16c0f1db91180e2bd88cbd3a711740b942d788ef2760d955c9bcb"
+    },
+    {
+      "index": 44,
+      "file": "spider_man/r03_c13.png",
+      "seed": 9254044,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "55b5f00b799234ac2e2822966fbadda57dbc20fc80560aea5c9d547d28e68f8f"
+    },
+    {
+      "index": 45,
+      "file": "spider_man/r03_c14.png",
+      "seed": 9254045,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "fb4d0e7a6d7b73da60f53c4a44f85af2a62f69f5aeb5303c40cdab7a7da936be"
+    },
+    {
+      "index": 46,
+      "file": "spider_man/r03_c15.png",
+      "seed": 9254046,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "c5873f078be4fa1d4248ae793de7cea8b48513690187a7b5f898ad3b2a641c48"
+    },
+    {
+      "index": 47,
+      "file": "spider_man/r03_c16.png",
+      "seed": 9254047,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5baac2261fce1537a66e307b6f27b945c4e9dab0e9248edbd758f8c5bb1ec6df"
+    },
+    {
+      "index": 48,
+      "file": "spider_man/r04_c01.png",
+      "seed": 9254048,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "6a2fc80b67eab8f57c607b6c7272b955af49f69297f5ff18aca03f13983bae7b"
+    },
+    {
+      "index": 49,
+      "file": "spider_man/r04_c02.png",
+      "seed": 9254049,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5cfd0d3e752e94ace0e2045f77d21868cf3099f3f1dabadf488c986da67047be"
+    },
+    {
+      "index": 50,
+      "file": "spider_man/r04_c03.png",
+      "seed": 9254050,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "3df58841fbd7aa50d6e0a12c9e11a264d836a9b027706f3ed7ab41fffeb3056c"
+    },
+    {
+      "index": 51,
+      "file": "spider_man/r04_c04.png",
+      "seed": 9254051,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "cb317091c76d484346da324018cb70835a704a9fc5761e462083b5d2f65169c8"
+    },
+    {
+      "index": 52,
+      "file": "spider_man/r04_c05.png",
+      "seed": 9254052,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "9836867a9f60c23dfa5bfac053fdbd953df8364e58b1aa86ae665199a9a597c2"
+    },
+    {
+      "index": 53,
+      "file": "spider_man/r04_c06.png",
+      "seed": 9254053,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "188405277adc6185d8f00d4556828c4178c185a54ae067ae8c929f00c38b9163"
+    },
+    {
+      "index": 54,
+      "file": "spider_man/r04_c07.png",
+      "seed": 9254054,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5928c6d9cb77c4aa1a83f18fdc184fe4549cf8ddf83a9650c5b52f64d615acbf"
+    },
+    {
+      "index": 55,
+      "file": "spider_man/r04_c08.png",
+      "seed": 9254055,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "b5ae2aed686229a9ebbff009e9a8e06a0744600b3fa83966a79259a591b10137"
+    },
+    {
+      "index": 56,
+      "file": "spider_man/r04_c09.png",
+      "seed": 9254056,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "42fc9ebe7ee18c152a7de25fc4fcbf4116126eead83fedf4ecff61fff70564fc"
+    },
+    {
+      "index": 57,
+      "file": "spider_man/r04_c10.png",
+      "seed": 9254057,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "7ce395261a1919ff9542144d19267627a32bc0b3214480e59d32a59926d7c528"
+    },
+    {
+      "index": 58,
+      "file": "spider_man/r04_c11.png",
+      "seed": 9254058,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "7e8316df77b67c5c6448ecc444660c9af6761cbc66a8c33759067a2cdd9bde7e"
+    },
+    {
+      "index": 59,
+      "file": "spider_man/r04_c12.png",
+      "seed": 9254059,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f7628989f4edc68853d26a72c23e11b383dbbe4f0e5bf22c8df051f19dd7ee8c"
+    },
+    {
+      "index": 60,
+      "file": "spider_man/r04_c13.png",
+      "seed": 9254060,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d08679683644a8e761fa76232938938383b53c7328152b86c51a14d5a1c65459"
+    },
+    {
+      "index": 61,
+      "file": "spider_man/r04_c14.png",
+      "seed": 9254061,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f26f201921577d9ccb02868826003c192abec8b042d06547bd396f51f197fdc7"
+    },
+    {
+      "index": 62,
+      "file": "spider_man/r04_c15.png",
+      "seed": 9254062,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "6526633a7a790e5809b8572ea4c50d02aa49c2fac9928b2b40f285a5a5511f47"
+    },
+    {
+      "index": 63,
+      "file": "spider_man/r04_c16.png",
+      "seed": 9254063,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "8529af284e409074345c5f6fcd2f29c6e2dd18933853cd9df8276e37ed4d7120"
+    },
+    {
+      "index": 64,
+      "file": "spider_man/r05_c01.png",
+      "seed": 9254064,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f314d43102a615531b7063fd2b7f091f7eb50a32bb49c3d64eaabbd2d63e9406"
+    },
+    {
+      "index": 65,
+      "file": "spider_man/r05_c02.png",
+      "seed": 9254065,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "4b9bde0e917194f62ec10d22c978519e0787c7bb239d78b4f41eb564a29e6cde"
+    },
+    {
+      "index": 66,
+      "file": "spider_man/r05_c03.png",
+      "seed": 9254066,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "8674a1d7b02a1499e91ded823a8f821bb65e598d3ae31e982ea999b7d3fe198d"
+    },
+    {
+      "index": 67,
+      "file": "spider_man/r05_c04.png",
+      "seed": 9254067,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "af61a3b7bea8d1c1eb27196ce9941ba7669745fbbfcf1639903ea2928442f6ba"
+    },
+    {
+      "index": 68,
+      "file": "spider_man/r05_c05.png",
+      "seed": 9254068,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "59f27a9e6c9d015d5a23f0ae682810b2e15c9ed587720d29289576e1785ed657"
+    },
+    {
+      "index": 69,
+      "file": "spider_man/r05_c06.png",
+      "seed": 9254069,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5083276818407f2bdcf7ad56e5bfca20117a78be484964cc242b6d4859f613e4"
+    },
+    {
+      "index": 70,
+      "file": "spider_man/r05_c07.png",
+      "seed": 9254070,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "efc3effe484693f997c3ec50f7381a3aa8a1b90728697fe734b4bc42e6f873aa"
+    },
+    {
+      "index": 71,
+      "file": "spider_man/r05_c08.png",
+      "seed": 9254071,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "00ddd55709398a9206b25fc340eb14aea82da1f78dc2541144fbafb358d21e54"
+    },
+    {
+      "index": 72,
+      "file": "spider_man/r05_c09.png",
+      "seed": 9254072,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "7792a9fc707c95ba408805c90ecd5965e203452b0bdbd3d8ba78ec61fcade5dd"
+    },
+    {
+      "index": 73,
+      "file": "spider_man/r05_c10.png",
+      "seed": 9254073,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "39a8d61e563bd6fe017ee85719c4fd112578808c1774d165c5c4e8b167665d73"
+    },
+    {
+      "index": 74,
+      "file": "spider_man/r05_c11.png",
+      "seed": 9254074,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "6abea6429df7f5302fe15a8aeb498d6925c2ff1bd3569a5cab8071bc71f5248b"
+    },
+    {
+      "index": 75,
+      "file": "spider_man/r05_c12.png",
+      "seed": 9254075,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "ef87789df83e25e5990f8881e4ef8acd03e3646df025641290449ab28885ef41"
+    },
+    {
+      "index": 76,
+      "file": "spider_man/r05_c13.png",
+      "seed": 9254076,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "3f9294def2afb677134f59c668288f0191a43f4527cf1efbfaf98a21259128c7"
+    },
+    {
+      "index": 77,
+      "file": "spider_man/r05_c14.png",
+      "seed": 9254077,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "0ce0163e4f3dba330707e64b652e1c328efadf4eed096ce15c62156edfb623df"
+    },
+    {
+      "index": 78,
+      "file": "spider_man/r05_c15.png",
+      "seed": 9254078,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "aabb09f7a0e58fce879dcff6946266d48eb2a418439727188700fa48846072c3"
+    },
+    {
+      "index": 79,
+      "file": "spider_man/r05_c16.png",
+      "seed": 9254079,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "56f16548e29059046566a5dcef1c7f274ad369aa6b16bc45ca88a44bb14f2849"
+    },
+    {
+      "index": 80,
+      "file": "spider_man/r06_c01.png",
+      "seed": 9254080,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "055ca0c18c2432aa4e1f708ad6ecf799b4123ecc30fa492612f0f88270237e22"
+    },
+    {
+      "index": 81,
+      "file": "spider_man/r06_c02.png",
+      "seed": 9254081,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "155b9202dfe4f2151186303dc56cad89e2aab5dd254a4d5b0481b1b15586a382"
+    },
+    {
+      "index": 82,
+      "file": "spider_man/r06_c03.png",
+      "seed": 9254082,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "faa9c8047c22a946dc59e0b6e8edef2ac34a7667d66d9ae5854a2012caca7fb8"
+    },
+    {
+      "index": 83,
+      "file": "spider_man/r06_c04.png",
+      "seed": 9254083,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "9361a31ff89f0b37d0c494c56457499b9975c12749e740024efde6f9222cf27d"
+    },
+    {
+      "index": 84,
+      "file": "spider_man/r06_c05.png",
+      "seed": 9254084,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "97ea1b76844c6cbac191079830d718dbb1d856422689f3c337f7b805818e862b"
+    },
+    {
+      "index": 85,
+      "file": "spider_man/r06_c06.png",
+      "seed": 9254085,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "2174fbfe0ab42a56fb6df54a638c5721b6105ec52b8f47caf17375938e6286ea"
+    },
+    {
+      "index": 86,
+      "file": "spider_man/r06_c07.png",
+      "seed": 9254086,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "05cd8a3f06b3c060b6e1d9190d70ea9eb517fc71d1ec3beb30b7807f05734f87"
+    },
+    {
+      "index": 87,
+      "file": "spider_man/r06_c08.png",
+      "seed": 9254087,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "10a6ce057c7331adce0d87bdccfd89d980d00469a4a5a7541744c10a07c1b9ad"
+    },
+    {
+      "index": 88,
+      "file": "spider_man/r06_c09.png",
+      "seed": 9254088,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "0c7a9715cbf7734103ca992615fc7e8ef2050369ad5e81fe58ab46e8b3a26e47"
+    },
+    {
+      "index": 89,
+      "file": "spider_man/r06_c10.png",
+      "seed": 9254089,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "60fb5715deb3f0229273023a1a1eb08721bd9f45a477772798e30c518111b994"
+    },
+    {
+      "index": 90,
+      "file": "spider_man/r06_c11.png",
+      "seed": 9254090,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "8aa04e6f6203bd5fcc86c7df705330994be8766a6dfd8bf2e2301ee79a67b167"
+    },
+    {
+      "index": 91,
+      "file": "spider_man/r06_c12.png",
+      "seed": 9254091,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "63f83cd704a1bd8156d4c954fd6c89760d16048eb26fa75318561e87da7eb40d"
+    },
+    {
+      "index": 92,
+      "file": "spider_man/r06_c13.png",
+      "seed": 9254092,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "96680582f8b7a5312769e19490e09fedb9a4279bf181eaaccae8f7b963b865dc"
+    },
+    {
+      "index": 93,
+      "file": "spider_man/r06_c14.png",
+      "seed": 9254093,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "4bb8cf21aa5c7060218bb7ab8f825ea9ca8eb563da097bb34854ea2c37515fa1"
+    },
+    {
+      "index": 94,
+      "file": "spider_man/r06_c15.png",
+      "seed": 9254094,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "a18a41e6b521f6b5fc81e536efed4e814b11071c9063bf9d73f67e96c1ff6519"
+    },
+    {
+      "index": 95,
+      "file": "spider_man/r06_c16.png",
+      "seed": 9254095,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "36b31b3c2a800fb15dca1453ada08007bc99906823efd91beafb16cc25d94873"
+    },
+    {
+      "index": 96,
+      "file": "spider_man/r07_c01.png",
+      "seed": 9254096,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f0d9356a27a429240e896a59f53f16232fb2d11d3e523ebbe7d0bd35081d8f21"
+    },
+    {
+      "index": 97,
+      "file": "spider_man/r07_c02.png",
+      "seed": 9254097,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "3a4e613667e2b8a57675a9207393dce5dec6d8432ce0b145babb36e91c19fa4e"
+    },
+    {
+      "index": 98,
+      "file": "spider_man/r07_c03.png",
+      "seed": 9254098,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "612cb9d41ea1442a23c76d1d184ac0ef14d1fec638f39b3facb471b1a2effbdf"
+    },
+    {
+      "index": 99,
+      "file": "spider_man/r07_c04.png",
+      "seed": 9254099,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f222d03461d83f83e4fcc47bc97717614e5503cfd08ce5a282249249044df0a6"
+    },
+    {
+      "index": 100,
+      "file": "spider_man/r07_c05.png",
+      "seed": 9254100,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5d461e1b3a2082795b8d040b5213f1ea786f559c071598fd23b78129b9218771"
+    },
+    {
+      "index": 101,
+      "file": "spider_man/r07_c06.png",
+      "seed": 9254101,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, soft silver light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f986fe0d9fdafc84a473134d897c6c4297b22b7e52f9219599a79b6741629c95"
+    },
+    {
+      "index": 102,
+      "file": "spider_man/r07_c07.png",
+      "seed": 9254102,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "39639035687f89be840ab751da2ff66e0340ae5a271fc517dac6ebce81bb08bc"
+    },
+    {
+      "index": 103,
+      "file": "spider_man/r07_c08.png",
+      "seed": 9254103,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "c5c761f20a4f788ce333ebb36e54ba7ecc5637444e6d5948971c4aeb8e6abdfd"
+    },
+    {
+      "index": 104,
+      "file": "spider_man/r07_c09.png",
+      "seed": 9254104,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "c05acd1b4b0f8cd4f367ee540a9cf2942d33ab29fd9665aae6123ef87acc1c11"
+    },
+    {
+      "index": 105,
+      "file": "spider_man/r07_c10.png",
+      "seed": 9254105,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "4314a542b2b58b90f26fd501c57eda8bdef58e3c1b708bc72a7260e1a3bb0335"
+    },
+    {
+      "index": 106,
+      "file": "spider_man/r07_c11.png",
+      "seed": 9254106,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5c37d95777d3fd56667c97bf206aaf3ae40a52bb937a3b47ba1afb161edf650c"
+    },
+    {
+      "index": 107,
+      "file": "spider_man/r07_c12.png",
+      "seed": 9254107,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "2962f7f49663613bd2c1d3e79260030d99d802c450c920bec7e37415c169cdf8"
+    },
+    {
+      "index": 108,
+      "file": "spider_man/r07_c13.png",
+      "seed": 9254108,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a silver stone arcade lit through tall windows, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "4bd601c9912694a14fe2983dc7a7321520c98cb081c86b0c1d5aab42f181fe32"
+    },
+    {
+      "index": 109,
+      "file": "spider_man/r07_c14.png",
+      "seed": 9254109,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "bf8fec49bf398bcd47c580f835e255be853741f586da1dda2501d505e2c4d2c3"
+    },
+    {
+      "index": 110,
+      "file": "spider_man/r07_c15.png",
+      "seed": 9254110,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5b755c889582de52b870790b315505867ecc5458b56a59f0227867e042f55df6"
+    },
+    {
+      "index": 111,
+      "file": "spider_man/r07_c16.png",
+      "seed": 9254111,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "6e228aacbcfa3f66d78b091c4bd99e0af549276049e014aa31d3bb7483133fcd"
+    },
+    {
+      "index": 112,
+      "file": "spider_man/r08_c01.png",
+      "seed": 9254112,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "bf4b5f46be02381b6318f68b111a5b6a9c00ab88cc3763e2cb2f8bf791e83c72"
+    },
+    {
+      "index": 113,
+      "file": "spider_man/r08_c02.png",
+      "seed": 9254113,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "0043e8c04e908e5b4c68ab789098034cb2cda33424635b14eaa33448f31296b0"
+    },
+    {
+      "index": 114,
+      "file": "spider_man/r08_c03.png",
+      "seed": 9254114,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "922760767e524ca9eb4dba4343b9876e102e4632bd6279c10211c263dd9bcb0a"
+    },
+    {
+      "index": 115,
+      "file": "spider_man/r08_c04.png",
+      "seed": 9254115,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "130a55a968ae696a5dfef3173035d8e65e7d0f64db6e6e2fc0a3c1551fd20ad8"
+    },
+    {
+      "index": 116,
+      "file": "spider_man/r08_c05.png",
+      "seed": 9254116,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "e14ebe5779472c77684f63d824305744733a50a0262b0016053002d915b334c5"
+    },
+    {
+      "index": 117,
+      "file": "spider_man/r08_c06.png",
+      "seed": 9254117,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "6a1ae0d81053c803514536352cb33edda59f83850bdd2b26d171156322301492"
+    },
+    {
+      "index": 118,
+      "file": "spider_man/r08_c07.png",
+      "seed": 9254118,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, soft silver light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "6cb9f837569979050e872d3f93a2d6a8679ab23b60dad0637043a2f65643e917"
+    },
+    {
+      "index": 119,
+      "file": "spider_man/r08_c08.png",
+      "seed": 9254119,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "1879343c71c7faff828f846d333dbc7a41cc7b0567b34f33d7ff6d546babbe0e"
+    },
+    {
+      "index": 120,
+      "file": "spider_man/r08_c09.png",
+      "seed": 9254120,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "cdc633c9e5b7828d4b68e5d94bc2751101ad08408037b863c2152f0fb601c681"
+    },
+    {
+      "index": 121,
+      "file": "spider_man/r08_c10.png",
+      "seed": 9254121,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "11e7c5ce8f18757a57e0242497cd89c6af497b417f3a0a0c203c14c639e20dd1"
+    },
+    {
+      "index": 122,
+      "file": "spider_man/r08_c11.png",
+      "seed": 9254122,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, soft silver light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d0a7511ed83e58d3313e2f45f3f4f381d2d199aca192c17ac81583f9bebdfdfc"
+    },
+    {
+      "index": 123,
+      "file": "spider_man/r08_c12.png",
+      "seed": 9254123,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "3897eab64fecc31f7b4ccb90dc84df5eb0402a6fdbfea5e8ee943da59dae9f75"
+    },
+    {
+      "index": 124,
+      "file": "spider_man/r08_c13.png",
+      "seed": 9254124,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "14b3304f3d2f2a1b0d2b21be69fe08c9444b941a5ec652d411cbe4e427d2f87e"
+    },
+    {
+      "index": 125,
+      "file": "spider_man/r08_c14.png",
+      "seed": 9254125,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "dd430cabd7f44c8c644ee4db73f1c88305164c50b40eb9d526fc359c417f13f6"
+    },
+    {
+      "index": 126,
+      "file": "spider_man/r08_c15.png",
+      "seed": 9254126,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d7b37c50d0da27d549fb0425895404fc9a68c32d8524bb24e49e229c6707f490"
+    },
+    {
+      "index": 127,
+      "file": "spider_man/r08_c16.png",
+      "seed": 9254127,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "4906b34c225ed49a97ac60d3b4055831f0afa2e885edb5e89dc7760eee43082e"
+    },
+    {
+      "index": 128,
+      "file": "spider_man/r09_c01.png",
+      "seed": 9254128,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "a560c2900ead6960822776a4f747fab3223d45b092e684336aacb36caa48466b"
+    },
+    {
+      "index": 129,
+      "file": "spider_man/r09_c02.png",
+      "seed": 9254129,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "39b600c2c1a29eca93d04d18df82113e6a2a5577bed4a6c195f3d95f50852acd"
+    },
+    {
+      "index": 130,
+      "file": "spider_man/r09_c03.png",
+      "seed": 9254130,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d8e1b2b56e88bf7fd6756c255d15aef60486af5edd023f0df13e59868acbe6f8"
+    },
+    {
+      "index": 131,
+      "file": "spider_man/r09_c04.png",
+      "seed": 9254131,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "2ca7bccc8bd747187f2798608a67b82b0fb77a7fc68f412dcbc647bab7d46c60"
+    },
+    {
+      "index": 132,
+      "file": "spider_man/r09_c05.png",
+      "seed": 9254132,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5f3ba56eb7ca63c8d5dcb10b509dec88a34ce8e358444b3c725ffb219734afe9"
+    },
+    {
+      "index": 133,
+      "file": "spider_man/r09_c06.png",
+      "seed": 9254133,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "78ad879c434eb04067b014ad7df4782e35f31399da64cb225ca104d7bca5e4a6"
+    },
+    {
+      "index": 134,
+      "file": "spider_man/r09_c07.png",
+      "seed": 9254134,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "3b4b27611ad56dd0bb1a50cd8eee89fb508fc5611bb9856bd7f11cef69b60369"
+    },
+    {
+      "index": 135,
+      "file": "spider_man/r09_c08.png",
+      "seed": 9254135,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f88d999a122f48fae175038f0a699917b813b2c74672505776f2de688fb29521"
+    },
+    {
+      "index": 136,
+      "file": "spider_man/r09_c09.png",
+      "seed": 9254136,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "ab2871cdd7bbb877eb82947b5becd4517c5d007d92bde06b60e64ae9a0d2a938"
+    },
+    {
+      "index": 137,
+      "file": "spider_man/r09_c10.png",
+      "seed": 9254137,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f1b51e228dedb1906ee17db4d9eaef4aede464bd88645462778242886f426b25"
+    },
+    {
+      "index": 138,
+      "file": "spider_man/r09_c11.png",
+      "seed": 9254138,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "22fda251c8d2a8bf5c223623af8715b434a7bf5b8526004687f2ffd79cdc08b8"
+    },
+    {
+      "index": 139,
+      "file": "spider_man/r09_c12.png",
+      "seed": 9254139,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "062e76f04394b59f29db5cffbf4bc962d42ef0670d8a4fb5635cf50e669129ae"
+    },
+    {
+      "index": 140,
+      "file": "spider_man/r09_c13.png",
+      "seed": 9254140,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, soft silver light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d6e80b07efb4e37875d9aeed30ca700958a8f26658b762ce6e5b67613b231311"
+    },
+    {
+      "index": 141,
+      "file": "spider_man/r09_c14.png",
+      "seed": 9254141,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "0570ab0a45918ef5575712bc2c89850e6a2b4e6dca5f9e60d0acece9f5d44f22"
+    },
+    {
+      "index": 142,
+      "file": "spider_man/r09_c15.png",
+      "seed": 9254142,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "68bb3c7d1101f781ab6db0595dd3ee91381f0263d8b31978e037b401590441a7"
+    },
+    {
+      "index": 143,
+      "file": "spider_man/r09_c16.png",
+      "seed": 9254143,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "9ee9dcef957997202c51c8a0524f4edd334ddca8295e8faec002f344bfc09b51"
+    },
+    {
+      "index": 144,
+      "file": "spider_man/r10_c01.png",
+      "seed": 9254144,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "78d0691b9db244aaa0d44b8166d2ae302e6baeb55a00f2167553d27ae6fad7df"
+    },
+    {
+      "index": 145,
+      "file": "spider_man/r10_c02.png",
+      "seed": 9254145,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5b6573f29a6f64e162d442cb3126d59c1d9a7d5baeb5ce7027771f838b4d1ec6"
+    },
+    {
+      "index": 146,
+      "file": "spider_man/r10_c03.png",
+      "seed": 9254146,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "7ef33c0ca03ff2f028d99189188541618734e7595d3405d6183e112086824624"
+    },
+    {
+      "index": 147,
+      "file": "spider_man/r10_c04.png",
+      "seed": 9254147,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d5b7cfc14c0c9ef8d1e92ee4ed572447f440c60143d2caa9efda8be874a92de8"
+    },
+    {
+      "index": 148,
+      "file": "spider_man/r10_c05.png",
+      "seed": 9254148,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "aef9f8e4872dd90061961cda29e047ea07e3c547099b1d6a3e102070c3a8be22"
+    },
+    {
+      "index": 149,
+      "file": "spider_man/r10_c06.png",
+      "seed": 9254149,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "1f93918e6d69de66d2201f1779490b1c7d4eb571339fdcbc96fb91c0ad9cfb21"
+    },
+    {
+      "index": 150,
+      "file": "spider_man/r10_c07.png",
+      "seed": 9254150,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "340ceeec9d9afd15ebe0df736a39e447c663e8e3b2aa7499357ec4bd5ceba545"
+    },
+    {
+      "index": 151,
+      "file": "spider_man/r10_c08.png",
+      "seed": 9254151,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d56f9cbdde1393a24539667cbb6b8af9a86fa67473244588939e864cb83fbb4d"
+    },
+    {
+      "index": 152,
+      "file": "spider_man/r10_c09.png",
+      "seed": 9254152,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "ff636abd436fd5a471ab701c604a9d21b47d3899964c4f157f536c4767453232"
+    },
+    {
+      "index": 153,
+      "file": "spider_man/r10_c10.png",
+      "seed": 9254153,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "0cea72f30e58ff89eb6c795d2559f4b4448e5ab2c77fb1f6bb80edae2e6d423c"
+    },
+    {
+      "index": 154,
+      "file": "spider_man/r10_c11.png",
+      "seed": 9254154,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "096e82f721cf2ac5c4b330e3dde1ab40cbbe3f87dd0d725ed8ea6fcae1009b94"
+    },
+    {
+      "index": 155,
+      "file": "spider_man/r10_c12.png",
+      "seed": 9254155,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "ac3abf8ecce5d050b2bcd400662585acabff19cce3d55d428ee2c7ac69f510f9"
+    },
+    {
+      "index": 156,
+      "file": "spider_man/r10_c13.png",
+      "seed": 9254156,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "05220d157638569af5de94f1929806eb377390865f68802afaac7fb08c7e7500"
+    },
+    {
+      "index": 157,
+      "file": "spider_man/r10_c14.png",
+      "seed": 9254157,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "04c23e9c6390fb4923d2858bbd7685b210ebf09f01d7ce6bc41c6835cb5c6db5"
+    },
+    {
+      "index": 158,
+      "file": "spider_man/r10_c15.png",
+      "seed": 9254158,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "68b871117ef9a26e261fb55ecf5858357e1299ad0dd72739033d3c233c029d2a"
+    },
+    {
+      "index": 159,
+      "file": "spider_man/r10_c16.png",
+      "seed": 9254159,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d054577ad20609766cb47e76f36e9c43dfd7861e64d21d9b3262cee945c97a7f"
+    },
+    {
+      "index": 160,
+      "file": "spider_man/r11_c01.png",
+      "seed": 9254160,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f72281289a13cb085ff1efc1f386fa4256e4432bf74caa77eee6f51630b4e03f"
+    },
+    {
+      "index": 161,
+      "file": "spider_man/r11_c02.png",
+      "seed": 9254161,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "a9df13ac178d89a8979110ceee1ec9fb84bf0dfa08ca3e520c8960eb0366b622"
+    },
+    {
+      "index": 162,
+      "file": "spider_man/r11_c03.png",
+      "seed": 9254162,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d4e272357e157b1e746974261dcf09aa9b60b89c2d9260a642f2d00137e54e3b"
+    },
+    {
+      "index": 163,
+      "file": "spider_man/r11_c04.png",
+      "seed": 9254163,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d5e80d1077caade356e26162967d2d843236eb21e3821133eb778e58fb0744fc"
+    },
+    {
+      "index": 164,
+      "file": "spider_man/r11_c05.png",
+      "seed": 9254164,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "a3a7b56e9985637dcf85e1645ebeecfd3fc139fdaec59c26f2589b93fdfd945f"
+    },
+    {
+      "index": 165,
+      "file": "spider_man/r11_c06.png",
+      "seed": 9254165,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f212ff63fb5f05fe0736bc31b25786f70c9c6ce7350fa074a23e655ccddb2840"
+    },
+    {
+      "index": 166,
+      "file": "spider_man/r11_c07.png",
+      "seed": 9254166,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f8f7e3152d2a290c3c4ed8d22ef5e5e9a0e2966ef91db96df1f7605308aeccc1"
+    },
+    {
+      "index": 167,
+      "file": "spider_man/r11_c08.png",
+      "seed": 9254167,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5c3e238baf60df8e689ca8e9d3694fbce2c829a099c48b52a401d872eb08582c"
+    },
+    {
+      "index": 168,
+      "file": "spider_man/r11_c09.png",
+      "seed": 9254168,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "296f4042f5e64a7bf49ebafea033e5719659e161d743e639e329e6d1ee8daaa6"
+    },
+    {
+      "index": 169,
+      "file": "spider_man/r11_c10.png",
+      "seed": 9254169,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "26002641d4842bb0114e45493a684afd330ebcd81a4d321c0376456ce2da2e9e"
+    },
+    {
+      "index": 170,
+      "file": "spider_man/r11_c11.png",
+      "seed": 9254170,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "7baa8bc4121a35f5e1f575b370c362efd20728cf9d0c91426305036e575a9f4f"
+    },
+    {
+      "index": 171,
+      "file": "spider_man/r11_c12.png",
+      "seed": 9254171,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "ebdd79c14538acd18b2e61acf068ff6f624992a0aaa3b3b4a3969e50fdd57bb3"
+    },
+    {
+      "index": 172,
+      "file": "spider_man/r11_c13.png",
+      "seed": 9254172,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d45584c6625f8144363a813c72a4be0fd1bd76a5bdd17dcfab8e45daa1b2c47f"
+    },
+    {
+      "index": 173,
+      "file": "spider_man/r11_c14.png",
+      "seed": 9254173,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "789324c7c3f5e935875615bbc6dbfb277c6d8ae202f9c77a2117f43f954361fb"
+    },
+    {
+      "index": 174,
+      "file": "spider_man/r11_c15.png",
+      "seed": 9254174,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "514ccb39a4c6c893070587745736bca98a5d5f81715f841bb5bce9212e214309"
+    },
+    {
+      "index": 175,
+      "file": "spider_man/r11_c16.png",
+      "seed": 9254175,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "8133e87daa2c3bd6371be86f642318048ed99df1fe521ef88fbf70fcd5f460bc"
+    },
+    {
+      "index": 176,
+      "file": "spider_man/r12_c01.png",
+      "seed": 9254176,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "422bab8bcc2336b7c469a1febdbfec23cbab8d1ee597b044eced04804dc11828"
+    },
+    {
+      "index": 177,
+      "file": "spider_man/r12_c02.png",
+      "seed": 9254177,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "eca41d717b00371580532372db9237257f2e7f4abde51baa7bcd6153848a4ce9"
+    },
+    {
+      "index": 178,
+      "file": "spider_man/r12_c03.png",
+      "seed": 9254178,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d17fdf0207cbcd13581d6e3acce0ba24f596dff1a78572c4af9fb75f8f2204f7"
+    },
+    {
+      "index": 179,
+      "file": "spider_man/r12_c04.png",
+      "seed": 9254179,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "c283087965b170b5190b5abbdebeefd22c4bc6cad2b300931d60fe0734c47a4b"
+    },
+    {
+      "index": 180,
+      "file": "spider_man/r12_c05.png",
+      "seed": 9254180,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "0f53b2343c59f397ebc89a07a00bed22da37559b578cc748a0a32a4984803f94"
+    },
+    {
+      "index": 181,
+      "file": "spider_man/r12_c06.png",
+      "seed": 9254181,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "0276ce2a4144f6cde0e72b74f8f30f47a4c4f9c9186cd41a69c782df009a46cc"
+    },
+    {
+      "index": 182,
+      "file": "spider_man/r12_c07.png",
+      "seed": 9254182,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "c24a267473186a3bbe305d72cebf56552d12fb2ed0e2b037f989f0eb419da2f2"
+    },
+    {
+      "index": 183,
+      "file": "spider_man/r12_c08.png",
+      "seed": 9254183,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "88fc8be732e30ccc3f14026c100a85c13dba81c4acc567202946a44fb8403eeb"
+    },
+    {
+      "index": 184,
+      "file": "spider_man/r12_c09.png",
+      "seed": 9254184,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "11c0c5958923c851193a58eb60181016d74047ff0cd5e7e00956fd83f1cba8ed"
+    },
+    {
+      "index": 185,
+      "file": "spider_man/r12_c10.png",
+      "seed": 9254185,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "fb5bb95bf3e4350224e4a248d4b133820bc18a0442330c36c396f390d55d5aec"
+    },
+    {
+      "index": 186,
+      "file": "spider_man/r12_c11.png",
+      "seed": 9254186,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "38a5872d9e9ec43968fa9886181ad7b4d4f4d43335f01282b7b09baf66d8c25b"
+    },
+    {
+      "index": 187,
+      "file": "spider_man/r12_c12.png",
+      "seed": 9254187,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f252191d5117f5cb4fc8179dc699409aa2d092ea3d65805642f0526508a03071"
+    },
+    {
+      "index": 188,
+      "file": "spider_man/r12_c13.png",
+      "seed": 9254188,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "1116c96e2d688d85c1ac5b7109871333ac4c9da941a68c1ba5444fedd512b89b"
+    },
+    {
+      "index": 189,
+      "file": "spider_man/r12_c14.png",
+      "seed": 9254189,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "7926c4c0736cac912fdbba1689c363155d8980b4d5bc1506ae474707378121f1"
+    },
+    {
+      "index": 190,
+      "file": "spider_man/r12_c15.png",
+      "seed": 9254190,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "9ebca3816bc673fc86f76b04cdccf272c617c3a6d177369c45a1ca8427e2e246"
+    },
+    {
+      "index": 191,
+      "file": "spider_man/r12_c16.png",
+      "seed": 9254191,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "7726310f5aa7edb300b68dcba544ea3c42667df96ba203acd9db651256c89f3a"
+    },
+    {
+      "index": 192,
+      "file": "spider_man/r13_c01.png",
+      "seed": 9254192,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "3aa7cb5e0027afe5dfd615f5449870f7142dddd9feab8ef7ed248173b6c2957e"
+    },
+    {
+      "index": 193,
+      "file": "spider_man/r13_c02.png",
+      "seed": 9254193,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d50b31ded85fc012384bf18d6d793905e2fd5f1aa19afa2b346593df127b5c4e"
+    },
+    {
+      "index": 194,
+      "file": "spider_man/r13_c03.png",
+      "seed": 9254194,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "8a191db76b0d3323654ba62999a1c76d11c2858178e01518753d937cec80bd88"
+    },
+    {
+      "index": 195,
+      "file": "spider_man/r13_c04.png",
+      "seed": 9254195,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "201a3cb3884a8235dcb29f02f1f597660907a06e4629f32e2934c56ae919cb4c"
+    },
+    {
+      "index": 196,
+      "file": "spider_man/r13_c05.png",
+      "seed": 9254196,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "9c8fa8315b931f472c85002b8c255a8f1350021403299149d315ff16a6bca70b"
+    },
+    {
+      "index": 197,
+      "file": "spider_man/r13_c06.png",
+      "seed": 9254197,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "26c73dc0df2c038fb7d97eb17e0e0f4d1ffefd26332e61a8d4d125efb3d2d29d"
+    },
+    {
+      "index": 198,
+      "file": "spider_man/r13_c07.png",
+      "seed": 9254198,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "8c12b61e67c7efc26414c5cc108de13296aabfdc1280645fac3acc43d198fbdd"
+    },
+    {
+      "index": 199,
+      "file": "spider_man/r13_c08.png",
+      "seed": 9254199,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "24e2593f67851cfc9ee14703453b3c287d70a6229c3c5ce3f7b5f8df628c2111"
+    },
+    {
+      "index": 200,
+      "file": "spider_man/r13_c09.png",
+      "seed": 9254200,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "0276a27a14b663b45d574f394feb723a92b1683c4800dc7e9ac253bc4b35b85b"
+    },
+    {
+      "index": 201,
+      "file": "spider_man/r13_c10.png",
+      "seed": 9254201,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "c3ded1886a24c5373bffde399a8aa0a7c8f62d77289713ed67af6950713a8b28"
+    },
+    {
+      "index": 202,
+      "file": "spider_man/r13_c11.png",
+      "seed": 9254202,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "050d8c75d19a606b586ba70fdc84cbab39ed6918f95b70801f9d323bb159c984"
+    },
+    {
+      "index": 203,
+      "file": "spider_man/r13_c12.png",
+      "seed": 9254203,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "ca5ed865faed8d65509a91c0cb8e883ffa80b5b6d1f3e2bb8dbda4c96f078682"
+    },
+    {
+      "index": 204,
+      "file": "spider_man/r13_c13.png",
+      "seed": 9254204,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "51f88624bb7368104698dbad5f1cab0ad2ed81ce68ba4c5787d5c739a7792ae1"
+    },
+    {
+      "index": 205,
+      "file": "spider_man/r13_c14.png",
+      "seed": 9254205,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "e63f391fe1d5ce9e53aad8271bd38dd1e90bd01d775b26757f5d2c447924a40a"
+    },
+    {
+      "index": 206,
+      "file": "spider_man/r13_c15.png",
+      "seed": 9254206,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "3a8de0e6615b66e4e3dd38686def8951344438f81fae75d9506b3ff9d311976b"
+    },
+    {
+      "index": 207,
+      "file": "spider_man/r13_c16.png",
+      "seed": 9254207,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "16c02fcf04b8e56e360a5bd4384d8f5da48e3dedc78d729702b3458c805bf697"
+    },
+    {
+      "index": 208,
+      "file": "spider_man/r14_c01.png",
+      "seed": 9254208,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "2b9c64c2c6fa1e3442d77aeb5886c4301c4e5aaf6a82e381cc267f2f202e0585"
+    },
+    {
+      "index": 209,
+      "file": "spider_man/r14_c02.png",
+      "seed": 9254209,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "e84e4d8affe1a1bdc02604eb16b6375c751d6b4a43777f2d0083eb259ed41bed"
+    },
+    {
+      "index": 210,
+      "file": "spider_man/r14_c03.png",
+      "seed": 9254210,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "913b3c14ddaaf789f576b2a688078acd1c9c129dad180e968df63e8baccbbf15"
+    },
+    {
+      "index": 211,
+      "file": "spider_man/r14_c04.png",
+      "seed": 9254211,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "dfdbe92e2f41b32e401830a85a3055f92784522b0e5da6c541a9d0d589881c0e"
+    },
+    {
+      "index": 212,
+      "file": "spider_man/r14_c05.png",
+      "seed": 9254212,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "4c0e7be18e3f1a934014a9b1911fb82c84732d28b76dc348456db026c6b9c98f"
+    },
+    {
+      "index": 213,
+      "file": "spider_man/r14_c06.png",
+      "seed": 9254213,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "6378bee7ecca7db0f7e112d1c7614ae4a0670afda15cfd49abc0224949b51c7a"
+    },
+    {
+      "index": 214,
+      "file": "spider_man/r14_c07.png",
+      "seed": 9254214,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "cb8c4f51ac9269a028fc55bf3e6f846efb9a07dbdbab1d51461163d143f8a9d8"
+    },
+    {
+      "index": 215,
+      "file": "spider_man/r14_c08.png",
+      "seed": 9254215,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "0e4041c9b344bdba80145308d8f39dd2cb22b7b9de55af5cbd4912326948a5ae"
+    },
+    {
+      "index": 216,
+      "file": "spider_man/r14_c09.png",
+      "seed": 9254216,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d1aae1b6d7f2e622a72225e8949bd8d1ca0bec4824fa8655b53d5434283fb606"
+    },
+    {
+      "index": 217,
+      "file": "spider_man/r14_c10.png",
+      "seed": 9254217,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "25f62e0df023dc48fee4ca298191acb9dfbd39fd5ea8559c824b663c5c73ea47"
+    },
+    {
+      "index": 218,
+      "file": "spider_man/r14_c11.png",
+      "seed": 9254218,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "9fc0f7dcce23809bf4f60f1e5daef1c51b73194689caaf6c4c372a380a43710b"
+    },
+    {
+      "index": 219,
+      "file": "spider_man/r14_c12.png",
+      "seed": 9254219,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "1dcd1c3ba94892507b73312c83f92b3443374977588e125cdc4e883dede2856b"
+    },
+    {
+      "index": 220,
+      "file": "spider_man/r14_c13.png",
+      "seed": 9254220,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d8526f1aa323e75f30706a77620c951aa97b5aad9ddf416a3fa7cdbac3b8f3a2"
+    },
+    {
+      "index": 221,
+      "file": "spider_man/r14_c14.png",
+      "seed": 9254221,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "64113f76ee545ba4b835d2c980a4502fc1912f98753b74e6bb52f91644f4a037"
+    },
+    {
+      "index": 222,
+      "file": "spider_man/r14_c15.png",
+      "seed": 9254222,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "2005ffddc255407717e9d1b23cfb75750251592ccd9ceab089b28ee27f883433"
+    },
+    {
+      "index": 223,
+      "file": "spider_man/r14_c16.png",
+      "seed": 9254223,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "9e0927f758e0252f9a125f38400cd7d513cd24f3161a1ee563d1fbb564aae04e"
+    },
+    {
+      "index": 224,
+      "file": "spider_man/r15_c01.png",
+      "seed": 9254224,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "ebf4c101d36fd92b4e9ec9431d0dfca4de080ee57d84321761f9f7675d01bbe8"
+    },
+    {
+      "index": 225,
+      "file": "spider_man/r15_c02.png",
+      "seed": 9254225,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "77900d89345dedca93d108b921fc5bd4c97ed20d48d0332c5229f8b5c3983257"
+    },
+    {
+      "index": 226,
+      "file": "spider_man/r15_c03.png",
+      "seed": 9254226,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "0f7325f174bed2d8b0264604c9694eae93275e4f22045b39046787992bba2c88"
+    },
+    {
+      "index": 227,
+      "file": "spider_man/r15_c04.png",
+      "seed": 9254227,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "dc968e1189482cf7512374958b8e5d76dcee903763537e76a27c23b94238897b"
+    },
+    {
+      "index": 228,
+      "file": "spider_man/r15_c05.png",
+      "seed": 9254228,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "9a77ec41be7e777b95b5f83f3b14369ed78e8e0f2ecab08ce8c925a65aadea22"
+    },
+    {
+      "index": 229,
+      "file": "spider_man/r15_c06.png",
+      "seed": 9254229,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "dec26985c58a0d6d2f73bb4239b2eef79316d1b18564fddb82ea81f222f1013a"
+    },
+    {
+      "index": 230,
+      "file": "spider_man/r15_c07.png",
+      "seed": 9254230,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "52e28d6d3df3ae368e2dcfe0d0b5b562782e0041bf74cdf27b63562b475d7305"
+    },
+    {
+      "index": 231,
+      "file": "spider_man/r15_c08.png",
+      "seed": 9254231,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5161ca33045d267d4b17eae4666758e9f595e4af12aa405610792b522bc1b221"
+    },
+    {
+      "index": 232,
+      "file": "spider_man/r15_c09.png",
+      "seed": 9254232,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "3dabbb94c44208bbf58430047b0055e08d91311904c126dd9fa3ec0c73737464"
+    },
+    {
+      "index": 233,
+      "file": "spider_man/r15_c10.png",
+      "seed": 9254233,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "357bfd3fc1ec4d32701445ca58192157689ecb31f69112410f05d2fb425a63ce"
+    },
+    {
+      "index": 234,
+      "file": "spider_man/r15_c11.png",
+      "seed": 9254234,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f969e02dcfe68fa0b1f066294a12f61bec35037c965b2f184c01ef7919aaeb91"
+    },
+    {
+      "index": 235,
+      "file": "spider_man/r15_c12.png",
+      "seed": 9254235,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "33812c35aa07a6ba88daeb1ac3c4125747e1e04fbbfa32e6850843a2df33542f"
+    },
+    {
+      "index": 236,
+      "file": "spider_man/r15_c13.png",
+      "seed": 9254236,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "fadda68ef03ac41723431aff172e6714a31755e35b9982b75a7e9b3f51935daa"
+    },
+    {
+      "index": 237,
+      "file": "spider_man/r15_c14.png",
+      "seed": 9254237,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "de23fa51d424ad3fa888e9c7018ceda5ed52079079d65af59154c56c37cf3d80"
+    },
+    {
+      "index": 238,
+      "file": "spider_man/r15_c15.png",
+      "seed": 9254238,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "fc46c500a7041754ad651b42f3f4a085ab948354039c9dfb41e5e6fe5003077c"
+    },
+    {
+      "index": 239,
+      "file": "spider_man/r15_c16.png",
+      "seed": 9254239,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, muted neutral lighting",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "9f1a0c25592a64ee5bdf713460d3171796e1f0867248ed4f190cfe1245393bbb"
+    },
+    {
+      "index": 240,
+      "file": "spider_man/r16_c01.png",
+      "seed": 9254240,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "ec4b09fb3382b1ccdb4ac58f6808b855148b6961e63af5e96f55283a7220c01b"
+    },
+    {
+      "index": 241,
+      "file": "spider_man/r16_c02.png",
+      "seed": 9254241,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "3aaa210348b3435f6b8600846faddc44025d40e95b8d532568af173ad1a48d7f"
+    },
+    {
+      "index": 242,
+      "file": "spider_man/r16_c03.png",
+      "seed": 9254242,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "c7822b70c609062d88d61f0df615cd7f187016842fcc777e5bd2b647a747b56a"
+    },
+    {
+      "index": 243,
+      "file": "spider_man/r16_c04.png",
+      "seed": 9254243,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "d7f3293c5b5f2d5a97ba4779444dbfe9e5e3c602afceaeef790541b3f5f2f8ca"
+    },
+    {
+      "index": 244,
+      "file": "spider_man/r16_c05.png",
+      "seed": 9254244,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "b763166e194cbcc04c188709cdf6486d6952af14dc71735d5d0fb14631f583a9"
+    },
+    {
+      "index": 245,
+      "file": "spider_man/r16_c06.png",
+      "seed": 9254245,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "5f5f54bd18ed69703718139468f19ce372aeb0d273e616d6531dc584733235fc"
+    },
+    {
+      "index": 246,
+      "file": "spider_man/r16_c07.png",
+      "seed": 9254246,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "2a0e3932aec83a62535727785b3e413ca4955d647a9654d16a0004cc2c21dc16"
+    },
+    {
+      "index": 247,
+      "file": "spider_man/r16_c08.png",
+      "seed": 9254247,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f8aa46f0bd695ce6e3eff4f93dbe4861b8d9f319f52cec79afb142d590e1403c"
+    },
+    {
+      "index": 248,
+      "file": "spider_man/r16_c09.png",
+      "seed": 9254248,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "cac7dfbd982c57401d6aac7b7a73936289307e041565ca94026a9fa3c65c6629"
+    },
+    {
+      "index": 249,
+      "file": "spider_man/r16_c10.png",
+      "seed": 9254249,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+      "scene": true,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "4039692d79542396d7f1b4911d909576b0e5569ecf4b2b139c3fbf310ea15d1e"
+    },
+    {
+      "index": 250,
+      "file": "spider_man/r16_c11.png",
+      "seed": 9254250,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "15ee165c4fe89b200153d15efc8db584e439116b829bafb0a4f832606e527318"
+    },
+    {
+      "index": 251,
+      "file": "spider_man/r16_c12.png",
+      "seed": 9254251,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "73ccd2bc82cc721877524fdaad8ec8b6b546417b94583b36371f12116e92931b"
+    },
+    {
+      "index": 252,
+      "file": "spider_man/r16_c13.png",
+      "seed": 9254252,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "f9a037aa507aa297c765c80cced8867d964636b1a5f5724f1d92ca96f2a70c7b"
+    },
+    {
+      "index": 253,
+      "file": "spider_man/r16_c14.png",
+      "seed": 9254253,
+      "prompt": "Marvel's Thor raising his hammer, flowing red cape and long blond hair, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "c0dcd678b6620e3cbc85b4a7b566816c1d4d8b565f3613a1c5fbb73d875b4df6"
+    },
+    {
+      "index": 254,
+      "file": "spider_man/r16_c15.png",
+      "seed": 9254254,
+      "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "915e690d96f978e129cc947631b8bd943dadaff8c4c3bd165ff8ce47ef9f252b"
+    },
+    {
+      "index": 255,
+      "file": "spider_man/r16_c16.png",
+      "seed": 9254255,
+      "prompt": "Marvel's Thor, long blond hair and a red cape, wielding Mjolnir, crimson reflected light",
+      "scene": false,
+      "generator": "7a6a9c9d3e62b2dc8b80016888b44be84244ae755e4535483cd8fa42f8fcbf4b",
+      "parent": "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+      "sha256": "94cfa9a9e779611e060f8d368c5ec3f775ed499b07d3d16645c265c643108338"
+    }
+  ]
+}

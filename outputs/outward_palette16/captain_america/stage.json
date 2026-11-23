@@ -1,0 +1,2311 @@
+{
+  "subject": "captain_america",
+  "leaf": "iron_man",
+  "tiles": [
+    {
+      "index": 0,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132000,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r01_c01.png",
+      "sha256": "fd5fa0cc86065fe41da9ccae82edbe32b7eb5d4cd676b7d8bd897a729f582ed7"
+    },
+    {
+      "index": 1,
+      "prompt": "Iron Man in an action pose, cool steel-blue light",
+      "seed": 9132001,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r01_c02.png",
+      "sha256": "6f03a4745ec3291db421a2684ffdfea61f949f0c7338fa58b3fb8e1ef710d18a"
+    },
+    {
+      "index": 2,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132002,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r01_c03.png",
+      "sha256": "24233026583bcc0549ab218f157b60f1cf070c31c58134f7252be0f8f6b6cbfd"
+    },
+    {
+      "index": 3,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132003,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r01_c04.png",
+      "sha256": "e7cc821fa352645a2823824abf8f75b0b123ec62a5f460f9ce641cce94ea223c"
+    },
+    {
+      "index": 4,
+      "prompt": "Iron Man in an action pose, cool steel-blue light",
+      "seed": 9132004,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r01_c05.png",
+      "sha256": "2f06a424bddb6509436661e85bcee4dce028f55593d0d33a304501b038f8aa5d"
+    },
+    {
+      "index": 5,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132005,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r01_c06.png",
+      "sha256": "fe8578e93dc1f677bf726756875bacf2b6a602e012d004893ec4f5ceba4aeb7a"
+    },
+    {
+      "index": 6,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132006,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r01_c07.png",
+      "sha256": "5abe5488af1358e6617279b82d52487b325d36aa495498320e31d2fd92a6e5a1"
+    },
+    {
+      "index": 7,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132007,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r01_c08.png",
+      "sha256": "86d54cb6f42f7c286410e1a396f0ce0c2c51b02ce0e220586f53895728fb61ab"
+    },
+    {
+      "index": 8,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132008,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r01_c09.png",
+      "sha256": "f537f18b0c6867632b69a799095981d687090c9ae76e302e5158e65a0d6e115f"
+    },
+    {
+      "index": 9,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132009,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r01_c10.png",
+      "sha256": "a86376a43298e3b625a14b74492b6ed23622925ba3b8819ee49bed64439dcbc7"
+    },
+    {
+      "index": 10,
+      "prompt": "Iron Man in an action pose, cool steel-blue light",
+      "seed": 9132010,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r01_c11.png",
+      "sha256": "6e9a1a20583ba832b5a1652dfbb6c3b0cd098bd4ca9c92a4d7e7b937971b3945"
+    },
+    {
+      "index": 11,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132011,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r01_c12.png",
+      "sha256": "de077be0b08057e2a9e21da0e1eae753f5f35628a6ba34954cedeeaa3f524ed7"
+    },
+    {
+      "index": 12,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132012,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r01_c13.png",
+      "sha256": "28ebc3b44a456c31d835bcc85e6f6ecbf2c35b3796e52d67d1b723521b9ff673"
+    },
+    {
+      "index": 13,
+      "prompt": "Iron Man in an action pose, cool steel-blue light",
+      "seed": 9132013,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r01_c14.png",
+      "sha256": "cbb5a8f453f4652974d36811aa0ff608f840b39b889423914b03b24c1189b48e"
+    },
+    {
+      "index": 14,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132014,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r01_c15.png",
+      "sha256": "d976c3898d0ba7abe7cd448ca2d358df1815a0413845910ffac46b797bd8103f"
+    },
+    {
+      "index": 15,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132015,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r01_c16.png",
+      "sha256": "0aad598bc3e236d051fa31ef8e97a9ab4ac3aad96f2ccafcdcaa5b31ccfeec93"
+    },
+    {
+      "index": 16,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132016,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r02_c01.png",
+      "sha256": "7c3b44a9a76c699408f419849e21a5bc7c0b25cfd97a03d9c83efd8c72b4105d"
+    },
+    {
+      "index": 17,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132017,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r02_c02.png",
+      "sha256": "0e449dfe594c62b8dc0f377557e003d16c1171ee2274685cb6f808e8bdf61c53"
+    },
+    {
+      "index": 18,
+      "prompt": "Iron Man in an action pose, cool steel-blue light",
+      "seed": 9132018,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r02_c03.png",
+      "sha256": "071b30966c11f43309671bacb8a5dd56f19362295befcad077b580c3545a58f1"
+    },
+    {
+      "index": 19,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132019,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r02_c04.png",
+      "sha256": "4499a27b6dd9ba592fab743488813ffbe19f829024ad582123aa372358725bbb"
+    },
+    {
+      "index": 20,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132020,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r02_c05.png",
+      "sha256": "d86466504f8ff523d9a1d31a5ac48a14ff2a0cbc8af0999cd173020356cce713"
+    },
+    {
+      "index": 21,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132021,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r02_c06.png",
+      "sha256": "f89fde57a548006a804188caf62c5141070817d9ce8de531709f9ccf2ec29d0b"
+    },
+    {
+      "index": 22,
+      "prompt": "Iron Man helmet, glowing eyes, soft silver light",
+      "seed": 9132022,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r02_c07.png",
+      "sha256": "db3653d294fdc96aef023258837d72085a223754940b72852d86adbbfb542509"
+    },
+    {
+      "index": 23,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132023,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r02_c08.png",
+      "sha256": "57a384cdfb1fe7a43015679f443dd2dcb89424a57c350004d1e8cc1e88f0ed08"
+    },
+    {
+      "index": 24,
+      "prompt": "Iron Man in an action pose, cool steel-blue light",
+      "seed": 9132024,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r02_c09.png",
+      "sha256": "c5a13dee5b160f3a1bea2ced638a8287d75493c26b77ecd752df6efc41aa07c4"
+    },
+    {
+      "index": 25,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132025,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r02_c10.png",
+      "sha256": "219adba4724f481dae53ef0f11f4df479c9770cad94627f756362e30f4e920cc"
+    },
+    {
+      "index": 26,
+      "prompt": "Iron Man in red and gold armor, crimson reflected light",
+      "seed": 9132026,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r02_c11.png",
+      "sha256": "3115e6ddd406910d2edd18fa46395bc26e61e1a216bf5fd3926e71ff92eb5395"
+    },
+    {
+      "index": 27,
+      "prompt": "Iron Man in an action pose, cool steel-blue light",
+      "seed": 9132027,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r02_c12.png",
+      "sha256": "99221f5392c8c7604c62707fa4d435d3a293e4b2298653d8fd43be4573513798"
+    },
+    {
+      "index": 28,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132028,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r02_c13.png",
+      "sha256": "af46a6e980cda766bbdae9905a1f12b36e00198b4d85ebb550d54a9a34d579d4"
+    },
+    {
+      "index": 29,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132029,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r02_c14.png",
+      "sha256": "f0a8a58f2778a3c893c22e9b4a208e6454699cbb23190b61ed5ff7646c2790f6"
+    },
+    {
+      "index": 30,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132030,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r02_c15.png",
+      "sha256": "ab15abcb24e550f4c14d07296df8a7e9bf1292f9fb20621eb5cbe4215040f9e9"
+    },
+    {
+      "index": 31,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132031,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r02_c16.png",
+      "sha256": "5b8ce26ec271834ae7edf98a1253ded2a70a6084cca93fc7ce3270053bf2ce9d"
+    },
+    {
+      "index": 32,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132032,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r03_c01.png",
+      "sha256": "3ea497665316a01e4a604c05d629595abd03a14b190aa65f4ced16f65a218f56"
+    },
+    {
+      "index": 33,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132033,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r03_c02.png",
+      "sha256": "49a9b8bb229a616b2aea3b251656357ca0d3739e8f127f69678b8c14da087488"
+    },
+    {
+      "index": 34,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132034,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r03_c03.png",
+      "sha256": "8994c294ae529f5272302686cfe381c7edd045fb87181d7fb225f47c78ee0f9a"
+    },
+    {
+      "index": 35,
+      "prompt": "Iron Man in an action pose, cool steel-blue light",
+      "seed": 9132035,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r03_c04.png",
+      "sha256": "466c7d3759669809c0f14605f4a16ce745df1a461353cd736d3d2aefa3393370"
+    },
+    {
+      "index": 36,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132036,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r03_c05.png",
+      "sha256": "040abfdd7f8aae6ca469c90ccbf2b9fe552f57485aa2672cb31a88dc44ec7676"
+    },
+    {
+      "index": 37,
+      "prompt": "Iron Man in red and gold armor, soft silver light",
+      "seed": 9132037,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r03_c06.png",
+      "sha256": "51a2c95cc69d6e806697c5b1487e9f2e0f219a6d71b85dbbba3de43dec218707"
+    },
+    {
+      "index": 38,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132038,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r03_c07.png",
+      "sha256": "e60ba103e8ecce5c644f1c678a4b6fb38ea273c8384e48cfb523c1af6aab9352"
+    },
+    {
+      "index": 39,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132039,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r03_c08.png",
+      "sha256": "0d49970ccd809089f4b0042fa069af69957db0e0b995de8852e8006acefa8487"
+    },
+    {
+      "index": 40,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132040,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r03_c09.png",
+      "sha256": "d19d75d7a0412ed8cc18a02325250fc324a3ec88f12ec11537425f55fa5f9175"
+    },
+    {
+      "index": 41,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132041,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r03_c10.png",
+      "sha256": "c9bfeaf83ccc49b82609890aaedc803ea7de974d0ec89ac9cec003811170e9bd"
+    },
+    {
+      "index": 42,
+      "prompt": "Iron Man helmet, glowing eyes, crimson reflected light",
+      "seed": 9132042,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r03_c11.png",
+      "sha256": "2d37f5300772c6196353c19e7f4e7091fdbcf260876238d71a8849c7db0d6c28"
+    },
+    {
+      "index": 43,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132043,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r03_c12.png",
+      "sha256": "3d309823c1cdde8944040670610676ca33fec52193ce5a05bf4620653cda3816"
+    },
+    {
+      "index": 44,
+      "prompt": "Iron Man in an action pose, cool steel-blue light",
+      "seed": 9132044,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r03_c13.png",
+      "sha256": "369520242b6de36d8476a4a5973a4b54ee1e131cc9bf61a59252a84f896e2e0e"
+    },
+    {
+      "index": 45,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132045,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r03_c14.png",
+      "sha256": "ebd5138a25eb2bd8405e56392cce487a7b3731537a5221285b2c471bdf2c5e88"
+    },
+    {
+      "index": 46,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132046,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r03_c15.png",
+      "sha256": "22b44f3b937b5153be4f203fcbfdf6e3db9bc223204d2e5e87bbb63a2037cb38"
+    },
+    {
+      "index": 47,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132047,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r03_c16.png",
+      "sha256": "803da8c46e43787db101b80fb9813f3fffe924c865827fee20b947e7ff99a359"
+    },
+    {
+      "index": 48,
+      "prompt": "Iron Man in red and gold armor, crimson reflected light",
+      "seed": 9132048,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r04_c01.png",
+      "sha256": "8e86d30238c11b70e608ccb48b6027ea5cc3a243d9454a6f390113e480504125"
+    },
+    {
+      "index": 49,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132049,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r04_c02.png",
+      "sha256": "00b47fca620f577a050fb693736ec3307058b28a7490fef594f0cc18209f2e3e"
+    },
+    {
+      "index": 50,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132050,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r04_c03.png",
+      "sha256": "9151e875b9055ec876fd987dfd155c5007df2cf36eb378d6e0dd5a50d3c6b9c8"
+    },
+    {
+      "index": 51,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132051,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r04_c04.png",
+      "sha256": "920352e4d5492169c6c2dd4e82a47f88529950214db71fd1201385b0f0651e1f"
+    },
+    {
+      "index": 52,
+      "prompt": "Iron Man in an action pose, cool steel-blue light",
+      "seed": 9132052,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r04_c05.png",
+      "sha256": "4d32172d36b4c6b58e5b0870711fbcc8ebcdfaff39577c06d773c2f36ee39cd5"
+    },
+    {
+      "index": 53,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132053,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r04_c06.png",
+      "sha256": "7b67b18dd3294b6d31045de108f311c7c7921b7af60426cd413df210ce75bc73"
+    },
+    {
+      "index": 54,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132054,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r04_c07.png",
+      "sha256": "75a64fc5c8a6dc33d3ffa85890f0344f8149da6c42acc4b59a11b32e38a26aa5"
+    },
+    {
+      "index": 55,
+      "prompt": "Iron Man in an action pose, cool steel-blue light",
+      "seed": 9132055,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r04_c08.png",
+      "sha256": "0234e3e7f4657205c8fb80dc624f93a0afae766d0edc977f8ee4ae3cfc057e40"
+    },
+    {
+      "index": 56,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132056,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r04_c09.png",
+      "sha256": "76fd1a26726fb8f432c5a69f4eb52b6457ea38a2f41565402a28b9ad45d7db01"
+    },
+    {
+      "index": 57,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132057,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r04_c10.png",
+      "sha256": "017165c614dcec9c278306890da49ceac0058105ae0c96f8a96a7d13aed1145b"
+    },
+    {
+      "index": 58,
+      "prompt": "Iron Man in an action pose, crimson reflected light",
+      "seed": 9132058,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r04_c11.png",
+      "sha256": "e4cdb0125833f95d98e3683e49e76b377170321fc1ad233f5c13cce051be237f"
+    },
+    {
+      "index": 59,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132059,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r04_c12.png",
+      "sha256": "cd6102d166e96d902fd10484ea8b7b79c2c3bb83c6c1f4f9149874b56beb9ca0"
+    },
+    {
+      "index": 60,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132060,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r04_c13.png",
+      "sha256": "42807d6f09e15f8da97c5bcba79aaf88c493f5752e58dacf333b7e3e7267402c"
+    },
+    {
+      "index": 61,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132061,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r04_c14.png",
+      "sha256": "c08c9fce83c98fdc079ffb83d1330d12ab3e4f6e63c2b088c012ea2ee0fa8e0b"
+    },
+    {
+      "index": 62,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132062,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r04_c15.png",
+      "sha256": "d9539d5a1893688f0665923e7df8be5125d21d2569a044cf79257b1bf2d861d9"
+    },
+    {
+      "index": 63,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132063,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r04_c16.png",
+      "sha256": "145e1b84e82dd13290a11aadf973f0e72b5346fe7c012e490c639a3481b19329"
+    },
+    {
+      "index": 64,
+      "prompt": "Iron Man helmet, glowing eyes, crimson reflected light",
+      "seed": 9132064,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r05_c01.png",
+      "sha256": "9d9a77a12be98c5a190824390b579f17795f87c5cd52e998556d714df457fa3b"
+    },
+    {
+      "index": 65,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132065,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r05_c02.png",
+      "sha256": "76deaa29f6821b57653e48f4c018e8c5d7f17e1aa27cf8d96c3314cd1c907b07"
+    },
+    {
+      "index": 66,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132066,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r05_c03.png",
+      "sha256": "97638a02c0f44ec18a29aad494d738994aaa653143c833833b4ab2e335f5d3ac"
+    },
+    {
+      "index": 67,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132067,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r05_c04.png",
+      "sha256": "8423b1e1d0a62767579a9a856a1ea795621e1f174ac63076a30a5a42c7724b31"
+    },
+    {
+      "index": 68,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132068,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r05_c05.png",
+      "sha256": "ecc223d16f79e8e6873d02901de6231d4c485590cff3ff92d1cb1a721cf33786"
+    },
+    {
+      "index": 69,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132069,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r05_c06.png",
+      "sha256": "dc02107d62a8c0cc0265c7d48e8a8303f089291b1fdbe7c53b3cd43c5d904775"
+    },
+    {
+      "index": 70,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132070,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r05_c07.png",
+      "sha256": "07d0eb995041b6bf8d6d9b5981f180bded9bc439e094e1c365cc982b1acc0f22"
+    },
+    {
+      "index": 71,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132071,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r05_c08.png",
+      "sha256": "003ab6b479f3484a38e174ea75d3e249bf86d00c00f3ce80369d4c25ca6b67fc"
+    },
+    {
+      "index": 72,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132072,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r05_c09.png",
+      "sha256": "1a70456f855592bd4a300c41295dccb8145e08a3a5ba7a3dd266c08626e68da4"
+    },
+    {
+      "index": 73,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132073,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r05_c10.png",
+      "sha256": "43d29e0025a63c1558fd268998c7a245bab7d0e73d253cebc42580a270caf12d"
+    },
+    {
+      "index": 74,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132074,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r05_c11.png",
+      "sha256": "cfd5c18c9afb2a81ea264f32bb64eb01471010671e09fcfa9b2a28ba949f3c84"
+    },
+    {
+      "index": 75,
+      "prompt": "Iron Man in an action pose, crimson reflected light",
+      "seed": 9132075,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r05_c12.png",
+      "sha256": "2ceb0b59e8f53711ff2dafa00f69269a094666b30304f4b428b79c4b2b3b5994"
+    },
+    {
+      "index": 76,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132076,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r05_c13.png",
+      "sha256": "2e7c568284d1118ad43b95f76956eba19b57880dd8a2e6b2856e3a163ba12421"
+    },
+    {
+      "index": 77,
+      "prompt": "Iron Man in red and gold armor, crimson reflected light",
+      "seed": 9132077,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r05_c14.png",
+      "sha256": "b3e3e409ffccb2ce8cba5bfe5b4ada01c28eb039facfa7746f91288d5754d2d9"
+    },
+    {
+      "index": 78,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132078,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r05_c15.png",
+      "sha256": "b16de7bec0c50292b9cc28397bc2d243e1c4bfc610af635983f26e38418fea47"
+    },
+    {
+      "index": 79,
+      "prompt": "Iron Man helmet, glowing eyes, crimson reflected light",
+      "seed": 9132079,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r05_c16.png",
+      "sha256": "dc1f784849f8051479decb59301775e614f82c89f3b4fad034ad111e684371b0"
+    },
+    {
+      "index": 80,
+      "prompt": "Iron Man in an action pose, crimson reflected light",
+      "seed": 9132080,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r06_c01.png",
+      "sha256": "41abca3fbac2ae9b1fcf15ce5e8f8b231fa0cd3c19fd64c6c63849c2cac3e441"
+    },
+    {
+      "index": 81,
+      "prompt": "Iron Man helmet, glowing eyes, crimson reflected light",
+      "seed": 9132081,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r06_c02.png",
+      "sha256": "d55a1571f9947eda41207cbee72a6ea49e25a1e0fb1e03e43a82de40beeb4535"
+    },
+    {
+      "index": 82,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132082,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r06_c03.png",
+      "sha256": "ce12b71115f816a77d7f56b92278f1215f89a8ba831267ed5292955c3806d912"
+    },
+    {
+      "index": 83,
+      "prompt": "Iron Man in an action pose, cool steel-blue light",
+      "seed": 9132083,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r06_c04.png",
+      "sha256": "d1a17b1b25c019b40290a92f9daed2c3db81aee4d2cc777165c8aed2508bf0d4"
+    },
+    {
+      "index": 84,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132084,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r06_c05.png",
+      "sha256": "03731a27a356af490802cbc49b3812a72a3fe3c7f6916fef09db62bfb912a73c"
+    },
+    {
+      "index": 85,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132085,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r06_c06.png",
+      "sha256": "2d3892408d822898dff3652cd39d7f0ac6e19b3b5ff10595b5072c9f9ae42162"
+    },
+    {
+      "index": 86,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132086,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r06_c07.png",
+      "sha256": "f5ff4cbf01ca84cadff9c546c0c446e0b63f8758a5d65ee081e39dbfcf37caae"
+    },
+    {
+      "index": 87,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132087,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r06_c08.png",
+      "sha256": "9ef71c21cd8d60d8840f86bb9d674a39aacb72bb1fa0f1fc6a0d009531f53e2b"
+    },
+    {
+      "index": 88,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132088,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r06_c09.png",
+      "sha256": "34332fe713be776b3c7f50b3553aa4d6ebdc72b652e62cf67dad8caa67ff7aea"
+    },
+    {
+      "index": 89,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132089,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r06_c10.png",
+      "sha256": "68c80f649439abddff4be5897532a07a931b93f5d9a2983ef73fb64a0e23e676"
+    },
+    {
+      "index": 90,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132090,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r06_c11.png",
+      "sha256": "2ed116406512369235f2462cc4af153ba69b43c30767c4452d8994c320e7d032"
+    },
+    {
+      "index": 91,
+      "prompt": "Iron Man in red and gold armor, crimson reflected light",
+      "seed": 9132091,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r06_c12.png",
+      "sha256": "520b31f1b1e228623854702731fecd50960bdcc5b39ff1918075e3c1e0a58b14"
+    },
+    {
+      "index": 92,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132092,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r06_c13.png",
+      "sha256": "aed54db9da4c0377bcb10bca33a0b3c88ab68fd2fd9ecb9b7f6fe12d32d36696"
+    },
+    {
+      "index": 93,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132093,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r06_c14.png",
+      "sha256": "5fd8da43c3ce8e186650b06449b279e34dbf4b3e32e4f62da58b1224203a4408"
+    },
+    {
+      "index": 94,
+      "prompt": "Iron Man in red and gold armor, crimson reflected light",
+      "seed": 9132094,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r06_c15.png",
+      "sha256": "e337da31d0e12eb328d88b59dca9e12b36ce5bf9d7095a92cd06d71fd040e095"
+    },
+    {
+      "index": 95,
+      "prompt": "Iron Man in an action pose, crimson reflected light",
+      "seed": 9132095,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r06_c16.png",
+      "sha256": "697cc64243410d0ab6e2d3bf3104d728ecf9e7ad59a35ee66befe9d5adb6a01b"
+    },
+    {
+      "index": 96,
+      "prompt": "Iron Man in red and gold armor, crimson reflected light",
+      "seed": 9132096,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r07_c01.png",
+      "sha256": "c59e4232546ccf2843ca8903ff4f84bcbaa2438b8a8f8f94906375f71a17e3ff"
+    },
+    {
+      "index": 97,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132097,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r07_c02.png",
+      "sha256": "323fddf15b6f5872735e12104db88efa281f1707d3b78c1257f7a316a68d3a26"
+    },
+    {
+      "index": 98,
+      "prompt": "Iron Man helmet, glowing eyes, crimson reflected light",
+      "seed": 9132098,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r07_c03.png",
+      "sha256": "043ec91bc3c2d24b27a97f35d246a416e7c31217df148cfcc73198dd173dbf54"
+    },
+    {
+      "index": 99,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132099,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r07_c04.png",
+      "sha256": "64da20d589f066073497b78275c0f998cc7c07d316b81fec4557f44e39ab3588"
+    },
+    {
+      "index": 100,
+      "prompt": "Iron Man in an action pose, cool steel-blue light",
+      "seed": 9132100,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r07_c05.png",
+      "sha256": "776296214109a8876494d976e08ad8988e5cb5380ad0de9c7f9167083d40ad70"
+    },
+    {
+      "index": 101,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132101,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r07_c06.png",
+      "sha256": "5c272a885f389e34b6f0b1cbca5fb8e8feac59f17528a1df6ee33dceed9852f3"
+    },
+    {
+      "index": 102,
+      "prompt": "Iron Man in red and gold armor, crimson reflected light",
+      "seed": 9132102,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r07_c07.png",
+      "sha256": "710dba94436f914e51fe413c0222071988e2c194ccf0de7e38d0a34a579e7cea"
+    },
+    {
+      "index": 103,
+      "prompt": "Iron Man in an action pose, crimson reflected light",
+      "seed": 9132103,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r07_c08.png",
+      "sha256": "97440c4ccd36a22cd4b9644a4b5405f369f9f6829b9ad1a841d02da5ae2de10f"
+    },
+    {
+      "index": 104,
+      "prompt": "Iron Man helmet, glowing eyes, crimson reflected light",
+      "seed": 9132104,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r07_c09.png",
+      "sha256": "44fa42102930570e06935e860286bf05cc9ca12b2adfa3e81d45ef74b1b4162c"
+    },
+    {
+      "index": 105,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132105,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r07_c10.png",
+      "sha256": "94724ee0bd583f728e7dc16b2d3fecb97af85367cf569cc078d637b61a06bbe4"
+    },
+    {
+      "index": 106,
+      "prompt": "Iron Man in an action pose, crimson reflected light",
+      "seed": 9132106,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r07_c11.png",
+      "sha256": "06095d1adf16b9c56a0626e8be072f2376a4568052be23ed7e8482c8ac0baca3"
+    },
+    {
+      "index": 107,
+      "prompt": "Iron Man helmet, glowing eyes, crimson reflected light",
+      "seed": 9132107,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r07_c12.png",
+      "sha256": "9afc7718a9af2f616d9fc33071c80010129f125246ad94e7ae4c5688bf528dc1"
+    },
+    {
+      "index": 108,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132108,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r07_c13.png",
+      "sha256": "8d290b0b1a6b13c5ed812ac6fcc7a1b70c370f26cc0005d586557441411dd4eb"
+    },
+    {
+      "index": 109,
+      "prompt": "Iron Man in an action pose, crimson reflected light",
+      "seed": 9132109,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r07_c14.png",
+      "sha256": "deeec7dd77846cbc214bc6369e8ed14ff282bf7aa3f4ad7e2fd5e20f5739409f"
+    },
+    {
+      "index": 110,
+      "prompt": "Iron Man helmet, glowing eyes, crimson reflected light",
+      "seed": 9132110,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r07_c15.png",
+      "sha256": "d95a17c9138fc442ff10665a967d5e9122eb231cb2315cc127aa3d2ac1c6723e"
+    },
+    {
+      "index": 111,
+      "prompt": "Iron Man in red and gold armor, crimson reflected light",
+      "seed": 9132111,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r07_c16.png",
+      "sha256": "21e69f106f7f2530355860cd85ed6e790e8868588115ae076691af04387b70dc"
+    },
+    {
+      "index": 112,
+      "prompt": "Iron Man helmet, glowing eyes, crimson reflected light",
+      "seed": 9132112,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r08_c01.png",
+      "sha256": "6d4ab8ef065ae9817a4c7419a410fdb2b953aa1c86ff06ca70e59defac1fd174"
+    },
+    {
+      "index": 113,
+      "prompt": "Iron Man in red and gold armor, crimson reflected light",
+      "seed": 9132113,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r08_c02.png",
+      "sha256": "2932a8a04db677a6c5757fe82f7383484d74336dea68e30fd7dcb581782632ab"
+    },
+    {
+      "index": 114,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132114,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r08_c03.png",
+      "sha256": "7e7d1e8098ad78440001934b323593df7fb80021b7713c35c38fb042b62f4f8e"
+    },
+    {
+      "index": 115,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132115,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r08_c04.png",
+      "sha256": "9f581e6f91f5239df8916b3c1228ecd399a85e11f23d92567cabd726f0e6f526"
+    },
+    {
+      "index": 116,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132116,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r08_c05.png",
+      "sha256": "6725c2bf50022227b856b2616279bd7cccd0727ba12c34d064dc6125fd2ef438"
+    },
+    {
+      "index": 117,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132117,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r08_c06.png",
+      "sha256": "10e582284d05bfc32b8b98ff93d6f7b224312df042b7aef3bc7facc9e4baa052"
+    },
+    {
+      "index": 118,
+      "prompt": "Iron Man helmet, glowing eyes, crimson reflected light",
+      "seed": 9132118,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r08_c07.png",
+      "sha256": "5673790b02c17683dd3035e4eb0f938042e3fd9fad5190ceefa23fb88e1a0e62"
+    },
+    {
+      "index": 119,
+      "prompt": "Iron Man in red and gold armor, crimson reflected light",
+      "seed": 9132119,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r08_c08.png",
+      "sha256": "cf6bf7e01bac247902202857a390c36813baac5ea43165c548dc39160be53235"
+    },
+    {
+      "index": 120,
+      "prompt": "Iron Man in an action pose, crimson reflected light",
+      "seed": 9132120,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r08_c09.png",
+      "sha256": "93d209cf32cee20bc97fef115f9098c8d79da078a072709f403c512e8640adc1"
+    },
+    {
+      "index": 121,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132121,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r08_c10.png",
+      "sha256": "a283528f9186a97cad6161b951f9c9d625e88ef813458d31fbc40550b57b7db0"
+    },
+    {
+      "index": 122,
+      "prompt": "Iron Man in red and gold armor, crimson reflected light",
+      "seed": 9132122,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r08_c11.png",
+      "sha256": "fa4abb473a628e329d80b293c9c23efbc5cbdd8b4006158280c53e16959e1cb0"
+    },
+    {
+      "index": 123,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132123,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r08_c12.png",
+      "sha256": "31dd11fce9f3f3fedcde4b5e939ae7d99ecbeb5af9b0d7c30daaa75188530196"
+    },
+    {
+      "index": 124,
+      "prompt": "Iron Man helmet, glowing eyes, crimson reflected light",
+      "seed": 9132124,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r08_c13.png",
+      "sha256": "38b098853b32bff98d02508e6229a3d689936dcc3d7f7da71d265cdd7be27b70"
+    },
+    {
+      "index": 125,
+      "prompt": "Iron Man in red and gold armor, crimson reflected light",
+      "seed": 9132125,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r08_c14.png",
+      "sha256": "9f8e2d93f61993657efed962fa2b3f85b2dcae5a7e104724d2ac75c04711ba53"
+    },
+    {
+      "index": 126,
+      "prompt": "Iron Man in an action pose, crimson reflected light",
+      "seed": 9132126,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r08_c15.png",
+      "sha256": "8a9907d7298301b00cc5942477fccb6a0ceb98f45972a9c9bdd5c807ba487900"
+    },
+    {
+      "index": 127,
+      "prompt": "Iron Man helmet, glowing eyes, crimson reflected light",
+      "seed": 9132127,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r08_c16.png",
+      "sha256": "e38ba4079ead9bad6daf36282552b132bb7b2a43ec9872ab13336253dfc57486"
+    },
+    {
+      "index": 128,
+      "prompt": "Iron Man in an action pose, crimson reflected light",
+      "seed": 9132128,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r09_c01.png",
+      "sha256": "70576af806d1fe904a273bb00c8eea4f740fa8ddddae969dc565ef19d8d84e01"
+    },
+    {
+      "index": 129,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132129,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r09_c02.png",
+      "sha256": "05bae4cc212a8b95fda6f2dbf4c66acc607ec852b6b5e79c27649dcf0d535c4e"
+    },
+    {
+      "index": 130,
+      "prompt": "Iron Man in red and gold armor, crimson reflected light",
+      "seed": 9132130,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r09_c03.png",
+      "sha256": "dd4c9773b4f7256bfb7ab7424453225055a3609c8479534c28a77e0025b8e6d1"
+    },
+    {
+      "index": 131,
+      "prompt": "Iron Man in an action pose, crimson reflected light",
+      "seed": 9132131,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r09_c04.png",
+      "sha256": "c993c4571a3968321948fa1d26c7517395d157eb1da0f0a3f31394cf65d804ee"
+    },
+    {
+      "index": 132,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132132,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r09_c05.png",
+      "sha256": "d7f750ac0557d3d1d6ec9acd2194f21aaaa55226462668df6981307567381a44"
+    },
+    {
+      "index": 133,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132133,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r09_c06.png",
+      "sha256": "c3ebc89eb85d5aa130bfdced90817eec7807cf61d650ddab2e00ae75d3be4351"
+    },
+    {
+      "index": 134,
+      "prompt": "Iron Man in an action pose, crimson reflected light",
+      "seed": 9132134,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r09_c07.png",
+      "sha256": "fdac568e22a67834cc864521ef7e83d3265769640f43b8f0bd67a80afe28f79b"
+    },
+    {
+      "index": 135,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132135,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r09_c08.png",
+      "sha256": "55ce3e7769d3c6860d9e45ef15aa0399360ca0b445d8f951b76dd149de0e1e82"
+    },
+    {
+      "index": 136,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132136,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r09_c09.png",
+      "sha256": "17c509b41b9256a969250ce464690e49e815665559245cd5c1a28938145e6ffd"
+    },
+    {
+      "index": 137,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132137,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r09_c10.png",
+      "sha256": "adc6b3419bb2ffd1d1ef75a8af3aabebe9d34d554f5cd2554e0045053420cb35"
+    },
+    {
+      "index": 138,
+      "prompt": "Iron Man helmet, glowing eyes, crimson reflected light",
+      "seed": 9132138,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r09_c11.png",
+      "sha256": "6c10842e88cdc382292e267269eb58b90e688a3bc1294830c90c45f0dd700744"
+    },
+    {
+      "index": 139,
+      "prompt": "Iron Man in red and gold armor, crimson reflected light",
+      "seed": 9132139,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r09_c12.png",
+      "sha256": "99b312b3657d1d73c6ba8fd34500e84211aeb83a75425fc3c9fac36a3579eb66"
+    },
+    {
+      "index": 140,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132140,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r09_c13.png",
+      "sha256": "89fadbb8eb33b22a42c865bcf6f72a25de174575039934323c9421536dcc3d49"
+    },
+    {
+      "index": 141,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132141,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r09_c14.png",
+      "sha256": "dd23ca1e218fb86f9bb27667d8d5d8f5b4a7d155d363c23876f88a812910e74b"
+    },
+    {
+      "index": 142,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132142,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r09_c15.png",
+      "sha256": "4af9cc7fc264e049db0f6b1c58859279f5f9e598ceaf6316b0b65436bdea4f07"
+    },
+    {
+      "index": 143,
+      "prompt": "Iron Man in an action pose, crimson reflected light",
+      "seed": 9132143,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r09_c16.png",
+      "sha256": "bddbb5a18d113736e6f1181761443944fe11f8c3ff3d54732f419ff5673fc5be"
+    },
+    {
+      "index": 144,
+      "prompt": "Iron Man in red and gold armor, crimson reflected light",
+      "seed": 9132144,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r10_c01.png",
+      "sha256": "e01e1f405abf8d607bfb4d53924dd026daa7197f4e45a875c92f7b4e79692432"
+    },
+    {
+      "index": 145,
+      "prompt": "Iron Man in an action pose, crimson reflected light",
+      "seed": 9132145,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r10_c02.png",
+      "sha256": "4256f40d3c5914c4b5819cd53555692907b6283c57db1951ea0903c19d6db435"
+    },
+    {
+      "index": 146,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132146,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r10_c03.png",
+      "sha256": "bd716dfdef55c9309c45a092cad3d8b5f1d709c2bcac978123e0ac71a9566d9f"
+    },
+    {
+      "index": 147,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132147,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r10_c04.png",
+      "sha256": "571b8e602abe3e7956cedf471fc6ec2d31b6c33f1b5bd803418d126780694618"
+    },
+    {
+      "index": 148,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132148,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r10_c05.png",
+      "sha256": "6f9bb4e62432f8024f2a9c98801662467a9fa3735f7473983cc3c77ba3dff0f3"
+    },
+    {
+      "index": 149,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132149,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r10_c06.png",
+      "sha256": "4d2ac021d4b278ee9752173c3853a58e5279670920fc102e6aa80c424c95e153"
+    },
+    {
+      "index": 150,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132150,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r10_c07.png",
+      "sha256": "4cc195e3a6cbce04d1cc5ae467739791670f36db8390ac9f4ff33b157f72cbf2"
+    },
+    {
+      "index": 151,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132151,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r10_c08.png",
+      "sha256": "c1f28f11e9c4e523c99a2e1e3379a4f7e1d0756edfd6e0db8a0cbacfab47a7a2"
+    },
+    {
+      "index": 152,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132152,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r10_c09.png",
+      "sha256": "ed751e8d9eb000f1175f195a952144df6ea4b28d1d52a115da694da513df0cb3"
+    },
+    {
+      "index": 153,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132153,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r10_c10.png",
+      "sha256": "793a19fb71b079818603bd4e7f7958fbe0a80e8806a8766946cdfca97bdf47cc"
+    },
+    {
+      "index": 154,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132154,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r10_c11.png",
+      "sha256": "2763676d98f1e665b56a32eda46905d525890e4aff307ae1f38b1e7a342fb604"
+    },
+    {
+      "index": 155,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132155,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r10_c12.png",
+      "sha256": "209d74d9937cafb5b3758afd05d62309642f8099e45870eda7992106faab46ba"
+    },
+    {
+      "index": 156,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132156,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r10_c13.png",
+      "sha256": "cd7b425206287e2a12e9761d29a9ec18fde95bf1839b61a8da13af0958dbed15"
+    },
+    {
+      "index": 157,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132157,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r10_c14.png",
+      "sha256": "ea320e24cc8c18ea9d768ec3968fd01d843671b144dc45b5836a08e0af52a500"
+    },
+    {
+      "index": 158,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132158,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r10_c15.png",
+      "sha256": "de289834fce7e9851ee01be318d6ffd4916fdd73da4f260d64f7e0d8ad3fd546"
+    },
+    {
+      "index": 159,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132159,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r10_c16.png",
+      "sha256": "8bc61517a5faa2ebe90e88a811f277d91814ea757deb76ca5020ea8555514e2c"
+    },
+    {
+      "index": 160,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132160,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r11_c01.png",
+      "sha256": "789d2ff17abdacd0c6718a116fd7b6228322c5268ffebc1ae28360991ca9c90f"
+    },
+    {
+      "index": 161,
+      "prompt": "Iron Man in red and gold armor, crimson reflected light",
+      "seed": 9132161,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r11_c02.png",
+      "sha256": "15289744e5b7ed088238cda72fa0d83123d2b9a918dd042f90d4b412a6f8363b"
+    },
+    {
+      "index": 162,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132162,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r11_c03.png",
+      "sha256": "5b230cfc7ac3264fd8f958b73d9974a5586aa74d7bdfeefd641dd2f42b70394d"
+    },
+    {
+      "index": 163,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132163,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r11_c04.png",
+      "sha256": "2916828960d3cf90c11543a6896602a831f33037f1050a70215b419329f9a490"
+    },
+    {
+      "index": 164,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132164,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r11_c05.png",
+      "sha256": "65f7b35fecc7b72b1a8927abd397f54872d0c252da080b9d19455c20365a9ad1"
+    },
+    {
+      "index": 165,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132165,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r11_c06.png",
+      "sha256": "d6e78d8b54646518deeb0295fe051670fc80823c3ea3d5a6016b3fe456ed8824"
+    },
+    {
+      "index": 166,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132166,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r11_c07.png",
+      "sha256": "1c66a77cc37e7ca1156b97621ce6bd8db92019c329d045efac637f6430a8f4d7"
+    },
+    {
+      "index": 167,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132167,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r11_c08.png",
+      "sha256": "8cf38c80d1e5699fd398e90389f9ffa6004e4b3bcd68b14948fd6ef16afdb7f5"
+    },
+    {
+      "index": 168,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132168,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r11_c09.png",
+      "sha256": "e799a0950dab78692f7ed0054430e83afcdc9df35fa5b92bce21c8773aa227bc"
+    },
+    {
+      "index": 169,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132169,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r11_c10.png",
+      "sha256": "e5730981eb763c2e7f8352969ae37d678859822be8a2a9c34e71aa34ac5ea08c"
+    },
+    {
+      "index": 170,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132170,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r11_c11.png",
+      "sha256": "ef303997319a6a74e5902c33b64e79929a0b447e9b2112f280a49860d9490012"
+    },
+    {
+      "index": 171,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132171,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r11_c12.png",
+      "sha256": "2e784c507f2b56645461045e6b8812dd76e7a6e7bf5a1fca74f53ccf02074a18"
+    },
+    {
+      "index": 172,
+      "prompt": "Iron Man helmet, glowing eyes, crimson reflected light",
+      "seed": 9132172,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r11_c13.png",
+      "sha256": "8fc627fe916e5f5888038fba7028bd881759872363958de9aefd3a633fd2770b"
+    },
+    {
+      "index": 173,
+      "prompt": "Iron Man in red and gold armor, crimson reflected light",
+      "seed": 9132173,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r11_c14.png",
+      "sha256": "b614ea8d6ca033f7edb4cffe6d5d476ae251a4581a0fd5d3def9265ea7118af8"
+    },
+    {
+      "index": 174,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132174,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r11_c15.png",
+      "sha256": "b4f1a2b9d4a16969ddb12c7513e5c68c57f803ac6efdfea3e64f21f48894aef5"
+    },
+    {
+      "index": 175,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132175,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r11_c16.png",
+      "sha256": "4b5eec5a304462e68c9d7396f235db368f6c1b1535a6e837723a30f3bc6dca27"
+    },
+    {
+      "index": 176,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132176,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r12_c01.png",
+      "sha256": "79270264be431a485af8440bcb73e61e3c0acd6ddfb19438f2b5d369d9f4fd42"
+    },
+    {
+      "index": 177,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132177,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r12_c02.png",
+      "sha256": "41061d796269a6701074c91e3a0263521813f88331d0b91590038bc0c5a77d94"
+    },
+    {
+      "index": 178,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132178,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r12_c03.png",
+      "sha256": "44c48f7dad0ad9075f89386013743659fb1353c07c99cc25f1dcde4f204461c9"
+    },
+    {
+      "index": 179,
+      "prompt": "Iron Man in an action pose, crimson reflected light",
+      "seed": 9132179,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r12_c04.png",
+      "sha256": "21f715071eeff41186a2421b6a97416d4ed349cbc1b468aeb04f682709aa4848"
+    },
+    {
+      "index": 180,
+      "prompt": "Iron Man helmet, glowing eyes, crimson reflected light",
+      "seed": 9132180,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r12_c05.png",
+      "sha256": "b7c500a6f358e7f67ed417bb3eb6ed5f8903de2b846d8de7de42ab244404ab6c"
+    },
+    {
+      "index": 181,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132181,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r12_c06.png",
+      "sha256": "f2124f74f5a8d6a4fb59817978985fe23c0d0681b22bf438699899180b76f7cb"
+    },
+    {
+      "index": 182,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132182,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r12_c07.png",
+      "sha256": "b79125aa1a329a684422849beb2ff937f5674e80def62a9374ed20fca86ed79a"
+    },
+    {
+      "index": 183,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132183,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r12_c08.png",
+      "sha256": "761a2d3695aef6ad05c324b5a1e2a1e722b019bfc672112b497a4789d0653469"
+    },
+    {
+      "index": 184,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132184,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r12_c09.png",
+      "sha256": "817d050aad984bca949949e43eb454c9e9500aae84d53b93f8755805468155b0"
+    },
+    {
+      "index": 185,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132185,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r12_c10.png",
+      "sha256": "9a72f5df148797a8a77455024a7bc5abb30ebcaff5f4b672dc2d2b2f647d8cdf"
+    },
+    {
+      "index": 186,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132186,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r12_c11.png",
+      "sha256": "2d4ef03834fe6b62a67625245fef9864387210fcb3a9e8eecb503f506eef77e5"
+    },
+    {
+      "index": 187,
+      "prompt": "Iron Man in red and gold armor, crimson reflected light",
+      "seed": 9132187,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r12_c12.png",
+      "sha256": "5268840dc150162b1d6eaf6e8870ddaf71529f17828ba8a5113586099e179dad"
+    },
+    {
+      "index": 188,
+      "prompt": "Iron Man in an action pose, crimson reflected light",
+      "seed": 9132188,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r12_c13.png",
+      "sha256": "1007aa52a5506511e71b8055e950452aaa85e0738b85469b3c34983342be0cd2"
+    },
+    {
+      "index": 189,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132189,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r12_c14.png",
+      "sha256": "6d929879d883436f1085215634bf463fe5c2627d193508bedb60ff07a6bbfec0"
+    },
+    {
+      "index": 190,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132190,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r12_c15.png",
+      "sha256": "e7d7acc8d5664b15bab1700dca29d595ac7a75cd07d7bf20a7185d124f9ed4e6"
+    },
+    {
+      "index": 191,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132191,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r12_c16.png",
+      "sha256": "da29977f2a9b5a1d17efbb6f303ee48bac058df6c910fc1bc63c085390b98304"
+    },
+    {
+      "index": 192,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132192,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r13_c01.png",
+      "sha256": "338b30f8ab7ba113ca80e814bd25554f9e76684a59fe540391d8814c1bcd967a"
+    },
+    {
+      "index": 193,
+      "prompt": "Iron Man in an action pose, crimson reflected light",
+      "seed": 9132193,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r13_c02.png",
+      "sha256": "f7fe937254592f63b7708bcea8073fbab5ef94c735861981efdc7d62b83defb9"
+    },
+    {
+      "index": 194,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132194,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r13_c03.png",
+      "sha256": "e0d94f6a314d9842ccd4f75e627e716de1e9ccd9bd3cf6b1cfdc76d339bbb278"
+    },
+    {
+      "index": 195,
+      "prompt": "Iron Man in red and gold armor, crimson reflected light",
+      "seed": 9132195,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r13_c04.png",
+      "sha256": "216bd8c51c5ae8cd7c0b67a5fec051967e8f25a1731560b928b15c431d6e3b90"
+    },
+    {
+      "index": 196,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132196,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r13_c05.png",
+      "sha256": "6d7cf6c97e8a2f76b3327d2dd5cae1ca19709d36ea16fecc2b6ec73d6075e013"
+    },
+    {
+      "index": 197,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132197,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r13_c06.png",
+      "sha256": "309abc5106e6207bd04e0c9efa87893a89e3dad5fc999cdb893592bbed1a4905"
+    },
+    {
+      "index": 198,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132198,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r13_c07.png",
+      "sha256": "9c46850197a8186d6005fdbdba2fac5fd70e3d0d53243e47949e75b00dd9d7bd"
+    },
+    {
+      "index": 199,
+      "prompt": "Iron Man in an action pose, cool steel-blue light",
+      "seed": 9132199,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r13_c08.png",
+      "sha256": "fa86f992a5cc319515a84e628d7e354966ee09f1a53edffe3d97d96d32eae363"
+    },
+    {
+      "index": 200,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132200,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r13_c09.png",
+      "sha256": "5e8690d9bd186c1ca8eba576253849dbf06465dc080d19cf2bcd92f8a4be44c5"
+    },
+    {
+      "index": 201,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132201,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r13_c10.png",
+      "sha256": "8ac89ef18ac685c55342e6f8eb63faaddfccbe9854c9bf854d357ff04a04bdac"
+    },
+    {
+      "index": 202,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132202,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r13_c11.png",
+      "sha256": "6ae11f8fc70a7c4bc89617e3de053024959c45ef94652846e49851ba895339c2"
+    },
+    {
+      "index": 203,
+      "prompt": "Iron Man helmet, glowing eyes, crimson reflected light",
+      "seed": 9132203,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r13_c12.png",
+      "sha256": "86e914f37fc196902abac685bab56173456bb25fb2ae4508019fee99b50c4ad2"
+    },
+    {
+      "index": 204,
+      "prompt": "Iron Man in red and gold armor, warm copper lighting",
+      "seed": 9132204,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r13_c13.png",
+      "sha256": "da942043ac7fbdd6c24dea62a4dd66e2da358759a1a7fa1c2a4a8d61f1780a9c"
+    },
+    {
+      "index": 205,
+      "prompt": "Iron Man in an action pose, warm copper lighting",
+      "seed": 9132205,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r13_c14.png",
+      "sha256": "2ebf5e458352fd4c6be45749a55adbe3ac2c3c344361793e81c5d161ba4255e6"
+    },
+    {
+      "index": 206,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132206,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r13_c15.png",
+      "sha256": "2a92706176813304428e0d44641acf1fec9a13ed4ccfddd6d385683869140e3f"
+    },
+    {
+      "index": 207,
+      "prompt": "Iron Man in red and gold armor, crimson reflected light",
+      "seed": 9132207,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r13_c16.png",
+      "sha256": "4cb919245478fe268403b6e6f0cb2c0656a19c85da84ecc94faa17df5fd78a45"
+    },
+    {
+      "index": 208,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132208,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r14_c01.png",
+      "sha256": "73ac57b081fd3cca57f1ade10ed6d300db80c1f92ea93152f41490abc57adeca"
+    },
+    {
+      "index": 209,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132209,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r14_c02.png",
+      "sha256": "c114541ac75e80111fdf0b506d3fada4e65e999ef847cbf863fc3b319683586d"
+    },
+    {
+      "index": 210,
+      "prompt": "Iron Man in an action pose, cool steel-blue light",
+      "seed": 9132210,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r14_c03.png",
+      "sha256": "4899663f2ef4728889f229599a35527e08ff87952226528f12e5c7c9fe5c7b00"
+    },
+    {
+      "index": 211,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132211,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r14_c04.png",
+      "sha256": "c8dfa1011233556a9080b0b52661fe9872e330f166ff863383895b1b054d0cec"
+    },
+    {
+      "index": 212,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132212,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r14_c05.png",
+      "sha256": "1946a58d23cec0a0f3bc69668d6fab70f9ae3f007f3f714da26a9534163aab5a"
+    },
+    {
+      "index": 213,
+      "prompt": "Iron Man in an action pose, cool steel-blue light",
+      "seed": 9132213,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r14_c06.png",
+      "sha256": "086c5583b1431c814428fb6351706e97fa5e3d308dd6971b385072051316bf45"
+    },
+    {
+      "index": 214,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132214,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r14_c07.png",
+      "sha256": "256e08df43bbf9f17780a28f6c2280e0e802065e30f5ebf34c8ced9c49d3b5be"
+    },
+    {
+      "index": 215,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132215,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r14_c08.png",
+      "sha256": "8e9ae470fe667e679e0040f38af5678bcfae80abf90170df7751535f9eb566c2"
+    },
+    {
+      "index": 216,
+      "prompt": "Iron Man in an action pose, cool steel-blue light",
+      "seed": 9132216,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r14_c09.png",
+      "sha256": "e7a9b0fa8fc4acd75c1c45c52fb5a07ec74a7a1b66d1b047c088ed350eba875c"
+    },
+    {
+      "index": 217,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132217,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r14_c10.png",
+      "sha256": "43fab3d9c5a474c21f14cd054136ec5d4b2cd535396a22072e92322bc7c24322"
+    },
+    {
+      "index": 218,
+      "prompt": "Iron Man in red and gold armor, crimson reflected light",
+      "seed": 9132218,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r14_c11.png",
+      "sha256": "c473af83d759dc2bae182e43995d4cbc53f360d0c7f6bae228973393c8b2bf90"
+    },
+    {
+      "index": 219,
+      "prompt": "Iron Man in an action pose, crimson reflected light",
+      "seed": 9132219,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r14_c12.png",
+      "sha256": "c1f3bb7d9afdf7010ef6641c07757c4141e499186e8a9d99d4a3f238a34059a9"
+    },
+    {
+      "index": 220,
+      "prompt": "Iron Man helmet, glowing eyes, warm copper lighting",
+      "seed": 9132220,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r14_c13.png",
+      "sha256": "588bca4bb1f89119960f82e94e3857e409c7afd139351a09a952bff649455385"
+    },
+    {
+      "index": 221,
+      "prompt": "Iron Man in red and gold armor, warm copper lighting",
+      "seed": 9132221,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r14_c14.png",
+      "sha256": "ce9e2af0cfeb584f38443a2dcd02c87bcc8f4f9a07ce4bcd628f402480009680"
+    },
+    {
+      "index": 222,
+      "prompt": "Iron Man in an action pose, crimson reflected light",
+      "seed": 9132222,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r14_c15.png",
+      "sha256": "bc4264c94b6a5300bb7d1b6781a88d8a6dc533c76e0af60b03c489c2ca85f296"
+    },
+    {
+      "index": 223,
+      "prompt": "Iron Man helmet, glowing eyes, crimson reflected light",
+      "seed": 9132223,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r14_c16.png",
+      "sha256": "e21e815e80ee30477d22aa52da8e848662eea2e124de81017da4a2a14e44fca2"
+    },
+    {
+      "index": 224,
+      "prompt": "Iron Man in an action pose, cool steel-blue light",
+      "seed": 9132224,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r15_c01.png",
+      "sha256": "004a0f01f093b613e1077f44e58dba7e09054286532a7ef1aa8ded9c4ea3feaa"
+    },
+    {
+      "index": 225,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132225,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r15_c02.png",
+      "sha256": "cd380cf09955ec2d1d2b7c2deea1744367396e323040d36732b4d2a9340d8ea7"
+    },
+    {
+      "index": 226,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132226,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r15_c03.png",
+      "sha256": "e7fd00209852507121b0577fd72bece615d0e16388ebe3a7ac864144f2b8c0d5"
+    },
+    {
+      "index": 227,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132227,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r15_c04.png",
+      "sha256": "91828367c16dcdb988acd5e54dfe7bbc95197381e003ac7d2197f071be28d732"
+    },
+    {
+      "index": 228,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132228,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r15_c05.png",
+      "sha256": "8979cc2375241c18dcebb4dade2988f59563976aabe62aa20b7b47b9fa587f82"
+    },
+    {
+      "index": 229,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132229,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r15_c06.png",
+      "sha256": "4a416dae730a9ba72c48deab58a629092420606b9ad2c129809031e2a7b2988f"
+    },
+    {
+      "index": 230,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132230,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r15_c07.png",
+      "sha256": "bc50a4b81e35472b3a5888d240516f97d3cb78530eea01933990add7ef8ae39c"
+    },
+    {
+      "index": 231,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132231,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r15_c08.png",
+      "sha256": "9e5e05d87caf3a970914910dc77bf20f67c5b2929dff56db4af8a2aa0346cc75"
+    },
+    {
+      "index": 232,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132232,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r15_c09.png",
+      "sha256": "22e917aa4383b4debf5b882526520cc4f6b085b61ba74d213681047e219f5467"
+    },
+    {
+      "index": 233,
+      "prompt": "Iron Man in an action pose, cool steel-blue light",
+      "seed": 9132233,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r15_c10.png",
+      "sha256": "564d8dbcfc2114a1455f70f0a2f51964182b8baa42f2a5f1ace41bcd21f374ab"
+    },
+    {
+      "index": 234,
+      "prompt": "Iron Man helmet, glowing eyes, crimson reflected light",
+      "seed": 9132234,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r15_c11.png",
+      "sha256": "dc715464bb88ede84ad4611e1c622b40e6eec40f170829eb3c5a55f7a6568a98"
+    },
+    {
+      "index": 235,
+      "prompt": "Iron Man in red and gold armor, crimson reflected light",
+      "seed": 9132235,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r15_c12.png",
+      "sha256": "3c23770619494275ec196d52144b1e3a419f641d4d9c886f14ec654bfd595bd7"
+    },
+    {
+      "index": 236,
+      "prompt": "Iron Man in an action pose, warm copper lighting",
+      "seed": 9132236,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r15_c13.png",
+      "sha256": "eb79e132bd0995456b8ba16832eb4e5061843fc60883a0923f0cf546bdc65208"
+    },
+    {
+      "index": 237,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132237,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r15_c14.png",
+      "sha256": "ce664a8b57e3ab42753f0e0977e7d4d243cb4efd0005ae462f7ee95cf58e3a64"
+    },
+    {
+      "index": 238,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132238,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r15_c15.png",
+      "sha256": "0953e55e3eb93cff8c17b303d04f808e73b7aff4d0894c361f80bc87aa8b486e"
+    },
+    {
+      "index": 239,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132239,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r15_c16.png",
+      "sha256": "ab703c828143b7c6faa3243b71d3c5f32312daab5cc757e4b2f4c223e40482c7"
+    },
+    {
+      "index": 240,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132240,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r16_c01.png",
+      "sha256": "aeebc87da30839437715d4a169ce4db11d7372775049331e924a0ed890e494bc"
+    },
+    {
+      "index": 241,
+      "prompt": "Iron Man in an action pose, cool steel-blue light",
+      "seed": 9132241,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r16_c02.png",
+      "sha256": "e436d712d72876f3c29dfbe0e31f38e429beedd0fccb8b9163ad0d7bee3412d4"
+    },
+    {
+      "index": 242,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132242,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r16_c03.png",
+      "sha256": "5efc0843ba9398a186d43ccb911a9a28e8f735787cd93d1d1d95a02fcc1e09e7"
+    },
+    {
+      "index": 243,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132243,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r16_c04.png",
+      "sha256": "2a629c5c10dd81eda8e155a26b9ac61c57474ffcd33452d39990953896ea3128"
+    },
+    {
+      "index": 244,
+      "prompt": "Iron Man in an action pose, cool steel-blue light",
+      "seed": 9132244,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r16_c05.png",
+      "sha256": "d972a31e8a881d41f22c4673e995d1ebe08dc228b6140d1929608d2a13e04a36"
+    },
+    {
+      "index": 245,
+      "prompt": "Iron Man helmet, glowing eyes, muted neutral lighting",
+      "seed": 9132245,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r16_c06.png",
+      "sha256": "c71536eb8e40dea86a5da4fda06f2418ea22c3c5a40d65d92a239ad3485c279e"
+    },
+    {
+      "index": 246,
+      "prompt": "Iron Man in red and gold armor, muted neutral lighting",
+      "seed": 9132246,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r16_c07.png",
+      "sha256": "c5cc8776604615be056c4d0dcbbf4ecd280893bb08168c7d19037a9d7573bef3"
+    },
+    {
+      "index": 247,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132247,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r16_c08.png",
+      "sha256": "00aeb4b2e038c831d52db954517d6fe12529e5eae9fca2cfde8c78c5edda030d"
+    },
+    {
+      "index": 248,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132248,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r16_c09.png",
+      "sha256": "994dd6696c9cca30d8f8d63810b8d5f71c1d105952d5885a95e7bc91bb39068a"
+    },
+    {
+      "index": 249,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132249,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r16_c10.png",
+      "sha256": "e3c40edb641dc799151a4009109d80bff2dd21ade30348099e2972586b26f07c"
+    },
+    {
+      "index": 250,
+      "prompt": "Iron Man in an action pose, crimson reflected light",
+      "seed": 9132250,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r16_c11.png",
+      "sha256": "ced062c838b88c53275a6de91bd3f92d9756a2614cf7cfd39dcaee8702abed83"
+    },
+    {
+      "index": 251,
+      "prompt": "Iron Man helmet, glowing eyes, warm copper lighting",
+      "seed": 9132251,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r16_c12.png",
+      "sha256": "a216177c3fc830670276e2e6f6b023b7364125e129f54976a62efbe7c1cbc793"
+    },
+    {
+      "index": 252,
+      "prompt": "Iron Man in red and gold armor, warm copper lighting",
+      "seed": 9132252,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r16_c13.png",
+      "sha256": "50a0bf45b63286c35ad47555c25d098d09f44fa63f240f415e639f8efe74f5ca"
+    },
+    {
+      "index": 253,
+      "prompt": "Iron Man in an action pose, muted neutral lighting",
+      "seed": 9132253,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r16_c14.png",
+      "sha256": "c40dbcb44c42881a072b03ea47adbc7c826579b1ce1e5a5d438fa2688aa638e3"
+    },
+    {
+      "index": 254,
+      "prompt": "Iron Man helmet, glowing eyes, cool steel-blue light",
+      "seed": 9132254,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r16_c15.png",
+      "sha256": "eb866a73c917d587623c031c544e56b79bfc48f12f1297fb7d4e61dbfd8c1db7"
+    },
+    {
+      "index": 255,
+      "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+      "seed": 9132255,
+      "generator": "99ca58e8675d644bfbde18277967ef4cd2e5e2411c50c1157a0e9809bbebd137",
+      "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+      "file": "captain_america/r16_c16.png",
+      "sha256": "115f561c33c82bf09e68da9a5c48207655fe639e47ac4a6711db64fe38eb44e9"
+    }
+  ],
+  "target": "outward_palette16/targets/captain_america_2.png"
+}

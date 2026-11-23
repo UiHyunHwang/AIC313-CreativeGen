@@ -1,0 +1,12 @@
+{
+  "index": 94,
+  "prompt": "Spider-Man, close-up portrait, red webbed mask and large white eyes",
+  "steps": 20,
+  "seed": 43,
+  "file": "spider/samples/p1_n20_i094_s43",
+  "clip": 0.06236349791288376,
+  "full_clip": 0.06335526704788208,
+  "small_clip": 0.06137172877788544,
+  "rgb_mae": 0.038562092930078506,
+  "score": 0.05465107932686806
+}

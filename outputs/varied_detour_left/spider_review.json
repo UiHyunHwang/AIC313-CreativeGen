@@ -1,0 +1,1300 @@
+{
+  "positive": [
+    "Spider-Man in a recognizable red and blue superhero suit in an action scene",
+    "Spider-Man standing in costume, a complete figure",
+    "a portrait of Spider-Man wearing a red webbed mask with white eyes"
+  ],
+  "negative": [
+    "a spider insect or a web without a superhero",
+    "empty scenery or a nearly uniform patch of color",
+    "a tiny unrecognizable distant speck",
+    "an unrelated person without a Spider-Man costume"
+  ],
+  "model": "openai/clip-vit-base-patch32",
+  "revision": "3d74acf9a28c67741b2f4f2ea7635f0aaf6f0268",
+  "locked": "r015_c014",
+  "visible": 255,
+  "weak": 111,
+  "contrasts": {
+    "a spider insect or a web without a superhero": 67,
+    "a tiny unrecognizable distant speck": 41,
+    "an unrelated person without a Spider-Man costume": 3
+  },
+  "ranked": [
+    {
+      "tile": "r007_c005",
+      "margin": -0.0863945484161377,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r003_c001",
+      "margin": -0.06477358192205429,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r004_c004",
+      "margin": -0.06386589258909225,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r009_c001",
+      "margin": -0.06367143243551254,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r012_c000",
+      "margin": -0.06116624176502228,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r007_c006",
+      "margin": -0.06070874631404877,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r000_c012",
+      "margin": -0.060180678963661194,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r014_c012",
+      "margin": -0.05196221172809601,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r000_c000",
+      "margin": -0.051576144993305206,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r001_c015",
+      "margin": -0.050791651010513306,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r006_c013",
+      "margin": -0.05055907368659973,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r010_c000",
+      "margin": -0.04828891158103943,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r007_c002",
+      "margin": -0.04814789444208145,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r007_c008",
+      "margin": -0.04652594029903412,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r002_c010",
+      "margin": -0.04530750960111618,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r013_c005",
+      "margin": -0.0440991148352623,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r005_c005",
+      "margin": -0.04298199713230133,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r006_c012",
+      "margin": -0.04283686727285385,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r010_c003",
+      "margin": -0.04217889904975891,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r008_c004",
+      "margin": -0.04079504311084747,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r010_c005",
+      "margin": -0.0403011292219162,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r008_c009",
+      "margin": -0.03968377411365509,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r000_c005",
+      "margin": -0.03967584669589996,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r006_c002",
+      "margin": -0.039490699768066406,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r001_c014",
+      "margin": -0.0389416366815567,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r011_c005",
+      "margin": -0.038744233548641205,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r009_c003",
+      "margin": -0.03689310699701309,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r004_c005",
+      "margin": -0.036871857941150665,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r009_c015",
+      "margin": -0.036534570157527924,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r015_c007",
+      "margin": -0.03479243814945221,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r012_c004",
+      "margin": -0.03437861055135727,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r010_c006",
+      "margin": -0.032516784965991974,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r004_c011",
+      "margin": -0.03207002580165863,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r014_c013",
+      "margin": -0.03172618895769119,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r013_c007",
+      "margin": -0.031714968383312225,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r003_c013",
+      "margin": -0.030781149864196777,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r004_c008",
+      "margin": -0.03059205412864685,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r011_c012",
+      "margin": -0.03052791953086853,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r013_c008",
+      "margin": -0.03036920726299286,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r008_c006",
+      "margin": -0.02961871027946472,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r011_c009",
+      "margin": -0.029391609132289886,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r001_c008",
+      "margin": -0.029378846287727356,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r002_c015",
+      "margin": -0.02858591079711914,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r006_c010",
+      "margin": -0.028487972915172577,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r015_c002",
+      "margin": -0.028217613697052002,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r015_c008",
+      "margin": -0.02769935131072998,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r007_c007",
+      "margin": -0.026757895946502686,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r011_c008",
+      "margin": -0.026565656065940857,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r003_c012",
+      "margin": -0.025404036045074463,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r003_c008",
+      "margin": -0.024714715778827667,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r007_c012",
+      "margin": -0.02429714798927307,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r013_c004",
+      "margin": -0.023784928023815155,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r003_c011",
+      "margin": -0.023659683763980865,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r002_c011",
+      "margin": -0.023120373487472534,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r006_c009",
+      "margin": -0.02252594381570816,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r014_c015",
+      "margin": -0.022250115871429443,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r013_c013",
+      "margin": -0.022099092602729797,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r005_c000",
+      "margin": -0.02145511656999588,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r015_c015",
+      "margin": -0.021175257861614227,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r005_c010",
+      "margin": -0.020687788724899292,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r010_c007",
+      "margin": -0.019819505512714386,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r008_c002",
+      "margin": -0.01901169866323471,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r015_c006",
+      "margin": -0.018946796655654907,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r000_c004",
+      "margin": -0.018906742334365845,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r007_c011",
+      "margin": -0.018832892179489136,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r005_c002",
+      "margin": -0.018045224249362946,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r002_c014",
+      "margin": -0.016913868486881256,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r003_c009",
+      "margin": -0.016122743487358093,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r010_c014",
+      "margin": -0.0158398300409317,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r009_c014",
+      "margin": -0.015004746615886688,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r013_c012",
+      "margin": -0.014696121215820312,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r006_c005",
+      "margin": -0.014030218124389648,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r010_c009",
+      "margin": -0.013263016939163208,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r004_c003",
+      "margin": -0.012656249105930328,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r009_c010",
+      "margin": -0.012628920376300812,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r010_c013",
+      "margin": -0.012588530778884888,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r009_c008",
+      "margin": -0.01182854175567627,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r001_c013",
+      "margin": -0.011041916906833649,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r010_c011",
+      "margin": -0.010114602744579315,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r012_c005",
+      "margin": -0.00997605174779892,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r013_c006",
+      "margin": -0.009564928710460663,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r002_c008",
+      "margin": -0.009396374225616455,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r013_c009",
+      "margin": -0.00925145298242569,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r011_c000",
+      "margin": -0.009008638560771942,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r007_c009",
+      "margin": -0.008998014032840729,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r012_c014",
+      "margin": -0.008990675210952759,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r012_c003",
+      "margin": -0.008905500173568726,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r000_c010",
+      "margin": -0.008847355842590332,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r009_c012",
+      "margin": -0.008220359683036804,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r006_c001",
+      "margin": -0.008156821131706238,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r012_c009",
+      "margin": -0.0077854543924331665,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r003_c006",
+      "margin": -0.006556496024131775,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r006_c011",
+      "margin": -0.006373457610607147,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r004_c013",
+      "margin": -0.006344646215438843,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r010_c012",
+      "margin": -0.005972117185592651,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r005_c006",
+      "margin": -0.005278661847114563,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r009_c004",
+      "margin": -0.005261838436126709,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r015_c009",
+      "margin": -0.004638932645320892,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r007_c013",
+      "margin": -0.004484459757804871,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r013_c003",
+      "margin": -0.004191920161247253,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r004_c007",
+      "margin": -0.00378476083278656,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r005_c014",
+      "margin": -0.003353133797645569,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r001_c006",
+      "margin": -0.003331400454044342,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r013_c015",
+      "margin": -0.0031817108392715454,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r006_c004",
+      "margin": -0.002923324704170227,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r009_c007",
+      "margin": -0.00237080454826355,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r011_c006",
+      "margin": -0.001935511827468872,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r006_c000",
+      "margin": -0.001866266131401062,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r003_c004",
+      "margin": -0.0014544352889060974,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r004_c010",
+      "margin": -0.0012283548712730408,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r005_c013",
+      "margin": -0.0006889477372169495,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r011_c003",
+      "margin": 0.00022965669631958008,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r007_c004",
+      "margin": 0.0002374202013015747,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r014_c001",
+      "margin": 0.00028837472200393677,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r006_c014",
+      "margin": 0.0005955398082733154,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r005_c003",
+      "margin": 0.0023350790143013,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r014_c003",
+      "margin": 0.002852916717529297,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r002_c009",
+      "margin": 0.004030168056488037,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r014_c005",
+      "margin": 0.00405440479516983,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r002_c005",
+      "margin": 0.004158399999141693,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r001_c010",
+      "margin": 0.004220440983772278,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r008_c003",
+      "margin": 0.004258662462234497,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r000_c003",
+      "margin": 0.004265345633029938,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r011_c010",
+      "margin": 0.004489153623580933,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r005_c001",
+      "margin": 0.004550524055957794,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r008_c011",
+      "margin": 0.004655763506889343,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r003_c000",
+      "margin": 0.005133979022502899,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r007_c010",
+      "margin": 0.006028234958648682,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r004_c012",
+      "margin": 0.006690070033073425,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r006_c008",
+      "margin": 0.0067878663539886475,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r003_c015",
+      "margin": 0.006791152060031891,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r002_c001",
+      "margin": 0.0068652331829071045,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r001_c007",
+      "margin": 0.007363453507423401,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r001_c005",
+      "margin": 0.007643312215805054,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r003_c014",
+      "margin": 0.007746204733848572,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r014_c011",
+      "margin": 0.00910639762878418,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r015_c012",
+      "margin": 0.009205669164657593,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r008_c013",
+      "margin": 0.009920857846736908,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r000_c015",
+      "margin": 0.010188758373260498,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r009_c006",
+      "margin": 0.01116296648979187,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r008_c005",
+      "margin": 0.01140815019607544,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r010_c004",
+      "margin": 0.011791422963142395,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r000_c009",
+      "margin": 0.012837246060371399,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r010_c010",
+      "margin": 0.013174057006835938,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r001_c012",
+      "margin": 0.013490557670593262,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r003_c005",
+      "margin": 0.01393204927444458,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r002_c007",
+      "margin": 0.015111714601516724,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r014_c008",
+      "margin": 0.015286445617675781,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r004_c002",
+      "margin": 0.015921354293823242,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r013_c010",
+      "margin": 0.015954621136188507,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r000_c006",
+      "margin": 0.01668339967727661,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r002_c006",
+      "margin": 0.016889408230781555,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r000_c008",
+      "margin": 0.017171710729599,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r014_c007",
+      "margin": 0.01727154850959778,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r009_c000",
+      "margin": 0.017789602279663086,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r008_c008",
+      "margin": 0.017976120114326477,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r009_c009",
+      "margin": 0.017997577786445618,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r012_c012",
+      "margin": 0.018110573291778564,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r007_c001",
+      "margin": 0.01831890642642975,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r015_c001",
+      "margin": 0.018321797251701355,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r003_c003",
+      "margin": 0.020375564694404602,
+      "nearest_contrast": "a tiny unrecognizable distant speck"
+    },
+    {
+      "tile": "r011_c011",
+      "margin": 0.020569756627082825,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r012_c013",
+      "margin": 0.0209844708442688,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r015_c003",
+      "margin": 0.02176550030708313,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r005_c009",
+      "margin": 0.021932825446128845,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r001_c000",
+      "margin": 0.022453486919403076,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r001_c001",
+      "margin": 0.022865787148475647,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r013_c002",
+      "margin": 0.0230390727519989,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r000_c011",
+      "margin": 0.023293599486351013,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r014_c009",
+      "margin": 0.024353891611099243,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r001_c009",
+      "margin": 0.02476697415113449,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r002_c012",
+      "margin": 0.0251476913690567,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r012_c006",
+      "margin": 0.025314778089523315,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r009_c005",
+      "margin": 0.02534613013267517,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r013_c001",
+      "margin": 0.02563135325908661,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r002_c004",
+      "margin": 0.025704100728034973,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r010_c008",
+      "margin": 0.02592143416404724,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r006_c007",
+      "margin": 0.02598246932029724,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r005_c015",
+      "margin": 0.027394026517868042,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r006_c006",
+      "margin": 0.027434632182121277,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r000_c013",
+      "margin": 0.027718260884284973,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r015_c000",
+      "margin": 0.027985334396362305,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r008_c007",
+      "margin": 0.028073593974113464,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r012_c002",
+      "margin": 0.028301432728767395,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r011_c015",
+      "margin": 0.028339505195617676,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r004_c015",
+      "margin": 0.028427571058273315,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r005_c008",
+      "margin": 0.028476327657699585,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r006_c015",
+      "margin": 0.028694629669189453,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r008_c001",
+      "margin": 0.028993144631385803,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r000_c014",
+      "margin": 0.029348909854888916,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r003_c007",
+      "margin": 0.02965673804283142,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r012_c008",
+      "margin": 0.030006438493728638,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r015_c005",
+      "margin": 0.030133135616779327,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r000_c001",
+      "margin": 0.030223265290260315,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r011_c014",
+      "margin": 0.030608847737312317,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r008_c010",
+      "margin": 0.030613571405410767,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r000_c002",
+      "margin": 0.03063947707414627,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r002_c013",
+      "margin": 0.030864432454109192,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r004_c000",
+      "margin": 0.030892133712768555,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r014_c004",
+      "margin": 0.03163518011569977,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r010_c001",
+      "margin": 0.0317234992980957,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r013_c000",
+      "margin": 0.03183282911777496,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r010_c002",
+      "margin": 0.03246740996837616,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r012_c007",
+      "margin": 0.03247229754924774,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r000_c007",
+      "margin": 0.032996371388435364,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r005_c007",
+      "margin": 0.03309246897697449,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r004_c014",
+      "margin": 0.03337341547012329,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r006_c003",
+      "margin": 0.03345789015293121,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r013_c011",
+      "margin": 0.03346985578536987,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r012_c015",
+      "margin": 0.033528223633766174,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r011_c013",
+      "margin": 0.034159719944000244,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r004_c009",
+      "margin": 0.03426067531108856,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r014_c002",
+      "margin": 0.03454187512397766,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r004_c001",
+      "margin": 0.03489190340042114,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r004_c006",
+      "margin": 0.03571471571922302,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r015_c013",
+      "margin": 0.0362301766872406,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r013_c014",
+      "margin": 0.03651683032512665,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r015_c011",
+      "margin": 0.03672651946544647,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r014_c010",
+      "margin": 0.03718055784702301,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r012_c001",
+      "margin": 0.03751640021800995,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r014_c000",
+      "margin": 0.03772455453872681,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r005_c011",
+      "margin": 0.03801025450229645,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r005_c004",
+      "margin": 0.03808087110519409,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r007_c003",
+      "margin": 0.03816214203834534,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r011_c002",
+      "margin": 0.03817443549633026,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r011_c001",
+      "margin": 0.03828383982181549,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r009_c013",
+      "margin": 0.038557037711143494,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r008_c014",
+      "margin": 0.03882017731666565,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r003_c010",
+      "margin": 0.03890645503997803,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r010_c015",
+      "margin": 0.039093017578125,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r011_c004",
+      "margin": 0.03940565884113312,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r012_c010",
+      "margin": 0.039416804909706116,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r001_c011",
+      "margin": 0.03978925943374634,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r008_c000",
+      "margin": 0.03983698785305023,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r001_c003",
+      "margin": 0.040445879101753235,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r007_c000",
+      "margin": 0.04209311306476593,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r008_c015",
+      "margin": 0.04344426095485687,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r002_c003",
+      "margin": 0.04431141912937164,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r005_c012",
+      "margin": 0.04458078742027283,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r003_c002",
+      "margin": 0.045012325048446655,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r011_c007",
+      "margin": 0.045912742614746094,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r001_c004",
+      "margin": 0.04607684910297394,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r012_c011",
+      "margin": 0.04661150276660919,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r007_c015",
+      "margin": 0.04679335653781891,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r009_c002",
+      "margin": 0.046824365854263306,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r015_c004",
+      "margin": 0.047290340065956116,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r002_c002",
+      "margin": 0.04834266006946564,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r014_c006",
+      "margin": 0.049121156334877014,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r009_c011",
+      "margin": 0.050051577389240265,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r001_c002",
+      "margin": 0.050755009055137634,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r002_c000",
+      "margin": 0.05116590857505798,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    },
+    {
+      "tile": "r015_c010",
+      "margin": 0.05123509466648102,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r014_c014",
+      "margin": 0.051625534892082214,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r007_c014",
+      "margin": 0.05252447724342346,
+      "nearest_contrast": "a spider insect or a web without a superhero"
+    },
+    {
+      "tile": "r008_c012",
+      "margin": 0.053306907415390015,
+      "nearest_contrast": "an unrelated person without a Spider-Man costume"
+    }
+  ]
+}

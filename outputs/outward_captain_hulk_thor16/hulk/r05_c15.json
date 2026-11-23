@@ -1,0 +1,10 @@
+{
+  "index": 78,
+  "file": "hulk/r05_c15.safetensors",
+  "seed": 9494078,
+  "prompt": "Captain America running with his shield, crimson reflected light",
+  "scene": false,
+  "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+  "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+  "sha256": "4664186d469e9d0468ee27e78cbf9e67fbc277892b5c664487e30f597bef2dc8"
+}

@@ -1,0 +1,10 @@
+{
+  "index": 89,
+  "file": "hulk/r06_c10.safetensors",
+  "seed": 9494089,
+  "prompt": "Captain America running with his shield, warm copper lighting",
+  "scene": false,
+  "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+  "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+  "sha256": "a41e4ab5181eb0c317547ed566f114fae1883aee1b8b114ce652e7603a498225"
+}

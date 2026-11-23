@@ -1,0 +1,10 @@
+{
+  "index": 40,
+  "file": "hulk/r03_c09.safetensors",
+  "seed": 9494040,
+  "prompt": "Captain America bracing his shield in a graphite steel workshop, layered machinery in shadow behind him, cinematic still, directional light and deep shadows",
+  "scene": true,
+  "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+  "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+  "sha256": "d4ff2005e3fd44ebc35dfc861393db947398d26677e5338d734f4c2dd8c6d910"
+}

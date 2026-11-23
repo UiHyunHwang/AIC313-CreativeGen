@@ -1,0 +1,10 @@
+{
+  "index": 16,
+  "file": "hulk/r02_c01.safetensors",
+  "seed": 9365016,
+  "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up in a shadowed Asgardian stone hall with iron pillars, cinematic still, directional light and deep shadows",
+  "scene": true,
+  "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+  "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+  "sha256": "474d9955c6cefb515cd9ccda13a5ce9c8142f583e93431acd56a37d784032be5"
+}

@@ -1,0 +1,13 @@
+# Local CreativeGen SDXL adaptation. Install the CUDA-compatible PyTorch build
+# appropriate to the host before installing the remaining dependencies.
+# These ranges are dependency constraints, not a tested or locked environment.
+# Each generation run records exact installed versions separately.
+torch>=2.6,<3
+diffusers>=0.35,<0.40
+transformers>=4.57,<5
+accelerate>=1,<2
+huggingface-hub>=0.34,<1
+safetensors>=0.4,<1
+numpy>=1.24,<3
+pillow>=10,<13
+ftfy>=6.1,<7

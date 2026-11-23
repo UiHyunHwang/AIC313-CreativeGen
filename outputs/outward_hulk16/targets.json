@@ -1,0 +1,74 @@
+{
+  "heroes": [
+    "spider_man",
+    "iron_man",
+    "captain_america",
+    "thor",
+    "hulk"
+  ],
+  "selected": [
+    "outward_palette16/opening.png",
+    "outward_palette16/targets/iron_man_3.png",
+    "outward_palette16/targets/captain_america_2.png",
+    "outward_thor16/portraits/thor_9253101.png",
+    "outward_hulk16/portraits/hulk_9363100.png"
+  ],
+  "hashes": [
+    "197cb30b6b3dc5ad0d3d5b1a814070baf25e900bed07d04b68e036c6a0a30c7d",
+    "12debedb54e4e5f824652e190356519c1dc192f4428a6ae629d155cdad90fff2",
+    "bc1a9bb9f4f3cc87cc423578923082e00c3814cb8165ceddcecf08bfa2732b5d",
+    "c0de956cdc1d4a0bfaf78c41a1bce3395728f6caba5418d94a6cda31c6b0a614",
+    "df9571c3e71590d34edaa7ddf62dd6a856d8a56ff57886e2fd8d73b79ff9a951"
+  ],
+  "latent_hashes": [
+    "9d8f6e8ce2d706b06cdd5c93eefac7ae8b2a48e22858b90fbdea51780ab8e477",
+    "2bb3220cf2507030c8d37517eea1ca53db19d52090192ae87e83ff3f2e05fdf8",
+    "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+    "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+    "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968"
+  ],
+  "candidates": [
+    {
+      "seed": 9363100,
+      "file": "outward_hulk16/portraits/hulk_9363100.png",
+      "costs": [
+        0.052299752831459045,
+        0.05395987257361412,
+        0.0370362251996994
+      ],
+      "score": 0.14329585060477257
+    },
+    {
+      "seed": 9363101,
+      "file": "outward_hulk16/portraits/hulk_9363101.png",
+      "costs": [
+        0.05133194476366043,
+        0.05750918760895729,
+        0.037011027336120605
+      ],
+      "score": 0.14585215970873833
+    },
+    {
+      "seed": 9363102,
+      "file": "outward_hulk16/portraits/hulk_9363102.png",
+      "costs": [
+        0.053554363548755646,
+        0.07507143914699554,
+        0.058655738830566406
+      ],
+      "score": 0.1872815415263176
+    },
+    {
+      "seed": 9363103,
+      "file": "outward_hulk16/portraits/hulk_9363103.png",
+      "costs": [
+        0.05512164533138275,
+        0.08337104320526123,
+        0.06140245497226715
+      ],
+      "score": 0.19989514350891113
+    }
+  ],
+  "seed": 9363100,
+  "prompt": "A close cinematic head-and-shoulders portrait of Marvel's Incredible Hulk, a massive olive-green face, short black hair and a furrowed brow, copper rim light on his cheek, a dark storm-blue steelworks with warm red furnace reflections behind him."
+}

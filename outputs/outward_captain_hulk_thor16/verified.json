@@ -1,0 +1,49 @@
+{
+  "order": [
+    "spider_man",
+    "iron_man",
+    "captain_america",
+    "hulk",
+    "thor",
+    "spider_man"
+  ],
+  "gif_sha256": "b33b9ff221d99928f88f92ac664d083fc0a8ee28167ebba5b245e3cc21bbaa78",
+  "original_gif_sha256": "564885cc15a9951913d470e4a5be05052e73eb090840da07d85016afbcb5685c",
+  "native_grid": 16,
+  "native_tile_side": 1024,
+  "generated_tiles": {
+    "captain_america": 256,
+    "hulk": 256
+  },
+  "preserved": {
+    "spider_man": {
+      "identical_ordinary_native_tiles": 255,
+      "identical_overview_outside_link": true,
+      "old_slot_retained": true
+    },
+    "iron_man": {
+      "identical_ordinary_native_tiles": 255,
+      "identical_overview_outside_link": true,
+      "old_slot_retained": true
+    },
+    "captain_america": {
+      "identical_ordinary_native_tiles": 255,
+      "identical_overview_outside_link": true,
+      "old_slot_retained": true
+    }
+  },
+  "overview_to_encoded_stop_mean_abs_rgb_8bit": {
+    "spider_man": 5.3115947292527546,
+    "iron_man": 7.600709016658058,
+    "captain_america": 6.094216759211433,
+    "hulk": 6.116126867036845,
+    "thor": 7.288194220256543
+  },
+  "duration_ms": 50020,
+  "dimensions": [
+    704,
+    704
+  ],
+  "identical_loop_boundary": true,
+  "generation_peak_gpu_gib": 11.150390625
+}

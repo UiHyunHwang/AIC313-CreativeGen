@@ -1,0 +1,10 @@
+{
+  "index": 3,
+  "seed": 9132003,
+  "prompt": "Iron Man in red and gold armor, cool steel-blue light",
+  "file": "captain_america/r01_c04.png",
+  "sha256": "e7cc821fa352645a2823824abf8f75b0b123ec62a5f460f9ce641cce94ea223c",
+  "active": false,
+  "parent": "af169146b9107e84afe211bffd13d0b2de931bcf84e62054fbbebce81dfeec25",
+  "generator": "2e9ea06d3d317df3eba7d090d5b4644db0732cfd05993b8419567a4357305d86"
+}

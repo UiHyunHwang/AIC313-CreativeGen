@@ -1,0 +1,10 @@
+{
+  "index": 211,
+  "file": "thor/r14_c04.safetensors",
+  "seed": 9495211,
+  "prompt": "the Incredible Hulk, a muscular green giant with a furrowed brow, waist-up, cool steel-blue light",
+  "scene": false,
+  "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+  "parent": "fddeda16ceb4279a3815cdb0ad0b30779bbd1691a3679c88c96430b8ae25877b",
+  "sha256": "cfe794714481ea81544f051bb8708122e357b4a332e72a33ac86c0d666619beb"
+}

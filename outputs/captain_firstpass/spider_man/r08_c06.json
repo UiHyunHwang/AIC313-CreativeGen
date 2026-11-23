@@ -1,0 +1,23 @@
+{
+  "index": 61,
+  "file": "spider_man/r08_c06.png",
+  "seed": 8721061,
+  "prompt": "Captain America running with his shield",
+  "generator": "74aeee1bf6fa77791e3f1166b839b1b7d7e95847458de9a06f388da42895d71a",
+  "sha256": "10e33b6ccff47daec643f241c0b2303fcb871aebe5d82190404534c99b912bfd",
+  "baseline_sha256": "88e45da3b2a4467a940fa0e97d117faad66accd9aa32ba736917892b61aefe2e",
+  "baseline": {
+    "margin88": 0.10589905083179474,
+    "native": 0.09745435416698456,
+    "margin44": 0.05445261299610138,
+    "luma": 0.08952657328024506,
+    "rgb": 0.07516340166330338
+  },
+  "candidate": {
+    "margin88": 0.03990098834037781,
+    "native": 0.04216587543487549,
+    "margin44": 0.041034430265426636,
+    "luma": 0.05023779785018414,
+    "rgb": 0.045016344636678696
+  }
+}

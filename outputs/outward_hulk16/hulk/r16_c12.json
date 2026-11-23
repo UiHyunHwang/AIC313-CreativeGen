@@ -1,0 +1,10 @@
+{
+  "index": 251,
+  "file": "hulk/r16_c12.safetensors",
+  "seed": 9365251,
+  "prompt": "Marvel's Thor in dark Asgardian armor, blond beard and red cape, waist-up, muted neutral lighting",
+  "scene": false,
+  "generator": "84e751a0aa6520b4a0d019fb9f41ecd0de961b077a5a4483b09ef16cfd8db021",
+  "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+  "sha256": "05efb8ed518a996b6d905bb93542d93bf85c5caa86f7742b94debe4ee5d02363"
+}

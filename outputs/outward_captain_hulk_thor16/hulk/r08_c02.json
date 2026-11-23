@@ -1,0 +1,10 @@
+{
+  "index": 113,
+  "file": "hulk/r08_c02.safetensors",
+  "seed": 9494113,
+  "prompt": "Captain America holding his shield, muted neutral lighting",
+  "scene": false,
+  "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+  "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+  "sha256": "915580450570e41f77737ed01046ba4c2bde15d81658338d5f340ba5d8efc618"
+}

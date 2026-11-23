@@ -1,0 +1,11 @@
+{
+  "index": 152,
+  "prompt": "Spider-Man swinging in his red and blue suit",
+  "steps": 12,
+  "seed": 5101520,
+  "file": "samples/p0_n12_i152_s5101520",
+  "native": 0.01412251591682434,
+  "small": 0.0017617344856262207,
+  "margin": 0.00794212520122528,
+  "error": 0.01895424909889698
+}

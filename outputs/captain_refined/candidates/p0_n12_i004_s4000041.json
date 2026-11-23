@@ -1,0 +1,12 @@
+{
+  "index": 4,
+  "prompt": "Captain America in action, blue suit and star shield",
+  "steps": 12,
+  "seed": 4000041,
+  "file": "candidates/p0_n12_i004_s4000041",
+  "clip": -0.01740659773349762,
+  "variety": 0.05004023015499115,
+  "rgb_mae": 0.06666667759418488,
+  "score": 0.00298348069190979,
+  "contrast": "a different superhero wearing a spider web suit"
+}

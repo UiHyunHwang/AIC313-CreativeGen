@@ -1,0 +1,10 @@
+{
+  "index": 23,
+  "file": "hulk/r02_c08.safetensors",
+  "seed": 9494023,
+  "prompt": "Captain America bracing his shield on a midnight-blue steel catwalk with girders receding behind him, cinematic still, directional light and deep shadows",
+  "scene": true,
+  "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+  "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+  "sha256": "5978bc411a3d81bbf626ca343d6d230495c470f6d402452355554c6c645f539a"
+}

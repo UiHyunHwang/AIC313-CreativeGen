@@ -1,0 +1,10 @@
+{
+  "index": 15,
+  "file": "hulk/r01_c16.safetensors",
+  "seed": 9494015,
+  "prompt": "Captain America holding his shield, cool steel-blue light",
+  "scene": false,
+  "generator": "9d627ff18b7ce9f15817a2b734579f0e53893cf15fead9d9b430a3211d09d699",
+  "parent": "0464c0b1015c91ca0ae798eaa4a3877c0dafee99ccb4b0871c9e602691216968",
+  "sha256": "96d67fc3f9cc1e119d02611bb756b913200e2e3c858be7f627eaf3a8ec2164a7"
+}

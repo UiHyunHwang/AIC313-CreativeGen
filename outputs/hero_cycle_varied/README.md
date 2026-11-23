@@ -1,0 +1,10 @@
+# Varied hero zoom
+
+Run from the extracted bundle root, in the recorded creativegen environment with the official SDXL fp16 safetensors revision cached. The first target is regenerated from the original Iron Man text and seed 42. Each subsequent target is the actual saved SDXL latent of the selected tile. The 16×16 tiling uses twelve DDIM tail updates at t=836 and noise seed 43. All three boards sequentially fit on one 20GB GPU. This revision reused the recorded short-prompt Spider-Man and Captain America runs and generated 256 Iron Man candidates. The two zoom selections use existing non-generative CLIP scores across 256 candidates per grid. Both complete rankings, verifier prompts and model revision are included. Fixed selected coordinates suffice for reproduction. Regular leaves are unedited SDXL samples. The regular grid of each board contains 255 leaves and a pixel-verified recursive link. The return coordinate is computed before rendering. Opening, Spider-Man and Captain America hold for 5.5 seconds each; each zoom traverses one tile in 4.5 seconds. GIF centisecond quantization and merging identical frames can extend the visible hold slightly.
+
+```bash
+export OMP_NUM_THREADS=2 HF_HUB_OFFLINE=1 TRANSFORMERS_OFFLINE=1 PYTHONPATH=.
+python experiment/replay.py --output outputs/reproduced_varied
+```
+
+Generation uses [PhotoQuilt](https://arxiv.org/abs/2606.30968v2), its [official code](https://github.com/KooroshRH/PhotoQuilt), [SDXL](https://arxiv.org/abs/2307.01952), [official SDXL base weights](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0), [DDIM](https://arxiv.org/abs/2010.02502) and [Diffusers](https://github.com/huggingface/diffusers). Selection uses [CLIP](https://arxiv.org/abs/2103.00020) and [official CLIP weights](https://huggingface.co/openai/clip-vit-base-patch32). Rendering uses Pillow and NumPy. Exact package versions are recorded. Opening and score prompts were brainstormed with Codex; short character prompts were user-specified.
