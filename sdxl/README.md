@@ -1,5 +1,7 @@
 # CreativeGen용 SDXL PhotoQuilt
 
+두 배율을 함께 디노이징하는 캡틴 아메리카 → 헐크 실험은 [구현 및 재현 안내](JOINT_ZOOM.md)를 참고하세요.
+
 이 디렉터리는 PhotoQuilt의 핵심 절차를 SDXL로 옮긴 로컬 추가 구현입니다.
 팀이 작성한 prompt와 seed로 target을 생성하고, 그 latent를 bicubic으로
 확대한 뒤 재노이즈하여 고정된 타일 안에서 denoising합니다. 마지막에는
