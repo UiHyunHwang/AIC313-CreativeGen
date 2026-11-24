@@ -1,5 +1,7 @@
 # CreativeGen용 SDXL PhotoQuilt
 
+짧은 프롬프트와 DINOv2를 사용해 생성 도중 재귀 줌 위치를 예약하는 실험은 [RESERVED_CYCLE.md](RESERVED_CYCLE.md)에 있습니다.
+
 다섯 인물을 새로 생성하는 16×16 줌아웃 루프의 재현 명령과 실험 결과는 [JOINT_CYCLE.md](JOINT_CYCLE.md)에 있습니다.
 
 두 배율을 함께 디노이징하는 캡틴 아메리카 → 헐크 실험은 [구현 및 재현 안내](JOINT_ZOOM.md)를 참고하세요.

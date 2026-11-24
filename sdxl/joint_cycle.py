@@ -60,9 +60,9 @@ def save_latents(path, tensor, slots=()):
     tmp.replace(path)
 
 
-def make_targets(pipe, root):
+def make_targets(pipe, root, portraits=PORTRAITS, seed=SEED, tile_prompts=None):
     anchors, prompts = [], []
-    for j, portrait in enumerate(PORTRAITS):
+    for j, portrait in enumerate(portraits):
         folder = root / HEROES[j]
         folder.mkdir(exist_ok=True)
         path = folder / "target.safetensors"
@@ -71,11 +71,15 @@ def make_targets(pipe, root):
         else:
             latent = pipe(portrait, negative_prompt="", height=1024, width=1024, num_inference_steps=24,
                           guidance_scale=5., eta=0., output_type="latent",
-                          generator=torch.Generator().manual_seed(SEED + j)).images
+                          generator=torch.Generator().manual_seed(seed + j)).images
             save_latents(path, latent)
         image_path = folder / "target.png"
         if not image_path.exists():
             _decode_latent(pipe, latent).save(image_path)
+        if tile_prompts is not None:
+            prompts.append([tile_prompts[j - 1]] * COUNT)
+            anchors.append(latent)
+            continue
         with Image.open(image_path) as target:
             prompts.append([f"{POSES[pose]} {SUBJECTS[j-1]} {LIGHTS[light]}, directional light, detailed costume"
                             for pose, light in scene_ids(target)])
@@ -83,7 +87,9 @@ def make_targets(pipe, root):
     return anchors, prompts
 
 
-def sample(pipe, anchors, prompts, guidance, root):
+def sample(pipe, anchors, prompts, guidance, root, *, reservation=False, seed=SEED):
+    if reservation:
+        from .dino_reservation import estimate_batch, guide_boundary, reserve, share_latents
     side = TILE // 8
     fields = torch.stack([split_board(resize(a.float(), side * GRID), GRID) for a in anchors])
     pipe.maybe_free_model_hooks()
@@ -103,13 +109,18 @@ def sample(pipe, anchors, prompts, guidance, root):
         z, slots = data["latents"].cuda(), data["slots"].tolist()
     else:
         start, slots = 0, []
-        noise = torch.randn(fields.shape, dtype=anchors[0].dtype, generator=torch.Generator().manual_seed(SEED + 5)).cuda()
+        noise = torch.randn(fields.shape, dtype=anchors[0].dtype, generator=torch.Generator().manual_seed(seed + 5)).cuda()
         z = torch.stack([pipe.scheduler.add_noise((.85 * lowpass(f, 12)).half(), n, tail.times[:1])
                          for f, n in zip(fields, noise)])
     for k in range(start, STEPS):
         t = tail.times[k]
         clean, following = torch.empty_like(z), torch.empty_like(z)
         for j, stage_prompts in enumerate(prompts):
+            if reservation:
+                estimate_batch(pipe, tail, z[j], t, cond[stage_prompts[0]], clean[j], following[j],
+                               slots[j] if slots else None)
+                print(f"step {k+1}/{STEPS}: {HEROES[j]}", flush=True)
+                continue
             for i, p in enumerate(stage_prompts):
                 tile = z[j, i:i + 1]
                 u, v = pipe.unet(tile.repeat(2, 1, 1, 1), t, **cond[p], return_dict=False)[0].chunk(2)
@@ -117,11 +128,23 @@ def sample(pipe, anchors, prompts, guidance, root):
             print(f"step {k+1}/{STEPS}: {HEROES[j]}", flush=True)
         alpha = float(tail.alphas[int(t)][1]) ** .5
         if k == 3:
-            slots = [match_slot(clean[j], clean[j-1], GRID) for j in range(len(HEROES))]
+            if reservation:
+                ranking = reserve(pipe, clean, GRID)
+                slots = [item["slot"] for item in ranking]
+                write_json(root / "reservation.json", ranking)
+            else:
+                slots = [match_slot(clean[j], clean[j-1], GRID) for j in range(len(HEROES))]
+        if reservation and slots:
+            share_latents(clean, slots, GRID)
         for j in range(len(HEROES)):
             if 3 <= k <= 9:
                 following[j].add_(alpha * .23 * lowpass(fields[j] - clean[j].float(), 5))
-        if 3 <= k <= guidance.last_step:
+        if reservation and slots:
+            if k <= 10:
+                for j, slot in enumerate(slots):
+                    guide_boundary(following[j], clean[j], clean[j-1], slot, GRID, alpha * .25)
+            share_latents(following, slots, GRID)
+        elif 3 <= k <= guidance.last_step:
             for j, slot in enumerate(slots):
                 guide_pair(following[j], following[j-1], clean[j], clean[j-1], GRID, slot,
                            alpha * guidance.strength, guidance.bands)
