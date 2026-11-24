@@ -1,5 +1,7 @@
 # CreativeGen용 SDXL PhotoQuilt
 
+다섯 인물을 새로 생성하는 16×16 줌아웃 루프의 재현 명령과 실험 결과는 [JOINT_CYCLE.md](JOINT_CYCLE.md)에 있습니다.
+
 두 배율을 함께 디노이징하는 캡틴 아메리카 → 헐크 실험은 [구현 및 재현 안내](JOINT_ZOOM.md)를 참고하세요.
 
 이 디렉터리는 PhotoQuilt의 핵심 절차를 SDXL로 옮긴 로컬 추가 구현입니다.

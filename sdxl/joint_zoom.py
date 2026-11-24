@@ -38,6 +38,8 @@ ARMS = {
     "control": Guidance(0., 0, 32),
     "joint": Guidance(.78, 10, 32),
     "gentle": Guidance(.35, 7, 8),
+    "balanced": Guidance(.58, 9, 16),
+    "detail": Guidance(.70, 10, 64),
 }
 
 
@@ -64,8 +66,12 @@ def board(tiles, grid):
 def predict_slot(clean, grid):
     """Choose the nearest coarse latent field before cross-scale guidance begins."""
     count = grid * grid
-    overview = F.adaptive_avg_pool2d(board(clean[count:], grid).float(), 8)
-    candidates = F.adaptive_avg_pool2d(clean[:count].float(), 8)
+    return match_slot(clean[:count], clean[count:], grid)
+
+
+def match_slot(parent_tiles, child_tiles, grid):
+    overview = F.adaptive_avg_pool2d(board(child_tiles, grid).float(), 8)
+    candidates = F.adaptive_avg_pool2d(parent_tiles.float(), 8)
     costs = (candidates - overview).square().mean(dim=(1, 2, 3))
     return int(costs.argmin())
 
@@ -73,12 +79,16 @@ def predict_slot(clean, grid):
 def couple(next_z, clean, grid, slot, gain, bands=32):
     """Modify the two next DDIM states in place, using simultaneous x0 estimates."""
     count = grid * grid
-    child = board(clean[count:], grid)
-    side = clean.shape[-1]
+    guide_pair(next_z[:count], next_z[count:], clean[:count], clean[count:], grid, slot, gain, bands)
+
+
+def guide_pair(parent_next, child_next, parent_clean, child_clean, grid, slot, gain, bands):
+    child = board(child_clean, grid)
+    side = parent_clean.shape[-1]
     small = F.avg_pool2d(child.float(), grid)
-    residual = lowpass(small - clean[slot:slot + 1].float(), min(bands, side))
-    next_z[slot:slot + 1].add_(gain * .85 * residual)
-    next_z[count:].sub_(gain * .15 * split_board(resize(residual, grid * side), grid))
+    residual = lowpass(small - parent_clean[slot:slot + 1].float(), min(bands, side))
+    parent_next[slot:slot + 1].add_(gain * .85 * residual)
+    child_next.sub_(gain * .15 * split_board(resize(residual, grid * side), grid))
 
 
 def conditioning(pipe, prompt):
