@@ -14,9 +14,9 @@ From the repository root, with the creativegen environment active:
 
 ```bash
 export OMP_NUM_THREADS=2 HF_HUB_OFFLINE=1 TRANSFORMERS_OFFLINE=1
-python -m sdxl.reserved_cycle outputs/reserved_outward16
-python -m sdxl.render_reserved_cycle outputs/reserved_outward16 --mode shared-latent
-python -m sdxl.verify_joint_cycle outputs/reserved_outward16/shared-latent
+python -m sdxl.reserved_cycle outputs/reserved_locations16
+python -m sdxl.render_reserved_cycle outputs/reserved_locations16 --mode shared-latent
+python -m sdxl.verify_joint_cycle outputs/reserved_locations16/shared-latent
 python -m unittest discover -s tests
 ```
 
@@ -33,7 +33,13 @@ The exporter also implements `--mode shared-rgb`. In this variant an empty reser
 
 References include the [DINOv2 paper](https://arxiv.org/abs/2304.07193), [Meta repository](https://github.com/facebookresearch/dinov2), [pinned feature encoder](https://huggingface.co/facebook/dinov2-small/tree/ed25f3a31f01632728cabb09d1542f84ab7b0056) and [the project's SDXL, DDIM, PhotoQuilt and software references](JOINT_ZOOM.md#references). Disclose AI assistance for coding and prompt brainstorming in the write-up. CLIP is used only for final diagnostics. Selection scores, seed counts, code, and citations belong with any submitted output. See the [course instructions](https://generative-models.kaist.ac.kr/creativegen/).
 
-## Recorded run
+## Single-location target prompts
+
+The five target prompts each name a character and one place. The tile prompts, seeds, model, sampler, reservation rule and camera settings match commit `454858e`. All five first-draw targets were used. Each new board has 16×16 cells. CLIP ranked the intended tile subject first in 1250/1280 displayed cells on the five-label comparison. The exported GIF contains 451 frames over 50 seconds and passed the loop-boundary check. Its SHA-256 is `91a6f8c20385f62a95cd8de278da3726f930726be35fbced2073cbd1218383ea`.
+
+## Earlier portrait run (commit `454858e`)
+
+These figures describe the prompts saved with `outputs/reserved_outward16`.
 
 The shared-latent export has 451 frames at 704×704, lasts 50 seconds, and passed the decoded GIF loop-boundary check. Five targets and all five board overviews ranked first for their intended subject against the five CLIP labels. Of 1,280 displayed cells, 1,232 ranked first for their intended tile subject. Peak PyTorch reserved memory during sampling was 12.12 GiB on the GRID A100D-20C. The course staff had not yet confirmed the exact RGB variant, which was tested only with synthetic unit-test rasters.
 
