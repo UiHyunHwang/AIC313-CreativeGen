@@ -60,7 +60,7 @@ def save_latents(path, tensor, slots=()):
     tmp.replace(path)
 
 
-def make_targets(pipe, root, portraits=PORTRAITS, seed=SEED, tile_prompts=None):
+def make_targets(pipe, root, portraits=PORTRAITS, seed=SEED, tile_prompts=None, *, target_seeds=None):
     anchors, prompts = [], []
     for j, portrait in enumerate(portraits):
         folder = root / HEROES[j]
@@ -69,9 +69,10 @@ def make_targets(pipe, root, portraits=PORTRAITS, seed=SEED, tile_prompts=None):
         if path.exists():
             latent = load_file(str(path))["latents"].cuda()
         else:
+            target_seed = seed + j if target_seeds is None else target_seeds[j]
             latent = pipe(portrait, negative_prompt="", height=1024, width=1024, num_inference_steps=24,
                           guidance_scale=5., eta=0., output_type="latent",
-                          generator=torch.Generator().manual_seed(seed + j)).images
+                          generator=torch.Generator().manual_seed(target_seed)).images
             save_latents(path, latent)
         image_path = folder / "target.png"
         if not image_path.exists():

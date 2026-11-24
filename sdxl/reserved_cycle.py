@@ -22,15 +22,17 @@ def generate(root):
     rows, seed = authored["heroes"], authored["seed"]
     if [row["hero"] for row in rows] != list(HEROES):
         raise ValueError("Hero order does not match the camera path")
+    target_seeds = [row.get("target_seed", seed + j) for j, row in enumerate(rows)]
     recipe = dict(**authored, model=cfg.model_id, revision=cfg.revision, dino=MODEL, dino_revision=REVISION,
                   weights=WEIGHTS, grid=GRID, tile_size=TILE, tile_steps=STEPS, reservation_step=4,
-                  batch=BATCH, target_steps=24, target_seeds=list(range(seed, seed+5)), noise_seed=seed+5)
+                  batch=BATCH, target_steps=24, target_seeds=target_seeds, noise_seed=seed+5)
     path = root / "recipe.json"
     if path.exists() and json.loads(path.read_text()) != recipe:
         raise ValueError("Use a fresh folder for a different recipe")
     write_json(path, recipe)
     pipe = _load_pipeline(cfg, True)
-    anchors, prompts = make_targets(pipe, root, [row["target"] for row in rows], seed, [row["tile"] for row in rows])
+    anchors, prompts = make_targets(pipe, root, [row["target"] for row in rows], seed, [row["tile"] for row in rows],
+                                    target_seeds=target_seeds)
     _, slots = sample(pipe, anchors, prompts, None, root, reservation=True, seed=seed)
     write_json(root / "generation.json", dict(slots=slots, target_count=5, preview_candidates=5*GRID**2,
                final_ordinary_tiles=5*(GRID**2-1), reserved_cells=5, environment=_environment(cfg, pipe),

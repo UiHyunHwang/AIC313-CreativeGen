@@ -1,6 +1,6 @@
 # Reserve a recursive zoom cell during SDXL sampling
 
-The outward order is Spider-Man → Iron Man → Captain America → Hulk → Thor → Spider-Man. Edit the ten short prompts and the new master seed in [reserved_cycle.json](reserved_cycle.json). Every board uses the preceding character's tile prompt across all 256 cells. The five targets are generated from seeds 92480–92484 and the tile-noise tensor from 92485. The only visual inputs are produced inside this run.
+The outward order is Spider-Man → Iron Man → Captain America → Hulk → Thor → Spider-Man. Edit the ten short prompts and the new master seed in [reserved_cycle.json](reserved_cycle.json). Every board uses the preceding character's tile prompt across all 256 cells. The target seeds in camera order are 92480, 93481, 93482, 92483 and 93484. The tile-noise tensor uses seed 92485. The only visual inputs are produced inside this run.
 
 ## Reproduce
 
@@ -14,9 +14,9 @@ From the repository root, with the creativegen environment active:
 
 ```bash
 export OMP_NUM_THREADS=2 HF_HUB_OFFLINE=1 TRANSFORMERS_OFFLINE=1
-python -m sdxl.reserved_cycle outputs/reserved_close_locations16
-python -m sdxl.render_reserved_cycle outputs/reserved_close_locations16 --mode shared-latent
-python -m sdxl.verify_joint_cycle outputs/reserved_close_locations16/shared-latent
+python -m sdxl.reserved_cycle outputs/reserved_fresh16
+python -m sdxl.render_reserved_cycle outputs/reserved_fresh16 --mode shared-latent
+python -m sdxl.verify_joint_cycle outputs/reserved_fresh16/shared-latent
 python -m unittest discover -s tests
 ```
 
@@ -33,7 +33,15 @@ The exporter also implements `--mode shared-rgb`. In this variant an empty reser
 
 References include the [DINOv2 paper](https://arxiv.org/abs/2304.07193), [Meta repository](https://github.com/facebookresearch/dinov2), [pinned feature encoder](https://huggingface.co/facebook/dinov2-small/tree/ed25f3a31f01632728cabb09d1542f84ab7b0056) and [the project's SDXL, DDIM, PhotoQuilt and software references](JOINT_ZOOM.md#references). Disclose AI assistance for coding and prompt brainstorming in the write-up. CLIP is used only for final diagnostics. Selection scores, seed counts, code, and citations belong with any submitted output. See the [course instructions](https://generative-models.kaist.ac.kr/creativegen/).
 
-## Close portraits with a single location
+## First-draw target refresh
+
+The final run uses one draw per character, with all seeds fixed before generation. Spider-Man and Hulk use their previous seeds; their regenerated PNGs and target latents matched the previous run byte for byte. For Iron Man, Captain America and Thor, add 1000 to the preceding seed for each character. The target and tile prompts, the tile noise seed and the sampling settings match commit `1eab647`. Regenerate the cycle in an empty output directory with the commands above.
+
+A separate exploratory run generated 18 previews before the first-draw protocol was requested. Its six seed rounds used `92480 + 100*k + j`, with k from 1 through 6 and zero-based hero indices j = 1, 2, 4. None supplied a target, score or seed for this production run. The five production targets came from five independent prompt-and-seed calls.
+
+The verified shared-latent GIF contains 451 frames over 50 seconds and passes the loop-boundary check. Its SHA-256 is `eb0c7963b5c25d77e1d5318fe52bd5d8c70d666ad7066fade88ab02e6490a4a9`. The intended tile subject ranked first for 1246/1280 cells on the five-label CLIP evaluation.
+
+## Earlier close portraits with a single location (commit `1eab647`)
 
 Compared with commit `7ad3c5d`, only the five target prefixes change from `Portrait of` to `Close portrait of`. The run used the first target from each of the five recorded seeds. The decoded GIF has 451 frames, runs for 50 seconds and passes the loop-boundary check. CLIP ranked the intended tile subject first in 1247/1280 cells among the five labels. The GIF SHA-256 is `24fcc488d0bbc0961e1059bf0751a09012401121cfb47b6dbd684978ab67e56d`.
 
