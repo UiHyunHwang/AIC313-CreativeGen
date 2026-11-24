@@ -1,10 +1,10 @@
 {
   "seed": 92480,
   "heroes": [
-    {"hero": "spider_man", "target": "Portrait of Spider-Man on a New York City street.", "tile": "Spider-Man in his red and blue suit."},
-    {"hero": "iron_man", "target": "Portrait of Iron Man in a robotics workshop.", "tile": "Iron Man in red and gold armor."},
-    {"hero": "captain_america", "target": "Portrait of Captain America in a Brooklyn train station.", "tile": "Captain America with his star shield."},
-    {"hero": "hulk", "target": "Portrait of Hulk in a wrecked train yard.", "tile": "Hulk in a city street."},
-    {"hero": "thor", "target": "Portrait of Thor in an Asgardian palace hall.", "tile": "Thor with his hammer and red cape."}
+    {"hero": "spider_man", "target": "Close portrait of Spider-Man on a New York City street.", "tile": "Spider-Man in his red and blue suit."},
+    {"hero": "iron_man", "target": "Close portrait of Iron Man in a robotics workshop.", "tile": "Iron Man in red and gold armor."},
+    {"hero": "captain_america", "target": "Close portrait of Captain America in a Brooklyn train station.", "tile": "Captain America with his star shield."},
+    {"hero": "hulk", "target": "Close portrait of Hulk in a wrecked train yard.", "tile": "Hulk in a city street."},
+    {"hero": "thor", "target": "Close portrait of Thor in an Asgardian palace hall.", "tile": "Thor with his hammer and red cape."}
   ]
 }

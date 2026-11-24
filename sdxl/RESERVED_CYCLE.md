@@ -14,9 +14,9 @@ From the repository root, with the creativegen environment active:
 
 ```bash
 export OMP_NUM_THREADS=2 HF_HUB_OFFLINE=1 TRANSFORMERS_OFFLINE=1
-python -m sdxl.reserved_cycle outputs/reserved_locations16
-python -m sdxl.render_reserved_cycle outputs/reserved_locations16 --mode shared-latent
-python -m sdxl.verify_joint_cycle outputs/reserved_locations16/shared-latent
+python -m sdxl.reserved_cycle outputs/reserved_close_locations16
+python -m sdxl.render_reserved_cycle outputs/reserved_close_locations16 --mode shared-latent
+python -m sdxl.verify_joint_cycle outputs/reserved_close_locations16/shared-latent
 python -m unittest discover -s tests
 ```
 
@@ -33,7 +33,11 @@ The exporter also implements `--mode shared-rgb`. In this variant an empty reser
 
 References include the [DINOv2 paper](https://arxiv.org/abs/2304.07193), [Meta repository](https://github.com/facebookresearch/dinov2), [pinned feature encoder](https://huggingface.co/facebook/dinov2-small/tree/ed25f3a31f01632728cabb09d1542f84ab7b0056) and [the project's SDXL, DDIM, PhotoQuilt and software references](JOINT_ZOOM.md#references). Disclose AI assistance for coding and prompt brainstorming in the write-up. CLIP is used only for final diagnostics. Selection scores, seed counts, code, and citations belong with any submitted output. See the [course instructions](https://generative-models.kaist.ac.kr/creativegen/).
 
-## Single-location target prompts
+## Close portraits with a single location
+
+Compared with commit `7ad3c5d`, only the five target prefixes change from `Portrait of` to `Close portrait of`. The run used the first target from each of the five recorded seeds. The decoded GIF has 451 frames, runs for 50 seconds and passes the loop-boundary check. CLIP ranked the intended tile subject first in 1247/1280 cells among the five labels. The GIF SHA-256 is `24fcc488d0bbc0961e1059bf0751a09012401121cfb47b6dbd684978ab67e56d`.
+
+## Earlier single-location run (commit `7ad3c5d`)
 
 The five target prompts each name a character and one place. The tile prompts, seeds, model, sampler, reservation rule and camera settings match commit `454858e`. All five first-draw targets were used. Each new board has 16×16 cells. CLIP ranked the intended tile subject first in 1250/1280 displayed cells on the five-label comparison. The exported GIF contains 451 frames over 50 seconds and passed the loop-boundary check. Its SHA-256 is `91a6f8c20385f62a95cd8de278da3726f930726be35fbced2073cbd1218383ea`.
 
