@@ -2,7 +2,7 @@
 import argparse
 import fcntl
 import json
-from dataclasses import asdict, replace
+from dataclasses import asdict, dataclass, replace
 from pathlib import Path
 
 import torch
@@ -88,9 +88,18 @@ def make_targets(pipe, root, portraits=PORTRAITS, seed=SEED, tile_prompts=None, 
     return anchors, prompts
 
 
-def sample(pipe, anchors, prompts, guidance, root, *, reservation=False, seed=SEED):
+@dataclass(frozen=True)
+class TargetGuidance:
+    gain: float = .23
+    bands: int = 5
+    last_step: int = 10  # One-based, inclusive.
+
+
+def sample(pipe, anchors, prompts, guidance, root, *, reservation=False, seed=SEED, target_guidance=None):
     if reservation:
         from .dino_reservation import estimate_batch, guide_boundary, reserve, share_latents
+    if target_guidance is None:
+        target_guidance = [TargetGuidance() for _ in anchors]
     side = TILE // 8
     fields = torch.stack([split_board(resize(a.float(), side * GRID), GRID) for a in anchors])
     pipe.maybe_free_model_hooks()
@@ -137,9 +146,9 @@ def sample(pipe, anchors, prompts, guidance, root, *, reservation=False, seed=SE
                 slots = [match_slot(clean[j], clean[j-1], GRID) for j in range(len(HEROES))]
         if reservation and slots:
             share_latents(clean, slots, GRID)
-        for j in range(len(HEROES)):
-            if 3 <= k <= 9:
-                following[j].add_(alpha * .23 * lowpass(fields[j] - clean[j].float(), 5))
+        for j, guide in enumerate(target_guidance):
+            if 4 <= k + 1 <= guide.last_step:
+                following[j].add_(alpha * guide.gain * lowpass(fields[j] - clean[j].float(), guide.bands))
         if reservation and slots:
             if k <= 10:
                 for j, slot in enumerate(slots):

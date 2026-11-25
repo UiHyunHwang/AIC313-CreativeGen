@@ -14,13 +14,19 @@ From the repository root, with the creativegen environment active:
 
 ```bash
 export OMP_NUM_THREADS=2 HF_HUB_OFFLINE=1 TRANSFORMERS_OFFLINE=1
-python -m sdxl.reserved_cycle outputs/reserved_fresh16
-python -m sdxl.render_reserved_cycle outputs/reserved_fresh16 --mode shared-latent
-python -m sdxl.verify_joint_cycle outputs/reserved_fresh16/shared-latent
+python -m sdxl.reserved_cycle outputs/reserved_iron_tiles16
+python -m sdxl.render_reserved_cycle outputs/reserved_iron_tiles16 --mode shared-latent
+python -m sdxl.verify_joint_cycle outputs/reserved_iron_tiles16/shared-latent
 python -m unittest discover -s tests
 ```
 
 The sampler checkpoints all five boards after each timestep. On restart it reloads only this recipe's targets and the most recent completed step. The output contains the resolved prompts, model revisions, seeds, reservation costs, positions, and memory and camera records.
+
+The `target_guidance` field belongs to the outer portrait in each recipe row. Starting at step 4, the sampler pools each tile's target-latent residual to a square grid. It upsamples the correction and applies it through the inclusive `last_step`. The Captain board uses gain 0.28 and an 8×8 correction grid through step 8, leaving four SDXL updates for tile details. The other portraits use gain 0.23 and a 5×5 grid through step 10. Each board contains 16×16 tiles.
+
+For the Iron Man tiles, five pilot settings each generated the same 32 ordinary cells with the production noise seed, for 160 pilot tile samples. Two cells per row covered the full board height. The comparison used the previous production tiles at the same coordinates, magnified tile contact sheets, CLIP margins against four other heroes and coarse target error. The short workshop film-still prompt with guidance through step 8 gave distinct figures in both medium and wide shots. The production cycle generates every tile from its prompt and seed. Generation and selection details for the pilot are recorded in `iron_tile_validation.json` in the local output.
+
+The previous and current Captain boards share 254 ordinary cell coordinates because their reserved cells differ. Across these cells the tenth percentile of the Iron Man CLIP margin rose from 0.0260 to 0.0367, while the overview's luminance-gradient similarity to the target at 128px fell from 0.906 to 0.793. When Iron Man gives way to Captain America, the camera pulls back from row 14, column 12 of the Captain board.
 
 ## How a cell is chosen
 
@@ -33,9 +39,13 @@ The exporter also implements `--mode shared-rgb`. In this variant an empty reser
 
 References include the [DINOv2 paper](https://arxiv.org/abs/2304.07193), [Meta repository](https://github.com/facebookresearch/dinov2), [pinned feature encoder](https://huggingface.co/facebook/dinov2-small/tree/ed25f3a31f01632728cabb09d1542f84ab7b0056) and [the project's SDXL, DDIM, PhotoQuilt and software references](JOINT_ZOOM.md#references). Disclose AI assistance for coding and prompt brainstorming in the write-up. CLIP is used only for final diagnostics. Selection scores, seed counts, code, and citations belong with any submitted output. See the [course instructions](https://generative-models.kaist.ac.kr/creativegen/).
 
-## First-draw target refresh
+## Earlier Captain silhouette run
 
-The final run uses one draw per character, with all seeds fixed before generation. Spider-Man and Hulk use their previous seeds; their regenerated PNGs and target latents matched the previous run byte for byte. For Iron Man, Captain America and Thor, add 1000 to the preceding seed for each character. The target and tile prompts, the tile noise seed and the sampling settings match commit `1eab647`. Regenerate the cycle in an empty output directory with the commands above.
+The Captain setting came from a paired comparison of eight parameter combinations across 68 tiles in the face, chest and shield regions. In the full render, the cosine similarity between the target and board luminance gradients at a 128px viewing size increased from 0.686 to 0.915 in the face, 0.471 to 0.851 in the chest and 0.529 to 0.817 in the shield. All five DINOv2 reservations matched the earlier run. The Captain-to-Hulk transition's 128px RGB MAE increased from 0.0223 to 0.0247. The verified 50-second GIF has 451 frames and SHA-256 `a8941861590a8d3ee9370b9804f20d759a67bc7eefc2fae985769fb149868b7f`.
+
+## Earlier first-draw target refresh (commit `b3ac475`)
+
+This run used one draw per character, with all seeds fixed before generation. Spider-Man and Hulk used their previous seeds. Their regenerated PNGs and target latents matched the previous run byte for byte. For Iron Man, Captain America and Thor, the target seeds increased by 1000 for each character. The target and tile prompts, the tile noise seed and the sampling settings matched commit `1eab647`.
 
 A separate exploratory run generated 18 previews before the first-draw protocol was requested. Its six seed rounds used `92480 + 100*k + j`, with k from 1 through 6 and zero-based hero indices j = 1, 2, 4. None supplied a target, score or seed for this production run. The five production targets came from five independent prompt-and-seed calls.
 

@@ -2,7 +2,7 @@
 import argparse
 import fcntl
 import json
-from dataclasses import replace
+from dataclasses import asdict, replace
 from pathlib import Path
 
 import torch
@@ -10,7 +10,7 @@ import torch
 from .config import RunConfig
 from .dino_reservation import BATCH, MODEL, REVISION, WEIGHTS
 from .hero_cycle import write_json
-from .joint_cycle import GRID, HEROES, RECIPE, STEPS, TILE, make_targets, sample
+from .joint_cycle import GRID, HEROES, RECIPE, STEPS, TILE, TargetGuidance, make_targets, sample
 from .run_sdxl_mosaic import _configure_determinism, _environment, _load_pipeline
 
 PROMPTS = Path(__file__).with_name("reserved_cycle.json")
@@ -22,18 +22,24 @@ def generate(root):
     rows, seed = authored["heroes"], authored["seed"]
     if [row["hero"] for row in rows] != list(HEROES):
         raise ValueError("Hero order does not match the camera path")
+    target_guidance = [TargetGuidance(**row.get("target_guidance", {})) for row in rows]
     target_seeds = [row.get("target_seed", seed + j) for j, row in enumerate(rows)]
     recipe = dict(**authored, model=cfg.model_id, revision=cfg.revision, dino=MODEL, dino_revision=REVISION,
                   weights=WEIGHTS, grid=GRID, tile_size=TILE, tile_steps=STEPS, reservation_step=4,
                   batch=BATCH, target_steps=24, target_seeds=target_seeds, noise_seed=seed+5)
+    recipe["heroes"] = [dict(row, target_guidance=asdict(guide)) for row, guide in zip(rows, target_guidance)]
     path = root / "recipe.json"
-    if path.exists() and json.loads(path.read_text()) != recipe:
-        raise ValueError("Use a fresh folder for a different recipe")
+    if path.exists():
+        previous = json.loads(path.read_text())
+        for row in previous["heroes"]:
+            row["target_guidance"] = asdict(TargetGuidance(**row.get("target_guidance", {})))
+        if previous != recipe:
+            raise ValueError("Use a fresh folder for a different recipe")
     write_json(path, recipe)
     pipe = _load_pipeline(cfg, True)
     anchors, prompts = make_targets(pipe, root, [row["target"] for row in rows], seed, [row["tile"] for row in rows],
                                     target_seeds=target_seeds)
-    _, slots = sample(pipe, anchors, prompts, None, root, reservation=True, seed=seed)
+    _, slots = sample(pipe, anchors, prompts, None, root, reservation=True, seed=seed, target_guidance=target_guidance)
     write_json(root / "generation.json", dict(slots=slots, target_count=5, preview_candidates=5*GRID**2,
                final_ordinary_tiles=5*(GRID**2-1), reserved_cells=5, environment=_environment(cfg, pipe),
                peak_reserved_gib=torch.cuda.max_memory_reserved()/2**30))
